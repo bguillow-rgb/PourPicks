@@ -301,6 +301,33 @@ strong { color: var(--text); font-weight: 700; }
 }
 .faq-a { color: var(--muted); margin: 0; }
 
+/* Responsible-use callout used on /privacy and /terms. The legal copy
+   references this with <div class="warning"> + .warning-title + .warning-body
+   so the box must read as a deliberate, prominent advisory — not a generic
+   blockquote. Crimson-tinted background + brass title pulls weight without
+   shouting. */
+.warning {
+  border: 1px solid var(--border);
+  background: rgba(122, 31, 31, 0.10);
+  padding: 20px 24px;
+  border-radius: 4px;
+  margin: 24px 0;
+}
+.warning-title {
+  color: var(--accent);
+  font-weight: 800;
+  font-size: 13px;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  margin: 0 0 8px;
+}
+.warning-body {
+  color: var(--text);
+  margin: 0;
+  font-size: 15px;
+  line-height: 1.55;
+}
+
 /* Comparison tables — pulled into AI answers and rich results. */
 table {
   width: 100%;
