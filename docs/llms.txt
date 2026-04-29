@@ -1,0 +1,20 @@
+# Pour Picks
+
+> Pour Picks is a hobby and lifestyle iOS app for adult bourbon collectors.
+> It catalogs your cellar, scans bottles to identify what you own, tracks
+> the value of your collection, and provides a private journal for every
+> pour. The app does not sell alcohol, show alcohol ads, or encourage
+> consumption. It is a reference and personal-collection tool for adults
+> of legal drinking age.
+
+## Site
+- [Home](https://pourpicks.app/): app overview, features, FAQ
+- [About](https://pourpicks.app/about): who runs Pour Picks, editorial standards, what the app is and is not
+- [Articles](https://pourpicks.app/articles): guides for bourbon collectors (storage, oxidation, valuation, identification)
+- [Support](https://pourpicks.app/support): account deletion, subscription cancellation, scanner tips
+- [Privacy Policy](https://pourpicks.app/privacy): data collection and handling
+- [Terms of Service](https://pourpicks.app/terms): eligibility, subscriptions, responsibility notice
+- [Delete Account](https://pourpicks.app/delete-account): how to permanently delete your account and data
+
+## Optional
+- [Sitemap](https://pourpicks.app/sitemap-index.xml): full URL index updated on every build

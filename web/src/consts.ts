@@ -1,0 +1,62 @@
+// Site-wide constants. Single source of truth for the Astro site.
+// Update these as the project evolves; everything else (schema, footer,
+// social cards, llms.txt) reads from here.
+
+export const SITE = {
+  name: 'Pour Picks',
+  tagline: 'The Bourbon Collector\u2019s Cellar',
+  description:
+    'Pour Picks is a hobby and lifestyle iOS app for adult bourbon collectors. Catalog your cellar, scan bottles to identify what you own, track collection value, and journal every pour in one private reference.',
+  url: 'https://pourpicks.app',
+  locale: 'en-US',
+  supportEmail: 'support@pourpicks.app',
+  // Set when the App Store listing is live. Until then, /download routes to a
+  // \u201Ccoming soon\u201D state.
+  appStoreUrl: '', // e.g. 'https://apps.apple.com/app/pour-picks/id0000000000'
+  bundleId: 'com.pourpicks.app',
+  appleTeamId: 'ZNS5TNLB2D',
+  // Founder / publisher \u2014 used for Person and Organization schema. The
+  // /about page is the canonical entity anchor.
+  founder: {
+    name: 'Bob Guillow',
+    role: 'Founder',
+    sameAs: [
+      // Add LinkedIn / X / GitHub when ready. Empty entries are filtered out
+      // before rendering so it\u2019s safe to leave them blank.
+    ],
+  },
+  // Analytics + tracking. All values come from env vars at build time so
+  // local builds and forks don't fire analytics.
+  analytics: {
+    // Google Analytics 4 Measurement ID, e.g. 'G-XXXXXXXXXX'. Set via
+    // PUBLIC_GA4_ID at build time. Empty string disables analytics.
+    ga4Id: import.meta.env.PUBLIC_GA4_ID ?? '',
+    // Google Search Console verification token (the meta tag content
+    // value). Set via PUBLIC_GSC_VERIFICATION at build time.
+    gscVerification: import.meta.env.PUBLIC_GSC_VERIFICATION ?? '',
+    // IndexNow key. Public by design \u2014 it's verified by serving the
+    // matching <key>.txt file at site root. See public/.
+    indexNowKey: import.meta.env.PUBLIC_INDEXNOW_KEY ?? '',
+  },
+  // Cask Club aesthetic \u2014 oxblood + antique brass on espresso black.
+  // Mirrors the in-app theme in pour-picks/src/constants/theme.ts so the
+  // marketing site and the app feel like the same product.
+  theme: {
+    bg: '#0F0B09',
+    card: '#241914',
+    text: '#EDE4D3',
+    muted: '#A89B82',
+    accent: '#B08D57',
+    border: 'rgba(176, 141, 87, 0.20)',
+  },
+};
+
+export const NAV = [
+  { label: 'Home', href: '/' },
+  { label: 'Features', href: '/features' },
+  { label: 'Blog', href: '/articles' },
+  { label: 'About', href: '/about' },
+  { label: 'Support', href: '/support' },
+  { label: 'Privacy', href: '/privacy' },
+  { label: 'Terms', href: '/terms' },
+];

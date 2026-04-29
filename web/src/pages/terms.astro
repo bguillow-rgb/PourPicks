@@ -1,0 +1,176 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Footer from '../components/Footer.astro';
+import BreadcrumbSchema from '../components/schema/BreadcrumbSchema.astro';
+import { SITE } from '../consts';
+---
+<BaseLayout
+  title="Terms of Service"
+  description="Pour Picks terms of service \u2014 eligibility, subscriptions, content, responsibility notice, and limitation of liability."
+  path="/terms"
+>
+  <Fragment slot="head">
+    <BreadcrumbSchema crumbs={[{ name: 'Terms of Service', url: `${SITE.url}/terms` }]} />
+  </Fragment>
+
+  <p class="brand">{SITE.name}</p>
+  <h1>Terms of Service</h1>
+  <p class="effective">Effective Date: April 25, 2026</p>
+
+  <p>
+    These Terms of Service ("Terms") govern your use of Pour Picks ("the
+    app"). By using the app, you agree to these Terms.
+  </p>
+
+  <h2>1. Eligibility</h2>
+  <p>
+    You must be at least 21 years of age (or the legal drinking age in your
+    jurisdiction, whichever is greater) to use Pour Picks. By creating an
+    account or using the app, you represent that you meet this age
+    requirement. Pour Picks is a whiskey and spirits reference,
+    recommendation, and personal cellar tool; it does not sell, distribute,
+    deliver, or facilitate the sale of alcoholic beverages.
+  </p>
+
+  <h2>2. Accounts</h2>
+  <p>
+    You may sign in with Apple, Google, or continue as a guest. You are
+    responsible for maintaining the security of your account credentials.
+    Guest accounts store data locally on your device; signing in enables
+    cloud sync across devices.
+  </p>
+
+  <h2>3. Subscriptions</h2>
+  <p>
+    <strong>Pour Picks Pro</strong> (also referred to as "Cask Club") is an
+    optional auto-renewing subscription available as a monthly or yearly
+    plan. Key terms:
+  </p>
+  <ul>
+    <li>Payment is charged to your Apple ID account at confirmation of purchase.</li>
+    <li>Subscriptions automatically renew unless canceled at least 24 hours before the end of the current period.</li>
+    <li>You can manage subscriptions and turn off auto-renewal in your device's Account Settings.</li>
+    <li>No refunds are provided for the unused portion of a subscription period. Refund requests must be directed to Apple.</li>
+    <li>Prices are displayed in your local currency and may vary by region. Price changes take effect at the next renewal.</li>
+  </ul>
+
+  <h2>4. Free Tier</h2>
+  <p>
+    Free accounts include access to the basic quiz, up to 5 bottle scans (10
+    once signed in), and the ability to track owned bottles in your cellar.
+    Pro features (unlimited scans, advanced quiz, food and pairing
+    recommendations, full cellar filters and statuses, tasting reviews, and
+    journal export) require an active subscription.
+  </p>
+
+  <h2>5. Bottle Identification</h2>
+  <p>
+    The Pour Concierge feature uses AI to identify whiskey and spirits
+    bottles from photos. Identification results are provided on a best-effort
+    basis and may be incorrect. We make no guarantees about the accuracy of
+    identification results. You can correct misidentifications using the
+    in-app correction flow or suggest new bottles for our catalog.
+  </p>
+
+  <h2>6. User Content</h2>
+  <p>
+    You retain ownership of content you create (tasting reviews, notes,
+    photos, bottle suggestions). By submitting reviews and ratings, you grant
+    Pour Picks a non-exclusive, royalty-free license to display that content
+    to other users within the app. You may delete your content at any time.
+  </p>
+  <p>
+    You agree not to submit content that is unlawful, defamatory, obscene,
+    harassing, abusive, objectionable, or that infringes on the
+    intellectual-property rights of others. We have zero tolerance for
+    objectionable content or abusive behavior.
+  </p>
+  <p>
+    Any user can report content through the in-app "Report" affordance. We
+    review reports within 24 hours and will remove violating content and,
+    where appropriate, restrict or terminate the offending account. We
+    reserve the right to remove content at our discretion.
+  </p>
+
+  <h2>7. Intellectual Property</h2>
+  <p>
+    The Pour Picks name, logo, design, and code are the property of the Pour
+    Picks team. Distillery names, bottle names, label imagery, and product
+    information are the property of their respective owners and are used for
+    informational and identification purposes only under nominative fair use.
+  </p>
+
+  <h2>8. Responsible Use &amp; Assumption of Risk</h2>
+  <div class="warning">
+    <p class="warning-title">Drink Responsibly</p>
+    <p class="warning-body">
+      Pour Picks is a reference, identification, and tasting-journal tool
+      only. The app does not sell, distribute, deliver, or facilitate the
+      purchase of alcohol, and nothing in the app should be construed as
+      medical advice or a recommendation to consume alcohol. Drink
+      responsibly. Never drive after drinking.
+    </p>
+  </div>
+  <p>By using Pour Picks you acknowledge and agree that:</p>
+  <ul>
+    <li>Consumption of alcoholic beverages carries health risks, including but not limited to liver disease, cardiovascular disease, addiction, and impaired judgement.</li>
+    <li>You voluntarily assume all risks associated with your own consumption of alcoholic beverages.</li>
+    <li>Pour Picks and its affiliated parties shall have no liability whatsoever for any illness, injury, addiction, death, accident, or other harm of any kind that may result from your consumption of alcoholic beverages, whether or not those beverages were identified, recommended, or referenced through the app.</li>
+    <li>You are solely responsible for complying with all federal, state, and local laws regarding the purchase, possession, and consumption of alcoholic beverages in your jurisdiction.</li>
+  </ul>
+
+  <h2>9. Disclaimer of Warranties</h2>
+  <p>
+    Pour Picks is provided "AS IS" and "AS AVAILABLE" without warranties of
+    any kind, express or implied, including but not limited to warranties of
+    merchantability, fitness for a particular purpose, or non-infringement.
+    We do not warrant that the app will be uninterrupted, error-free, or
+    that identification results will be accurate. Bottle information (proof,
+    age, mash bill, flavor) is provided for general reference and may not
+    reflect every release, batch, or barrel variation.
+  </p>
+
+  <h2>10. Limitation of Liability</h2>
+  <p>
+    To the maximum extent permitted by law, Pour Picks and its developer
+    shall not be liable for any indirect, incidental, special, consequential,
+    or punitive damages arising from or related to your use of the app,
+    including but not limited to loss of data, inaccurate identification
+    results, or any health-related claims. Our total liability for any claim
+    related to the app shall not exceed the amount you paid for the app, if
+    any, in the twelve months preceding the claim.
+  </p>
+
+  <h2>11. Account Deletion</h2>
+  <p>
+    You may delete your account at any time from the Profile screen within
+    the app. Tap Delete Account and confirm. Deletion permanently removes
+    all your data including cellar entries, tasting reviews, scan history,
+    quiz results, and bottle suggestions. This action cannot be undone.
+  </p>
+  <p>
+    Deleting your account does not cancel an active App Store subscription
+    \u2014 manage subscriptions in Settings &rarr; Apple ID &rarr; Subscriptions.
+  </p>
+
+  <h2>12. Changes to These Terms</h2>
+  <p>
+    We may update these Terms from time to time. Material changes will be
+    communicated through the app. Continued use after changes constitutes
+    acceptance of the revised Terms.
+  </p>
+
+  <h2>13. Governing Law</h2>
+  <p>
+    These Terms are governed by the laws of the State of New York, United
+    States, without regard to conflict of law provisions.
+  </p>
+
+  <h2>14. Contact</h2>
+  <p>
+    For questions about these Terms, contact us at:
+    <a href={`mailto:${SITE.supportEmail}`}>{SITE.supportEmail}</a>
+  </p>
+
+  <Footer />
+</BaseLayout>
