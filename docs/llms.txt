@@ -13,7 +13,7 @@
 - [Articles](https://pourpicks.app/articles): guides for bourbon collectors (storage, oxidation, valuation, identification)
 - [Support](https://pourpicks.app/support): account deletion, subscription cancellation, scanner tips
 - [Privacy Policy](https://pourpicks.app/privacy): data collection and handling
-- [Terms of Service](https://pourpicks.app/terms): eligibility, subscriptions, responsibility notice
+- [Terms of Use](https://pourpicks.app/terms): eligibility, subscriptions, responsibility notice
 - [Delete Account](https://pourpicks.app/delete-account): how to permanently delete your account and data
 
 ## Optional
