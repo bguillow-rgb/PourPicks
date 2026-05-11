@@ -128,6 +128,28 @@ strong { color: var(--text); font-weight: 700; }
   border-radius: 999px;
   margin: 0 0 14px;
 }
+/* Hero conversion CTA — filled accent button. More prominent than the
+   bordered .cta further down the page, since this is the single primary
+   action on the homepage. Live since the App Store listing went up
+   2026-05-09. */
+.hero-cta {
+  display: inline-block;
+  padding: 14px 26px;
+  background: var(--accent);
+  color: var(--bg);
+  font-weight: 800;
+  font-size: 15px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  border-radius: 6px;
+  margin: 0 0 14px;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+  box-shadow: 0 6px 18px rgba(176, 141, 87, 0.25);
+}
+.hero-cta:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 10px 22px rgba(176, 141, 87, 0.35);
+}
 .hero-trust {
   font-size: 13px;
   color: var(--muted);

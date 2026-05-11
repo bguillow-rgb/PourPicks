@@ -76,7 +76,14 @@ const faqs = [
     <h1>{SITE.tagline}</h1>
     <p class="hero-tagline">Catalog your cellar. Log every pour. Find your next favorite bottle.</p>
 
-    <p class="badge">Coming soon to the App Store</p>
+    {/* Hero CTA — live on the App Store since 2026-05-09. Apple's official
+        "Download on the App Store" badge would be ideal here long-term;
+        for now a styled link keeps parity with the design language and
+        avoids the badge asset hunt. */}
+    <a class="hero-cta" href={SITE.appStoreUrl}>
+      Download on the App Store
+      <span aria-hidden="true">&nbsp;&rarr;</span>
+    </a>
     <p class="hero-trust">For adults 21+ &middot; No ads &middot; Your collection stays yours</p>
   </section>
 

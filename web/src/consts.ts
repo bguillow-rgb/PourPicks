@@ -10,9 +10,9 @@ export const SITE = {
   url: 'https://pourpicks.app',
   locale: 'en-US',
   supportEmail: 'support@pourpicks.app',
-  // Set when the App Store listing is live. Until then, /download routes to a
-  // \u201Ccoming soon\u201D state.
-  appStoreUrl: '', // e.g. 'https://apps.apple.com/app/pour-picks/id0000000000'
+  // Live on the App Store since 2026-05-09. Apple app ID is 6764040132 (the
+  // ASC App Apple ID, also used in eas.json submit.production.ascAppId).
+  appStoreUrl: 'https://apps.apple.com/us/app/pour-picks/id6764040132',
   bundleId: 'com.pourpicks.app',
   appleTeamId: 'ZNS5TNLB2D',
   // Founder / publisher \u2014 used for Person and Organization schema. The
