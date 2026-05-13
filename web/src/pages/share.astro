@@ -1,0 +1,112 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Footer from '../components/Footer.astro';
+import { SITE } from '../consts';
+
+// Share-handoff landing. Receives one of:
+//   /share?bottle=<id> — a bottle the user shared from the Pour Picks app
+//   /share?quiz=1      — the quiz from a results screen
+// Tries to open the app via the pourpicks:// scheme, then falls back to
+// the App Store CTA for recipients who don't have the app. Page renders
+// server-side as a static doc; client JS reads the query param.
+//
+// Intentionally noindex'd — the URL space is unbounded (one per bottle)
+// and the page is a redirect, not a content page.
+---
+<BaseLayout
+  title="Open in Pour Picks"
+  description="Open this in the Pour Picks iPhone app, or download Pour Picks from the App Store."
+  path="/share"
+  noindex={true}
+>
+  <p class="brand">{SITE.name}</p>
+  <h1>Open in Pour Picks</h1>
+  <p class="effective" id="share-line">Opening the app&hellip;</p>
+
+  <p>
+    <a
+      id="open-app-cta"
+      href={SITE.appStoreUrl}
+      class="cta cta-primary"
+      rel="noopener"
+    >Get Pour Picks on the App Store</a>
+  </p>
+
+  <p class="hint">
+    Already have the app? <a href="#" id="open-app-again">Open it</a>.
+  </p>
+
+  <Footer />
+</BaseLayout>
+
+<style>
+  .cta {
+    display: inline-block;
+    padding: 0.85rem 1.4rem;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: 600;
+    margin-top: 1rem;
+  }
+  .cta-primary {
+    background: var(--accent);
+    color: var(--bg);
+  }
+  .cta-primary:hover {
+    filter: brightness(1.1);
+  }
+  .hint {
+    color: var(--muted);
+    font-size: 0.95rem;
+    margin-top: 1.5rem;
+  }
+</style>
+
+<script>
+  // Parse the query string and build a deep-link URL for the app.
+  // Falls back gracefully when neither param is present.
+  const params = new URLSearchParams(window.location.search);
+  const bottleId = params.get('bottle');
+  const isQuiz = params.get('quiz') === '1';
+
+  let deepLink: string | null = null;
+  let context = '';
+  if (bottleId) {
+    // Bottle IDs are uuid-shaped; encode defensively.
+    deepLink = `pourpicks://bottle/${encodeURIComponent(bottleId)}`;
+    context = 'bottle';
+  } else if (isQuiz) {
+    deepLink = 'pourpicks://quiz';
+    context = 'quiz';
+  }
+
+  const line = document.getElementById('share-line');
+  if (!deepLink) {
+    if (line) line.textContent = 'Get Pour Picks for iPhone to start your bourbon cellar.';
+  } else {
+    // Update the copy to match the share context.
+    if (line) {
+      line.textContent =
+        context === 'bottle'
+          ? 'Opening this bottle in Pour Picks\u2026'
+          : 'Opening the quiz in Pour Picks\u2026';
+    }
+
+    // Try to open the app. The pourpicks:// scheme handler will succeed
+    // silently when the app is installed. When it's not, Mobile Safari
+    // does nothing visible — the CTA below is what the user falls back to.
+    // Use a small delay so the page paints first.
+    setTimeout(() => {
+      window.location.href = deepLink as string;
+    }, 100);
+
+    // Wire the explicit "Open it" link to retry the deep link on demand.
+    const retry = document.getElementById('open-app-again');
+    if (retry) {
+      retry.addEventListener('click', (e) => {
+        e.preventDefault();
+        window.location.href = deepLink as string;
+      });
+    }
+  }
+</script>
