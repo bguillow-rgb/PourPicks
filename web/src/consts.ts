@@ -56,6 +56,7 @@ export const NAV = [
   { label: 'Features', href: '/features' },
   { label: 'Blog', href: '/articles' },
   { label: 'About', href: '/about' },
+  { label: 'Press', href: '/press' },
   { label: 'Support', href: '/support' },
   { label: 'Privacy', href: '/privacy' },
   { label: 'Terms', href: '/terms' },
