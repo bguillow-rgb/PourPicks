@@ -10,7 +10,7 @@ relatedQueries:
   - "buffalo trace mash bill"
 quickAnswer: "A mash bill is the recipe of grains used to make a whiskey. Bourbon mash bills are at least 51% corn, with the remaining grains (usually rye or wheat, plus a small amount of barley) shaping the flavor. The same distillery can produce dramatically different bourbons by changing only the mash bill."
 publishedAt: "2026-05-19"
-author: "Bob Guillow"
+author: "Pour Picks"
 relatedSlugs:
   - "bourbon-vs-rye-difference"
   - "how-to-start-a-bourbon-cellar"

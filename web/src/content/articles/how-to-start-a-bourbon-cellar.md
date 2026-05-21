@@ -10,7 +10,7 @@ relatedQueries:
   - "how to organize a bourbon collection"
 quickAnswer: "Start a bourbon cellar with 6 to 10 well-chosen bottles across three price tiers, store them upright in a cool dark place away from temperature swings, and track every bottle and pour from day one so you actually learn your own palate instead of guessing."
 publishedAt: "2026-05-19"
-author: "Bob Guillow"
+author: "Pour Picks"
 relatedSlugs:
   - "bourbon-vs-rye-difference"
   - "what-is-mash-bill"

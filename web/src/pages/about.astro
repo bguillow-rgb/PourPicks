@@ -2,7 +2,6 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 import QuickAnswer from '../components/QuickAnswer.astro';
 import Footer from '../components/Footer.astro';
-import PersonSchema from '../components/schema/PersonSchema.astro';
 import AboutPageSchema from '../components/schema/AboutPageSchema.astro';
 import BreadcrumbSchema from '../components/schema/BreadcrumbSchema.astro';
 import { SITE } from '../consts';
@@ -20,7 +19,6 @@ const quickAnswer =
 >
   <Fragment slot="head">
     <AboutPageSchema />
-    <PersonSchema />
     <BreadcrumbSchema crumbs={[{ name: 'About', url: `${SITE.url}/about` }]} />
   </Fragment>
 
@@ -32,10 +30,10 @@ const quickAnswer =
 
   <h2>Who runs Pour Picks?</h2>
   <p>
-    Pour Picks is built and operated by <strong>{SITE.founder.name}</strong>,
-    an independent developer. There is no investor, no parent company, and no
-    advertising network behind the app. Decisions about features, privacy, and
-    direction are made by one person, and that person answers the email at
+    Pour Picks is built and operated by an independent solo developer.
+    There is no investor, no parent company, and no advertising network
+    behind the app. Decisions about features, privacy, and direction are
+    made by one person, and that person answers the email at
     <a href={`mailto:${SITE.supportEmail}`}>{SITE.supportEmail}</a>.
   </p>
 
@@ -68,8 +66,8 @@ const quickAnswer =
 
   <h2>Editorial standards</h2>
   <p>
-    Articles published on this site are written by {SITE.founder.name} based
-    on first-hand experience as a collector and on cited primary sources
+    Articles published on this site are written in-house, based on
+    first-hand experience as a collector and on cited primary sources
     (distillery technical sheets, industry reference books, TTB filings, and
     other public sources). When a fact comes from somewhere other than direct
     experience, it is linked. When something is an opinion, it is labeled.

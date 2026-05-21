@@ -10,7 +10,7 @@ relatedQueries:
   - "bourbon rye comparison"
 quickAnswer: "Bourbon is at least 51% corn (sweet, round, vanilla-caramel notes); rye whiskey is at least 51% rye grain (spicy, dry, pepper and herb notes). Both are aged in new charred American oak. The choice between them depends mostly on whether you want a sweet pour or a spicy pour."
 publishedAt: "2026-05-19"
-author: "Bob Guillow"
+author: "Pour Picks"
 relatedSlugs:
   - "how-to-start-a-bourbon-cellar"
   - "what-is-mash-bill"

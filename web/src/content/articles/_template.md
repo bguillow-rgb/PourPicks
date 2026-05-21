@@ -7,7 +7,7 @@ relatedQueries:
   - "related query two"
 quickAnswer: "Forty to sixty word direct answer to the target query. This block is marked up as the Speakable element on the page so AI engines and voice assistants can pull it cleanly. Lead with the answer, no preamble. Cite something concrete in the next paragraph."
 publishedAt: "2026-04-29"
-author: "Bob Guillow"
+author: "Pour Picks"
 relatedSlugs: []
 faqs:
   - q: "First question another collector would ask?"

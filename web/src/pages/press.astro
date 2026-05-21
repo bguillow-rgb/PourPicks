@@ -8,12 +8,12 @@ import { SITE } from '../consts';
 const quickAnswer =
   'Pour Picks is a solo-built iOS app for bourbon collectors. ' +
   'It launched on the App Store on May 9, 2026. ' +
-  'Founder, contact, and ready-to-quote boilerplate are all on this page. ' +
+  'Fact sheet, ready-to-quote boilerplate, and contact are all on this page. ' +
   'Brand assets and screenshots are available on request at ' + SITE.supportEmail + '.';
 ---
 <BaseLayout
   title="Press"
-  description="Press kit for Pour Picks - fact sheet, founder bio, boilerplate, and brand asset contact for journalists, podcasters, and reviewers."
+  description="Press kit for Pour Picks - fact sheet, boilerplate, and brand asset contact for journalists, podcasters, and reviewers."
   path="/press"
 >
   <Fragment slot="head">
@@ -40,7 +40,7 @@ const quickAnswer =
     <li><strong>Category:</strong> Bourbon and American whiskey cellar app (iOS, free with optional subscription)</li>
     <li><strong>Platform:</strong> iOS (iPhone). iPad and Android are not on the near-term roadmap.</li>
     <li><strong>App Store launch date:</strong> May 9, 2026</li>
-    <li><strong>Founder:</strong> {SITE.founder.name}, sole developer and operator</li>
+    <li><strong>Team:</strong> Independently built and operated. Solo developer.</li>
     <li><strong>Funding:</strong> Bootstrapped. No outside investment, no parent company, no advertising partners.</li>
     <li><strong>Business model:</strong> Free core app. Cask Club subscription unlocks advanced cellar tracking and journaling. Subscriptions are billed through Apple.</li>
     <li><strong>Catalog size:</strong> Around 4,700 American whiskeys at launch, growing through scan-driven corrections and additions.</li>
@@ -49,16 +49,6 @@ const quickAnswer =
     <li><strong>Tech stack (for technical writers):</strong> React Native, Expo, Supabase (Postgres with row-level security), Anthropic Claude Vision for the scan engine, Claude for the recommender language.</li>
     <li><strong>Privacy:</strong> No location, health, or financial data is collected by the app. Payment information is held by Apple and never touches Pour Picks servers. See the <a href="/privacy">privacy policy</a>.</li>
   </ul>
-
-  <h2>Founder bio</h2>
-  <p>
-    {SITE.founder.name} is an independent developer and the sole operator of
-    Pour Picks. He spent years keeping his bourbon cellar in a spreadsheet,
-    got tired of it, and built the app he wanted. Pour Picks is not a side
-    project of a larger company; it is the project. Press, partnership, and
-    interview requests go to
-    <a href={`mailto:${SITE.supportEmail}`}>{SITE.supportEmail}</a>.
-  </p>
 
   <h2>Why Pour Picks exists</h2>
   <p>
@@ -98,7 +88,7 @@ const quickAnswer =
   <p>Long form, around 110 words:</p>
   <blockquote>
     Pour Picks is an iOS cellar app for adult bourbon collectors, launched
-    on the App Store in May 2026 by independent developer {SITE.founder.name}.
+    on the App Store in May 2026 by an independent solo developer.
     The app scans any bottle using Claude Vision to read the label, builds
     a private cellar of what the user owns, and runs a "Pour Tonight"
     recommender that picks a bottle from the user's own shelf based on what
@@ -114,7 +104,7 @@ const quickAnswer =
     High-resolution app icon, App Store screenshots, hero images, and
     founder headshot are available on request. Email
     <a href={`mailto:${SITE.supportEmail}`}>{SITE.supportEmail}</a> with
-    "Press assets" in the subject and you'll receive a Drive link the same
+    "Press assets" in the subject and a Drive link will follow the same
     day. App Store screenshots can also be pulled directly from the
     <a href={SITE.appStoreUrl} rel="noopener">App Store listing</a>.
   </p>
