@@ -2,6 +2,20 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 import Footer from '../components/Footer.astro';
 import { SITE } from '../consts';
+
+// Doubles as the Tasting Night invite landing.
+//
+// Invite links are path-based: https://pourpicks.app/t/<code>. On GitHub
+// Pages (static, no SSR) we can't enumerate unknown codes at build time, so
+// there's no real /t/<code> file — the request falls through to this 404.html
+// with the URL preserved. The script below detects the /t/<code> path and
+// swaps the page into "invite bounce" mode: it tries the pourpicks:// scheme
+// (opens the app if installed) and otherwise shows the App Store CTA + the
+// code to type manually.
+//
+// Once Associated Domains / universal links are live on a native build, iOS
+// intercepts /t/<code> taps before the browser and opens the app directly —
+// this page only ever shows for people without the app installed.
 ---
 <BaseLayout
   title="Page Not Found"
@@ -9,15 +23,106 @@ import { SITE } from '../consts';
   path="/404"
   noindex={true}
 >
-  <p class="brand">{SITE.name}</p>
-  <h1>Page Not Found</h1>
-  <p class="effective">That page does not exist.</p>
+  {/* Default 404 content — hidden client-side when this is an invite link. */}
+  <div id="notfound">
+    <p class="brand">{SITE.name}</p>
+    <h1>Page Not Found</h1>
+    <p class="effective">That page does not exist.</p>
 
-  <p>
-    Try the <a href="/">home page</a>, the
-    <a href="/articles">articles index</a>, or
-    <a href="/support">support</a>.
-  </p>
+    <p>
+      Try the <a href="/">home page</a>, the
+      <a href="/articles">articles index</a>, or
+      <a href="/support">support</a>.
+    </p>
+  </div>
+
+  {/* Invite bounce — revealed only for /t/<code> paths. */}
+  <div id="invite-bounce" hidden>
+    <p class="brand">{SITE.name}</p>
+    <p class="eyebrow">YOU'RE INVITED</p>
+    <h1>Join the tasting</h1>
+    <p class="effective" id="invite-line">Opening Pour Picks&hellip;</p>
+
+    <p>
+      <a
+        id="open-app-cta"
+        href={SITE.appStoreUrl}
+        class="cta cta-primary"
+        rel="noopener"
+      >Get Pour Picks on the App Store</a>
+    </p>
+
+    <p class="hint">
+      Already have the app? <a href="#" id="open-app-again">Open it</a>.<br />
+      Or open Pour Picks, tap <strong>Join a tasting</strong>, and enter code
+      <strong id="invite-code"></strong>.
+    </p>
+  </div>
 
   <Footer />
 </BaseLayout>
+
+<style>
+  .cta {
+    display: inline-block;
+    padding: 0.85rem 1.4rem;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: 600;
+    margin-top: 1rem;
+  }
+  .cta-primary {
+    background: var(--accent);
+    color: var(--bg);
+  }
+  .cta-primary:hover {
+    filter: brightness(1.1);
+  }
+  .eyebrow {
+    color: var(--accent);
+    letter-spacing: 0.18em;
+    font-size: 0.8rem;
+    margin-bottom: 0.25rem;
+  }
+  .hint {
+    color: var(--muted);
+    font-size: 0.95rem;
+    margin-top: 1.5rem;
+    line-height: 1.6;
+  }
+  #invite-code {
+    letter-spacing: 0.15em;
+    color: var(--text);
+  }
+</style>
+
+<script>
+  // Match /t/<code> (trailing slash optional). Codes are short alphanumerics.
+  const m = window.location.pathname.match(/^\/t\/([^/]+)\/?$/);
+  if (m && m[1]) {
+    const code = decodeURIComponent(m[1]);
+    const notfound = document.getElementById('notfound');
+    const bounce = document.getElementById('invite-bounce');
+    if (notfound) notfound.hidden = true;
+    if (bounce) bounce.hidden = false;
+
+    const codeEl = document.getElementById('invite-code');
+    if (codeEl) codeEl.textContent = code.toUpperCase();
+
+    const deepLink = `pourpicks://t/${encodeURIComponent(code)}`;
+
+    // Try to open the app. The scheme handler succeeds silently when the app
+    // is installed; otherwise the browser does nothing and the CTA remains.
+    setTimeout(() => {
+      window.location.href = deepLink;
+    }, 100);
+
+    const retry = document.getElementById('open-app-again');
+    if (retry) {
+      retry.addEventListener('click', (e) => {
+        e.preventDefault();
+        window.location.href = deepLink;
+      });
+    }
+  }
+</script>

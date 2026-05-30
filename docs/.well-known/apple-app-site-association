@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["ZNS5TNLB2D.com.pourpicks.app"],
+        "components": [
+          {
+            "/": "/t/*",
+            "comment": "Tasting Night invite links open the app directly"
+          }
+        ]
+      }
+    ]
+  }
+}
