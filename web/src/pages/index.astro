@@ -1,5 +1,6 @@
 ---
 import { getCollection } from 'astro:content';
+import { YouTube } from 'astro-embed';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import QuickAnswer from '../components/QuickAnswer.astro';
 import FAQ from '../components/FAQ.astro';
@@ -119,6 +120,14 @@ const faqs = [
     </div>
 
     <p class="features-link"><a href="/features">See every feature &rarr;</a></p>
+  </section>
+
+  <section class="demo">
+    <h2 class="section-title">See it in action</h2>
+    <p class="demo-sub">A quick look at scanning a bottle and logging a pour.</p>
+    <div class="demo-video">
+      <YouTube id="29Ot-QKrZgs" title="Pour Picks in action" />
+    </div>
   </section>
 
   <h2>How does Pour Picks make money?</h2>

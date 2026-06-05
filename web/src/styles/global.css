@@ -270,6 +270,33 @@ strong { color: var(--text); font-weight: 700; }
   font-size: 15px;
 }
 
+/* Homepage demo video — vertical YouTube Short via facade (astro-embed). */
+.demo {
+  margin: 56px 0 0;
+  text-align: center;
+}
+.demo-sub {
+  margin: 8px 0 24px;
+  color: var(--muted, inherit);
+  font-size: 15px;
+}
+.demo-video {
+  width: 100%;
+  max-width: 320px;
+  margin: 0 auto;
+}
+/* lite-youtube renders 16:9 by default; force 9:16 for the Short and round
+   the corners to match the app-shot treatment elsewhere on the site. */
+.demo-video lite-youtube {
+  aspect-ratio: 9 / 16;
+  width: 100%;
+  max-width: 320px;
+  border-radius: 28px;
+  border: 1px solid var(--border);
+  box-shadow: 0 16px 32px rgba(0, 0, 0, 0.4);
+  overflow: hidden;
+}
+
 /* Mobile: stack hero + feature grid + feature rows. */
 @media (max-width: 720px) {
   .feature-grid { grid-template-columns: 1fr; }
