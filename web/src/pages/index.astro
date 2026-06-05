@@ -6,6 +6,7 @@ import QuickAnswer from '../components/QuickAnswer.astro';
 import FAQ from '../components/FAQ.astro';
 import Footer from '../components/Footer.astro';
 import SoftwareApplicationSchema from '../components/schema/SoftwareApplicationSchema.astro';
+import VideoObjectSchema from '../components/schema/VideoObjectSchema.astro';
 import { SITE } from '../consts';
 
 // Latest 3 published articles for the homepage "From the Blog" teaser.
@@ -67,6 +68,7 @@ const faqs = [
 >
   <Fragment slot="head">
     <SoftwareApplicationSchema />
+    <VideoObjectSchema />
     <link rel="apple-touch-icon" href="/icon.png" />
     <meta property="og:image" content={`${SITE.url}/icon.png`} />
   </Fragment>

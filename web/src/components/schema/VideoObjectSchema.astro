@@ -1,0 +1,32 @@
+---
+import { SITE } from '../../consts';
+
+// VideoObject schema for the homepage product demo (YouTube Short
+// 29Ot-QKrZgs). Makes the demo eligible for Google video rich results and
+// gives AI engines structured context about what the clip shows.
+//
+// All fields are real (no fabrication): name/thumbnail from the YouTube
+// oembed, uploadDate from the watch-page metadata. contentUrl/embedUrl point
+// at YouTube so Google can verify the video resolves.
+
+const VIDEO_ID = '29Ot-QKrZgs';
+
+const schema = {
+  '@context': 'https://schema.org',
+  '@type': 'VideoObject',
+  name: 'Pour Picks: Bourbon & Whiskey',
+  description:
+    'A quick look at the Pour Picks iOS app — scanning a bourbon bottle ' +
+    'to identify it and logging a pour in your tasting journal.',
+  thumbnailUrl: [`https://i.ytimg.com/vi/${VIDEO_ID}/hqdefault.jpg`],
+  uploadDate: '2026-05-27',
+  contentUrl: `https://www.youtube.com/shorts/${VIDEO_ID}`,
+  embedUrl: `https://www.youtube.com/embed/${VIDEO_ID}`,
+  publisher: {
+    '@type': 'Organization',
+    name: SITE.name,
+    url: SITE.url,
+  },
+};
+---
+<script type="application/ld+json" set:html={JSON.stringify(schema)} />
