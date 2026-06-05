@@ -4,6 +4,10 @@
 
 export const SITE = {
   name: 'Pour Picks',
+  // Legal operating entity behind the app/site. Surfaced in the footer and
+  // Organization schema (legalName) for brand-entity consistency, and mirrors
+  // the App Store developer display name.
+  legalEntity: 'Timberline Ventures LLC',
   tagline: 'The Bourbon Collector\u2019s Cellar',
   description:
     'Pour Picks is a hobby and lifestyle iOS app for adult bourbon collectors. Catalog your cellar, scan bottles to identify what you own, track collection value, and journal every pour in one private reference.',
