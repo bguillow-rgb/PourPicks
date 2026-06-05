@@ -11,9 +11,26 @@ interface Props {
   publishedAt: Date;
   updatedAt?: Date;
   author: string;
+  // Optional hero image URL. Falls back to the site icon when not provided.
+  heroImage?: string;
+  heroImageWidth?: number;
+  heroImageHeight?: number;
 }
 
-const { title, description, url, publishedAt, updatedAt, author } = Astro.props;
+const {
+  title,
+  description,
+  url,
+  publishedAt,
+  updatedAt,
+  heroImage,
+  heroImageWidth,
+  heroImageHeight,
+} = Astro.props;
+
+const imageUrl = heroImage ?? `${SITE.url}/icon-512.png`;
+const imageWidth = heroImageWidth ?? 512;
+const imageHeight = heroImageHeight ?? 512;
 
 const schema = {
   '@context': 'https://schema.org',
@@ -21,11 +38,18 @@ const schema = {
   headline: title,
   description,
   url,
+  image: {
+    '@type': 'ImageObject',
+    url: imageUrl,
+    width: imageWidth,
+    height: imageHeight,
+  },
   datePublished: publishedAt.toISOString(),
   dateModified: (updatedAt ?? publishedAt).toISOString(),
   author: {
     '@type': 'Person',
-    name: author,
+    name: SITE.founder.name,
+    url: `${SITE.url}/about`,
   },
   publisher: {
     '@type': 'Organization',

@@ -4,7 +4,24 @@ import QuickAnswer from '../components/QuickAnswer.astro';
 import Footer from '../components/Footer.astro';
 import AboutPageSchema from '../components/schema/AboutPageSchema.astro';
 import BreadcrumbSchema from '../components/schema/BreadcrumbSchema.astro';
+import PersonSchema from '../components/schema/PersonSchema.astro';
+import FAQPageSchema from '../components/schema/FAQPageSchema.astro';
 import { SITE } from '../consts';
+
+const aboutFaqs = [
+  {
+    q: 'Who built Pour Picks?',
+    a: 'Pour Picks was built and is operated by Bob Guillow, an independent solo developer. There is no outside investor, no advertising network, and no parent company behind the app. All product and privacy decisions are made by one person.',
+  },
+  {
+    q: 'What is Timberline Ventures LLC?',
+    a: 'Timberline Ventures LLC is the legal business entity that owns and operates Pour Picks. It is a single-member LLC founded by Bob Guillow. The LLC name appears on the App Store developer page and in the app\'s legal agreements.',
+  },
+  {
+    q: 'How can I contact the Pour Picks team?',
+    a: `Email is the canonical contact channel: ${SITE.supportEmail}. There is no DM channel, no social inbox, and no support chat. Press, partnership, product feedback, and review inquiries all go to that address. Replies typically arrive within a day.`,
+  },
+];
 
 const quickAnswer =
   'Pour Picks is an iOS journal and cellar catalog for adult bourbon collectors, ' +
@@ -19,6 +36,8 @@ const quickAnswer =
 >
   <Fragment slot="head">
     <AboutPageSchema />
+    <PersonSchema />
+    <FAQPageSchema faqs={aboutFaqs} />
     <BreadcrumbSchema crumbs={[{ name: 'About', url: `${SITE.url}/about` }]} />
   </Fragment>
 

@@ -13,6 +13,24 @@ const articles = (
     includeDrafts ? true : data.published
   )
 ).sort((a, b) => b.data.publishedAt.valueOf() - a.data.publishedAt.valueOf());
+
+const collectionSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'CollectionPage',
+  name: 'Pour Picks Blog — Bourbon Collector Guides',
+  description: 'Guides and references for bourbon collectors covering storage, oxidation, valuation, identification, and more.',
+  url: `${SITE.url}/articles`,
+  inLanguage: SITE.locale,
+  mainEntity: {
+    '@type': 'ItemList',
+    itemListElement: articles.map((a, i) => ({
+      '@type': 'ListItem',
+      position: i + 1,
+      name: a.data.title,
+      url: `${SITE.url}/articles/${a.slug}`,
+    })),
+  },
+};
 ---
 <BaseLayout
   title="Blog"
@@ -20,6 +38,7 @@ const articles = (
   path="/articles"
 >
   <Fragment slot="head">
+    <script type="application/ld+json" set:html={JSON.stringify(collectionSchema)} />
     <BreadcrumbSchema crumbs={[{ name: 'Blog', url: `${SITE.url}/articles` }]} />
   </Fragment>
 

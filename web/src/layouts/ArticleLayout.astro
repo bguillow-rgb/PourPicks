@@ -4,6 +4,7 @@ import QuickAnswer from '../components/QuickAnswer.astro';
 import FAQ from '../components/FAQ.astro';
 import Footer from '../components/Footer.astro';
 import ArticleSchema from '../components/schema/ArticleSchema.astro';
+import HowToSchema from '../components/schema/HowToSchema.astro';
 import BreadcrumbSchema from '../components/schema/BreadcrumbSchema.astro';
 import { SITE } from '../consts';
 
@@ -16,6 +17,7 @@ interface Props {
   author: string;
   quickAnswer: string;
   faqs: { q: string; a: string }[];
+  howToSteps?: { name: string; text: string }[];
   // Section label shown in breadcrumb between Home and the article (e.g.
   // \u201CGuides\u201D, \u201CHumidor\u201D). Optional.
   section?: { name: string; url: string };
@@ -30,6 +32,7 @@ const {
   author,
   quickAnswer,
   faqs,
+  howToSteps,
   section,
 } = Astro.props;
 
@@ -55,6 +58,14 @@ const formattedDate = (updatedAt ?? publishedAt).toLocaleDateString('en-US', {
       updatedAt={updatedAt}
       author={author}
     />
+    {howToSteps && howToSteps.length > 0 && (
+      <HowToSchema
+        name={title}
+        description={description}
+        url={fullUrl}
+        steps={howToSteps}
+      />
+    )}
     <BreadcrumbSchema crumbs={crumbs} />
   </Fragment>
 

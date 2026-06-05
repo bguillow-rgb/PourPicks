@@ -2,7 +2,28 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 import Footer from '../components/Footer.astro';
 import BreadcrumbSchema from '../components/schema/BreadcrumbSchema.astro';
+import SoftwareApplicationSchema from '../components/schema/SoftwareApplicationSchema.astro';
+import FAQPageSchema from '../components/schema/FAQPageSchema.astro';
 import { SITE } from '../consts';
+
+const featuresFaqs = [
+  {
+    q: 'Does Pour Picks work with all bourbon bottles?',
+    a: 'Pour Picks covers thousands of American whiskeys — bourbon, rye, Tennessee whiskey, wheat whiskey, and single-malt American. The AI label scanner handles most commercially available bottles. If a bottle is missing or the scan doesn\'t match, users can describe the bottle in text for a second pass, search manually, or suggest an addition to the catalog.',
+  },
+  {
+    q: 'Is Pour Picks free to use?',
+    a: 'Yes. The core app is free: unlimited browsing, the palate quiz, and basic cellar tracking. A Cask Club subscription ($2.99/month) unlocks advanced cellar features, unlimited AI scans, full journaling, and collection value tracking. Subscriptions are billed through Apple — payment information never touches Pour Picks servers.',
+  },
+  {
+    q: 'What is the AI label scanner?',
+    a: 'The AI label scanner — called Pour Concierge — uses Claude Vision to read a bottle\'s front label through your iPhone camera. It identifies the distillery, expression, and proof, then matches the result against the catalog, usually in under a second. If the read isn\'t right, you can correct it or search manually.',
+  },
+  {
+    q: 'How does Pour Picks recommend bourbon?',
+    a: 'Pour Picks has two recommendation modes. The palate quiz (3 questions basic, 9 questions advanced) matches your flavor preferences to catalog entries. The "Pour Tonight" feature reads your actual cellar and picks a specific bottle to pour tonight based on what you\'ve poured recently, your personal ratings, and the season — it recommends from what you already own, not purchases.',
+  },
+];
 ---
 <BaseLayout
   title="Features"
@@ -10,6 +31,8 @@ import { SITE } from '../consts';
   path="/features"
 >
   <Fragment slot="head">
+    <SoftwareApplicationSchema featureList="Bourbon cellar tracker, AI label scanner, taste quiz, personalized recommendations, tasting journal, Pour Tonight feature" />
+    <FAQPageSchema faqs={featuresFaqs} />
     <BreadcrumbSchema crumbs={[{ name: 'Features', url: `${SITE.url}/features` }]} />
     <link rel="apple-touch-icon" href="/icon.png" />
   </Fragment>

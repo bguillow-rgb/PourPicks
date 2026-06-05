@@ -27,6 +27,17 @@ faqs:
     a: "Use a dedicated cellar app like Pour Picks (free) — it captures the bottle, your purchase price, when you opened it, and what you thought of each pour. Spreadsheets work for the first 10 bottles and then break; once you cross 20 you'll lose track of what's open, what's finished, and what you said about the bottle six months ago."
   - q: "Should I keep my bourbon bottles standing or on their side?"
     a: "Upright. Unlike wine, bourbon has a high enough alcohol content that prolonged contact with the cork can degrade the cork and contaminate the spirit. Standing storage also makes the cellar easier to scan visually — you read every label without rotating bottles."
+howToSteps:
+  - name: "Choose 6 to 10 starter bottles across three price tiers"
+    text: "Start with six to ten bottles in the $25–$60 range. Pick across mash bill styles and proof points: a wheated bourbon (Maker's Mark), a high-rye bourbon (Four Roses Small Batch), a high-corn standard (Buffalo Trace), a high-proof option (Wild Turkey 101), and at least one age-statement bottle (Knob Creek 9 Year). Variety teaches your palate faster than depth."
+  - name: "Store every bottle upright in a cool, stable, dark spot"
+    text: "Stand bottles upright — bourbon's high ABV (40–65%) will degrade a cork held in prolonged contact with the spirit. Keep them in a consistent 65–75°F environment away from direct sunlight. Stability matters more than the absolute temperature; a closet that swings 30° seasonally is worse than a steady 80°F garage shelf."
+  - name: "Cap tightly every time you pour"
+    text: "Replace the cap snugly after every pour. Loose or damaged caps cause more bourbon damage than wrong temperatures do. If a cork feels chipped or loose, transfer the remaining spirit to a smaller bottle to reduce both headspace and cork risk."
+  - name: "Finish open bottles within 9 to 12 months, or reduce headspace"
+    text: "Oxidation changes flavor noticeably once a bottle drops below half full and the headspace grows. Drink open bottles within nine to twelve months, or decant the remaining spirit into a smaller 375ml or 200ml bottle. For a larger collection, a $12 can of Private Preserve inert-gas spray extends shelf life without decanting."
+  - name: "Track every bottle and pour from day one"
+    text: "Use a dedicated cellar app (Pour Picks is free on iOS) to log every bottle the moment it enters your cellar and every pour the moment you set the glass down. Scan the label — the AI reads it and adds the bottle in under a second. Without records, you lose the feedback loop that tells you what your own palate actually prefers. Spreadsheets work for the first 10 bottles and fail after 20."
 published: true
 ---
 

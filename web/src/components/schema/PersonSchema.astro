@@ -7,11 +7,11 @@ const schema = {
   '@context': 'https://schema.org',
   '@type': 'Person',
   name: SITE.founder.name,
+  url: `${SITE.url}/about`,
   jobTitle: SITE.founder.role,
   worksFor: {
     '@type': 'Organization',
-    name: SITE.name,
-    url: SITE.url,
+    name: SITE.legalEntity,
   },
   sameAs: SITE.founder.sameAs.filter(Boolean),
 };

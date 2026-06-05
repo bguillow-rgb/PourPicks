@@ -3,7 +3,24 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import QuickAnswer from '../components/QuickAnswer.astro';
 import Footer from '../components/Footer.astro';
 import BreadcrumbSchema from '../components/schema/BreadcrumbSchema.astro';
+import PersonSchema from '../components/schema/PersonSchema.astro';
+import FAQPageSchema from '../components/schema/FAQPageSchema.astro';
 import { SITE } from '../consts';
+
+const pressFaqs = [
+  {
+    q: 'What is Pour Picks?',
+    a: 'Pour Picks is an iOS app for adult bourbon collectors. It scans any bottle using AI to read the label, builds a private cellar of what you own, tracks collection value, and recommends what to pour from your own shelf via the "Pour Tonight" feature. The core app is free; an optional Cask Club subscription unlocks advanced cellar and journaling features.',
+  },
+  {
+    q: 'Who is the founder of Pour Picks?',
+    a: 'Pour Picks was founded and built by Bob Guillow, an independent solo developer. The app is published by Timberline Ventures LLC, a single-member LLC. There is no outside investment and no parent company.',
+  },
+  {
+    q: 'What makes Pour Picks different from other whiskey apps?',
+    a: 'Most bourbon apps are review aggregators or retail marketplaces. Pour Picks is built around the collector\'s own cellar, not the broader community. The recommender reads from your shelf — not a global rankings list — and the app sells no data, shows no ads, and has no purchase links. It is the only major bourbon app with an AI label scanner and a "Pour Tonight" recommender that works from inventory you already own.',
+  },
+];
 
 const quickAnswer =
   'Pour Picks is a solo-built iOS app for bourbon collectors. ' +
@@ -17,6 +34,8 @@ const quickAnswer =
   path="/press"
 >
   <Fragment slot="head">
+    <PersonSchema />
+    <FAQPageSchema faqs={pressFaqs} />
     <BreadcrumbSchema crumbs={[{ name: 'Press', url: `${SITE.url}/press` }]} />
   </Fragment>
 

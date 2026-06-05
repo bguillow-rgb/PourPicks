@@ -32,6 +32,12 @@ const articles = defineCollection({
     faqs: z
       .array(z.object({ q: z.string(), a: z.string() }))
       .default([]),
+    // Optional HowTo steps for articles that describe a process.
+    // Each step has a name and text field. When present, the ArticleLayout
+    // will emit HowTo schema in addition to the standard Article schema.
+    howToSteps: z
+      .array(z.object({ name: z.string(), text: z.string() }))
+      .optional(),
     // Set false for stub / draft content. The articles index and dynamic
     // route both filter by this.
     published: z.boolean().default(true),

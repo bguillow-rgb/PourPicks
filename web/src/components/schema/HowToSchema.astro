@@ -1,0 +1,40 @@
+---
+import { SITE } from '../../consts';
+
+// HowTo schema for process-oriented articles. Emit on any article whose
+// content describes a step-by-step process. Do NOT emit on articles that
+// are informational overviews without clear sequential steps.
+interface Step {
+  name: string;
+  text: string;
+}
+
+interface Props {
+  name: string;
+  description: string;
+  url: string;
+  steps: Step[];
+}
+
+const { name, description, url, steps } = Astro.props;
+
+const schema = {
+  '@context': 'https://schema.org',
+  '@type': 'HowTo',
+  name,
+  description,
+  url,
+  publisher: {
+    '@type': 'Organization',
+    name: SITE.name,
+    url: SITE.url,
+  },
+  step: steps.map((s, i) => ({
+    '@type': 'HowToStep',
+    position: i + 1,
+    name: s.name,
+    text: s.text,
+  })),
+};
+---
+<script type="application/ld+json" set:html={JSON.stringify(schema)} />

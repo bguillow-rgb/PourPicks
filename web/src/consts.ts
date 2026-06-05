@@ -27,8 +27,16 @@ export const SITE = {
     sameAs: [
       // Add LinkedIn / X / GitHub when ready. Empty entries are filtered out
       // before rendering so it\u2019s safe to leave them blank.
+      'https://twitter.com/pourpicks',
     ],
   },
+  // Organization-level sameAs \u2014 canonical social and store profiles for the
+  // brand entity. Used in OrganizationSchema.
+  orgSameAs: [
+    'https://apps.apple.com/us/app/pour-picks/id6764040132',
+    'https://twitter.com/pourpicks',
+    'https://www.instagram.com/pourpicksapp',
+  ],
   // Analytics + tracking. All values come from env vars at build time so
   // local builds and forks don't fire analytics.
   analytics: {

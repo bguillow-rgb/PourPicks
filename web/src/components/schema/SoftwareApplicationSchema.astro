@@ -9,10 +9,18 @@ import { SITE } from '../../consts';
 //   a broken link claim.
 // - aggregateRating is intentionally omitted until there are real ratings;
 //   fabricating ratings is a manual-action risk.
+
+interface Props {
+  // Optional feature list to surface on pages that describe the app in detail.
+  featureList?: string;
+}
+
+const { featureList } = Astro.props;
+
 const base: Record<string, unknown> = {
   '@context': 'https://schema.org',
   '@type': 'MobileApplication',
-  name: SITE.name,
+  name: `${SITE.name}: Bourbon & Whiskey`,
   description: SITE.description,
   operatingSystem: 'iOS',
   applicationCategory: 'LifestyleApplication',
@@ -23,6 +31,7 @@ const base: Record<string, unknown> = {
     price: '0',
     priceCurrency: 'USD',
   },
+  url: SITE.appStoreUrl,
   publisher: {
     '@type': 'Organization',
     name: SITE.name,
@@ -33,6 +42,10 @@ const base: Record<string, unknown> = {
 if (SITE.appStoreUrl) {
   base.downloadUrl = SITE.appStoreUrl;
   base.installUrl = SITE.appStoreUrl;
+}
+
+if (featureList) {
+  base.featureList = featureList;
 }
 ---
 <script type="application/ld+json" set:html={JSON.stringify(base)} />
