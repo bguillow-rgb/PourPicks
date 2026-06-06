@@ -33,6 +33,7 @@ export const SITE = {
   // Organization-level sameAs \u2014 canonical social and store profiles for the
   // brand entity. Used in OrganizationSchema.
   orgSameAs: [
+    'https://www.wikidata.org/wiki/Q140083291',
     'https://apps.apple.com/us/app/pour-picks/id6764040132',
     'https://twitter.com/pourpicks',
     'https://www.instagram.com/pourpicksapp',
