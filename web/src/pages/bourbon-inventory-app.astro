@@ -1,0 +1,144 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import QuickAnswer from '../components/QuickAnswer.astro';
+import FAQ from '../components/FAQ.astro';
+import Footer from '../components/Footer.astro';
+import BreadcrumbSchema from '../components/schema/BreadcrumbSchema.astro';
+import SoftwareApplicationSchema from '../components/schema/SoftwareApplicationSchema.astro';
+import { SITE } from '../consts';
+
+const quickAnswer =
+  'A bourbon inventory app is a phone app that catalogs every bottle in your ' +
+  'collection — distillery, expression, proof, fill level, and value — so you ' +
+  'always know what you own. Pour Picks does this on iOS: scan a label to add ' +
+  'a bottle, track collection value, and log every pour in one private cellar.';
+
+const faqs = [
+  {
+    q: 'What is the best bourbon inventory app?',
+    a: 'The best bourbon inventory app is the one that makes adding bottles fast and keeps your data private. Pour Picks adds bottles by scanning the front label with your iPhone camera, tracks live collection value against MSRP, and logs tasting notes per pour. It is free to download, with an optional Cask Club subscription ($2.99/month) for unlimited scans and advanced cellar tools. Your collection is never sold or used for advertising.',
+  },
+  {
+    q: 'Is there a free app to track my bourbon collection?',
+    a: 'Yes. Pour Picks is free to download and use for cataloging your cellar, taking the palate quiz, and basic bottle tracking. A Cask Club subscription unlocks unlimited AI label scans, full journaling, and collection value tracking, but you can build and browse a cellar without paying. Subscriptions are billed through Apple, so payment details never touch Pour Picks servers.',
+  },
+  {
+    q: 'How do I scan a bourbon bottle to add it to my collection?',
+    a: 'Open Pour Picks, tap to add a bottle, and point your iPhone camera at the front label. The Pour Concierge scanner uses Claude Vision to read the distillery, expression, and proof, then matches it against a catalog of thousands of American whiskeys — usually in under a second. If the read is not right, you can describe the bottle in text, search manually, or suggest a new bottle for the catalog.',
+  },
+  {
+    q: 'Can a bourbon inventory app track how much my collection is worth?',
+    a: 'Yes. Pour Picks keeps a running value of your cellar using catalog MSRP as the default price, with an override for what you actually paid. It shows per-bottle and per-line totals, with quantity steppers for bottles you own multiples of, so the total reflects your real collection — not a guess.',
+  },
+  {
+    q: 'Does Pour Picks work on Android?',
+    a: 'Pour Picks launched on iOS first and is available now on the App Store. An Android release is on the roadmap but not yet scheduled. If you want a heads-up when Android ships, email support@pourpicks.app.',
+  },
+];
+---
+<BaseLayout
+  title="Bourbon Inventory App — Catalog & Value Your Cellar"
+  description="Pour Picks is a free bourbon inventory app for iOS. Scan a label to add a bottle, track your collection's value, and log every pour in one private cellar."
+  path="/bourbon-inventory-app"
+>
+  <Fragment slot="head">
+    <SoftwareApplicationSchema featureList="Bourbon inventory tracker, AI label scanner, collection value tracking, tasting journal, palate quiz, cellar catalog" />
+    <BreadcrumbSchema crumbs={[{ name: 'Bourbon Inventory App', url: `${SITE.url}/bourbon-inventory-app` }]} />
+    <link rel="apple-touch-icon" href="/icon.png" />
+  </Fragment>
+
+  <p class="brand">{SITE.name}</p>
+  <h1>The bourbon inventory app for serious collectors</h1>
+  <p class="effective">Scan a label, add the bottle, and always know what's in your cellar — and what it's worth.</p>
+
+  <QuickAnswer text={quickAnswer} />
+
+  <a class="hero-cta" href={SITE.appStoreUrl}>
+    Download on the App Store
+    <span aria-hidden="true">&nbsp;&rarr;</span>
+  </a>
+  <p class="hero-trust">For adults 21+ &middot; No ads &middot; Your collection stays yours</p>
+
+  <section class="feature-row">
+    <div class="feature-row-copy">
+      <h2>Why use an app to track your bourbon collection?</h2>
+      <p>A growing bourbon collection quickly outgrows a spreadsheet or a notes file. You forget which bottles are open, buy a duplicate you already own, or lose track of what a rare pour is now worth. A dedicated bourbon inventory app keeps every bottle in one place — searchable, valued, and backed up to your account.</p>
+      <p>Pour Picks was built for exactly this. Instead of typing out each bottle, you scan the label and the app fills in the distillery, expression, and proof for you. It is the difference between a chore you stop doing and a cellar you actually keep current.</p>
+    </div>
+  </section>
+
+  <section class="feature-row feature-row--reverse">
+    <div class="feature-row-copy">
+      <h2>How do you add bottles to your cellar?</h2>
+      <p>Point your iPhone camera at the front label. The Pour Concierge scanner uses Claude Vision to identify the distillery, expression, and proof, then matches against a catalog of thousands of American whiskeys — usually in under a second. No manual data entry for the common case.</p>
+      <p>When a bottle is missing or the scan isn't right, you can describe it in words for a second pass, search the catalog by name, or suggest a new bottle to be added. An undo snackbar gives you 4.5 seconds to reverse any add, so mistakes never stick.</p>
+    </div>
+  </section>
+
+  <section class="feature-row">
+    <div class="feature-row-copy">
+      <h2>Can it track how much my collection is worth?</h2>
+      <p>Yes — collection value updates with every bottle you add. Pour Picks uses catalog MSRP as the default price and lets you override it with what you actually paid. You get per-bottle and per-line totals, plus quantity steppers for the bottles you own in multiples.</p>
+      <p>Mark each bottle Owned, Wishlist, or Finished, and the running total reflects only what's actually resting in your cellar. It's a real number for insurance, resale decisions, or just knowing where your hobby budget went.</p>
+    </div>
+  </section>
+
+  <section class="feature-row feature-row--reverse">
+    <div class="feature-row-copy">
+      <h2>Does it remember your tasting notes?</h2>
+      <p>Every pour can be logged with an overall rating, separate nose, palate, and finish ratings, how you served it (neat, rocks, water, or cocktail), pour size, and freeform notes. Edit and revisit any entry later, so your tasting history grows alongside your inventory.</p>
+      <p>A "Pour Tonight" feature reads your actual cellar and suggests a specific bottle to open tonight, based on what you've poured recently, your ratings, and the season — a recommendation from what you already own, not a prompt to buy more.</p>
+    </div>
+  </section>
+
+  <section class="feature-row">
+    <div class="feature-row-copy">
+      <h2>Pour Picks vs. a spreadsheet</h2>
+      <table class="compare">
+        <thead>
+          <tr><th>Task</th><th>Spreadsheet</th><th>Pour Picks</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>Add a bottle</td><td>Type every field by hand</td><td>Scan the label, done in ~1 second</td></tr>
+          <tr><td>Collection value</td><td>Manual formulas, stale prices</td><td>Live MSRP with paid-price override</td></tr>
+          <tr><td>Tasting notes</td><td>Separate doc, rarely updated</td><td>Per-pour journal tied to each bottle</td></tr>
+          <tr><td>What to pour tonight</td><td>You decide from memory</td><td>"Pour Tonight" picks from your cellar</td></tr>
+          <tr><td>On your phone</td><td>Clunky on mobile</td><td>Native iOS, camera-first</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <div class="cta-row">
+    <a class="cta" href={SITE.appStoreUrl}>Download on iOS</a>
+  </div>
+
+  <p class="features-link"><a href="/features">See every feature &rarr;</a></p>
+
+  <FAQ faqs={faqs} heading="Bourbon inventory app: common questions" />
+
+  <Footer />
+</BaseLayout>
+
+<style>
+  .compare {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 1rem;
+    font-size: 0.95rem;
+  }
+  .compare th,
+  .compare td {
+    text-align: left;
+    padding: 0.6rem 0.75rem;
+    border-bottom: 1px solid rgba(237, 228, 211, 0.15);
+    vertical-align: top;
+  }
+  .compare thead th {
+    border-bottom: 2px solid rgba(237, 228, 211, 0.3);
+    font-weight: 700;
+  }
+  .compare td:first-child {
+    font-weight: 600;
+  }
+</style>
