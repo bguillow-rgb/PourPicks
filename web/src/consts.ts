@@ -38,6 +38,12 @@ export const SITE = {
     'https://twitter.com/pourpicks',
     'https://www.instagram.com/pourpicksapp',
   ],
+  // Visible social profiles surfaced in the footer. Label is the displayed
+  // handle; url is the canonical profile link.
+  socials: [
+    { label: '@pourpicks', platform: 'X', url: 'https://x.com/pourpicks' },
+    { label: '@pourpicksapp', platform: 'Instagram', url: 'https://www.instagram.com/pourpicksapp' },
+  ],
   // Analytics + tracking. All values come from env vars at build time so
   // local builds and forks don't fire analytics.
   analytics: {
