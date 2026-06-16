@@ -1,6 +1,6 @@
 ---
 title: "How to Start a Bourbon Cellar (Without Spending a Fortune)"
-description: "A practical guide to building your first bourbon cellar — what to buy first, how to store it, how to track it, and the mistakes most new collectors make."
+description: "A practical guide to building your first bourbon cellar, what to buy first, how to store it, how to track it, and the mistakes most new collectors make."
 tier: cluster
 targetQuery: "how to start a bourbon cellar"
 relatedQueries:
@@ -22,22 +22,22 @@ faqs:
   - q: "Do I need to invest in expensive bottles to start?"
     a: "No. The most-recommended starter range is $25 to $60 a bottle. Buffalo Trace ($30), Wild Turkey 101 ($30), Old Forester 86 ($25), Four Roses Small Batch ($35), and Knob Creek 9 ($40) cover four mash bill styles and three proof points without anyone going broke."
   - q: "How should I store an opened bourbon?"
-    a: "Upright, capped tight, away from direct sunlight and heat. The cap matters more than the spot — a loose or chipped cork lets the spirit evaporate above the fill line and accelerates oxidation. If a bottle is under half full and you won't finish it within six months, decant into a smaller bottle to cut headspace."
+    a: "Upright, capped tight, away from direct sunlight and heat. The cap matters more than the spot, a loose or chipped cork lets the spirit evaporate above the fill line and accelerates oxidation. If a bottle is under half full and you won't finish it within six months, decant into a smaller bottle to cut headspace."
   - q: "What's the best way to track my bourbon cellar?"
-    a: "Use a dedicated cellar app like Pour Picks (free) — it captures the bottle, your purchase price, when you opened it, and what you thought of each pour. Spreadsheets work for the first 10 bottles and then break; once you cross 20 you'll lose track of what's open, what's finished, and what you said about the bottle six months ago."
+    a: "Use a dedicated cellar app like Pour Picks (free), it captures the bottle, your purchase price, when you opened it, and what you thought of each pour. Spreadsheets work for the first 10 bottles and then break; once you cross 20 you'll lose track of what's open, what's finished, and what you said about the bottle six months ago."
   - q: "Should I keep my bourbon bottles standing or on their side?"
-    a: "Upright. Unlike wine, bourbon has a high enough alcohol content that prolonged contact with the cork can degrade the cork and contaminate the spirit. Standing storage also makes the cellar easier to scan visually — you read every label without rotating bottles."
+    a: "Upright. Unlike wine, bourbon has a high enough alcohol content that prolonged contact with the cork can degrade the cork and contaminate the spirit. Standing storage also makes the cellar easier to scan visually, you read every label without rotating bottles."
 howToSteps:
   - name: "Choose 6 to 10 starter bottles across three price tiers"
-    text: "Start with six to ten bottles in the $25–$60 range. Pick across mash bill styles and proof points: a wheated bourbon (Maker's Mark), a high-rye bourbon (Four Roses Small Batch), a high-corn standard (Buffalo Trace), a high-proof option (Wild Turkey 101), and at least one age-statement bottle (Knob Creek 9 Year). Variety teaches your palate faster than depth."
+    text: "Start with six to ten bottles in the $25-$60 range. Pick across mash bill styles and proof points: a wheated bourbon (Maker's Mark), a high-rye bourbon (Four Roses Small Batch), a high-corn standard (Buffalo Trace), a high-proof option (Wild Turkey 101), and at least one age-statement bottle (Knob Creek 9 Year). Variety teaches your palate faster than depth."
   - name: "Store every bottle upright in a cool, stable, dark spot"
-    text: "Stand bottles upright — bourbon's high ABV (40–65%) will degrade a cork held in prolonged contact with the spirit. Keep them in a consistent 65–75°F environment away from direct sunlight. Stability matters more than the absolute temperature; a closet that swings 30° seasonally is worse than a steady 80°F garage shelf."
+    text: "Stand bottles upright, bourbon's high ABV (40-65%) will degrade a cork held in prolonged contact with the spirit. Keep them in a consistent 65-75°F environment away from direct sunlight. Stability matters more than the absolute temperature; a closet that swings 30° seasonally is worse than a steady 80°F garage shelf."
   - name: "Cap tightly every time you pour"
     text: "Replace the cap snugly after every pour. Loose or damaged caps cause more bourbon damage than wrong temperatures do. If a cork feels chipped or loose, transfer the remaining spirit to a smaller bottle to reduce both headspace and cork risk."
   - name: "Finish open bottles within 9 to 12 months, or reduce headspace"
     text: "Oxidation changes flavor noticeably once a bottle drops below half full and the headspace grows. Drink open bottles within nine to twelve months, or decant the remaining spirit into a smaller 375ml or 200ml bottle. For a larger collection, a $12 can of Private Preserve inert-gas spray extends shelf life without decanting."
   - name: "Track every bottle and pour from day one"
-    text: "Use a dedicated cellar app (Pour Picks is free on iOS) to log every bottle the moment it enters your cellar and every pour the moment you set the glass down. Scan the label — the AI reads it and adds the bottle in under a second. Without records, you lose the feedback loop that tells you what your own palate actually prefers. Spreadsheets work for the first 10 bottles and fail after 20."
+    text: "Use a dedicated cellar app (Pour Picks is free on iOS) to log every bottle the moment it enters your cellar and every pour the moment you set the glass down. Scan the label, the AI reads it and adds the bottle in under a second. Without records, you lose the feedback loop that tells you what your own palate actually prefers. Spreadsheets work for the first 10 bottles and fail after 20."
 published: true
 ---
 
@@ -47,7 +47,7 @@ The short version: you're about to start a bourbon cellar whether you call it th
 
 ## What is a bourbon cellar, exactly?
 
-A bourbon cellar is just the collection of bottles you currently own — open and unopened — managed with enough discipline that you can actually answer four questions: what do I have, what have I opened, when did I open it, and what did I think of it?
+A bourbon cellar is just the collection of bottles you currently own, open and unopened, managed with enough discipline that you can actually answer four questions: what do I have, what have I opened, when did I open it, and what did I think of it?
 
 Most "collections" fail those four questions by the time they hit 15 bottles. The bottles pile up faster than the drinker's attention does. You buy something interesting at a store pick event, bring it home, set it on the shelf, and three months later you can't remember whether you opened it or whether you liked it. That's where structure helps.
 
@@ -67,7 +67,7 @@ A typical starter cellar at this price point covers four key dimensions:
 
 | Bottle | Why it's in the starter cellar | Approx price |
 |---|---|---|
-| Buffalo Trace | The default reference bourbon. Smooth, sweet, balanced — your baseline. | $30 |
+| Buffalo Trace | The default reference bourbon. Smooth, sweet, balanced, your baseline. | $30 |
 | Wild Turkey 101 | High proof (101°) without being harsh. Teaches you what proof actually does to a bourbon. | $30 |
 | Old Forester 86 | Traditional bourbon profile, low proof. The "what bourbon tasted like in 1950" benchmark. | $25 |
 | Four Roses Small Batch | Mixed mash bills, more spice. Bridges into the rye-forward styles. | $35 |
@@ -85,7 +85,7 @@ Storage is the part most new collectors over-engineer. The reality is simpler th
 **The four rules that actually matter:**
 
 1. **Upright, always.** Unlike wine, the high alcohol content in bourbon (40-65% ABV) will slowly degrade a cork held in contact with the spirit for years. Standing storage solves this.
-2. **Cool and stable.** Room-temperature is fine. A consistent 65-75°F is ideal. What matters more than the absolute temperature is *stability* — a closet that swings 50° to 80° between summer and winter is worse than a garage that holds steady at 80°.
+2. **Cool and stable.** Room-temperature is fine. A consistent 65-75°F is ideal. What matters more than the absolute temperature is *stability*, a closet that swings 50° to 80° between summer and winter is worse than a garage that holds steady at 80°.
 3. **Out of direct sunlight.** UV light breaks down compounds in the spirit and bleaches the label. A cabinet, a shelf inside a closet, or any spot that doesn't get afternoon sun works fine.
 4. **Cap tight every time.** This is the one rule most people get wrong. Every time you pour, the cap goes back on snug. Loose caps cause more bourbon damage than wrong temperatures do.
 
@@ -93,7 +93,7 @@ You don't need a wine fridge, a humidor, a temperature-controlled cellar, or any
 
 ## Does opened bourbon really go bad?
 
-Bourbon doesn't spoil the way milk spoils — it won't make you sick. But oxidation absolutely changes the flavor of an open bottle, and the change accelerates dramatically once the bottle drops below half full.
+Bourbon doesn't spoil the way milk spoils, it won't make you sick. But oxidation absolutely changes the flavor of an open bottle, and the change accelerates dramatically once the bottle drops below half full.
 
 The bourbon community calls this the "second half" problem. The top half of an open bottle, drunk within three to six months, tastes very close to the original. The bottom half, sitting in a bottle with that much headspace for another six months, often tastes flat, dusty, or weirdly metallic.
 
@@ -113,24 +113,24 @@ The reason is friction. Every time you want to log a pour, you have to: pick up 
 
 A dedicated app removes that friction. The market is small but real:
 
-- **[Pour Picks](https://apps.apple.com/us/app/pour-picks/id6764040132)** — free iOS app. Scan any bottle with your camera (AI reads the label), it lands in your cellar. Tracks owned/wishlist/finished, purchase price, when you opened it, and the "Pour Tonight" feature picks a bottle from what you already own based on what you haven't poured recently. Free for the first 10 scans plus full cellar; $2.99/mo for unlimited.
-- **Distiller** — community-led review app with a large bottle database. More about reading reviews than managing a cellar.
-- **Whiskeybase** — web-first database; the app experience is less polished but the data depth is unmatched.
-- **A spreadsheet** — works for the first 10 bottles, breaks after that. Always.
+- **[Pour Picks](https://apps.apple.com/us/app/pour-picks/id6764040132)**, free iOS app. Scan any bottle with your camera (AI reads the label), it lands in your cellar. Tracks owned/wishlist/finished, purchase price, when you opened it, and the "Pour Tonight" feature picks a bottle from what you already own based on what you haven't poured recently. Free for the first 10 scans plus full cellar; $2.99/mo for unlimited.
+- **Distiller**, community-led review app with a large bottle database. More about reading reviews than managing a cellar.
+- **Whiskeybase**, web-first database; the app experience is less polished but the data depth is unmatched.
+- **A spreadsheet**, works for the first 10 bottles, breaks after that. Always.
 
-The tracking matters more than people think. The whole point of a cellar — versus a random collection — is being able to look at what you've drunk and learn what you actually like. Without records, you'll keep buying the bottles your friends recommend instead of the bottles your own palate has voted for.
+The tracking matters more than people think. The whole point of a cellar, versus a random collection, is being able to look at what you've drunk and learn what you actually like. Without records, you'll keep buying the bottles your friends recommend instead of the bottles your own palate has voted for.
 
 ## What mistakes do new collectors make?
 
 Five mistakes the bourbon community sees over and over in beginner cellars:
 
-**1. Chasing allocated bottles before building a base.** Eagle Rare 17, William Larue Weller, Pappy Van Winkle — these are the cult bottles new collectors think they need. They don't. Your palate isn't ready to taste the difference between a 12-year wheated bourbon and a 17-year wheated bourbon if you haven't spent a year with the 6-year version. Build the base first.
+**1. Chasing allocated bottles before building a base.** Eagle Rare 17, William Larue Weller, Pappy Van Winkle, these are the cult bottles new collectors think they need. They don't. Your palate isn't ready to taste the difference between a 12-year wheated bourbon and a 17-year wheated bourbon if you haven't spent a year with the 6-year version. Build the base first.
 
 **2. Buying too many bottles of the same thing.** Twelve bourbons that all taste roughly the same is not variety. Get one wheater, one rye-heavy bourbon, one high-corn, one with an age statement, one cask strength. The contrast is where you learn.
 
 **3. Hunting only the new releases.** Every year's BTAC release sucks up all the bourbon-media attention, but most of the best drinking bourbon costs $40 and sits on the shelf year-round. The annual chase exhausts collectors and produces overpriced bottles you didn't actually want.
 
-**4. Refusing to drink the good stuff.** A bottle on the shelf for five years isn't a collection — it's a museum. Drink the stuff. The whole point.
+**4. Refusing to drink the good stuff.** A bottle on the shelf for five years isn't a collection, it's a museum. Drink the stuff. The whole point.
 
 **5. Not logging anything.** The single biggest "wish I'd done this from day one" regret from experienced collectors. By the time you remember whether you liked the Russell's Reserve 10 you bought three years ago, you've already bought another two bottles of stuff you thought you remembered liking and didn't.
 
@@ -151,7 +151,7 @@ That's a 20-bottle cellar with real variety, real progression, and a backbone of
 
 Honest answer: around bottle 40. Below that, you're buying bottles to drink. Above 40, you're managing inventory.
 
-That's not a bad thing — many serious collectors love the inventory game — but it's a different hobby than drinking bourbon. If you find yourself opening fewer bottles per month as your shelf grows, you've crossed into collection mode. There's no rule that says you have to. Plenty of people stop at 25 bottles and rotate the same set forever, drinking everything they buy. That's a sustainable cellar.
+That's not a bad thing, many serious collectors love the inventory game, but it's a different hobby than drinking bourbon. If you find yourself opening fewer bottles per month as your shelf grows, you've crossed into collection mode. There's no rule that says you have to. Plenty of people stop at 25 bottles and rotate the same set forever, drinking everything they buy. That's a sustainable cellar.
 
 The collectors who burn out are the ones who don't make the choice deliberately. They keep buying, the bottles stack up, the open-bottle oxidation problem compounds, and eventually they pour the same three bottles every week while $5,000 worth of bourbon stares at them from the shelf. Don't be that person.
 

@@ -19,7 +19,7 @@ export const SITE = {
   appStoreUrl: 'https://apps.apple.com/us/app/pour-picks/id6764040132',
   bundleId: 'com.pourpicks.app',
   appleTeamId: 'ZNS5TNLB2D',
-  // Founder / publisher \u2014 used for Person and Organization schema. The
+  // Founder / publisher, used for Person and Organization schema. The
   // /about page is the canonical entity anchor.
   founder: {
     name: 'Bob Guillow',
@@ -30,7 +30,7 @@ export const SITE = {
       'https://twitter.com/pourpicks',
     ],
   },
-  // Organization-level sameAs \u2014 canonical social and store profiles for the
+  // Organization-level sameAs, canonical social and store profiles for the
   // brand entity. Used in OrganizationSchema.
   orgSameAs: [
     'https://www.wikidata.org/wiki/Q140083291',
@@ -53,11 +53,11 @@ export const SITE = {
     // Google Search Console verification token (the meta tag content
     // value). Set via PUBLIC_GSC_VERIFICATION at build time.
     gscVerification: import.meta.env.PUBLIC_GSC_VERIFICATION ?? '',
-    // IndexNow key. Public by design \u2014 it's verified by serving the
+    // IndexNow key. Public by design, it's verified by serving the
     // matching <key>.txt file at site root. See public/.
     indexNowKey: import.meta.env.PUBLIC_INDEXNOW_KEY ?? '',
   },
-  // Cask Club aesthetic \u2014 oxblood + antique brass on espresso black.
+  // Cask Club aesthetic, oxblood + antique brass on espresso black.
   // Mirrors the in-app theme in pour-picks/src/constants/theme.ts so the
   // marketing site and the app feel like the same product.
   theme: {

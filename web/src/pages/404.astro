@@ -7,14 +7,14 @@ import { SITE } from '../consts';
 //
 // Invite links are path-based: https://pourpicks.app/t/<code>. On GitHub
 // Pages (static, no SSR) we can't enumerate unknown codes at build time, so
-// there's no real /t/<code> file — the request falls through to this 404.html
+// there's no real /t/<code> file, the request falls through to this 404.html
 // with the URL preserved. The script below detects the /t/<code> path and
 // swaps the page into "invite bounce" mode: it tries the pourpicks:// scheme
 // (opens the app if installed) and otherwise shows the App Store CTA + the
 // code to type manually.
 //
 // Once Associated Domains / universal links are live on a native build, iOS
-// intercepts /t/<code> taps before the browser and opens the app directly —
+// intercepts /t/<code> taps before the browser and opens the app directly, 
 // this page only ever shows for people without the app installed.
 ---
 <BaseLayout
@@ -23,7 +23,7 @@ import { SITE } from '../consts';
   path="/404"
   noindex={true}
 >
-  {/* Default 404 content — hidden client-side when this is an invite link. */}
+  {/* Default 404 content, hidden client-side when this is an invite link. */}
   <div id="notfound">
     <p class="brand">{SITE.name}</p>
     <h1>Page Not Found</h1>
@@ -36,7 +36,7 @@ import { SITE } from '../consts';
     </p>
   </div>
 
-  {/* Invite bounce — revealed only for /t/<code> paths. */}
+  {/* Invite bounce, revealed only for /t/<code> paths. */}
   <div id="invite-bounce" hidden>
     <p class="brand">{SITE.name}</p>
     <p class="eyebrow">YOU'RE INVITED</p>

@@ -1,6 +1,6 @@
 ---
 title: "How to Track a Bourbon Collection: Spreadsheet vs Notebook vs App"
-description: "The real trade-offs between tracking your bourbon collection in a spreadsheet, a notebook, or a dedicated app — and the bottle count where each method quietly fails."
+description: "The real trade-offs between tracking your bourbon collection in a spreadsheet, a notebook, or a dedicated app, and the bottle count where each method quietly fails."
 tier: cluster
 targetQuery: "how to track bourbon collection"
 relatedQueries:

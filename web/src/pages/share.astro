@@ -4,13 +4,13 @@ import Footer from '../components/Footer.astro';
 import { SITE } from '../consts';
 
 // Share-handoff landing. Receives one of:
-//   /share?bottle=<id> — a bottle the user shared from the Pour Picks app
-//   /share?quiz=1      — the quiz from a results screen
+//   /share?bottle=<id>, a bottle the user shared from the Pour Picks app
+//   /share?quiz=1, the quiz from a results screen
 // Tries to open the app via the pourpicks:// scheme, then falls back to
 // the App Store CTA for recipients who don't have the app. Page renders
 // server-side as a static doc; client JS reads the query param.
 //
-// Intentionally noindex'd — the URL space is unbounded (one per bottle)
+// Intentionally noindex'd, the URL space is unbounded (one per bottle)
 // and the page is a redirect, not a content page.
 ---
 <BaseLayout
@@ -94,7 +94,7 @@ import { SITE } from '../consts';
 
     // Try to open the app. The pourpicks:// scheme handler will succeed
     // silently when the app is installed. When it's not, Mobile Safari
-    // does nothing visible — the CTA below is what the user falls back to.
+    // does nothing visible, the CTA below is what the user falls back to.
     // Use a small delay so the page paints first.
     setTimeout(() => {
       window.location.href = deepLink as string;
