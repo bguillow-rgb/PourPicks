@@ -13,7 +13,7 @@ publishedAt: "2026-06-01"
 author: "Pour Picks"
 relatedSlugs:
   - "best-bourbon-cellar-apps"
-  - "how-to-start-a-bourbon-cellar"
+  - "bourbon-vs-rye-difference"
   - "track-bourbon-collection-spreadsheet-vs-app"
 faqs:
   - q: "What is the main difference between Distiller and Whiskeybase?"

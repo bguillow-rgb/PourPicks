@@ -12,8 +12,9 @@ quickAnswer: "A mash bill is the recipe of grains used to make a whiskey. Bourbo
 publishedAt: "2026-05-19"
 author: "Pour Picks"
 relatedSlugs:
+  - "how-to-read-a-bourbon-label"
   - "bourbon-vs-rye-difference"
-  - "how-to-start-a-bourbon-cellar"
+  - "single-barrel-vs-small-batch-bourbon"
 faqs:
   - q: "What's a typical bourbon mash bill?"
     a: "A typical bourbon mash bill is around 75% corn, 13% rye, and 12% malted barley, sometimes called the 'traditional' or 'low-rye' bourbon mash bill. Bourbons in this style include Buffalo Trace, Wild Turkey, Old Forester, and Heaven Hill. High-rye bourbons swap some of the corn for more rye (often 20-35%). Wheated bourbons use wheat instead of rye for the secondary grain."

@@ -12,9 +12,10 @@ quickAnswer: "The best bourbon cellar app depends on what you actually want. Pou
 publishedAt: "2026-05-21"
 author: "Pour Picks"
 relatedSlugs:
+  - "distiller-vs-whiskeybase"
   - "how-to-start-a-bourbon-cellar"
-  - "bourbon-vs-rye-difference"
-  - "what-is-mash-bill"
+  - "track-bourbon-collection-spreadsheet-vs-app"
+  - "how-to-value-a-bourbon-collection"
 faqs:
   - q: "What is the best bourbon cellar app overall?"
     a: "For tracking your own collection, including scanning bottles to add them and getting a recommendation for what to pour tonight, Pour Picks is the strongest pick in 2026. For reading community reviews before you buy, Distiller is the long-standing leader. For catalog depth across world whiskey, Whiskeybase is unmatched. The right answer depends on which job you are hiring the app for."

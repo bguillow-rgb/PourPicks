@@ -12,9 +12,8 @@ quickAnswer: "Store bourbon upright, out of direct light, at a stable room tempe
 publishedAt: "2026-06-01"
 author: "Pour Picks"
 relatedSlugs:
-  - "how-to-start-a-bourbon-cellar"
   - "does-bourbon-go-bad"
-  - "best-bourbon-cellar-apps"
+  - "how-to-start-a-bourbon-cellar"
 faqs:
   - q: "Should bourbon be stored upright or on its side?"
     a: "Always upright. Bourbon is bottled at 40% ABV or higher, and prolonged contact between high-proof spirit and a natural cork degrades the cork, taints the liquid, and can cause leaks. Wine is stored on its side to keep a low-alcohol liquid in contact with the cork so it stays moist; bourbon's higher proof makes that same contact harmful, so the rule reverses."
