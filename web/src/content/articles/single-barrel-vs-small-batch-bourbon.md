@@ -15,6 +15,7 @@ author: "Pour Picks"
 relatedSlugs:
   - "how-to-read-a-bourbon-label"
   - "bourbon-vs-rye-difference"
+  - "what-is-a-bourbon-store-pick"
   - "what-is-mash-bill"
 faqs:
   - q: "Is single barrel bourbon always better than small batch?"

@@ -13,6 +13,7 @@ publishedAt: "2026-06-01"
 author: "Pour Picks"
 relatedSlugs:
   - "track-bourbon-collection-spreadsheet-vs-app"
+  - "what-is-a-bourbon-store-pick"
   - "best-bourbon-cellar-apps"
   - "how-to-start-a-bourbon-cellar"
 faqs:
