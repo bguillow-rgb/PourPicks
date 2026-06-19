@@ -15,8 +15,8 @@ author: "Pour Picks"
 relatedSlugs:
   - "how-to-read-a-bourbon-label"
   - "bourbon-vs-rye-difference"
+  - "bourbon-age-statement-vs-nas"
   - "what-is-a-bourbon-store-pick"
-  - "what-is-mash-bill"
 faqs:
   - q: "Is single barrel bourbon always better than small batch?"
     a: "Not necessarily. Single barrel offers uniqueness and collectibility, but barrel variation means quality can swing. Small batch is deliberately consistent. 'Better' depends entirely on whether you prioritize discovering something unrepeatable or returning to a dependable profile."
