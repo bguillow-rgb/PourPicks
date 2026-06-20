@@ -74,20 +74,36 @@ const faqs = [
   </Fragment>
 
   <section class="hero">
-    <img src="/icon.png" alt="Pour Picks app icon" class="hero-icon" width="96" height="96" />
-    <p class="brand">{SITE.name}</p>
-    <h1>{SITE.tagline}</h1>
-    <p class="hero-tagline">Catalog your cellar. Log every pour. Find your next favorite bottle.</p>
+    <div class="hero-copy">
+      <p class="eyebrow">Bourbon cellar &middot; iOS</p>
+      <h1>The collector&rsquo;s <em>cellar.</em></h1>
+      <p class="hero-tagline">Catalog every bottle, scan a label to identify what you own, track your collection&rsquo;s value, and journal every pour in one private reference.</p>
 
-    {/* Hero CTA, live on the App Store since 2026-05-09. Apple's official
-        "Download on the App Store" badge would be ideal here long-term;
-        for now a styled link keeps parity with the design language and
-        avoids the badge asset hunt. */}
-    <a class="hero-cta" href={SITE.appStoreUrl}>
-      Download on the App Store
-      <span aria-hidden="true">&nbsp;&rarr;</span>
-    </a>
-    <p class="hero-trust">For adults 21+ &middot; No ads &middot; Your collection stays yours</p>
+      {/* Hero CTA, live on the App Store since 2026-05-09. */}
+      <a class="hero-cta" href={SITE.appStoreUrl}>Download on iOS &rarr;</a>
+      <p class="hero-trust">For adults 21+ &middot; No ads &middot; Your collection stays yours</p>
+    </div>
+
+    <aside class="bottlelabel" aria-label="Example bottle in your cellar">
+      <p class="bottlelabel-house">Buffalo Trace Distillery</p>
+      <p class="bottlelabel-name">Eagle Rare</p>
+      <p class="bottlelabel-style">Kentucky Straight Bourbon Whiskey</p>
+
+      <dl class="bottlelabel-stats">
+        <div>
+          <dt>Age</dt>
+          <dd>10<span>Years</span></dd>
+        </div>
+        <div>
+          <dt>Proof</dt>
+          <dd>90<span>45% ABV</span></dd>
+        </div>
+      </dl>
+
+      <p class="bottlelabel-mash">Corn 75 &middot; Rye 10 &middot; Malt 15</p>
+
+      <p class="bottlelabel-foot"><span>Cellar value</span><strong>$489</strong></p>
+    </aside>
   </section>
 
   <QuickAnswer text={quickAnswer} />
@@ -97,25 +113,25 @@ const faqs = [
 
     <div class="feature-grid">
       <div class="feature">
-        <div class="feature-icon" aria-hidden="true">&#9783;</div>
+        <div class="feature-icon" aria-hidden="true">No. 01 &middot; Cellar</div>
         <h3>Your cellar, organized</h3>
         <p>Track every bottle by distillery, expression, proof, age, and fill level. Snap the label, the Pour Concierge does the rest.</p>
       </div>
 
       <div class="feature">
-        <div class="feature-icon" aria-hidden="true">&#9998;</div>
+        <div class="feature-icon" aria-hidden="true">No. 02 &middot; Journal</div>
         <h3>A journal that remembers</h3>
         <p>Log each pour with nose, palate, finish, served-with, and pour size. Your tasting history, searchable.</p>
       </div>
 
       <div class="feature">
-        <div class="feature-icon" aria-hidden="true">&#36;</div>
+        <div class="feature-icon" aria-hidden="true">No. 03 &middot; Value</div>
         <h3>Collection value at a glance</h3>
         <p>MSRP-aware pricing keeps a running total of what's resting in your cellar, with overrides for bottles you bought above or below shelf.</p>
       </div>
 
       <div class="feature">
-        <div class="feature-icon" aria-hidden="true">&#9788;</div>
+        <div class="feature-icon" aria-hidden="true">No. 04 &middot; Palate</div>
         <h3>Discover what you'll love</h3>
         <p>A short profile quiz finds catalog entries matched to your palate, from a curated database of thousands of American whiskeys.</p>
       </div>

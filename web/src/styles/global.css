@@ -1,20 +1,31 @@
 /* Pour Picks marketing site, shared stylesheet.
-   Cask Club aesthetic: oxblood + antique brass on espresso black, with
-   serif type. Mirrors the in-app theme in pour-picks/src/constants/theme.ts
-   so the marketing site and the iOS app feel like the same product.
-
-   Self-hosted EB Garamond would match the in-app font exactly and lift
-   visual fidelity, but adds an LCP-relevant request. For now we rely on
-   system fallback (Georgia / Times New Roman). Drop a self-hosted variable
-   font into /public/fonts/ and add the @font-face here when ready. */
+   "Cask Club almanac" aesthetic: a bottle-label magazine. Aged-paper bourbon
+   labels and engraved high-contrast serif type set on espresso charcoal, with
+   antique-brass double rules borrowed from a bottle's label frame. The layout
+   is deliberately editorial, masthead + two-column label hero + department
+   features, so the site reads like a collector's annual, not a generic
+   centered landing page. Mirrors the in-app Cask Club theme so the marketing
+   site and the iOS app feel like the same product. */
 
 :root {
-  --bg: #0F0B09;
-  --card: #241914;
-  --text: #EDE4D3;
-  --muted: #A89B82;
-  --accent: #B08D57;
-  --border: rgba(176, 141, 87, 0.20);
+  --ink: #14100C;        /* espresso charcoal page */
+  --ink2: #1E1610;       /* raised charcoal panel */
+  --card: #1E1610;
+  --label: #E9DDC4;      /* aged label paper */
+  --label2: #DFD0B0;     /* label paper, deeper */
+  --label-ink: #2A1B10;  /* engraved ink on the label */
+  --text: #ECE3D2;       /* warm bone body on dark */
+  --muted: #A4937A;
+  --brass: #C0883B;
+  --brass-bright: #DDAE63;
+  --oxblood: #8C2F26;
+  --line: rgba(192, 136, 59, 0.22);
+  --line-strong: rgba(192, 136, 59, 0.45);
+
+  /* legacy token aliases, kept so any page still reading the old names works */
+  --bg: var(--ink);
+  --accent: var(--brass);
+  --border: var(--line);
 }
 
 * { box-sizing: border-box; }
@@ -22,201 +33,381 @@
 html, body {
   margin: 0;
   padding: 0;
-  background: var(--bg);
+  background: var(--ink);
   color: var(--text);
-  font-family: 'Cormorant Garamond', Georgia, 'Times New Roman', serif;
+  font-family: 'Spectral', Georgia, 'Times New Roman', serif;
   font-size: 17px;
-  line-height: 1.6;
+  line-height: 1.62;
+}
+
+/* subtle vertical aging on the page so it reads like stock, not flat black */
+body {
+  background-image:
+    radial-gradient(120% 80% at 50% -10%, rgba(192, 136, 59, 0.06), transparent 60%);
+  background-repeat: no-repeat;
 }
 
 a {
-  color: var(--accent);
+  color: var(--brass-bright);
   text-decoration: none;
-  border-bottom: 1px solid rgba(176, 141, 87, 0.35);
-  transition: border-color 0.2s;
+  border-bottom: 1px solid var(--line-strong);
+  transition: border-color 0.2s, color 0.2s;
 }
-a:hover { border-bottom-color: var(--accent); }
+a:hover { border-bottom-color: var(--brass-bright); color: var(--brass-bright); }
 
 .container {
-  max-width: 720px;
+  max-width: 940px;
   margin: 0 auto;
-  padding: 48px 24px 96px;
+  padding: 28px 28px 96px;
 }
 
-.brand {
-  font-size: 12px;
-  font-weight: 800;
-  color: var(--accent);
-  letter-spacing: 6px;
-  text-align: center;
-  margin: 0 0 8px;
+/* ----- Masthead ----------------------------------------------------------- */
+.site-header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 24px;
+  flex-wrap: wrap;
+  padding: 6px 0 14px;
+}
+.site-wordmark {
+  font-family: 'DM Serif Display', Georgia, serif;
+  font-size: 30px;
+  letter-spacing: 0.5px;
+  color: var(--text);
+  border-bottom: none;
+  line-height: 1;
+}
+.site-wordmark:hover { color: var(--brass-bright); }
+.site-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 18px;
+  font-family: 'Saira Condensed', 'Arial Narrow', sans-serif;
+  font-weight: 600;
+  font-size: 13px;
+  letter-spacing: 1.5px;
   text-transform: uppercase;
 }
-
-h1 {
-  font-size: 36px;
-  font-weight: 800;
-  color: var(--accent);
-  text-align: center;
-  margin: 0 0 8px;
-  letter-spacing: -0.5px;
-}
-
-.effective {
-  font-size: 14px;
+.site-nav a {
   color: var(--muted);
-  text-align: center;
-  margin: 0 0 48px;
+  border-bottom: none;
+}
+.site-nav a:hover,
+.site-nav a[aria-current='page'] { color: var(--brass-bright); }
+
+/* legacy centered nav (older pages may still emit <p class="nav">) */
+.nav {
+  font-family: 'Saira Condensed', 'Arial Narrow', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  font-size: 13px;
+  margin-bottom: 28px;
+}
+.nav a { color: var(--muted); border-bottom: none; margin: 0 10px; }
+.nav a:hover { color: var(--brass-bright); }
+
+/* the signature label-frame divider: a thick brass rule above a hairline */
+.label-rule {
+  height: 4px;
+  border-top: 2px solid var(--brass);
+  border-bottom: 1px solid var(--line-strong);
+  margin: 0 0 44px;
 }
 
+/* ----- Headings ----------------------------------------------------------- */
+h1 {
+  font-family: 'DM Serif Display', Georgia, serif;
+  font-size: 54px;
+  font-weight: 400;
+  line-height: 1.02;
+  color: var(--text);
+  letter-spacing: -0.5px;
+  margin: 0 0 18px;
+}
+h1 em {
+  font-style: italic;
+  color: var(--brass-bright);
+}
 h2 {
-  font-size: 22px;
-  font-weight: 800;
-  color: var(--accent);
-  margin: 40px 0 12px;
+  font-family: 'DM Serif Display', Georgia, serif;
+  font-size: 30px;
+  font-weight: 400;
+  color: var(--text);
+  margin: 48px 0 14px;
+  letter-spacing: -0.2px;
 }
-
 h3 {
-  font-size: 18px;
-  font-weight: 700;
+  font-family: 'DM Serif Display', Georgia, serif;
+  font-size: 21px;
+  font-weight: 400;
   color: var(--text);
   margin: 28px 0 10px;
 }
-
-p {
-  color: var(--muted);
-  margin: 0 0 14px;
-}
-
-ul, ol {
-  margin: 0 0 14px;
-  padding-left: 24px;
-  color: var(--muted);
-}
-li { margin-bottom: 6px; }
-
-strong { color: var(--text); font-weight: 700; }
-
-/* Hero, homepage above-the-fold. Mirrors the marketing landing shipped
-   in upstream commit ec14e34. */
-.hero {
-  text-align: center;
-  margin: 0 0 56px;
-}
-.hero-icon {
-  display: block;
-  width: 96px;
-  height: 96px;
-  margin: 0 auto 16px;
-  border-radius: 22px;
-}
-.hero-tagline {
-  font-size: 19px;
-  color: var(--text);
-  margin: 0 auto 24px;
-  max-width: 540px;
-}
-.badge {
-  display: inline-block;
-  padding: 4px 14px;
-  border: 1px solid var(--accent);
-  color: var(--accent);
-  font-size: 12px;
-  font-weight: 800;
-  letter-spacing: 2px;
-  text-transform: uppercase;
-  border-radius: 999px;
-  margin: 0 0 14px;
-}
-/* Hero conversion CTA, filled accent button. More prominent than the
-   bordered .cta further down the page, since this is the single primary
-   action on the homepage. Live since the App Store listing went up
-   2026-05-09. */
-.hero-cta {
-  display: inline-block;
-  padding: 14px 26px;
-  background: var(--accent);
-  color: var(--bg);
-  font-weight: 800;
-  font-size: 15px;
-  letter-spacing: 1px;
-  text-transform: uppercase;
-  border-radius: 6px;
-  margin: 0 0 14px;
-  transition: transform 0.15s ease, box-shadow 0.15s ease;
-  box-shadow: 0 6px 18px rgba(176, 141, 87, 0.25);
-}
-.hero-cta:hover {
-  transform: translateY(-1px);
-  box-shadow: 0 10px 22px rgba(176, 141, 87, 0.35);
-}
-.hero-trust {
-  font-size: 13px;
-  color: var(--muted);
-  margin: 0 0 32px;
-  letter-spacing: 0.5px;
-}
-.hero-shot {
-  display: block;
-  width: 100%;
-  max-width: 320px;
-  margin: 0 auto;
-  border-radius: 28px;
-  border: 1px solid var(--border);
-  box-shadow: 0 24px 48px rgba(0, 0, 0, 0.45);
-}
-
-/* Feature grid, homepage four-tile block. */
 .section-title {
   text-align: center;
-  margin-top: 48px;
+  font-size: 34px;
+  margin-top: 64px;
 }
-.features-link {
+.section-title::after {
+  content: '';
+  display: block;
+  width: 46px;
+  height: 2px;
+  background: var(--brass);
+  margin: 14px auto 0;
+}
+
+p { color: var(--muted); margin: 0 0 14px; }
+ul, ol { margin: 0 0 14px; padding-left: 24px; color: var(--muted); }
+li { margin-bottom: 6px; }
+strong { color: var(--text); font-weight: 600; }
+
+.eyebrow {
+  font-family: 'Saira Condensed', 'Arial Narrow', sans-serif;
+  font-weight: 600;
+  font-size: 13px;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  color: var(--brass);
+  margin: 0 0 18px;
+}
+
+/* ----- Hero --------------------------------------------------------------- */
+.hero {
+  display: grid;
+  grid-template-columns: 1.04fr 0.96fr;
+  gap: 52px;
+  align-items: center;
+  margin: 14px 0 64px;
+}
+.hero-copy { min-width: 0; }
+.hero-icon { display: none; }     /* the bottle label is the hero visual */
+.brand {                          /* legacy class, repurposed as a kicker */
+  font-family: 'Saira Condensed', 'Arial Narrow', sans-serif;
+  font-weight: 600;
+  font-size: 13px;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  color: var(--brass);
+  margin: 0 0 18px;
+}
+.hero-tagline {
+  font-size: 20px;
+  line-height: 1.5;
+  color: var(--text);
+  margin: 0 0 28px;
+  max-width: 30em;
+}
+.hero-cta {
+  display: inline-block;
+  font-family: 'Saira Condensed', 'Arial Narrow', sans-serif;
+  padding: 13px 26px;
+  background: var(--brass);
+  color: var(--ink);
+  font-weight: 700;
+  font-size: 15px;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  border: none;
+  border-radius: 2px;
+  margin: 0 0 18px;
+  transition: background 0.18s ease, transform 0.15s ease;
+}
+.hero-cta:hover {
+  background: var(--brass-bright);
+  transform: translateY(-1px);
+  color: var(--ink);
+}
+.hero-trust {
+  font-family: 'Saira Condensed', 'Arial Narrow', sans-serif;
+  font-size: 13px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin: 0;
+}
+
+/* ----- The bourbon label card (signature component) ----------------------- */
+.bottlelabel {
+  position: relative;
+  background:
+    linear-gradient(180deg, var(--label) 0%, var(--label2) 100%);
+  color: var(--label-ink);
+  border: 2px solid var(--brass);
+  border-radius: 3px;
+  padding: 30px 30px 24px;
+  box-shadow: 0 26px 54px rgba(0, 0, 0, 0.5);
+}
+/* inner engraved frame, the double-rule you see on a real bottle label */
+.bottlelabel::before {
+  content: '';
+  position: absolute;
+  inset: 7px;
+  border: 1px solid rgba(140, 47, 38, 0.45);
+  border-radius: 1px;
+  pointer-events: none;
+}
+.bottlelabel-house {
+  font-family: 'Saira Condensed', 'Arial Narrow', sans-serif;
+  font-weight: 600;
+  font-size: 12px;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  color: var(--oxblood);
   text-align: center;
-  margin-top: 24px;
+  margin: 0 0 6px;
 }
+.bottlelabel-name {
+  font-family: 'DM Serif Display', Georgia, serif;
+  font-size: 30px;
+  line-height: 1.05;
+  color: var(--label-ink);
+  text-align: center;
+  margin: 0 0 6px;
+}
+.bottlelabel-style {
+  font-style: italic;
+  font-size: 14px;
+  color: #6A4A30;
+  text-align: center;
+  margin: 0 0 18px;
+}
+.bottlelabel-style::after {
+  content: '';
+  display: block;
+  width: 38px;
+  height: 1px;
+  background: var(--brass);
+  margin: 14px auto 0;
+}
+.bottlelabel-stats {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  text-align: center;
+  margin: 0 0 16px;
+}
+.bottlelabel-stats > div + div {
+  border-left: 1px solid rgba(140, 47, 38, 0.30);
+}
+.bottlelabel-stats dt {
+  font-family: 'Saira Condensed', 'Arial Narrow', sans-serif;
+  font-weight: 600;
+  font-size: 11px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: var(--oxblood);
+  margin: 0 0 2px;
+}
+.bottlelabel-stats dd {
+  font-family: 'DM Serif Display', Georgia, serif;
+  font-size: 30px;
+  line-height: 1;
+  color: var(--label-ink);
+  margin: 0;
+}
+.bottlelabel-stats dd span {
+  font-family: 'Saira Condensed', 'Arial Narrow', sans-serif;
+  font-size: 12px;
+  letter-spacing: 1px;
+  color: #6A4A30;
+  display: block;
+  margin-top: 3px;
+}
+.bottlelabel-mash {
+  font-family: 'Saira Condensed', 'Arial Narrow', sans-serif;
+  font-size: 12px;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  text-align: center;
+  color: #6A4A30;
+  padding: 12px 0;
+  border-top: 1px solid rgba(140, 47, 38, 0.25);
+  border-bottom: 1px solid rgba(140, 47, 38, 0.25);
+  margin: 0 0 14px;
+}
+.bottlelabel-foot {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+}
+.bottlelabel-foot span {
+  font-family: 'Saira Condensed', 'Arial Narrow', sans-serif;
+  font-size: 12px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: var(--oxblood);
+}
+.bottlelabel-foot strong {
+  font-family: 'DM Serif Display', Georgia, serif;
+  font-size: 24px;
+  color: var(--label-ink);
+  font-weight: 400;
+}
+
+/* ----- Feature departments ------------------------------------------------ */
 .feature-grid {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  gap: 24px;
-  margin: 24px 0;
+  gap: 40px 44px;
+  margin: 36px 0 0;
 }
 .feature {
-  border: 1px solid var(--border);
-  background: var(--card);
-  padding: 24px;
-  border-radius: 6px;
+  border: none;
+  background: none;
+  padding: 18px 0 0;
+  border-top: 2px solid var(--brass);
+  border-radius: 0;
+  position: relative;
 }
-.feature h3 {
-  font-size: 18px;
-  font-weight: 700;
-  color: var(--accent);
-  margin: 12px 0 8px;
-}
-.feature p {
-  margin: 0;
-  font-size: 15px;
+/* small oxblood register tick at the top-left of each department */
+.feature::before {
+  content: '';
+  position: absolute;
+  top: -2px;
+  left: 0;
+  width: 28px;
+  height: 2px;
+  background: var(--oxblood);
 }
 .feature-icon {
-  font-size: 26px;
-  color: var(--accent);
+  font-family: 'Saira Condensed', 'Arial Narrow', sans-serif;
+  font-weight: 700;
+  font-size: 13px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: var(--brass);
   line-height: 1;
+  margin-bottom: 6px;
+}
+.feature h3 {
+  font-size: 22px;
+  color: var(--text);
+  margin: 6px 0 8px;
+}
+.feature p { margin: 0; font-size: 15.5px; color: var(--muted); }
+.features-link {
+  text-align: center;
+  margin-top: 40px;
+  font-family: 'Saira Condensed', 'Arial Narrow', sans-serif;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  font-size: 14px;
 }
 
-/* /features, alternating image/copy rows. */
+/* ----- /features alternating rows ----------------------------------------- */
 .feature-row {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  gap: 36px;
+  gap: 40px;
   align-items: center;
-  margin: 56px 0;
+  margin: 60px 0;
 }
 .feature-row--reverse > .feature-row-shot { order: 0; }
 .feature-row--reverse > .feature-row-copy { order: 1; }
 .feature-row-copy h3 {
-  font-size: 22px;
-  font-weight: 800;
-  color: var(--accent);
+  font-size: 26px;
+  color: var(--text);
   margin: 0 0 12px;
 }
 .feature-row-copy p { margin: 0 0 12px; }
@@ -225,105 +416,33 @@ strong { color: var(--text); font-weight: 700; }
   width: 100%;
   max-width: 320px;
   margin: 0 auto;
-  border-radius: 28px;
-  border: 1px solid var(--border);
-  box-shadow: 0 16px 32px rgba(0, 0, 0, 0.4);
+  border-radius: 20px;
+  border: 1px solid var(--line);
+  box-shadow: 0 16px 32px rgba(0, 0, 0, 0.45);
 }
 
-/* CTA section on /features. */
-.cta {
-  text-align: center;
-  margin: 56px 0 0;
-}
-.cta-body { max-width: 520px; margin: 0 auto; }
-
-/* Homepage "From the Blog" teaser. */
-.blog-teaser {
-  margin: 56px 0 0;
-}
-.blog-list {
-  list-style: none;
-  padding: 0;
-  margin: 24px 0;
-}
-.blog-list li {
-  border-top: 1px solid var(--border);
-  padding: 18px 0;
-  margin: 0;
-}
-.blog-list li:last-child {
-  border-bottom: 1px solid var(--border);
-}
-.blog-list li a {
-  font-size: 19px;
-  font-weight: 700;
-  color: var(--accent);
-  border-bottom: none;
-  display: inline-block;
-  margin-bottom: 6px;
-}
-.blog-list li a:hover {
-  border-bottom: 1px solid var(--accent);
-}
-.blog-list li p {
-  margin: 0;
-  font-size: 15px;
-}
-
-/* Homepage demo video, vertical YouTube Short via facade (astro-embed). */
-.demo {
-  margin: 56px 0 0;
-  text-align: center;
-}
-.demo-sub {
-  margin: 8px 0 24px;
-  color: var(--muted, inherit);
-  font-size: 15px;
-}
-.demo-video {
-  width: 100%;
-  max-width: 320px;
-  margin: 0 auto;
-}
-/* lite-youtube renders 16:9 by default; force 9:16 for the Short and round
-   the corners to match the app-shot treatment elsewhere on the site. */
-.demo-video lite-youtube {
-  aspect-ratio: 9 / 16;
-  width: 100%;
-  max-width: 320px;
-  border-radius: 28px;
-  border: 1px solid var(--border);
-  box-shadow: 0 16px 32px rgba(0, 0, 0, 0.4);
-  overflow: hidden;
-}
-
-/* Mobile: stack hero + feature grid + feature rows. */
-@media (max-width: 720px) {
-  .feature-grid { grid-template-columns: 1fr; }
-  .feature-row,
-  .feature-row--reverse {
-    grid-template-columns: 1fr;
-    gap: 20px;
-  }
-  .feature-row--reverse > .feature-row-shot { order: 0; }
-  .feature-row--reverse > .feature-row-copy { order: 1; }
-  .hero-shot { max-width: 260px; }
-}
-
-/* Quick Answer block, the 40-60 word direct answer the AI engines extract.
-   Marked up with id="quick-answer" so Speakable schema points at it. */
+/* ----- Quick Answer ------------------------------------------------------- */
 .quick-answer {
-  border: 1px solid var(--border);
-  background: var(--card);
-  padding: 20px 24px;
-  margin: 24px 0 36px;
-  border-radius: 4px;
+  position: relative;
+  border: 1px solid var(--line-strong);
+  background: var(--ink2);
+  padding: 24px 28px;
+  margin: 28px 0 36px;
+  border-radius: 2px;
+}
+.quick-answer::before {
+  content: '';
+  position: absolute;
+  left: 0; top: 0; bottom: 0;
+  width: 3px;
+  background: var(--brass);
 }
 .quick-answer .label {
   display: block;
+  font-family: 'Saira Condensed', 'Arial Narrow', sans-serif;
   font-size: 12px;
-  font-weight: 800;
-  color: var(--accent);
+  font-weight: 700;
+  color: var(--brass);
   letter-spacing: 3px;
   text-transform: uppercase;
   margin: 0 0 10px;
@@ -335,129 +454,139 @@ strong { color: var(--text); font-weight: 700; }
   line-height: 1.55;
 }
 
-/* FAQ block at the bottom of content pages. */
-.faq h2 { margin-top: 48px; }
-.faq-item {
-  border-top: 1px solid var(--border);
-  padding: 20px 0;
+/* ----- Demo video --------------------------------------------------------- */
+.demo { margin: 64px 0 0; text-align: center; }
+.demo-sub { margin: 8px 0 24px; color: var(--muted); font-size: 15px; }
+.demo-video { width: 100%; max-width: 320px; margin: 0 auto; }
+.demo-video lite-youtube {
+  aspect-ratio: 9 / 16;
+  width: 100%;
+  max-width: 320px;
+  border-radius: 20px;
+  border: 1px solid var(--line);
+  box-shadow: 0 16px 32px rgba(0, 0, 0, 0.45);
+  overflow: hidden;
 }
-.faq-item:last-child { border-bottom: 1px solid var(--border); }
+
+/* ----- Blog teaser -------------------------------------------------------- */
+.blog-teaser { margin: 64px 0 0; }
+.blog-list { list-style: none; padding: 0; margin: 28px 0; }
+.blog-list li {
+  border-top: 1px solid var(--line);
+  padding: 20px 0;
+  margin: 0;
+}
+.blog-list li:last-child { border-bottom: 1px solid var(--line); }
+.blog-list li a {
+  font-family: 'DM Serif Display', Georgia, serif;
+  font-size: 21px;
+  color: var(--text);
+  border-bottom: none;
+  display: inline-block;
+  margin-bottom: 6px;
+}
+.blog-list li a:hover { color: var(--brass-bright); }
+.blog-list li p { margin: 0; font-size: 15px; }
+
+/* ----- FAQ ---------------------------------------------------------------- */
+.faq h2 { margin-top: 56px; }
+.faq-item { border-top: 1px solid var(--line); padding: 22px 0; }
+.faq-item:last-child { border-bottom: 1px solid var(--line); }
 .faq-q {
-  font-size: 18px;
-  font-weight: 700;
+  font-family: 'DM Serif Display', Georgia, serif;
+  font-size: 20px;
+  font-weight: 400;
   color: var(--text);
   margin: 0 0 8px;
 }
 .faq-a { color: var(--muted); margin: 0; }
 
-/* Responsible-use callout used on /privacy and /terms. The legal copy
-   references this with <div class="warning"> + .warning-title + .warning-body
-   so the box must read as a deliberate, prominent advisory, not a generic
-   blockquote. Crimson-tinted background + brass title pulls weight without
-   shouting. */
+/* ----- Responsible-use callout ------------------------------------------- */
 .warning {
-  border: 1px solid var(--border);
-  background: rgba(122, 31, 31, 0.10);
+  border: 1px solid var(--line-strong);
+  background: rgba(140, 47, 38, 0.12);
   padding: 20px 24px;
-  border-radius: 4px;
+  border-radius: 2px;
   margin: 24px 0;
 }
 .warning-title {
-  color: var(--accent);
-  font-weight: 800;
+  font-family: 'Saira Condensed', 'Arial Narrow', sans-serif;
+  color: var(--brass-bright);
+  font-weight: 700;
   font-size: 13px;
   letter-spacing: 1.5px;
   text-transform: uppercase;
   margin: 0 0 8px;
 }
-.warning-body {
-  color: var(--text);
-  margin: 0;
-  font-size: 15px;
-  line-height: 1.55;
-}
+.warning-body { color: var(--text); margin: 0; font-size: 15px; line-height: 1.55; }
 
-/* Comparison tables, pulled into AI answers and rich results. */
-table {
-  width: 100%;
-  border-collapse: collapse;
-  margin: 20px 0;
-  font-size: 16px;
-}
+/* ----- Tables ------------------------------------------------------------- */
+table { width: 100%; border-collapse: collapse; margin: 20px 0; font-size: 16px; }
 th, td {
   text-align: left;
-  padding: 10px 12px;
-  border-bottom: 1px solid var(--border);
+  padding: 11px 12px;
+  border-bottom: 1px solid var(--line);
   color: var(--muted);
 }
 th {
-  color: var(--accent);
-  font-weight: 800;
+  font-family: 'Saira Condensed', 'Arial Narrow', sans-serif;
+  color: var(--brass);
+  font-weight: 700;
   text-transform: uppercase;
   font-size: 12px;
   letter-spacing: 1.5px;
 }
 
-/* CTA buttons for App Store and (future) Play Store. */
-.cta-row {
-  display: flex;
-  gap: 12px;
-  justify-content: center;
-  margin: 32px 0;
-  flex-wrap: wrap;
-}
+/* ----- CTA buttons -------------------------------------------------------- */
+.cta-row { display: flex; gap: 12px; justify-content: center; margin: 36px 0; flex-wrap: wrap; }
 .cta {
   display: inline-block;
-  padding: 12px 22px;
-  border: 1px solid var(--accent);
-  color: var(--accent);
+  font-family: 'Saira Condensed', 'Arial Narrow', sans-serif;
+  padding: 13px 26px;
+  border: 1px solid var(--brass);
+  color: var(--brass-bright);
   font-weight: 700;
   font-size: 15px;
-  letter-spacing: 1px;
+  letter-spacing: 1.5px;
   text-transform: uppercase;
-  border-bottom: 1px solid var(--accent);
+  border-radius: 2px;
   transition: background 0.2s, color 0.2s;
 }
-.cta:hover { background: var(--accent); color: var(--bg); }
-.cta--disabled {
-  border-color: var(--border);
-  color: var(--muted);
-  cursor: default;
-  pointer-events: none;
-}
+.cta:hover { background: var(--brass); color: var(--ink); }
+.cta--disabled { border-color: var(--line); color: var(--muted); cursor: default; pointer-events: none; }
 
-/* Author byline, a real E-E-A-T signal. */
-.byline {
-  font-size: 14px;
-  color: var(--muted);
-  text-align: center;
-  margin: 0 0 32px;
-}
+/* ----- Byline + footer ---------------------------------------------------- */
+.byline { font-size: 14px; color: var(--muted); text-align: center; margin: 0 0 32px; }
 .byline a { color: var(--muted); }
-
-hr.footer-rule {
-  border: 0;
-  border-top: 1px solid var(--border);
-  margin: 48px 0 16px;
-}
-.footer { text-align: center; font-size: 12px; color: var(--muted); }
-
-.nav {
+hr.footer-rule { border: 0; border-top: 2px solid var(--brass); margin: 56px 0 16px; }
+.footer {
   text-align: center;
-  margin-bottom: 32px;
-  font-size: 14px;
-}
-.nav a {
-  margin: 0 12px;
+  font-family: 'Saira Condensed', 'Arial Narrow', sans-serif;
+  letter-spacing: 1px;
+  font-size: 12px;
   color: var(--muted);
-  border-bottom: none;
+  text-transform: uppercase;
 }
-.nav a:hover { color: var(--accent); }
+
+/* ----- Responsive --------------------------------------------------------- */
+@media (max-width: 760px) {
+  .hero {
+    grid-template-columns: 1fr;
+    gap: 36px;
+  }
+  .feature-grid { grid-template-columns: 1fr; gap: 32px; }
+  .feature-row,
+  .feature-row--reverse { grid-template-columns: 1fr; gap: 20px; }
+  .feature-row--reverse > .feature-row-shot { order: 0; }
+  .feature-row--reverse > .feature-row-copy { order: 1; }
+}
 
 @media (max-width: 560px) {
-  .container { padding: 32px 18px 64px; }
-  h1 { font-size: 28px; }
-  h2 { font-size: 19px; }
-  .quick-answer { padding: 16px 18px; }
+  .container { padding: 22px 18px 64px; }
+  h1 { font-size: 40px; }
+  .section-title { font-size: 27px; }
+  h2 { font-size: 25px; }
+  .quick-answer { padding: 18px 20px; }
   .quick-answer p { font-size: 16px; }
+  .site-wordmark { font-size: 25px; }
 }

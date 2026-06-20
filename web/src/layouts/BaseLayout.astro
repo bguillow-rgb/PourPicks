@@ -54,6 +54,16 @@ const fullTitle =
     <link rel="icon" href="/favicon.png" type="image/png" />
     <meta name="theme-color" content={SITE.theme.bg} />
 
+    <!-- Google Fonts: DM Serif Display (engraved high-contrast bottle-label
+         serif, display + wordmark) + Spectral (magazine reading serif, body) +
+         Saira Condensed (proof-statement condensed caps, labels + nav) -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Spectral:ital,wght@0,400;0,500;0,600;1,400&family=Saira+Condensed:wght@500;600;700&display=swap"
+      rel="stylesheet"
+    />
+
     {!suppressGlobalSchema && <OrganizationSchema />}
     {!suppressGlobalSchema && <WebSiteSchema />}
 
@@ -63,14 +73,18 @@ const fullTitle =
   </head>
   <body>
     <div class="container">
-      <p class="nav">
-        {NAV.map((item, i) => (
-          <>
-            {i > 0 && <span> &middot; </span>}
-            <a href={item.href}>{item.label}</a>
-          </>
-        ))}
-      </p>
+      <header class="site-header">
+        <a href="/" class="site-wordmark">{SITE.name}</a>
+        <nav class="site-nav" aria-label="Main navigation">
+          {NAV.map((item) => (
+            <a
+              href={item.href}
+              aria-current={path === item.href ? 'page' : undefined}
+            >{item.label}</a>
+          ))}
+        </nav>
+      </header>
+      <div class="label-rule" aria-hidden="true"></div>
       <slot />
     </div>
   </body>
