@@ -14,9 +14,9 @@ publishedAt: "2026-06-18"
 author: "Pour Picks"
 relatedSlugs:
   - "bourbon-age-statement-vs-nas"
+  - "what-is-bottled-in-bond-bourbon"
   - "how-to-read-a-bourbon-label"
   - "how-to-value-a-bourbon-collection"
-  - "what-is-bourbon-cask-finishing"
 faqs:
   - q: "What is the difference between a store pick and a regular single barrel bourbon?"
     a: "A regular single barrel is selected and bottled entirely by the distillery. A store pick is a single barrel that a third party, a retailer, restaurant, or club, personally chose from multiple barrel samples, then had bottled under a custom label. The flavor profile is unique to that specific selection."
