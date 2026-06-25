@@ -14,8 +14,8 @@ author: "Pour Picks"
 relatedSlugs:
   - "best-bourbon-cellar-apps"
   - "track-bourbon-collection-spreadsheet-vs-app"
+  - "how-to-insure-a-bourbon-collection"
   - "how-to-store-bourbon"
-  - "how-to-value-a-bourbon-collection"
 faqs:
   - q: "How many bottles should a beginner bourbon cellar have?"
     a: "Six to ten is the sweet spot. Fewer than six and you don't have enough variety to learn from. More than ten and a beginner gets paralyzed by choice and pours the same three bottles anyway. Start small, drink through them, and let the next ten bottles be informed by what you actually liked."
