@@ -13,10 +13,10 @@ quickAnswer: "To write useful bourbon tasting notes, work through three stages i
 publishedAt: "2026-06-28"
 author: "Pour Picks"
 relatedSlugs:
+  - "what-is-bourbon-barrel-char-level"
   - "what-is-a-bourbon-store-pick"
   - "what-is-a-rickhouse"
   - "what-is-allocated-bourbon"
-  - "what-is-bottled-in-bond-bourbon"
 faqs:
   - q: "What is the standard format for bourbon tasting notes?"
     a: "Most collectors use a three-part structure: nose (aroma), palate (taste and mouthfeel), and finish (length and lingering flavors). A complete entry also logs the bottle name, distiller, proof, age statement or NAS designation, date tasted, and a personal numeric rating."
