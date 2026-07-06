@@ -14,9 +14,9 @@ publishedAt: "2026-06-25"
 author: "Pour Picks"
 relatedSlugs:
   - "what-is-a-bourbon-vertical-tasting"
+  - "what-is-the-bourbon-secondary-market"
   - "best-bourbon-cellar-apps"
   - "bourbon-age-statement-vs-nas"
-  - "how-to-start-a-bourbon-cellar"
 faqs:
   - q: "Does homeowners insurance cover a bourbon collection?"
     a: "Only partially, and often inadequately. Most standard homeowners policies will cover some personal property loss, but they cap payouts on high-value bottles, may exclude breakage, and won't replace a rare allocated bottle at true market value. Any bottle worth more than a few hundred dollars is at risk of being underinsured under a standard policy."
