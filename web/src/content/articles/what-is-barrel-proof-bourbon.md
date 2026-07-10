@@ -15,8 +15,8 @@ author: "Pour Picks"
 relatedSlugs:
   - "what-is-bourbon-barrel-char-level"
   - "what-is-bourbon-cask-finishing"
+  - "best-glass-for-bourbon"
   - "bourbon-age-statement-vs-nas"
-  - "how-to-read-a-bourbon-label"
 faqs:
   - q: "Is barrel proof the same as cask strength?"
     a: "Yes, for all practical purposes. 'Barrel proof' is the American bourbon term; 'cask strength' is the international (especially Scotch) equivalent. Both mean the whiskey was bottled at or within two proof points of its strength when it left the barrel, no significant dilution."
