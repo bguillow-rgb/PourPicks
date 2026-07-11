@@ -12,7 +12,7 @@ quickAnswer: "A mash bill is the recipe of grains used to make a whiskey. Bourbo
 publishedAt: "2026-05-19"
 author: "Pour Picks"
 relatedSlugs:
-  - "what-is-wheated-bourbon"
+  - "wheated-bourbon-vs-high-rye-bourbon"
   - "bourbon-age-statement-vs-nas"
   - "how-to-read-a-bourbon-label"
   - "bourbon-vs-rye-difference"
