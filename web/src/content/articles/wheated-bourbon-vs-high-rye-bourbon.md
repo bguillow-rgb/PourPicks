@@ -13,10 +13,10 @@ quickAnswer: "Wheated bourbon swaps rye for wheat as the secondary grain, produc
 publishedAt: "2026-07-11"
 author: "Pour Picks"
 relatedSlugs:
+  - "what-is-wheated-bourbon"
   - "what-is-mash-bill"
   - "bourbon-vs-rye-difference"
-  - "single-barrel-vs-small-batch-bourbon"
-  - "bourbon-age-statement-vs-nas"
+  - "how-to-build-a-bourbon-flight"
 faqs:
   - q: "What makes a bourbon 'wheated'?"
     a: "A wheated bourbon replaces rye with wheat as the secondary flavoring grain after corn. Wheat is a gentler grain that amplifies perceived sweetness, producing notes of vanilla, honey, caramel, and soft bread rather than the pepper and spice of rye."

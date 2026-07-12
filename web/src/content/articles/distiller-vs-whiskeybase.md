@@ -15,6 +15,7 @@ relatedSlugs:
   - "best-bourbon-cellar-apps"
   - "bourbon-vs-rye-difference"
   - "track-bourbon-collection-spreadsheet-vs-app"
+  - "what-is-sourced-bourbon"
 faqs:
   - q: "What is the main difference between Distiller and Whiskeybase?"
     a: "They solve different jobs. Distiller is American, app-first, and built around community reviews and curated tasting notes, so it shines when you want a quick read on a bottle before you buy it. Whiskeybase is European, web-first, and built around an exhaustive catalog of nearly every bottling ever released, including independent bottlers and single casks, so it shines when you need hard data on an obscure or older release. Distiller is for opinions; Whiskeybase is for records."
