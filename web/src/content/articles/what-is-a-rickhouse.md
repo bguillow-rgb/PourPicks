@@ -15,8 +15,8 @@ author: "Pour Picks"
 relatedSlugs:
   - "what-is-bourbon-barrel-char-level"
   - "how-to-write-bourbon-tasting-notes"
+  - "what-is-the-angels-share-bourbon"
   - "bourbon-age-statement-vs-nas"
-  - "bourbon-vs-rye-difference"
 faqs:
   - q: "What is the difference between a rickhouse and a rackhouse?"
     a: "The terms are used interchangeably in the industry. Both refer to the multi-story, open-air warehouses where bourbon barrels age on wooden racks or ricks. Some distilleries prefer one term over the other, but there is no meaningful functional difference."
