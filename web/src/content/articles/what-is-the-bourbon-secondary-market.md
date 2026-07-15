@@ -15,8 +15,8 @@ author: "Pour Picks"
 relatedSlugs:
   - "how-to-value-a-bourbon-collection"
   - "what-is-allocated-bourbon"
+  - "how-to-do-a-bourbon-barrel-pick"
   - "how-to-insure-a-bourbon-collection"
-  - "what-is-a-bourbon-vertical-tasting"
 faqs:
   - q: "Is buying bourbon on the secondary market legal?"
     a: "It depends on your state. Selling spirits without a license is illegal in most of the U.S., which puts many peer-to-peer secondary trades in a legal gray area. Licensed auction platforms operating in compliant states are the safest route. Always check your local regulations before buying or selling."

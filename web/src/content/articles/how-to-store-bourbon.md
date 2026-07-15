@@ -13,6 +13,7 @@ publishedAt: "2026-06-01"
 author: "Pour Picks"
 relatedSlugs:
   - "does-bourbon-go-bad"
+  - "how-to-do-a-bourbon-barrel-pick"
   - "how-to-start-a-bourbon-cellar"
   - "what-is-a-bourbon-store-pick"
 faqs:
