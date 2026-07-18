@@ -15,8 +15,8 @@ author: "Pour Picks"
 relatedSlugs:
   - "how-to-read-a-bourbon-label"
   - "what-is-bottled-in-bond-bourbon"
+  - "what-is-bourbon-barrel-entry-proof"
   - "what-is-bourbon-cask-finishing"
-  - "best-bourbon-cellar-apps"
 faqs:
   - q: "Is sourced bourbon bad quality?"
     a: "Not inherently. Some of the most respected American whiskeys come from NDPs with skilled blenders and rigorous barrel selection. Quality depends on what the NDP adds, expert curation, finishing, or blending, not simply the fact that they didn't distill it."
