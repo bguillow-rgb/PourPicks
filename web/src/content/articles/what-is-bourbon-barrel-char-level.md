@@ -16,7 +16,7 @@ relatedSlugs:
   - "how-to-read-four-roses-recipe-code"
   - "what-is-bourbon-barrel-entry-proof"
   - "what-is-bourbon-proof"
-  - "what-is-the-angels-share-bourbon"
+  - "what-is-non-chill-filtered-bourbon"
 faqs:
   - q: "What are the four bourbon barrel char levels?"
     a: "Char #1 (15 seconds) is a light toast giving subtle oak and floral notes. Char #2 (30 seconds) adds caramel and gentle vanilla. Char #3 (35 seconds) is the most common for bourbon, producing rich caramel, toffee, and balanced spice. Char #4 (55 seconds), called 'alligator char,' creates deep smoke, leather, and dark fruit along with intense vanilla, it's the deepest commercial char level."
