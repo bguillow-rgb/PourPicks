@@ -13,10 +13,10 @@ quickAnswer: "Wheated bourbon is bourbon that uses wheat instead of the more com
 publishedAt: "2026-06-27"
 author: "Pour Picks"
 relatedSlugs:
+  - "what-is-four-grain-bourbon"
   - "wheated-bourbon-vs-high-rye-bourbon"
   - "what-is-mash-bill"
   - "how-to-read-a-bourbon-label"
-  - "how-to-write-bourbon-tasting-notes"
 faqs:
   - q: "Is wheated bourbon still legally considered bourbon?"
     a: "Yes. Wheated bourbon must meet all federal bourbon requirements: at least 51% corn in the mash bill, aged in new charred oak barrels, distilled at no more than 160 proof, and bottled at a minimum of 80 proof. Swapping rye for wheat only changes the secondary 'flavoring' grain. The legal classification stays the same."
