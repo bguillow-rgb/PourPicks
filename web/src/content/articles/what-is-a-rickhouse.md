@@ -96,11 +96,11 @@ Collectors who once chased every release from a given brand are now being more s
 In practical terms:
 
 - **Single-barrel releases with warehouse or floor callouts** carry more provenance information than a standard small-batch expression. That information is worth reading.
-- **Upper-floor, cask-strength expressions** from the same mashbill will typically be more concentrated, oaky, and higher proof than their lower-floor counterparts, which can help you predict your own enjoyment before you buy.
+- **Upper-floor, cask-strength expressions** from the same mashbill will typically be more concentrated, oaky, and higher proof than their lower-floor counterparts, which can help you predict your own enjoyment before you buy. Pair that with [how deeply the barrel was charred](/articles/what-is-bourbon-barrel-char-level), the other big barrel variable, and you can read a lot of a bottle's flavor before the first pour.
 - **Brick or concrete warehouse bourbons** aged longer are often more slowly developed, which can mean elegant integration of oak at higher age statements.
 - **The current secondary market** rewards demonstrable scarcity and authenticity. The clearest market theme in Q1 2026 was bifurcation: ultra-aged and cask-strength expressions dominated gains, with bottles like William HeavenHill 15 CS (+43.7%) and Elijah Craig 23yr (+35.5%) surging, reflecting renewed collector appetite for rare, high-proof aged releases with demonstrable scarcity. Understanding warehouse provenance helps you identify which releases have that kind of character before the market prices it in.
 
-If you're cataloging your collection in Pour Picks, the tasting notes and bottle journal features are a natural place to log warehouse information for single-barrel picks, especially if you're building a horizontal comparison of the same brand across different warehouse designations. Over time, those notes become a personal reference for which rickhouse profiles suit your palate.
+If you're cataloging your collection in a [dedicated cellar app](/articles/best-bourbon-cellar-apps), the tasting notes and bottle journal are a natural place to log warehouse information for single-barrel picks, especially if you're building a horizontal comparison of the same brand across different warehouse designations. Over time, those notes become a personal reference for which rickhouse profiles suit your palate.
 
 ## What's the broader collector takeaway on rickhouse aging?
 
@@ -108,4 +108,4 @@ The American bourbon market is moving away from the "unicorn-chasing" era of 201
 
 Consumers are becoming smarter in the whiskey category, asking more questions and getting more informed. "People are drinking less overall, but they're far more curious," notes one industry expert. "Instead of asking only how old a whiskey is, they're increasingly interested in how it was matured and why it tastes the way it does."
 
-Knowing what a rickhouse is, and what happens at different floors, in different building materials, on different hillsides, is precisely that kind of deeper curiosity. It makes every label, every store pick conversation, and every bottle in your cellar more legible.
+Knowing what a rickhouse is, and what happens at different floors, in different building materials, on different hillsides, is precisely that kind of deeper curiosity. It makes every label, every [store pick conversation](/articles/what-is-a-bourbon-store-pick), and every bottle in your cellar more legible.

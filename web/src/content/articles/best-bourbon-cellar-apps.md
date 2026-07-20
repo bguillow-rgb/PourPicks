@@ -65,7 +65,7 @@ Numbers and feature sets change. Verify each app's current pricing on its own li
 
 Disclosure first: this article is published by the team that builds Pour Picks. We will say what we think it is good at and where it is not the answer.
 
-Pour Picks is an iOS app launched in May 2026. It is built around the cellar, not the catalog. You scan any bottle with your phone (the scan is AI, not a barcode lookup, so it works on store picks and one-offs with no barcode), it lands in your cellar, and you can mark it owned, on the wishlist, or finished. Per-bottle purchase price and total cellar value are tracked. The catalog at launch covered roughly 4,700 American whiskeys, and bottles outside that catalog still get a slot through a personal-bottle path.
+Pour Picks is an iOS app launched in May 2026. It is built around the cellar, not the catalog. You scan any bottle with your phone (the scan is AI, not a barcode lookup, so it works on [store picks](/articles/what-is-a-bourbon-store-pick) and one-offs with no barcode), it lands in your cellar, and you can mark it owned, on the wishlist, or finished. Per-bottle purchase price and total cellar value are tracked. The catalog at launch covered roughly 4,700 American whiskeys, and bottles outside that catalog still get a slot through a personal-bottle path.
 
 The feature that differentiates Pour Picks from everything else on this list is **Pour Tonight**. Once your cellar has at least three bottles in it, the app will pick one bottle and tell you why it picked it. "You haven't poured this in six weeks. Cozy Tuesday vibe. Higher proof than most of what you have open right now." That is the question almost every collector asks two or three times a week and almost no app answers.
 

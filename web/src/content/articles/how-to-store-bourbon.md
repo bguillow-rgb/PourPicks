@@ -30,7 +30,7 @@ faqs:
 published: true
 ---
 
-Most bourbon storage advice is borrowed from wine, and almost all of it is wrong. Wine and high-proof whiskey behave like opposite materials in a bottle, so the rules that protect a Bordeaux will quietly damage a bourbon. Here is what actually matters, why, and what you can safely ignore.
+Most bourbon storage advice is borrowed from wine, and almost all of it is wrong. Wine and high-proof whiskey behave like opposite materials in a bottle, so the rules that protect a Bordeaux will quietly damage a bourbon. Here is what actually matters, why, and what you can safely ignore. One thing worth setting straight first: storage protects what is already in the bottle. It cannot change the flavor the way aging did, that was set years earlier in the [rickhouse where the barrel matured](/articles/what-is-a-rickhouse), long before the bottle reached your shelf.
 
 ## Should bourbon be stored upright or on its side?
 
@@ -72,7 +72,7 @@ The practical move is simple: finish your low bottles. A "kill list" of bottles 
 
 Storage is the easy half: a dark, stable cabinet and upright bottles solve it permanently. The hard half is memory. Storage keeps a bottle stable but cannot tell you that you cracked a barrel-proof rye eight months ago and it is now a third full and quietly fading.
 
-That is the gap a cellar app fills. Logging each bottle's open date and rough fill level turns the abstract "one to two years" window into an actual to-do: this is the bottle to pour this week. [Pour Picks](https://apps.apple.com/us/app/pour-picks/id6764040132) is built around exactly that loop, scan the bottle in, mark it open, and let the app surface what to finish next. If you are still setting up your collection from scratch, start with [how to start a bourbon cellar](/articles/how-to-start-a-bourbon-cellar), and if you are weighing tools, the [best bourbon cellar apps](/articles/best-bourbon-cellar-apps) comparison covers the field.
+That is the gap a cellar app fills. Logging each bottle's open date and rough fill level turns the abstract "one to two years" window into an actual to-do: this is the bottle to pour this week. [Pour Picks](https://apps.apple.com/us/app/pour-picks/id6764040132) is built around exactly that loop, scan the bottle in, mark it open, and let the app surface what to finish next. If you are still setting up your collection from scratch, start with [how to start a bourbon cellar](/articles/how-to-start-a-bourbon-cellar), and if you are weighing tools, the [best bourbon cellar apps](/articles/best-bourbon-cellar-apps) comparison covers the field. This matters most for bottles you can't just rebuy, an unrepeatable [single-barrel store pick](/articles/what-is-a-bourbon-store-pick) deserves a logged open date far more than a bottle you can grab again next week.
 
 ---
 

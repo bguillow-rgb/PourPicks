@@ -41,7 +41,7 @@ A store pick, also called a barrel pick, private barrel, or private selection, i
 
 The word that matters here is *single*. The distillery's standard releases are typically blended across many barrels to hit a consistent house profile. A store pick captures one barrel exactly as it aged. No blending, no averaging, no correcting. What came out of that wood is what goes in the bottle, with barrel number, warehouse location, fill date, and dump date often stamped right on the label.
 
-As one source notes, because every barrel ages differently due to its position in the rickhouse, temperature exposure, and interaction with the specific wood staves, every single barrel is a unique expression, and two barrels of the same bourbon, same age, same mash bill, same distillery, can taste completely different. That variability is the whole point.
+As one source notes, because every barrel ages differently due to its [position in the rickhouse](/articles/what-is-a-rickhouse), temperature exposure, and interaction with the specific wood staves, every single barrel is a unique expression, and two barrels of the same bourbon, same age, same mash bill, same distillery, can taste completely different. That variability is the whole point.
 
 ## How does the selection process actually work?
 
@@ -61,7 +61,7 @@ This is the science that makes store picks genuinely interesting rather than jus
 
 When the whiskey is in the barrel, where it's placed in a rickhouse can drastically change the finished product. If you're closer to a window, there's more fluctuation in temperature, and wind, rain, and pressure can more readily alter the way the whiskey breathes in the barrel. Upper floors run hotter in summer and cooler in winter, cycling the spirit in and out of the wood more aggressively. Lower floors age more slowly. Middle floors split the difference.
 
-Beyond position, the type of oak used for the barrels and the char level significantly influence the flavor, and heavier chars often impart richer, more robust flavors. Even wood from different parts of the same tree behaves differently, because the grain isn't symmetrical throughout.
+Beyond position, the type of oak used for the barrels and [the char level](/articles/what-is-bourbon-barrel-char-level) significantly influence the flavor, and heavier chars often impart richer, more robust flavors. Even wood from different parts of the same tree behaves differently, because the grain isn't symmetrical throughout.
 
 The net result: a good store pick isn't luck. It's a picker who understands these variables and can taste their cumulative effect in a glass.
 
@@ -98,7 +98,7 @@ When you add a store pick to your cellar, record more than just the bottle name 
 
 Beyond the liquid itself, single barrel bourbons often tell a more detailed story. Labels frequently include information like the barrel number and bottling date, and many distilleries give these releases premium packaging, details that transform a bottle of bourbon into a true collector's item, a piece of the distillery's history you can hold in your hand.
 
-Apps like Pour Picks make this kind of extended metadata easy to capture when you add a bottle to your cellar. Barrel number, picker notes, purchase location, and your own tasting journal live together in one place rather than scattered across photos and spreadsheets.
+Apps like Pour Picks make this kind of extended metadata easy to capture when you add a bottle to your cellar. Barrel number, picker notes, purchase location, and your own tasting journal live together in one place rather than scattered across photos and spreadsheets, one of the clearest reasons [a dedicated cellar app beats a spreadsheet](/articles/best-bourbon-cellar-apps) once you own picks you can never replace.
 
 ## Which distilleries have the most respected store pick programs?
 

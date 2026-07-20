@@ -1,5 +1,5 @@
 ---
-title: "Bourbon vs Rye: The Difference Explained (and Which Is Better for You)"
+title: "Bourbon vs Rye Whiskey: Key Differences (2026)"
 description: "What actually separates bourbon from rye, how the mash bill changes the flavor, and how to pick which one to pour based on the moment, the meal, and the mood."
 tier: cluster
 targetQuery: "bourbon vs rye"
@@ -132,7 +132,7 @@ If a drinker tells you they don't like whiskey, hand them a wheated bourbon firs
 
 ## Which one ages better?
 
-Both ages well, but they age differently. Bourbon picks up the most barrel character in the first 6-10 years; by year 12, the oak starts to dominate the corn sweetness, and very-old bourbons (15+ years) often taste tannic, dry, and oak-forward, closer to rye character than what most drinkers expect from bourbon.
+Both ages well, but they age differently. Bourbon picks up the most barrel character in the first 6-10 years; by year 12, the oak starts to dominate the corn sweetness, and very-old bourbons (15+ years) often taste tannic, dry, and oak-forward, closer to rye character than what most drinkers expect from bourbon. How much oak a barrel gives up in that time comes down to two variables the grain has nothing to do with: [how deeply the barrel was charred](/articles/what-is-bourbon-barrel-char-level) and [which floor of the rickhouse it aged on](/articles/what-is-a-rickhouse). Two bottles of the same mash bill can diverge sharply on those two factors alone.
 
 Rye holds up to longer aging because its spice doesn't disappear under oak. A 20-year rye still tastes like rye; a 20-year bourbon often tastes like aged oak with bourbon notes underneath. This is why the longest-aged American whiskies tend to be ryes, Michter's 25-year, Sazerac 18, Whistlepig 18-21. Long-aged bourbon exists but tends to polarize.
 
@@ -149,7 +149,7 @@ A balanced 10-bottle American whiskey cellar usually looks something like:
 - 1 American single malt (Westward, Westland, Stranahan's)
 - 1 wild card (a craft distillery, an indie bottler, something seasonal)
 
-That set covers the spectrum, makes side-by-side comparisons easy, and gives you something to pour for any mood.
+That set covers the spectrum, makes side-by-side comparisons easy, and gives you something to pour for any mood. Once a shelf reaches that size, remembering what you own, what you've opened, and what you actually thought of it becomes its own problem, which is where [a good bourbon cellar app](/articles/best-bourbon-cellar-apps) earns its keep.
 
 ---
 
