@@ -14,8 +14,8 @@ publishedAt: "2026-06-17"
 author: "Pour Picks"
 relatedSlugs:
   - "how-to-read-a-bourbon-label"
-  - "bourbon-vs-rye-difference"
   - "how-to-read-four-roses-recipe-code"
+  - "bourbon-vs-rye-difference"
   - "what-is-barrel-proof-bourbon"
 faqs:
   - q: "Is single barrel bourbon always better than small batch?"

@@ -16,7 +16,7 @@ relatedSlugs:
   - "what-is-wheated-bourbon"
   - "what-is-mash-bill"
   - "how-to-read-a-bourbon-label"
-  - "wheated-bourbon-vs-high-rye-bourbon"
+  - "what-is-sour-mash-bourbon"
 faqs:
   - q: "Is four grain bourbon the same as wheated bourbon?"
     a: "No. Wheated bourbon replaces rye with wheat, using three grains total. Four grain bourbon keeps both rye and wheat alongside corn and malted barley, balancing spice and softness in the same bottle."

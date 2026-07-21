@@ -13,7 +13,6 @@ publishedAt: "2026-06-01"
 author: "Pour Picks"
 relatedSlugs:
   - "best-bourbon-cellar-apps"
-  - "bourbon-vs-rye-difference"
   - "track-bourbon-collection-spreadsheet-vs-app"
   - "what-is-sourced-bourbon"
 faqs:
