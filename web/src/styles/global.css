@@ -421,37 +421,34 @@ strong { color: var(--text); font-weight: 600; }
   box-shadow: 0 16px 32px rgba(0, 0, 0, 0.45);
 }
 
-/* ----- Quick Answer ------------------------------------------------------- */
+/* ----- In brief (standfirst) ---------------------------------------------- */
+/* An almanac standfirst, not a UI card: no side box, no colored edge-strip.
+   A brass masthead rule up top, the kicker set as a dateline, and the answer
+   as a large serif lede that reads like the opening line of an entry. */
 .quick-answer {
   position: relative;
-  border: 1px solid var(--line-strong);
-  background: var(--ink2);
-  padding: 24px 28px;
-  margin: 28px 0 36px;
-  border-radius: 2px;
-}
-.quick-answer::before {
-  content: '';
-  position: absolute;
-  left: 0; top: 0; bottom: 0;
-  width: 3px;
-  background: var(--brass);
+  border: none;
+  border-top: 2px solid var(--brass);
+  background: transparent;
+  padding: 16px 0 0;
+  margin: 24px 0 40px;
 }
 .quick-answer .label {
   display: block;
   font-family: 'Saira Condensed', 'Arial Narrow', sans-serif;
   font-size: 12px;
   font-weight: 700;
-  color: var(--brass);
+  color: var(--muted);
   letter-spacing: 3px;
   text-transform: uppercase;
-  margin: 0 0 10px;
+  margin: 0 0 8px;
 }
 .quick-answer p {
   color: var(--text);
   margin: 0;
-  font-size: 18px;
-  line-height: 1.55;
+  font-size: 21px;
+  line-height: 1.5;
+  max-width: 34em;
 }
 
 /* ----- Demo video --------------------------------------------------------- */
@@ -586,7 +583,7 @@ hr.footer-rule { border: 0; border-top: 2px solid var(--brass); margin: 56px 0 1
   h1 { font-size: 40px; }
   .section-title { font-size: 27px; }
   h2 { font-size: 25px; }
-  .quick-answer { padding: 18px 20px; }
-  .quick-answer p { font-size: 16px; }
+  .quick-answer { padding: 14px 0 0; }
+  .quick-answer p { font-size: 18px; }
   .site-wordmark { font-size: 25px; }
 }

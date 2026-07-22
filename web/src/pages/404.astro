@@ -47,7 +47,7 @@ import { SITE } from '../consts';
       <a
         id="open-app-cta"
         href={SITE.appStoreUrl}
-        class="cta cta-primary"
+        class="hero-cta"
         rel="noopener"
       >Get Pour Picks on the App Store</a>
     </p>
@@ -63,27 +63,9 @@ import { SITE } from '../consts';
 </BaseLayout>
 
 <style>
-  .cta {
-    display: inline-block;
-    padding: 0.85rem 1.4rem;
-    border-radius: 8px;
-    text-decoration: none;
-    font-weight: 600;
-    margin-top: 1rem;
-  }
-  .cta-primary {
-    background: var(--accent);
-    color: var(--bg);
-  }
-  .cta-primary:hover {
-    filter: brightness(1.1);
-  }
-  .eyebrow {
-    color: var(--accent);
-    letter-spacing: 0.18em;
-    font-size: 0.8rem;
-    margin-bottom: 0.25rem;
-  }
+  /* Button + eyebrow come from the global system (sharp brass, 2px). Only the
+     invite-bounce helpers live here. */
+  #open-app-cta { margin-top: 1rem; }
   .hint {
     color: var(--muted);
     font-size: 0.95rem;

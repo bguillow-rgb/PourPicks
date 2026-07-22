@@ -13,7 +13,7 @@ const featuresFaqs = [
   },
   {
     q: 'Is Pour Picks free to use?',
-    a: 'Yes. The core app is free: unlimited browsing, the palate quiz, and basic cellar tracking. A Cask Club subscription ($2.99/month) unlocks advanced cellar features, unlimited AI scans, full journaling, and collection value tracking. Subscriptions are billed through Apple, payment information never touches Pour Picks servers.',
+    a: 'Yes. The core app is free: unlimited browsing, the palate quiz, and basic cellar tracking. A Cask Club subscription ($2.99/month) adds unlimited AI scans, full journaling, advanced cellar tools, and collection value tracking. Subscriptions are billed through Apple, payment information never touches Pour Picks servers.',
   },
   {
     q: 'What is the AI label scanner?',
@@ -27,7 +27,7 @@ const featuresFaqs = [
 ---
 <BaseLayout
   title="Features"
-  description="A closer look at Pour Picks: cellar catalog, tasting journal, AI bottle identification, palate-matching quiz, and curated browse."
+  description="A closer look at Pour Picks: cellar catalog, tasting journal, AI bottle identification, palate-matching quiz, and a browsable American-whiskey catalog."
   path="/features"
 >
   <Fragment slot="head">
@@ -52,8 +52,8 @@ const featuresFaqs = [
   <section class="feature-row feature-row--reverse">
     <div class="feature-row-copy">
       <h3>A catalog built for discovery</h3>
-      <p>Browse a curated database of thousands of American whiskeys. Filter by category (bourbon, rye, Tennessee, wheat, single-malt American), distillery, age, proof, and price tier, or open the world-spirits scope when you want to look beyond.</p>
-      <p>Every entry is curated with mash bill, flavor tags, food and drink pairings, and a path back to your cellar.</p>
+      <p>Browse the full American-whiskey catalog. Filter by category (bourbon, rye, Tennessee, wheat, single-malt American), distillery, age, proof, and price tier, or open the world-spirits scope when you want to look beyond.</p>
+      <p>Every entry carries its mash bill, flavor tags, food and drink pairings, and a path back to your cellar.</p>
     </div>
   </section>
 
@@ -87,12 +87,16 @@ const featuresFaqs = [
     </div>
   </section>
 
-  <section class="cta">
-    <h2 class="section-title">Ready when you are</h2>
+  <section class="closing">
+    <h2 class="section-title">Start your cellar</h2>
     <p class="cta-body">
-      Pour Picks lands on the App Store soon. Questions, feedback, or want a heads-up at launch? Email
-      <a href={`mailto:${SITE.supportEmail}`}>{SITE.supportEmail}</a>.
+      Pour Picks is on the App Store now, free to download. Scan your first bottle
+      tonight. If something is off, email
+      <a href={`mailto:${SITE.supportEmail}`}>{SITE.supportEmail}</a> and a real person reads it.
     </p>
+    <div class="cta-row">
+      <a class="cta" href={SITE.appStoreUrl}>Download on iOS</a>
+    </div>
   </section>
 
   <Footer />
