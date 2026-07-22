@@ -51,19 +51,18 @@ const faqs = [
 
   <p class="brand">{SITE.name}</p>
   <h1>Support</h1>
-  <p class="effective">We answer every email. Usually within a day.</p>
 
-  <h2>Contact</h2>
-  <p>
-    For any question, bug report, feature request, or feedback:
-    <a href={`mailto:${SITE.supportEmail}`}>{SITE.supportEmail}</a>.
-  </p>
-  <p>
-    Please include your account email, your iOS version, and your app version
-    (found at the bottom of the Profile tab), it helps trace issues faster.
-  </p>
+  <section class="helpdesk">
+    <p class="helpdesk-promise">We answer every email. Usually within a day.</p>
+    <p class="helpdesk-email"><a href={`mailto:${SITE.supportEmail}`}>{SITE.supportEmail}</a></p>
+    <p class="helpdesk-hint">
+      Bug, feature request, or plain feedback, it all goes to one inbox. Include
+      your account email, your iOS version, and your app version (bottom of the
+      Profile tab) and we can trace it faster.
+    </p>
+  </section>
 
-  <FAQ faqs={faqs} heading="Common Questions" />
+  <FAQ faqs={faqs} heading="Common questions" />
 
   <Footer />
 </BaseLayout>

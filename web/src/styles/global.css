@@ -566,6 +566,80 @@ strong { color: var(--text); font-weight: 600; }
 }
 .colophon dd { margin: 0; color: var(--muted); font-size: 16px; }
 
+/* ----- /press: the dossier (boxed fact sheet + paste blocks) -------------- */
+.press-oneliner {
+  font-size: 19px;
+  line-height: 1.5;
+  color: var(--text);
+  max-width: 34em;
+  margin: 0 0 8px;
+}
+/* A boxed data sheet. Boxing is meaningful here (it is literally a fact sheet),
+   not decorative, and it reads distinctly from About's open colophon. */
+.factsheet {
+  border: 1px solid var(--line-strong);
+  background: var(--ink2);
+  margin: 8px 0 40px;
+}
+.fact-row {
+  display: grid;
+  grid-template-columns: 175px 1fr;
+  gap: 24px;
+  padding: 12px 22px;
+  border-top: 1px solid var(--line);
+}
+.fact-row:first-child { border-top: none; }
+.factsheet dt {
+  font-family: 'Saira Condensed', 'Arial Narrow', sans-serif;
+  font-weight: 700;
+  font-size: 12px;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  color: var(--brass);
+  line-height: 1.7;
+}
+.factsheet dd { margin: 0; color: var(--text); font-size: 15.5px; }
+
+.pressblock {
+  border: 1px solid var(--line);
+  padding: 16px 22px;
+  margin: 0 0 16px;
+}
+.pressblock-label {
+  display: block;
+  font-family: 'Saira Condensed', 'Arial Narrow', sans-serif;
+  font-weight: 700;
+  font-size: 11px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin: 0 0 8px;
+}
+.pressblock p { margin: 0; color: var(--text); font-size: 16px; }
+
+/* ----- /support: the help desk (contact-forward lead) --------------------- */
+.helpdesk {
+  margin: 24px 0 8px;
+  border-top: 2px solid var(--brass);
+  padding-top: 24px;
+}
+.helpdesk-promise {
+  font-family: 'DM Serif Display', Georgia, serif;
+  font-size: 27px;
+  line-height: 1.2;
+  color: var(--text);
+  margin: 0 0 10px;
+}
+.helpdesk-email { margin: 0 0 16px; }
+.helpdesk-email a {
+  font-family: 'DM Serif Display', Georgia, serif;
+  font-size: 23px;
+  color: var(--brass-bright);
+  border-bottom: 1px solid var(--line-strong);
+}
+.helpdesk-email a:hover { color: var(--brass); }
+.helpdesk-hint { color: var(--muted); max-width: 38em; margin: 0; }
+
 /* ----- In brief (standfirst) ---------------------------------------------- */
 /* An almanac standfirst, not a UI card: no side box, no colored edge-strip.
    A brass masthead rule up top, the kicker set as a dateline, and the answer
@@ -732,6 +806,8 @@ hr.footer-rule { border: 0; border-top: 2px solid var(--brass); margin: 56px 0 1
   .is-col { padding: 22px 0 0; border-right: none; }
   .isnt-col { padding: 4px 0 0; }
   .colophon-row { grid-template-columns: 1fr; gap: 6px; }
+  /* Press fact sheet stacks label above value. */
+  .fact-row { grid-template-columns: 1fr; gap: 4px; }
 }
 
 @media (max-width: 560px) {
