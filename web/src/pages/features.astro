@@ -37,55 +37,85 @@ const featuresFaqs = [
     <link rel="apple-touch-icon" href="/icon.png" />
   </Fragment>
 
-  <p class="brand">{SITE.name}</p>
-  <h1>Features</h1>
-  <p class="effective">Everything Pour Picks does, in one place.</p>
+  <header class="dept-masthead">
+    <p class="brand">{SITE.name}</p>
+    <h1>Inside the app</h1>
+    <p class="dept-lede">Six things it does, and the specific way it does each one. Laid out in the order you would actually use them, from your first scanned bottle to what the shelf is worth.</p>
+  </header>
 
-  <section class="feature-row">
-    <div class="feature-row-copy">
-      <h3>Your cellar, organized</h3>
-      <p>Track every bottle by distillery, expression, proof, age, and fill level. Mark bottles Owned, Wishlist, or Finished, and capture your own ratings the moment you set the glass down.</p>
-      <p>Filter by status, search by name, and see at a glance what's open, what's still sealed, and what's earned a place on the wishlist.</p>
-    </div>
-  </section>
+  <ol class="ledger">
+    <li class="ledger-entry">
+      <div class="ledger-index">
+        <span class="ledger-no">01</span>
+        <span class="ledger-dept">Cellar</span>
+        <span class="ledger-spec">Owned &middot; Wishlist &middot; Finished</span>
+      </div>
+      <div class="ledger-body">
+        <h2>Your cellar, organized</h2>
+        <p>Every bottle by distillery, expression, proof, age, and fill level. Flag each one Owned, Wishlist, or Finished, and log your rating the moment you set the glass down. Filter and search to see what is open, what is still sealed, and what is on the chase list.</p>
+      </div>
+    </li>
 
-  <section class="feature-row feature-row--reverse">
-    <div class="feature-row-copy">
-      <h3>A catalog built for discovery</h3>
-      <p>Browse the full American-whiskey catalog. Filter by category (bourbon, rye, Tennessee, wheat, single-malt American), distillery, age, proof, and price tier, or open the world-spirits scope when you want to look beyond.</p>
-      <p>Every entry carries its mash bill, flavor tags, food and drink pairings, and a path back to your cellar.</p>
-    </div>
-  </section>
+    <li class="ledger-entry">
+      <div class="ledger-index">
+        <span class="ledger-no">02</span>
+        <span class="ledger-dept">Catalog</span>
+        <span class="ledger-spec">Bourbon &middot; Rye &middot; Tennessee &middot; Wheat &middot; Malt</span>
+      </div>
+      <div class="ledger-body">
+        <h2>The whole American shelf</h2>
+        <p>Browse the full American-whiskey catalog. Filter by distillery, age, proof, or price, or widen to world spirits when you want to look past Kentucky. Every entry carries its mash bill, flavor tags, and food and drink pairings, with a path straight back to your cellar.</p>
+      </div>
+    </li>
 
-  <section class="feature-row">
-    <div class="feature-row-copy">
-      <h3>Pour Concierge: scan any bottle</h3>
-      <p>Point your camera at the front label. The Pour Concierge uses Claude Vision to identify the distillery, expression, and proof, then matches against the catalog, usually in under a second.</p>
-      <p>Best-effort by design: if the read isn't right, describe the bottle in words for a second pass, search manually, or suggest a new bottle for the catalog. The undo snackbar gives you 4.5 seconds to reverse any cellar add.</p>
-    </div>
-  </section>
+    <li class="ledger-entry ledger-entry--feature">
+      <div class="ledger-index">
+        <span class="ledger-no">03</span>
+        <span class="ledger-dept">Pour Concierge</span>
+      </div>
+      <div class="ledger-body">
+        <h2>Scan the label, get the bottle</h2>
+        <p class="ledger-stat">Named and matched, usually in under a second.</p>
+        <p>Point your camera at the front label. Pour Concierge reads it with Claude Vision, names the distillery, expression, and proof, and matches it to the catalog. If it misses, describe the bottle in words, search by hand, or add it yourself. Every add carries a 4.5-second undo, so nothing lands in your cellar by accident.</p>
+      </div>
+    </li>
 
-  <section class="feature-row feature-row--reverse">
-    <div class="feature-row-copy">
-      <h3>Find your next pour</h3>
-      <p>The basic three-question quiz matches your palate to the right catalog entries. The advanced nine-question quiz goes deep with adventure-mode reranking, "Stick to Classics" boosts the icons, "Surprise Me" pulls forward deep cuts.</p>
-    </div>
-  </section>
+    <li class="ledger-entry">
+      <div class="ledger-index">
+        <span class="ledger-no">04</span>
+        <span class="ledger-dept">Palate</span>
+        <span class="ledger-spec">3 questions, or 9</span>
+      </div>
+      <div class="ledger-body">
+        <h2>Find your next pour</h2>
+        <p>Answer three quick questions, or nine if you want to go deep. The quiz maps what you already like to bottles you have not tried yet. Stick to Classics leans on the icons; Surprise Me pushes the deep cuts forward.</p>
+      </div>
+    </li>
 
-  <section class="feature-row">
-    <div class="feature-row-copy">
-      <h3>A tasting journal that remembers</h3>
-      <p>Log every pour with overall rating, separate nose / palate / finish ratings, served-with (neat, rocks, water, cocktail), pour size, and freeform notes. Edit and revisit any entry later.</p>
-      <p>Public aggregate rating gets shown on the bottle detail page so other collectors can decide whether to chase it.</p>
-    </div>
-  </section>
+    <li class="ledger-entry">
+      <div class="ledger-index">
+        <span class="ledger-no">05</span>
+        <span class="ledger-dept">Journal</span>
+        <span class="ledger-spec">Nose &middot; Palate &middot; Finish</span>
+      </div>
+      <div class="ledger-body">
+        <h2>A journal that remembers</h2>
+        <p>Log every pour with one overall rating plus separate marks for nose, palate, and finish. Note how you took it (neat, rocks, water, cocktail), the pour size, and whatever you want to say in your own words. Your aggregate rating shows on the bottle so other collectors know whether to chase it.</p>
+      </div>
+    </li>
 
-  <section class="feature-row feature-row--reverse">
-    <div class="feature-row-copy">
-      <h3>Collection value at a glance</h3>
-      <p>Cellar value updates with every add: MSRP from the catalog as the default, with overrides for the price you actually paid. Per-bottle and per-line totals, with quantity steppers for the bottles you have multiples of.</p>
-    </div>
-  </section>
+    <li class="ledger-entry">
+      <div class="ledger-index">
+        <span class="ledger-no">06</span>
+        <span class="ledger-dept">Value</span>
+        <span class="ledger-spec">MSRP, or what you paid</span>
+      </div>
+      <div class="ledger-body">
+        <h2>What the shelf is worth</h2>
+        <p>Cellar value updates with every bottle. MSRP is the default; override it with what you actually paid. Per-bottle and per-line totals, with steppers for the ones you own more than one of.</p>
+      </div>
+    </li>
+  </ol>
 
   <section class="closing">
     <h2 class="section-title">Start your cellar</h2>
