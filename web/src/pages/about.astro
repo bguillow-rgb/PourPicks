@@ -43,74 +43,53 @@ const quickAnswer =
 
   <p class="brand">{SITE.name}</p>
   <h1>About Pour Picks</h1>
-  <p class="effective">A bourbon collector's cellar journal, built and run by one person.</p>
 
   <QuickAnswer text={quickAnswer} />
 
-  <h2>Who runs Pour Picks?</h2>
-  <p>
-    Pour Picks is built and operated by an independent solo developer and
-    published by {SITE.legalEntity}, the developer's own company. There is no
-    outside investor and no advertising network behind the app. Decisions about
-    features, privacy, and direction are made by one person, and that person
-    answers the email at
-    <a href={`mailto:${SITE.supportEmail}`}>{SITE.supportEmail}</a>.
-  </p>
+  <section class="is-isnt">
+    <div class="is-col">
+      <h2>What it is</h2>
+      <ul>
+        <li>A cellar catalog for what you own, by distillery, expression, proof, age, and fill level.</li>
+        <li>An AI label scanner that names a bottle from its front label.</li>
+        <li>A running value for the collection, MSRP or the price you actually paid.</li>
+        <li>A private journal for every pour, with separate nose, palate, and finish.</li>
+      </ul>
+    </div>
+    <div class="isnt-col">
+      <h2>What it is not</h2>
+      <ul>
+        <li>Not a retailer. It does not sell, distribute, or deliver alcohol.</li>
+        <li>Not a marketplace. No listings, no buy or sell, no auctions, no allocation tools.</li>
+        <li>No ads of any kind, alcohol or otherwise.</li>
+        <li>Not a nudge to drink more. It is for people who already collect.</li>
+        <li>No health, location, or financial data. See the <a href="/privacy">privacy policy</a>.</li>
+      </ul>
+    </div>
+  </section>
 
-  <h2>What is Pour Picks?</h2>
-  <p>
-    Pour Picks is an iOS app that does four things for adult bourbon collectors:
-    catalogs the contents of your cellar, scans bottles to identify what you own,
-    tracks the value of your collection over time, and gives you a private
-    journal for every pour. The reference catalog covers thousands of American
-    whiskeys and grows over time, corrected by users when something is missing
-    or wrong.
-  </p>
-
-  <h2>What Pour Picks is not</h2>
-  <ul>
-    <li>It is <strong>not a retailer</strong>. The app does not sell, distribute, or deliver alcohol.</li>
-    <li>It is <strong>not a marketplace</strong>. There are no listings, no buy/sell flows, no auctions, no allocation tools.</li>
-    <li>It does <strong>not show alcohol ads</strong>. There are no ads of any kind in the app.</li>
-    <li>It is <strong>not a recommendation engine to drink more</strong>. The app exists to help people who already collect bourbon keep their cellar organized.</li>
-    <li>It does <strong>not collect health, location, or financial data</strong>. See the <a href="/privacy">privacy policy</a> for the full breakdown.</li>
-  </ul>
-
-  <h2>How Pour Picks makes money</h2>
-  <p>
-    The core app is free. Cask Club, the paid tier, adds advanced collection
-    tracking and full journaling. That is the entire revenue model.
-    Subscriptions are managed through Apple, so payment information never
-    touches Pour Picks' servers.
-  </p>
-
-  <h2>Editorial standards</h2>
-  <p>
-    Articles published on this site are written in-house, based on
-    first-hand experience as a collector and on cited primary sources
-    (distillery technical sheets, industry reference books, TTB filings, and
-    other public sources). When a fact comes from somewhere other than direct
-    experience, it is linked. When something is an opinion, it is labeled.
-  </p>
-  <p>
-    Articles are dated, and the date is updated only when the content
-    actually changes, not just to make the page look fresh.
-  </p>
-
-  <h2>Responsible-use notice</h2>
-  <p>
-    Pour Picks does not promote alcohol consumption. Excessive consumption of
-    alcoholic beverages is harmful to health, and impaired driving is illegal
-    everywhere we operate. The app's full responsibility disclaimer lives in
-    the <a href="/terms">Terms of Use</a>.
-  </p>
-
-  <h2>Contact</h2>
-  <p>
-    Press, partnership, or product feedback:
-    <a href={`mailto:${SITE.supportEmail}`}>{SITE.supportEmail}</a>.
-    There is no DM channel, email is the canonical contact.
-  </p>
+  <dl class="colophon">
+    <div class="colophon-row">
+      <dt>Who runs it</dt>
+      <dd>Built and operated by an independent solo developer, published by {SITE.legalEntity}. No investor, no ad network. One person makes the calls and answers <a href={`mailto:${SITE.supportEmail}`}>{SITE.supportEmail}</a>.</dd>
+    </div>
+    <div class="colophon-row">
+      <dt>How it makes money</dt>
+      <dd>The core app is free. Cask Club, the paid tier, adds advanced tracking and full journaling. That is the whole model, billed through Apple, so payment information never touches Pour Picks' servers.</dd>
+    </div>
+    <div class="colophon-row">
+      <dt>Editorial standards</dt>
+      <dd>Articles are written in-house from first-hand collecting and cited primary sources: distillery technical sheets, TTB filings, and reference books. Facts are linked, opinions are labeled, and a date changes only when the content does.</dd>
+    </div>
+    <div class="colophon-row">
+      <dt>Responsible use</dt>
+      <dd>Pour Picks does not promote drinking. Excess is harmful to health, and impaired driving is illegal everywhere we operate. The full disclaimer lives in the <a href="/terms">Terms of Use</a>.</dd>
+    </div>
+    <div class="colophon-row">
+      <dt>Contact</dt>
+      <dd>Press, partnership, or product feedback all go to <a href={`mailto:${SITE.supportEmail}`}>{SITE.supportEmail}</a>. No DM channel, no chat. Replies usually land within a day.</dd>
+    </div>
+  </dl>
 
   <Footer />
 </BaseLayout>

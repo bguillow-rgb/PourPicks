@@ -19,6 +19,7 @@
   --brass: #C0883B;
   --brass-bright: #DDAE63;
   --oxblood: #8C2F26;
+  --oxblood-bright: #C2604F;
   --line: rgba(192, 136, 59, 0.22);
   --line-strong: rgba(192, 136, 59, 0.45);
 
@@ -513,6 +514,58 @@ strong { color: var(--text); font-weight: 600; }
   margin: 0 0 14px;
 }
 
+/* ----- /about: the is / is-not spread + colophon -------------------------- */
+/* A stance rendered as two facing columns, brass for what it is, oxblood for
+   what it is not. Nothing else on the site is laid out this way. */
+.is-isnt {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  margin: 40px 0 8px;
+  border-top: 2px solid var(--brass);
+}
+.is-col { padding: 22px 42px 0 0; border-right: 1px solid var(--line); }
+.isnt-col { padding: 22px 0 0 42px; }
+.is-isnt h2 {
+  margin: 0 0 16px;
+  font-size: 22px;
+  position: relative;
+  padding-top: 12px;
+}
+.is-isnt h2::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0;
+  width: 30px; height: 2px;
+}
+.is-col h2::before { background: var(--brass); }
+.isnt-col h2::before { background: var(--oxblood-bright); }
+.is-isnt ul { margin: 0; padding-left: 18px; }
+.is-isnt li { margin-bottom: 11px; color: var(--muted); }
+.is-isnt li::marker { color: var(--brass); }
+.isnt-col li::marker { color: var(--oxblood-bright); }
+
+/* Front-matter colophon: small-caps labels in a left rail, tight entries.
+   Deliberately lighter than the Features ledger (no big numerals). */
+.colophon { margin: 48px 0 0; padding: 0; }
+.colophon-row {
+  display: grid;
+  grid-template-columns: 150px 1fr;
+  gap: 30px;
+  padding: 18px 0;
+  border-bottom: 1px solid var(--line);
+  align-items: baseline;
+}
+.colophon-row:first-child { border-top: 1px solid var(--line); }
+.colophon dt {
+  font-family: 'Saira Condensed', 'Arial Narrow', sans-serif;
+  font-weight: 700;
+  font-size: 12px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: var(--brass);
+}
+.colophon dd { margin: 0; color: var(--muted); font-size: 16px; }
+
 /* ----- In brief (standfirst) ---------------------------------------------- */
 /* An almanac standfirst, not a UI card: no side box, no colored edge-strip.
    A brass masthead rule up top, the kicker set as a dateline, and the answer
@@ -674,6 +727,11 @@ hr.footer-rule { border: 0; border-top: 2px solid var(--brass); margin: 56px 0 1
   .ledger-dept { margin: 0; }
   .ledger-no { font-size: 34px; }
   .ledger-spec { flex-basis: 100%; margin-top: 2px; }
+  /* About: is/is-not stacks, colophon label sits above its entry. */
+  .is-isnt { grid-template-columns: 1fr; }
+  .is-col { padding: 22px 0 0; border-right: none; }
+  .isnt-col { padding: 4px 0 0; }
+  .colophon-row { grid-template-columns: 1fr; gap: 6px; }
 }
 
 @media (max-width: 560px) {
