@@ -124,21 +124,29 @@ const faqs = [
   .compare {
     width: 100%;
     border-collapse: collapse;
-    margin-top: 1rem;
+    margin-top: 1.25rem;
     font-size: 0.95rem;
   }
   .compare th,
   .compare td {
     text-align: left;
-    padding: 0.6rem 0.75rem;
-    border-bottom: 1px solid rgba(237, 228, 211, 0.15);
+    padding: 0.65rem 0.85rem;
+    border-bottom: 1px solid var(--line);
     vertical-align: top;
   }
   .compare thead th {
-    border-bottom: 2px solid rgba(237, 228, 211, 0.3);
+    border-bottom: 2px solid var(--line-strong);
+    font-family: 'Saira Condensed', 'Arial Narrow', sans-serif;
     font-weight: 700;
+    font-size: 0.82rem;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: var(--muted);
   }
-  .compare td:first-child {
-    font-weight: 600;
-  }
+  /* The Pour Picks column is the answer: brass header, bone-bright cells; the
+     spreadsheet column reads muted so the contrast does the arguing. */
+  .compare thead th:last-child { color: var(--brass-bright); }
+  .compare td:first-child { font-weight: 600; color: var(--text); }
+  .compare tbody td:nth-child(2) { color: var(--muted); }
+  .compare tbody td:last-child { color: var(--text); }
 </style>

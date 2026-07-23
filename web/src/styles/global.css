@@ -771,6 +771,39 @@ th {
 .cta:hover { background: var(--brass); color: var(--ink); }
 .cta--disabled { border-color: var(--line); color: var(--muted); cursor: default; pointer-events: none; }
 
+/* ----- Article masthead + reading body ------------------------------------ */
+/* Articles get a magazine opener (department kicker → headline → dek → ruled
+   byline) and a narrower reading measure, so they read as authored pieces and
+   not as another marketing page. */
+.article-head { margin: 6px 0 26px; }
+.article-kicker {
+  font-family: 'Saira Condensed', 'Arial Narrow', sans-serif;
+  font-weight: 700;
+  font-size: 13px;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  color: var(--brass);
+  margin: 0 0 12px;
+}
+.article-head h1 { margin: 0 0 16px; }
+.article-dek {
+  font-size: 21px;
+  line-height: 1.5;
+  color: var(--muted);
+  max-width: 34em;
+  margin: 0 0 20px;
+}
+.article-byline {
+  font-size: 14px;
+  color: var(--muted);
+  margin: 0;
+  padding-top: 15px;
+  border-top: 1px solid var(--line);
+}
+.article-byline a { color: var(--brass); }
+.article-body { max-width: 43em; }
+.article-body > :first-child { margin-top: 0; }
+
 /* ----- Byline + footer ---------------------------------------------------- */
 .byline { font-size: 14px; color: var(--muted); text-align: center; margin: 0 0 32px; }
 .byline a { color: var(--muted); }
