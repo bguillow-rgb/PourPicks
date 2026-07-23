@@ -1,6 +1,6 @@
 ---
 title: "Should You Add Water to Bourbon? A Collector's Guide"
-description: "Yes — a few drops of water can unlock hidden aromas in high-proof bourbon. Learn the science, how much to add, what type of water to use, and when to skip it."
+description: "Yes, a few drops of water can unlock hidden aromas in high-proof bourbon. Learn the science, how much to add, what type of water to use, and when to skip it."
 tier: "detail"
 targetQuery: "should you add water to bourbon"
 relatedQueries:

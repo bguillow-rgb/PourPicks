@@ -1,6 +1,6 @@
 ---
 title: "What Is a Four Grain Bourbon? A Collector's Guide"
-description: "Four grain bourbon uses corn, rye, wheat, AND malted barley for flavor — not just the standard three. Here's what it tastes like and why collectors seek it out."
+description: "Four grain bourbon uses corn, rye, wheat, AND malted barley for flavor, not just the standard three. Here's what it tastes like and why collectors seek it out."
 tier: "detail"
 targetQuery: "what is a four grain bourbon"
 relatedQueries:

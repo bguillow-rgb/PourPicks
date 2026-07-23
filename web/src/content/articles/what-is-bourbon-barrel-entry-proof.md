@@ -1,6 +1,6 @@
 ---
 title: "What Is Bourbon Barrel Entry Proof? A Collector's Guide"
-description: "Barrel entry proof is the proof at which new spirit enters the oak barrel — and it quietly shapes every flavor in your glass. Here's what collectors need to know."
+description: "Barrel entry proof is the proof at which new spirit enters the oak barrel, and it quietly shapes every flavor in your glass. Here's what collectors need to know."
 tier: "detail"
 targetQuery: "what is bourbon barrel entry proof"
 relatedQueries:

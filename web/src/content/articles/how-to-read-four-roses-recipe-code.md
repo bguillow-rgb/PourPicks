@@ -1,6 +1,6 @@
 ---
 title: "How to Read a Four Roses Recipe Code (OBSV, OESK & All 10)"
-description: "Decode every Four Roses recipe code — OBSV, OESK, OESO, and all 10 combinations. Learn what each letter means and how mash bill and yeast shape flavor."
+description: "Decode every Four Roses recipe code: OBSV, OESK, OESO, and all 10 combinations. Learn what each letter means and how mash bill and yeast shape flavor."
 tier: "detail"
 targetQuery: "four roses recipe code explained"
 relatedQueries:

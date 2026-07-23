@@ -1,6 +1,6 @@
 ---
 title: "What Is the Angel's Share? A Bourbon Collector's Guide"
-description: "The angel's share is bourbon lost to evaporation during barrel aging—typically 3–5% per year in Kentucky. Here's why it matters for rarity, price, and flavor."
+description: "The angel's share is bourbon lost to evaporation during barrel aging, typically 3–5% per year in Kentucky. Here's why it matters for rarity, price, and flavor."
 tier: "detail"
 targetQuery: "what is the angel's share bourbon"
 relatedQueries:

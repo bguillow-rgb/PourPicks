@@ -1,6 +1,6 @@
 ---
 title: "How to Insure a Bourbon Collection: A Collector's Guide"
-description: "Your homeowners policy likely won't cover a serious bourbon cellar. Here's exactly how to insure a bourbon collection—scheduling, blanket policies, and what to document."
+description: "Your homeowners policy likely won't cover a serious bourbon cellar. Here's exactly how to insure a bourbon collection: scheduling, blanket policies, and what to document."
 tier: "detail"
 targetQuery: "how to insure a bourbon collection"
 relatedQueries:

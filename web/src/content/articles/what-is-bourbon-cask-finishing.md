@@ -1,6 +1,6 @@
 ---
 title: "What Is Bourbon Cask Finishing? A Collector's Guide"
-description: "Bourbon cask finishing transfers whiskey to a second barrel—port, sherry, wine, or rum—to add complexity. Here's what collectors need to know before buying."
+description: "Bourbon cask finishing transfers whiskey to a second barrel (port, sherry, wine, or rum) to add complexity. Here's what collectors need to know before buying."
 tier: "detail"
 targetQuery: "what is bourbon cask finishing"
 relatedQueries:

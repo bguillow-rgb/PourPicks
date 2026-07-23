@@ -1,6 +1,6 @@
 ---
 title: "What Is Bourbon Proof? A Collector's Guide to ABV"
-description: "Proof is twice the ABV — but for collectors it means much more. Learn how entry proof, bottling proof, and proof tiers shape flavor, value, and what to log in your cellar."
+description: "Proof is twice the ABV, but for collectors it means much more. Learn how entry proof, bottling proof, and proof tiers shape flavor, value, and what to log in your cellar."
 tier: "detail"
 targetQuery: "what is bourbon proof"
 relatedQueries:
