@@ -16,7 +16,7 @@ relatedSlugs:
   - "what-is-heat-cycling-bourbon"
   - "what-is-bourbon-barrel-char-level"
   - "what-is-bourbon-barrel-entry-proof"
-  - "how-to-read-four-roses-recipe-code"
+  - "how-to-build-a-bourbon-palate"
 faqs:
   - q: "What is the difference between a rickhouse and a rackhouse?"
     a: "The terms are used interchangeably in the industry. Both refer to the multi-story, open-air warehouses where bourbon barrels age on wooden racks or ricks. Some distilleries prefer one term over the other, but there is no meaningful functional difference."

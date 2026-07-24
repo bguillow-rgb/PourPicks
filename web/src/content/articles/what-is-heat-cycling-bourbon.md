@@ -15,8 +15,8 @@ author: "Pour Picks"
 relatedSlugs:
   - "what-is-a-rickhouse"
   - "what-is-bourbon-barrel-char-level"
+  - "how-to-build-a-bourbon-palate"
   - "how-to-write-bourbon-tasting-notes"
-  - "what-is-bourbon-barrel-entry-proof"
 faqs:
   - q: "What is heat cycling in bourbon production?"
     a: "Heat cycling is the deliberate heating and cooling of a barrel warehouse during colder months to simulate the pressure changes that occur naturally in summer. Those pressure swings push bourbon into the charred oak and pull it back out, speeding up wood extraction and flavor development."

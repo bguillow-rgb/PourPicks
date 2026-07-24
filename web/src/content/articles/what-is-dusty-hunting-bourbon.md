@@ -14,9 +14,9 @@ publishedAt: "2026-07-07"
 author: "Pour Picks"
 relatedSlugs:
   - "bourbon-age-statement-vs-nas"
+  - "how-to-build-a-bourbon-palate"
   - "how-to-write-bourbon-tasting-notes"
   - "what-is-allocated-bourbon"
-  - "how-to-build-a-bourbon-flight"
 faqs:
   - q: "What exactly makes a bourbon bottle a 'dusty'?"
     a: "A dusty is any bottle of discontinued or out-of-production bourbon that has been sitting on a shelf (literally gathering dust) rather than being purchased. Most collectors focus on bottles from the 1970s through the early 2000s, the so-called glut era, when demand slumped and distilleries overproduced."
