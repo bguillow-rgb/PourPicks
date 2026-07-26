@@ -15,8 +15,8 @@ author: "Pour Picks"
 relatedSlugs:
   - "what-is-bourbon-cask-finishing"
   - "what-is-the-bourbon-secondary-market"
+  - "is-bourbon-a-good-investment"
   - "how-to-build-a-bourbon-palate"
-  - "how-to-value-a-bourbon-collection"
 faqs:
   - q: "What makes a bourbon 'allocated'?"
     a: "A bourbon becomes allocated when structural demand permanently outpaces supply. The distillery produces a fixed run, distributors divide it among retailers, and those retailers get far fewer bottles than customers want, often just a case or two per release."
