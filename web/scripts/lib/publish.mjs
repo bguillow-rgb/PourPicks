@@ -15,6 +15,17 @@ export async function publishArticle({ article, articlesDir, today }) {
   article.publishedAt = article.publishedAt || today;
   article.tier = article.tier || 'detail';
 
+  // The content schema caps seoTitle at 60 characters, so an over-long one from
+  // the model would fail the Astro build and take the whole daily run with it.
+  // Drop it instead and let the layout fall back to `title`. A long title is a
+  // CTR problem; a red build is a worse one.
+  if (article.seoTitle && article.seoTitle.length > 60) {
+    console.warn(
+      `  seoTitle dropped: ${article.seoTitle.length} chars, over the 60 limit -> "${article.seoTitle}"`
+    );
+    delete article.seoTitle;
+  }
+
   const meta = readArticleMeta(articlesDir);
   article.relatedSlugs = computeRelated(
     {

@@ -71,7 +71,8 @@ PART 1 — a single fenced code block tagged json with ONLY these metadata field
 \`\`\`json
 {
   "slug": "kebab-case-url-slug",
-  "title": "55-65 char SEO title",
+  "title": "the H1 as it reads on the page. Descriptive, can run long, no brand suffix",
+  "seoTitle": "the <title> tag. HARD LIMIT 60 characters, count them. Leads with the target query, no brand suffix (the layout no longer appends one). Google cuts anything past ~60 in the SERP",
   "description": "150-160 char meta description, leads with the answer",
   "tier": "${tier}",
   "targetQuery": "the exact target query",

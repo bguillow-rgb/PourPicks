@@ -23,6 +23,7 @@ export function buildMarkdown(a) {
   return [
     '---',
     `title: ${yamlStr(a.title)}`,
+    ...(a.seoTitle ? [`seoTitle: ${yamlStr(a.seoTitle)}`] : []),
     `description: ${yamlStr(a.description)}`,
     `tier: ${yamlStr(a.tier || 'detail')}`,
     `targetQuery: ${yamlStr(a.targetQuery)}`,
