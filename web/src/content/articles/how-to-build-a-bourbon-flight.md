@@ -1,5 +1,6 @@
 ---
 title: "How to Build a Bourbon Flight at Home (A Collector's Guide)"
+seoTitle: "How to Build a Bourbon Flight at Home (3 to 5 Pours)"
 description: "A bourbon flight is 3–5 small pours tasted side by side with one variable changing. Learn how to build one from your cellar, choose a theme, and take better notes."
 tier: "detail"
 targetQuery: "how to build a bourbon flight"

@@ -10,6 +10,10 @@ import { SITE } from '../consts';
 
 interface Props {
   title: string;
+  // Short form of the title written for the SERP, where anything past ~60
+  // characters gets cut. The H1, schema, and breadcrumb keep the long title,
+  // which reads better on the page. Falls back to title when unset.
+  seoTitle?: string;
   description: string;
   path: string;
   publishedAt: Date;
@@ -25,6 +29,7 @@ interface Props {
 
 const {
   title,
+  seoTitle,
   description,
   path,
   publishedAt,
@@ -48,7 +53,12 @@ const formattedDate = (updatedAt ?? publishedAt).toLocaleDateString('en-US', {
   day: 'numeric',
 });
 ---
-<BaseLayout title={title} description={description} path={path}>
+<BaseLayout
+  title={seoTitle ?? title}
+  description={description}
+  path={path}
+  appendBrand={false}
+>
   <Fragment slot="head">
     <ArticleSchema
       title={title}

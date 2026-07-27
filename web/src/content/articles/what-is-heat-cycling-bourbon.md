@@ -1,5 +1,6 @@
 ---
 title: "What Is Heat Cycling in Bourbon? A Collector's Guide"
+seoTitle: "Heat Cycling Bourbon: How Warmth Speeds Up Aging"
 description: "Heat cycling forces bourbon deeper into the barrel stave with each temperature swing, accelerating flavor extraction. Here's what collectors need to know about who uses it and why it matters."
 tier: "detail"
 targetQuery: "what is heat cycling bourbon"

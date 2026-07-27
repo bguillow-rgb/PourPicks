@@ -1,5 +1,6 @@
 ---
 title: "How to Read a Bourbon Label: Proof, Age, Mash Bill, and the Fine Print"
+seoTitle: "How to Read a Bourbon Label: Proof, Age, Mash Bill"
 description: "How to read a bourbon label: what proof, age statements, and category claims like bottled in bond, single barrel, small batch, and straight actually mean. Which words are federally regulated and which are pure marketing."
 tier: detail
 targetQuery: "how to read a bourbon label"

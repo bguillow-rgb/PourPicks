@@ -10,6 +10,11 @@ const articles = defineCollection({
   type: 'content',
   schema: z.object({
     title: z.string(),
+    // Optional short title for the <title> tag only. Google truncates around
+    // 60 characters, and most article H1s here run longer than that because
+    // they read better on the page. Set this when the H1 would get cut in
+    // search results. The H1, schema, and breadcrumb always use `title`.
+    seoTitle: z.string().max(60, 'seoTitle must fit the SERP: 60 chars max').optional(),
     description: z.string(),
     tier: z.enum(['pillar', 'cluster', 'detail']),
     // Exact query the article ranks for. Surface-level ASO discipline:

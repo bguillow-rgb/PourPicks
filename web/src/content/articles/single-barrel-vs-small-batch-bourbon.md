@@ -1,5 +1,6 @@
 ---
 title: "Single Barrel vs Small Batch Bourbon: What Collectors Need to Know"
+seoTitle: "Single Barrel vs Small Batch Bourbon: What's Different"
 description: "Single barrel means one cask, one unique pour. Small batch blends a curated few barrels for consistency. Here's what each label means for taste, value, and your cellar."
 tier: "detail"
 targetQuery: "single barrel vs small batch bourbon"

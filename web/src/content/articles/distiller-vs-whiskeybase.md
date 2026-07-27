@@ -1,5 +1,6 @@
 ---
 title: "Distiller vs Whiskeybase: Which Whiskey App Wins in 2026?"
+seoTitle: "Distiller vs Whiskeybase: Which Whiskey App Wins (2026)"
 description: "Distiller vs Whiskeybase, compared honestly: Distiller is American, app-first, and built on community reviews; Whiskeybase is European, web-first, and built on an exhaustive catalog. Which to use, and where a cellar app fits alongside both."
 tier: cluster
 targetQuery: "distiller vs whiskeybase"

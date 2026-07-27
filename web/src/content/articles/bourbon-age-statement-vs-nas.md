@@ -1,5 +1,6 @@
 ---
 title: "Bourbon Age Statement vs NAS: Does the Number Matter?"
+seoTitle: "Bourbon Age Statement vs NAS: Does Age Matter?"
 description: "Age statements on bourbon labels guarantee minimum barrel time, but NAS bottles can be just as old or better. Here's what collectors need to know."
 tier: "detail"
 targetQuery: "bourbon age statement vs no age statement"

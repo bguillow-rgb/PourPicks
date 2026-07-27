@@ -1,5 +1,6 @@
 ---
 title: "What Is a Bourbon Store Pick? A Collector's Guide"
+seoTitle: "What Is a Bourbon Store Pick? Barrel Picks Explained"
 description: "A bourbon store pick is an exclusive single-barrel bottling chosen by a retailer or club. Learn how they're selected, what makes them collectible, and whether they're worth buying."
 tier: "detail"
 targetQuery: "what is a bourbon store pick"

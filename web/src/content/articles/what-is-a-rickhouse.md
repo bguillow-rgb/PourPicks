@@ -1,5 +1,6 @@
 ---
 title: "What Is a Rickhouse? How Warehouse Aging Shapes Bourbon Flavor"
+seoTitle: "What Is a Rickhouse? How Bourbon Ages in a Warehouse"
 description: "A rickhouse is the multi-story warehouse where bourbon barrels age. Learn how floor position, building type, and location drive the flavor in every bottle you collect."
 tier: "detail"
 targetQuery: "what is a rickhouse bourbon"

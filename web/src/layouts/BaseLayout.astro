@@ -18,6 +18,12 @@ interface Props {
   // NOT be emitted (e.g. when an article emits its own and we don\u2019t want
   // duplication). Default is false.
   suppressGlobalSchema?: boolean;
+  // Set false to keep the brand out of the <title> tag. The suffix costs 12
+  // characters against a ~60-character SERP budget, which is worth paying on
+  // brand and product pages and not worth paying on articles that rank for
+  // informational queries. og:title and twitter:title keep the brand either
+  // way, since social cards have no length pressure.
+  appendBrand?: boolean;
 }
 
 const {
@@ -26,11 +32,13 @@ const {
   path = '',
   noindex = false,
   suppressGlobalSchema = false,
+  appendBrand = true,
 } = Astro.props;
 
 const canonical = `${SITE.url}${path}`;
-const fullTitle =
+const brandedTitle =
   title === SITE.name ? `${SITE.name} | ${SITE.tagline}` : `${title} | ${SITE.name}`;
+const fullTitle = appendBrand ? brandedTitle : title;
 ---
 <!doctype html>
 <html lang={SITE.locale}>
@@ -43,12 +51,12 @@ const fullTitle =
     {noindex && <meta name="robots" content="noindex,nofollow" />}
 
     <meta property="og:type" content="website" />
-    <meta property="og:title" content={fullTitle} />
+    <meta property="og:title" content={brandedTitle} />
     <meta property="og:description" content={description} />
     <meta property="og:url" content={canonical} />
     <meta property="og:site_name" content={SITE.name} />
     <meta name="twitter:card" content="summary" />
-    <meta name="twitter:title" content={fullTitle} />
+    <meta name="twitter:title" content={brandedTitle} />
     <meta name="twitter:description" content={description} />
 
     <link rel="icon" href="/favicon.png" type="image/png" />

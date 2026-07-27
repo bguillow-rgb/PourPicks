@@ -1,5 +1,6 @@
 ---
 title: "Best Bourbon Cellar Apps in 2026 (Tested and Compared)"
+seoTitle: "Best Bourbon Apps for Tracking a Collection (2026)"
 description: "An honest, hands-on comparison of the bourbon cellar and whiskey apps worth using in 2026: Distiller, Whiskeybase, Pour Picks, Drammey, and the spreadsheet most people are still using."
 tier: pillar
 targetQuery: "best bourbon cellar app"

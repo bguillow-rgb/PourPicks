@@ -1,5 +1,6 @@
 ---
 title: "How to Value a Bourbon Collection (Without Guessing)"
+seoTitle: "How to Value a Bourbon Collection Without Guessing"
 description: "How to value a bourbon collection: price each bottle at retail or secondary-market value and track purchase price versus current value so you see appreciation, not just a total."
 tier: cluster
 targetQuery: "how to value a bourbon collection"

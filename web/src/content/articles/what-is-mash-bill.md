@@ -1,5 +1,6 @@
 ---
 title: "What Is 'Mash Bill' and Why Does It Matter? A Bourbon Drinker's Guide"
+seoTitle: "What Is a Mash Bill? The Grain Recipe Behind Bourbon"
 description: "Mash bill is the grain recipe that shapes everything about a bourbon's flavor, what it is, how to read it, and why the same distillery's bourbons can taste so different."
 tier: detail
 targetQuery: "what is mash bill bourbon"

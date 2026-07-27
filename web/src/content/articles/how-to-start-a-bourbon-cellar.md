@@ -1,5 +1,6 @@
 ---
 title: "How to Start a Bourbon Cellar (Without Spending a Fortune)"
+seoTitle: "How to Start a Bourbon Cellar on a Budget"
 description: "A practical guide to building your first bourbon cellar, what to buy first, how to store it, how to track it, and the mistakes most new collectors make."
 tier: cluster
 targetQuery: "how to start a bourbon cellar"

@@ -1,5 +1,6 @@
 ---
 title: "How to Store Bourbon: Light, Heat, and the Upright Rule (2026)"
+seoTitle: "How to Store Bourbon: Upright and Out of the Light"
 description: "How to store bourbon the right way: upright, out of light, at stable room temperature. What actually degrades a bottle, how long an opened one lasts, and why bourbon storage is the opposite of wine."
 tier: cluster
 targetQuery: "how to store bourbon"
