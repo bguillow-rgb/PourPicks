@@ -80,6 +80,24 @@ Whether you find rye "spicy" or "dry" or "savory" depends partly on what you're 
 
 The spiciness mellows with age and with cask strength. A 6-year rye at 80° proof reads hot and sharp; the same distillate at 12 years and 100° often reads complex and warming.
 
+## How different are bourbon and rye by the numbers?
+
+The sweet-vs-spicy split is not just a talking point. It shows up in the data. Pulling the flavor profiles across the Pour Picks catalog (690 bourbons and 106 ryes as of July 2026), the two categories separate cleanly on every axis you would expect.
+
+| Flavor axis | Bourbon | Rye |
+|---|---|---|
+| Sweetness (avg 1-5 catalog score) | 3.0 | 2.3 |
+| Spice (share of bottles carrying a pepper or baking-spice note) | 73% | 99% |
+| Oak / barrel char (avg 1-5 score) | 2.9 | 2.7 |
+| Fruit (share carrying a cherry, dark-fruit, or orchard-fruit note) | 41% | 25% |
+| Mint / herbal (share carrying a mint note) | 1% | 36% |
+
+<!-- TODO: no per-category "finish length" axis exists in the catalog yet. tasting_reviews.finish_rating has only 12 rows app-wide (2026-07), far too few to report a bourbon-vs-rye average. Add a Finish row here once review volume clears a reporting threshold. -->
+
+Sweetness and oak are scored 1-5 by the app; the sweetness gap (3.0 vs 2.3, on roughly 570 bourbons and 78 ryes) is the single clearest number here. Spice and fruit are the share of bottles tagged with those notes, so they read as percentages. Almost every rye carries a pepper or baking-spice note; bourbon still shows spice, but it is optional, not the point. The mint-and-herbal line is the sleeper tell: it barely registers on bourbon and shows up on more than a third of ryes, which is exactly the dill-and-mint character old-guard rye drinkers chase.
+
+The one axis the catalog does not yet score cleanly is finish length, so it is left out of the table above rather than guessed at.
+
 ## How do you choose between bourbon and rye for a given moment?
 
 There's no objectively-better answer here, it depends on what you're doing.
@@ -121,6 +139,29 @@ The cleanest way to taste the bourbon-vs-rye difference is to buy two bottles fr
 3. **Old Forester 86 + Rittenhouse Rye Bottled-in-Bond**, Old Forester is one of the most traditional bourbons; Rittenhouse BiB is a benchmark rye. Different distilleries but similar price tiers ($25-30 each).
 
 Pour an ounce of each side-by-side. Smell each. Sip each. Sip the bourbon, then the rye, then back. Pay attention to: where you taste the sweetness (front of tongue, mid-palate, back?), where you taste the spice (throat, sides of tongue, finish?), and how long each one lingers. This single tasting will teach you more than reading another 10 articles.
+
+### The everyday bourbons under $35 worth reaching for
+
+Here are the sub-$35 bourbons currently in the Pour Picks catalog with a documented mash bill. These are the workhorse pours most collectors actually keep open, and the mash bill column tells you which way each one leans before you buy it.
+
+| Bourbon | Price | Proof | Mash bill (corn / rye / wheat / malt) | Leans |
+|---|---|---|---|---|
+| Wild Turkey 101 | $25 | 101 | 75 / 13 / 0 / 12 | Standard, peppery |
+| Jim Beam Black | $25 | 86 | 75 / 13 / 0 / 12 | Standard, mellow |
+| Larceny | $28 | 92 | 68 / 0 / 20 / 12 | Wheated, soft |
+| Buffalo Trace | $30 | 90 | 78 / 10 / 0 / 12 | Standard, low-rye |
+| Maker's Mark | $30 | 90 | 70 / 0 / 16 / 14 | Wheated, soft |
+| 1792 Small Batch | $30 | 93.7 | 75 / 15 / 0 / 10 | High-rye |
+| Old Forester 100 | $30 | 100 | 72 / 18 / 0 / 10 | High-rye |
+| Elijah Craig Small Batch | $35 | 94 | 78 / 10 / 0 / 12 | Standard, oaky |
+| Knob Creek 9 | $35 | 100 | 75 / 13 / 0 / 12 | Standard, big |
+| W.L. Weller Special Reserve | $35 | 90 | 70 / 0 / 16 / 14 | Wheated, soft |
+
+<!-- TODO: two data gaps here, both real, neither invented.
+     1) User-rating ranking: the task asked for "top 5 by user rating." There is no usable rating data yet (journal_entries.rating = 0 rows, tasting_reviews = 12 rows app-wide as of 2026-07). The table above is ordered by catalog popularity tier + price, NOT by user rating. Add a "Avg user rating" column and re-rank once rating volume is meaningful.
+     2) Rye side: the catalog has 106 ryes but only 2 carry a price, and none price under $35, so a matching "top ryes under $35" table cannot be built from real data yet. Add it once rye pricing coverage improves. -->
+
+A rye version of this table is coming; right now the catalog's rye pricing is too thin to publish an honest one, so rather than pad it out with guesses, the affordable rye picks live in the same-distillery pairings above (Sazerac, Rittenhouse, Wild Turkey 101 Rye), all of which land in the same $25-30 window as their bourbon counterparts.
 
 ## What about wheated bourbon, does that count?
 

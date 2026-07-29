@@ -52,7 +52,21 @@ Fill level, not calendar time, is the thing to watch:
 - **Half to a quarter:** noticeable change over many months. This is where many bottles peak, then begin to flatten.
 - **Below a quarter:** the danger zone. A heel of whiskey under a big air gap can go from vibrant to papery and dull in two to four months.
 
+Put on a single timeline, the fill level tells you both how fast a bottle is changing and what to do about it:
+
+| Fill level | Air-to-liquid ratio | Time to noticeable flavor change | What to do |
+|---|---|---|---|
+| Full to three-quarters | Low | A year or more, barely moves | Nothing. Drink at your own pace. |
+| Three-quarters to half | Moderate | Six months to a year | Nothing yet, but note the open date. |
+| Half to a quarter | High | Three to six months | Start prioritizing this bottle. |
+| A quarter to a heel | Very high | Two to four months | Finish it, or decant into a smaller bottle. |
+| Sample-sized heel | Extreme | Weeks | Pour it this week. It is only going to fade. |
+
 None of this is a safety issue. A faded bourbon is perfectly safe to drink; it has just lost some of the high notes and aromatic lift you paid for. The cost of oxidation is pleasure, not health.
+
+<!-- TODO: real "average days to finish a bottle once it drops below half" stat is not computable yet. cellar_pours has 16 rows app-wide and there is no per-pour fill-level event to detect the below-half crossing (2026-07). Once pour logging with fill level has enough volume, drop the aggregate here, e.g. "Across N Pour Picks users, a bottle takes an average of D days to empty once it drops below half." Real query only, no estimate. -->
+
+How long a below-half bottle actually survives in the wild depends on how often you reach for it, which is the one variable a pour log captures directly. That aggregate is not published here yet, on purpose: Pour Picks pour-logging volume is still early, and a made-up "average days to finish" number would be worse than none.
 
 ## How do you slow oxidation down?
 
