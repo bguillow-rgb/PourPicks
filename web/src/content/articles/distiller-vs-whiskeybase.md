@@ -14,6 +14,7 @@ publishedAt: "2026-06-01"
 author: "Pour Picks"
 relatedSlugs:
   - "best-bourbon-cellar-apps"
+  - "how-to-organize-a-bourbon-collection"
   - "track-bourbon-collection-spreadsheet-vs-app"
   - "what-is-sourced-bourbon"
 faqs:

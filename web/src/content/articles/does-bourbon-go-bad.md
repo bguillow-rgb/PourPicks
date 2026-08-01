@@ -14,8 +14,8 @@ author: "Pour Picks"
 relatedSlugs:
   - "how-to-store-bourbon"
   - "how-to-build-a-bourbon-palate"
+  - "how-to-organize-a-bourbon-collection"
   - "how-to-read-a-bourbon-label"
-  - "how-to-read-four-roses-recipe-code"
 faqs:
   - q: "Does unopened bourbon expire?"
     a: "No. Bourbon is a distilled spirit at 40% ABV or higher, which is far too strong for the bacteria and microbes that spoil food and wine to survive. A sealed, properly stored bottle does not have an expiration date and will taste essentially the same in twenty years as it does today, provided it has been kept upright, cool, and out of direct light. Whiskey does not age in glass the way it ages in the barrel."

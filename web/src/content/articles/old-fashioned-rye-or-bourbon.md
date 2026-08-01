@@ -12,10 +12,10 @@ quickAnswer: "Both work. Bourbon makes a rounder, sweeter Old Fashioned that mos
 publishedAt: "2026-07-29"
 author: "Pour Picks"
 relatedSlugs:
+  - "bourbon-age-statement-vs-nas"
   - "bourbon-vs-rye-difference"
-  - "wheated-bourbon-vs-high-rye-bourbon"
+  - "what-is-dusty-hunting-bourbon"
   - "what-is-mash-bill"
-  - "best-glass-for-bourbon"
 faqs:
   - q: "Is an Old Fashioned traditionally made with rye or bourbon?"
     a: "The original Old Fashioned predates the modern bourbon-vs-rye divide and was made with whatever American whiskey was on hand, which in the 1800s often meant rye, since rye dominated the northeast. Bourbon took over as rye nearly vanished mid-century, so most people today have had far more bourbon Old Fashioneds. Neither is wrong. The drink is a template, not a fixed recipe."
