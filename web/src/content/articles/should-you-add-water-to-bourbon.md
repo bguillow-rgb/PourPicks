@@ -13,10 +13,10 @@ quickAnswer: "Yes, adding a few drops of room-temperature water to bourbon, espe
 publishedAt: "2026-07-17"
 author: "Pour Picks"
 relatedSlugs:
+  - "should-you-open-or-keep-bourbon-sealed"
   - "what-is-barrel-proof-bourbon"
   - "what-is-bourbon-barrel-entry-proof"
   - "what-is-bourbon-proof"
-  - "what-is-the-angels-share-bourbon"
 faqs:
   - q: "Does adding water ruin bourbon?"
     a: "No. A few drops of room-temperature, neutral water will not ruin bourbon. It may temporarily change the aroma and flavor profile, usually for the better at higher proofs, but it does not damage the spirit. The risk is overdoing it: too much water flattens mouthfeel and mutes flavor compounds."
