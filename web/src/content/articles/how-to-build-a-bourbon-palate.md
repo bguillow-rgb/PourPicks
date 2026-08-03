@@ -14,9 +14,9 @@ publishedAt: "2026-07-24"
 author: "Pour Picks"
 relatedSlugs:
   - "how-to-write-bourbon-tasting-notes"
+  - "bourbon-flavor-wheel-guide"
   - "what-is-bourbon-barrel-char-level"
   - "how-to-build-a-bourbon-flight"
-  - "what-is-heat-cycling-bourbon"
 faqs:
   - q: "How long does it take to build a bourbon palate?"
     a: "Most collectors notice meaningful improvement within 3, 6 months of intentional, structured tasting, meaning a focused session at least once a week with written notes. Rushing through bottles without recording impressions slows progress significantly."
