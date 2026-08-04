@@ -13,10 +13,10 @@ quickAnswer: "Bourbon can be a good investment, but only for specific bottles un
 publishedAt: "2026-07-26"
 author: "Pour Picks"
 relatedSlugs:
+  - "how-to-photograph-bourbon-bottles"
   - "how-to-value-a-bourbon-collection"
   - "should-you-open-or-keep-bourbon-sealed"
   - "what-is-allocated-bourbon"
-  - "what-is-bourbon-cask-finishing"
 faqs:
   - q: "Does bourbon increase in value over time?"
     a: "Some bottles do, particularly ultra-aged, cask-strength, and genuinely limited expressions. But the broad secondary market has corrected roughly 9% from its 2021 peak, and mid-tier allocated bottles have lost most of their speculative premium."
