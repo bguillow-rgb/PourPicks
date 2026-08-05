@@ -16,8 +16,8 @@ author: "Pour Picks"
 relatedSlugs:
   - "what-is-allocated-bourbon"
   - "what-is-a-bourbon-store-pick"
+  - "what-is-a-dsp-number-bourbon"
   - "what-is-dusty-hunting-bourbon"
-  - "bourbon-age-statement-vs-nas"
 faqs:
   - q: "What is considered a unicorn bourbon?"
     a: "A unicorn bourbon is any bottle that is nearly impossible to find at retail due to extremely limited production, strong collector demand, or cult-like reputation. Classic examples include Pappy Van Winkle, the Buffalo Trace Antique Collection, and Michter's 20-Year."
