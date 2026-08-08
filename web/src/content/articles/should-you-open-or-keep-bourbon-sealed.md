@@ -16,8 +16,8 @@ author: "Pour Picks"
 relatedSlugs:
   - "is-bourbon-a-good-investment"
   - "should-you-add-water-to-bourbon"
+  - "what-is-a-wax-dipped-bourbon-bottle"
   - "what-is-barrel-proof-bourbon"
-  - "what-is-the-bourbon-secondary-market"
 faqs:
   - q: "Does a sealed bottle of bourbon improve with age?"
     a: "No. Unlike wine, bourbon stops maturing the moment it leaves the barrel. A sealed bottle sitting on your shelf for 10 years will taste essentially the same as it did on release day, assuming it's stored properly away from heat and light."
