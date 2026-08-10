@@ -3,9 +3,19 @@ name: Deploy Pages
 # Trigger on every push to main. Workflow-based deploy bypasses the
 # legacy GitHub Pages build queue, which got stuck on first build for
 # this brand-new repo.
+#
+# The workflow_run trigger is load-bearing, not a convenience. daily-content.yml
+# commits with the default GITHUB_TOKEN, and GitHub refuses to fire `on: push`
+# workflows for GITHUB_TOKEN pushes (its recursion guard). Without this, bot
+# content commits never deploy -- they only reach the live site when carried by
+# the next human push. That silently froze the site Aug 3-10 2026 with seven
+# finished articles returning 404. Do not remove it.
 on:
   push:
     branches: [main]
+  workflow_run:
+    workflows: ["Daily SEO content"]
+    types: [completed]
   workflow_dispatch: {}
 
 permissions:
@@ -21,6 +31,11 @@ concurrency:
 
 jobs:
   deploy:
+    # workflow_run fires on *completion*, success or not. Only deploy if the
+    # content run actually succeeded; push and manual runs are unconditional.
+    if: >-
+      github.event_name != 'workflow_run' ||
+      github.event.workflow_run.conclusion == 'success'
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}

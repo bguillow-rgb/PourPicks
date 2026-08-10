@@ -1,9 +1,16 @@
 name: Daily SEO content
 
 # Generates one research-backed, schema-compliant article per day, rebuilds the
-# site into /docs (GitHub Pages), commits, and pushes. The push to /docs triggers
-# the existing indexnow.yml (Bing/Yandex) workflow, and this job also pings
+# site into /docs (GitHub Pages), commits, and pushes. This job also pings
 # Google's Indexing API directly for the new article.
+#
+# NOTE: this job's push does NOT trigger pages.yml or indexnow.yml. It commits
+# with the default GITHUB_TOKEN, and GitHub deliberately suppresses `on: push`
+# workflow triggers for GITHUB_TOKEN pushes to prevent recursion. Both of those
+# workflows therefore carry a `workflow_run` trigger keyed on this workflow's
+# name ("Daily SEO content") -- that is what deploys the article and pings
+# IndexNow. If you rename this workflow, update both of them or the site stops
+# publishing silently.
 # Manual runs are allowed via the "Run workflow" button.
 on:
   schedule:
