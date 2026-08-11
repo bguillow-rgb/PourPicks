@@ -17,7 +17,7 @@ relatedSlugs:
   - "how-to-read-a-bourbon-label"
   - "how-to-decode-bourbon-batch-codes"
   - "what-is-bourbon-barrel-char-level"
-  - "how-to-do-a-bourbon-barrel-pick"
+  - "how-to-date-a-vintage-bourbon-bottle"
 faqs:
   - q: "What does OBSV mean on a Four Roses bottle?"
     a: "OBSV breaks down as: O = Four Roses Distillery, B = high-rye mash bill (60% corn, 35% rye, 5% malted barley), S = straight bourbon, V = the 'delicate fruit' yeast strain. It's the standard recipe used for the retail Single Barrel release and is rye-forward with notes of pear, apple, and vanilla."

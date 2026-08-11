@@ -14,10 +14,10 @@ quickAnswer: "Bourbon batch codes are alphanumeric strings stamped on the label,
 publishedAt: "2026-08-10"
 author: "Pour Picks"
 relatedSlugs:
+  - "how-to-date-a-vintage-bourbon-bottle"
   - "how-to-read-a-bourbon-label"
   - "how-to-read-four-roses-recipe-code"
   - "what-is-a-dsp-number-bourbon"
-  - "what-is-bottled-in-bond-bourbon"
 faqs:
   - q: "Are bourbon batch codes a legal requirement?"
     a: "Yes. The U.S. Alcohol and Tobacco Tax and Trade Bureau (TTB) requires all distilled spirits to carry a bottling code or lot number for recall traceability. How distilleries format that code is their own choice, which is why every house uses a different system."
