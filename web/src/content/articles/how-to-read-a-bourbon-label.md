@@ -13,10 +13,10 @@ quickAnswer: "A bourbon label tells you proof (alcohol by volume times two), age
 publishedAt: "2026-06-01"
 author: "Pour Picks"
 relatedSlugs:
+  - "full-proof-vs-barrel-proof-vs-cask-strength-bourbon"
   - "how-to-read-four-roses-recipe-code"
   - "how-to-decode-bourbon-batch-codes"
   - "single-barrel-vs-small-batch-bourbon"
-  - "what-is-bottled-in-bond-bourbon"
 faqs:
   - q: "What does proof mean on a bourbon label?"
     a: "Proof is simply alcohol by volume (ABV) multiplied by two. A bourbon at 100 proof is 50% alcohol; 90 proof is 45%. The number matters because federal law requires bourbon to be bottled at no less than 80 proof (40% ABV), and because higher-proof bottlings carry more flavor and can be cut with water to taste. 'Barrel proof' or 'cask strength' means it was bottled at roughly the strength it came out of the barrel, with little or no water added."

@@ -15,8 +15,8 @@ author: "Pour Picks"
 relatedSlugs:
   - "what-is-bourbon-barrel-char-level"
   - "what-is-bourbon-proof"
+  - "full-proof-vs-barrel-proof-vs-cask-strength-bourbon"
   - "should-you-add-water-to-bourbon"
-  - "what-is-a-rickhouse"
 faqs:
   - q: "What is the legal maximum barrel entry proof for bourbon?"
     a: "U.S. federal law (27 CFR 5.143) sets the maximum barrel entry proof for bourbon at 125 proof (62.5% ABV). Distillers must add water to the new make before filling the barrel to reach this limit or below."

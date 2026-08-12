@@ -14,9 +14,9 @@ publishedAt: "2026-07-13"
 author: "Pour Picks"
 relatedSlugs:
   - "what-is-bourbon-barrel-char-level"
+  - "full-proof-vs-barrel-proof-vs-cask-strength-bourbon"
   - "should-you-add-water-to-bourbon"
   - "what-is-bourbon-barrel-entry-proof"
-  - "what-is-heat-cycling-bourbon"
 faqs:
   - q: "What is the angel's share in bourbon?"
     a: "The angel's share is the portion of bourbon that evaporates through the barrel staves into the surrounding air during aging. In Kentucky, distillers typically lose 3, 5% of a barrel's volume per year due to the state's warm summers and temperature swings."
