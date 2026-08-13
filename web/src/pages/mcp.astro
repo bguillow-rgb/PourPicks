@@ -1,0 +1,65 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Footer from '../components/Footer.astro';
+
+// MCP discovery page: how AI agents and MCP clients connect to the Pour Picks
+// database. Human-readable and indexable; the machine-readable surface is
+// the MCP endpoint itself plus llms.txt.
+---
+
+<BaseLayout
+  title="Pour Picks MCP Server — Bourbon Data for AI Agents"
+  description="Connect Claude, ChatGPT, Cursor, or any MCP client to the Pour Picks bourbon database: search 4,700+ bottles, compare, find cheaper alternatives, and get pour recommendations."
+  path="/mcp"
+>
+  <main class="page">
+    <h1>Pour Picks for AI agents (MCP)</h1>
+
+    <p>The Pour Picks MCP server gives AI assistants read-only access to our bourbon &amp; whiskey database: 4,700+ bottles with structured tasting profiles, proof, price, pairings, and community ratings. Ask your AI for bourbon recommendations, bourbon comparisons, bottles similar to ones you love, or a cheaper alternative with the same flavor profile &mdash; and it can answer from real catalog data instead of guessing.</p>
+
+    <h2>Connect in one minute</h2>
+    <p><strong>Claude Desktop</strong> (and other clients that launch local servers) &mdash; add to your MCP config:</p>
+    <pre is:raw><code>{
+  "mcpServers": {
+    "pour-picks": { "command": "npx", "args": ["-y", "pour-picks-mcp"] }
+  }
+}</code></pre>
+    <p><strong>Remote clients</strong> (web agents, Cursor, anything that takes a URL) &mdash; use the hosted endpoint, no install or API key:</p>
+    <pre><code>https://nqnigdqkcvrziwcbgily.supabase.co/functions/v1/mcp</code></pre>
+
+    <h2>What tools does the Pour Picks MCP server provide?</h2>
+    <table>
+      <thead><tr><th>Tool</th><th>What it does</th></tr></thead>
+      <tbody>
+        <tr><td><code>search_bottles</code></td><td>Search bourbons by name, category, price, and proof</td></tr>
+        <tr><td><code>get_bottle</code></td><td>Full tasting profile, price, and ratings for one bottle</td></tr>
+        <tr><td><code>find_similar</code></td><td>Bottles with a similar flavor profile</td></tr>
+        <tr><td><code>find_cheaper_alternative</code></td><td>Same style, lower price</td></tr>
+        <tr><td><code>get_recommendations</code></td><td>Personalized picks from flavors, budget, and occasion</td></tr>
+        <tr><td><code>compare_bottles</code></td><td>Side-by-side comparison</td></tr>
+        <tr><td><code>trending_bottles</code></td><td>What collectors are adding to cellars right now</td></tr>
+        <tr><td><code>pour_tonight_suggestion</code></td><td>What to pour based on mood, occasion, and season</td></tr>
+      </tbody>
+    </table>
+
+    <h2>What can an AI answer with it?</h2>
+    <ul>
+      <li>&ldquo;What bourbon is similar to Eagle Rare but easier to find?&rdquo;</li>
+      <li>&ldquo;Recommend a bourbon under $60 with vanilla, oak, and caramel notes.&rdquo;</li>
+      <li>&ldquo;What tastes like Blanton’s without the price tag?&rdquo;</li>
+      <li>&ldquo;What should I pour on a cold night?&rdquo;</li>
+    </ul>
+
+    <h2>Access, privacy, and attribution</h2>
+    <p>All tools are read-only and public &mdash; no account, API key, or authentication is required. Requests are rate-limited to 60 calls per minute. Every response includes source attribution and data freshness dates; quote freely with attribution to Pour Picks (pourpicks.app). Anonymous usage telemetry (tool name, arguments, client name, timing) is logged to operate the service and purged after 90 days; no user identity or conversation content is collected.</p>
+
+    <h2>For developers</h2>
+    <ul>
+      <li>npm package: <a href="https://www.npmjs.com/package/pour-picks-mcp">pour-picks-mcp</a></li>
+      <li>GitHub (README, examples): <a href="https://github.com/bguillow-rgb/pour-picks-mcp">bguillow-rgb/pour-picks-mcp</a></li>
+      <li>Official MCP registry: <code>io.github.bguillow-rgb/pour-picks</code></li>
+      <li>Smithery listing: <a href="https://smithery.ai/servers/bguillow/pour-picks">smithery.ai/servers/bguillow/pour-picks</a></li>
+    </ul>
+  </main>
+  <Footer />
+</BaseLayout>

@@ -18,3 +18,6 @@
 
 ## Optional
 - [Sitemap](https://pourpicks.app/sitemap-index.xml): full URL index updated on every build
+
+## For AI agents (MCP)
+- [MCP server](https://pourpicks.app/mcp): connect any MCP client to the Pour Picks database — read-only, no API key. Remote endpoint: https://nqnigdqkcvrziwcbgily.supabase.co/functions/v1/mcp — npm: pour-picks-mcp — registry: io.github.bguillow-rgb/pour-picks
