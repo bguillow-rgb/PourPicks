@@ -16,7 +16,7 @@ relatedSlugs:
   - "how-to-read-a-bourbon-label"
   - "what-is-blended-bourbon"
   - "bourbon-age-statement-vs-nas"
-  - "how-to-decode-bourbon-batch-codes"
+  - "full-proof-vs-barrel-proof-vs-cask-strength-bourbon"
 faqs:
   - q: "What does 'Bottled-in-Bond' actually mean on a bourbon label?"
     a: "It means the bourbon meets the four requirements of the Bottled-in-Bond Act of 1897: produced by one distiller at one distillery during a single distilling season (January-June or July-December), aged at least four years in a federally bonded warehouse under U.S. government supervision, and bottled at exactly 100 proof (50% ABV) with nothing added except water."

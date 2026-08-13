@@ -14,9 +14,9 @@ publishedAt: "2026-07-23"
 author: "Pour Picks"
 relatedSlugs:
   - "bourbon-age-statement-vs-nas"
+  - "full-proof-vs-barrel-proof-vs-cask-strength-bourbon"
   - "what-is-blended-bourbon"
   - "what-is-bottled-in-bond-bourbon"
-  - "what-is-bourbon-barrel-char-level"
 faqs:
   - q: "What is the most important factor when grading a bourbon bottle's condition?"
     a: "Fill level is typically the first and most critical check. A bottle that has lost liquid, whether through a slow leak, a compromised seal, or evaporation, raises red flags about storage integrity and directly reduces market value. After fill level, label condition is the next biggest driver of price."

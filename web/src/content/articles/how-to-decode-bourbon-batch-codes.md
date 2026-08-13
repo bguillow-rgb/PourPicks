@@ -17,7 +17,7 @@ relatedSlugs:
   - "how-to-date-a-vintage-bourbon-bottle"
   - "how-to-read-a-bourbon-label"
   - "how-to-read-four-roses-recipe-code"
-  - "what-is-a-dsp-number-bourbon"
+  - "full-proof-vs-barrel-proof-vs-cask-strength-bourbon"
 faqs:
   - q: "Are bourbon batch codes a legal requirement?"
     a: "Yes. The U.S. Alcohol and Tobacco Tax and Trade Bureau (TTB) requires all distilled spirits to carry a bottling code or lot number for recall traceability. How distilleries format that code is their own choice, which is why every house uses a different system."

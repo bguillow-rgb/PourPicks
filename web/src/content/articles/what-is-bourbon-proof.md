@@ -13,10 +13,10 @@ quickAnswer: "Proof is a measure of alcohol strength equal to exactly twice the 
 publishedAt: "2026-07-16"
 author: "Pour Picks"
 relatedSlugs:
+  - "full-proof-vs-barrel-proof-vs-cask-strength-bourbon"
   - "what-is-barrel-proof-bourbon"
   - "what-is-bourbon-barrel-char-level"
   - "what-is-bourbon-barrel-entry-proof"
-  - "what-is-bourbon-cask-finishing"
 faqs:
   - q: "What does 'proof' mean on a bourbon bottle?"
     a: "Proof is the alcohol strength of the bourbon expressed as exactly double the ABV percentage. A bottle labeled 90 proof contains 45% alcohol by volume. The term originated from an old British gunpowder test for alcohol content and has stuck around as the standard U.S. spirits measurement."
