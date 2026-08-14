@@ -16,8 +16,8 @@ author: "Pour Picks"
 relatedSlugs:
   - "how-to-trade-bourbon-bottles"
   - "what-is-allocated-bourbon"
+  - "how-rickhouse-floor-position-affects-bourbon-flavor"
   - "what-is-a-bourbon-decanter"
-  - "what-is-a-bourbon-store-pick"
 faqs:
   - q: "What is considered a unicorn bourbon?"
     a: "A unicorn bourbon is any bottle that is nearly impossible to find at retail due to extremely limited production, strong collector demand, or cult-like reputation. Classic examples include Pappy Van Winkle, the Buffalo Trace Antique Collection, and Michter's 20-Year."

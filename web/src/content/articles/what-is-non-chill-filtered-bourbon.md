@@ -16,7 +16,7 @@ relatedSlugs:
   - "what-is-bourbon-barrel-char-level"
   - "what-is-sour-mash-bourbon"
   - "full-proof-vs-barrel-proof-vs-cask-strength-bourbon"
-  - "how-to-read-four-roses-recipe-code"
+  - "how-rickhouse-floor-position-affects-bourbon-flavor"
 faqs:
   - q: "Does non-chill filtered bourbon taste better than chill filtered?"
     a: "Not automatically. Non-chill filtered bourbon retains more fatty acids and esters, which many drinkers associate with a fuller mouthfeel and slightly more complex flavor. But formal blind tastings have shown even experts struggle to distinguish the two consistently. It's a production philosophy, not a universal quality marker."

@@ -14,10 +14,10 @@ quickAnswer: "A rickhouse (also called a rackhouse) is the multi-story, open-air
 publishedAt: "2026-07-03"
 author: "Pour Picks"
 relatedSlugs:
+  - "how-rickhouse-floor-position-affects-bourbon-flavor"
   - "what-is-heat-cycling-bourbon"
   - "what-is-bourbon-barrel-char-level"
   - "what-is-bourbon-barrel-entry-proof"
-  - "bourbon-flavor-wheel-guide"
 faqs:
   - q: "What is the difference between a rickhouse and a rackhouse?"
     a: "The terms are used interchangeably in the industry. Both refer to the multi-story, open-air warehouses where bourbon barrels age on wooden racks or ricks. Some distilleries prefer one term over the other, but there is no meaningful functional difference."
