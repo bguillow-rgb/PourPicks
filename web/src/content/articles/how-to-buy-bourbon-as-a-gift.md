@@ -16,8 +16,8 @@ author: "Pour Picks"
 relatedSlugs:
   - "how-to-do-a-bourbon-barrel-pick"
   - "how-to-build-a-bourbon-flight"
+  - "how-to-start-a-bourbon-tasting-club"
   - "what-is-a-bourbon-store-pick"
-  - "what-is-the-bourbon-secondary-market"
 faqs:
   - q: "Is Pappy Van Winkle a good gift for a bourbon collector?"
     a: "Only if you can get it at or near retail price through a legitimate source. Paying secondary-market premiums (often 5, 10× retail) for a bottle the recipient may already own, or may prefer not to receive at that cost, is usually a poor use of money. A thoughtful single barrel or a bottle from a brand they've mentioned is almost always a better gift."
