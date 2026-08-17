@@ -64,7 +64,7 @@ The practical effect for a collector or taster: high-rye bourbons tend to be dri
 | Maker's Mark | ~16% wheat | Wheated (no rye) |
 | W.L. Weller / Pappy Van Winkle | ~16% wheat | Wheated (no rye) |
 
-Note: Many distilleries treat their exact mash bills as trade secrets. Figures above are sourced from published distillery statements, TTB filings, and widely corroborated community research. For the most granular breakdown of individual recipes — especially Four Roses' ten distinct combinations of mash bill and yeast strain — our [Four Roses recipe code guide](/how-to-read-four-roses-recipe-code) walks through every letter in detail.
+Note: Many distilleries treat their exact mash bills as trade secrets. Figures above are sourced from published distillery statements, TTB filings, and widely corroborated community research. For the most granular breakdown of individual recipes — especially Four Roses' ten distinct combinations of mash bill and yeast strain — our [Four Roses recipe code guide](/articles/how-to-read-four-roses-recipe-code) walks through every letter in detail.
 
 ## Does the rye percentage appear on the label?
 
@@ -78,7 +78,7 @@ For every other brand, the most reliable paths are: the distillery's own marketi
 
 The collector interest in high-rye bourbon is partly about flavor preference and partly about scarcity dynamics. According to whiskey auction data, age-stated, high-rye single barrels from Four Roses (particularly the OBSV and OESV recipes) consistently command meaningful premiums above MSRP on secondary markets — at some recent auctions, rare single-barrel releases have cleared two to four times retail.
 
-But the deeper collector rationale is about cellar diversity. A thoughtfully built bourbon cellar should cover the full flavor spectrum: wheated expressions for softness, standard-rye bourbons as the backbone, and high-rye bottles to represent the assertive, spice-forward end. Without at least one or two high-rye anchors, a collection tends to taste redundant — especially when you build a flight and want genuine contrast between pours. Our guide to [how to build a bourbon flight at home](/how-to-build-a-bourbon-flight) covers exactly how to sequence high-rye vs. wheated bottles for maximum tasting impact.
+But the deeper collector rationale is about cellar diversity. A thoughtfully built bourbon cellar should cover the full flavor spectrum: wheated expressions for softness, standard-rye bourbons as the backbone, and high-rye bottles to represent the assertive, spice-forward end. Without at least one or two high-rye anchors, a collection tends to taste redundant — especially when you build a flight and want genuine contrast between pours. Our guide to [how to build a bourbon flight at home](/articles/how-to-build-a-bourbon-flight) covers exactly how to sequence high-rye vs. wheated bottles for maximum tasting impact.
 
 ## Is "high-rye bourbon" the same as rye whiskey?
 
@@ -106,7 +106,7 @@ Yes. Rye grain produces a denser, harder-to-extract congener profile, so high-ry
 Four Roses uses two high-rye mash bills (approximately 35% and 20% rye). Bulleit Bourbon runs approximately 28% rye. Old Grand-Dad and Basil Hayden's use a high-rye Beam-family mash bill. Woodford Reserve sits at the moderate-to-high-rye boundary, and many craft distilleries have leaned into high-rye expressions as a point of differentiation.
 
 **Are high-rye bourbons better for cocktails than other styles?**
-Many bartenders and collectors prefer high-rye bourbons in stirred, spirit-forward cocktails like the Old Fashioned or Manhattan because the pepper and spice character pushes through bitters and sweeteners. Wheated bourbons tend to be more subtle in those same applications, which is a matter of preference rather than quality. See our [Old Fashioned: rye or bourbon guide](/old-fashioned-rye-or-bourbon) for a deeper look at that specific question.
+Many bartenders and collectors prefer high-rye bourbons in stirred, spirit-forward cocktails like the Old Fashioned or Manhattan because the pepper and spice character pushes through bitters and sweeteners. Wheated bourbons tend to be more subtle in those same applications, which is a matter of preference rather than quality. See our [Old Fashioned: rye or bourbon guide](/articles/old-fashioned-rye-or-bourbon) for a deeper look at that specific question.
 
 **Can I identify a high-rye bourbon just by tasting it?**
 Experienced tasters can often detect the hallmark spice — black pepper, clove, dried herbs, sometimes mint — but tasting alone isn't reliable enough to confirm a specific rye percentage. Cross-referencing the distillery's published or community-researched mash bill is the most accurate method. Apps like Pour Picks let you log these details directly to your bottle records so the information stays attached to the bottle for life.
