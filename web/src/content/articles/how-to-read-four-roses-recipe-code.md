@@ -68,7 +68,7 @@ This one matters when you're choosing a private selection or trying to predict w
 
 Mash bill B is the high-rye recipe: 60% corn, 35% rye, 5% malted barley. It pushes spice into the finished bourbon. Mash bill E runs 75% corn, 20% rye, 5% malted barley and produces something rounder and softer. Worth noting: by general industry standards, both would still qualify as high-rye recipes. Even the "softer" E mash bill carries more rye than, say, a Maker's Mark or a Pappy Van Winkle. What you're calibrating for when you choose B vs. E is the degree of spice and overall structural weight. B-mash bottles skew drier and more assertive on the finish; E-mash bottles tend to let fruit and sweetness lead.
 
-If you're building a collection with an eye toward flavor variety, owning at least one B and one E expression alongside each other reveals more about what yeast actually contributes than any amount of reading can. Our guide to [how to build a bourbon flight at home](/how-to-build-a-bourbon-flight) has a section on recipe-based flights that fits perfectly here.
+If you're building a collection with an eye toward flavor variety, owning at least one B and one E expression alongside each other reveals more about what yeast actually contributes than any amount of reading can. Our guide to [how to build a bourbon flight at home](/articles/how-to-build-a-bourbon-flight) has a section on recipe-based flights that fits perfectly here.
 
 ## And what does the yeast strain actually do to the flavor?
 

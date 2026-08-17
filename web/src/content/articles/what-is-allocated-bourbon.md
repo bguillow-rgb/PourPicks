@@ -105,7 +105,7 @@ There's no guaranteed path, but probability compounds when you stack strategies 
 
 **Set release-date alerts.** Many of the most anticipated annual releases, the BTAC in fall, Old Forester Birthday Bourbon in September, Parker's Heritage in late summer, follow predictable seasonal windows. Sign up for retailer email lists and SMS alerts; some of the best 2026 allocations have reportedly sold out within minutes of hitting digital inventory.
 
-**Consider the overlooked tier.** While everyone is chasing Pappy, craft producers and store-pick single barrels from quality distilleries often deliver equivalent drinking experiences at a fraction of the secondary premium, and you can actually find them. Our guide to [what is a bourbon store pick](/what-is-a-bourbon-store-pick) goes deeper on how to identify those opportunities.
+**Consider the overlooked tier.** While everyone is chasing Pappy, craft producers and store-pick single barrels from quality distilleries often deliver equivalent drinking experiences at a fraction of the secondary premium, and you can actually find them. Our guide to [what is a bourbon store pick](/articles/what-is-a-bourbon-store-pick) goes deeper on how to identify those opportunities.
 
 **Avoid grey-market traps.** Buying from informal social-media listings carries real risk: counterfeit bottles, scams, and potential legal liability depending on your state. If you purchase outside of licensed retail, stick to established platforms with transparent seller verification.
 

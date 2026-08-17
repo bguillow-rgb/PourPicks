@@ -106,7 +106,7 @@ One caveat: if you choose to dabble in secondary buying or selling, proceed with
 
 Even if you never plan to buy or sell a single bottle outside of a licensed retailer, secondary market data is useful for every serious collector. Here's why.
 
-It tells you what your collection is actually worth. Retail prices are what you paid; secondary prices are closer to what you'd get if you needed to replace or liquidate a bottle. If you're insuring your collection (see our guide on [how to insure a bourbon collection](/how-to-insure-a-bourbon-collection)), secondary market comps are what most insurers use to establish replacement value.
+It tells you what your collection is actually worth. Retail prices are what you paid; secondary prices are closer to what you'd get if you needed to replace or liquidate a bottle. If you're insuring your collection (see our guide on [how to insure a bourbon collection](/articles/how-to-insure-a-bourbon-collection)), secondary market comps are what most insurers use to establish replacement value.
 
 It also surfaces what's genuinely rare versus merely hyped. A bottle sitting at retail price on secondary isn't scarce -- it's just marketed that way. Secondary data cuts through distillery PR.
 
@@ -138,7 +138,7 @@ Allocated bottles are released in limited quantities and rarely hit open shelves
 The main drivers are scarcity (limited production or distribution), critical acclaim (high scores from respected reviewers), brand prestige (Van Winkle, BTAC), age and proof, and collector sentiment. A single glowing review can spike a bottle's price overnight.
 
 **How do I find out what my bottles are worth on the secondary market?**
-Track completed sales -- not asking prices -- on auction platforms, or use dedicated tools that aggregate real transaction data. Pour Picks lets you catalog your cellar and reference current market values so you always know what you're sitting on.
+Track completed sales -- not asking prices -- on auction platforms, or use dedicated tools that aggregate real transaction data. Pour Picks lets you [catalog your cellar](/bourbon-inventory-app) and reference current market values so you always know what you're sitting on.
 
 **What is the difference between a secondary market price and a retail price?**
 Retail price is set by the distillery or distributor; secondary price is whatever a willing buyer pays a willing seller in a private or auction transaction. For sought-after bottles, secondary often exceeds retail significantly. For widely available releases, secondary can actually be at or below retail.

@@ -45,7 +45,12 @@ MANDATORY article structure:
 - ${pillar ? '8+' : '5+'} FAQs (these become the faqs field for FAQPage schema).
 - ${pillar ? '3000-5000 words for a comprehensive PILLAR overview that links down to every subtopic' : '1000-1600 words total for a detail/cluster article'}. Original wording only — never copy phrasing from sources.
 - Where it fits naturally, mention how ${site.name} (the bourbon-cellar app) helps with the task — but keep it light and never salesy; the article must stand on its own as useful content.
-- Internal-link naturally in prose to relevant existing pages on this site when it makes sense.`;
+- Internal-link naturally in prose to relevant existing pages on this site when it makes sense.
+- INTERNAL LINK URL FORMAT (get this exactly right — wrong paths 404 and waste crawl budget):
+  - Articles live at \`/articles/<slug>\`. ALWAYS include the \`/articles/\` prefix. Write \`[anchor text](/articles/what-is-mash-bill)\`, NEVER \`[anchor text](/what-is-mash-bill)\`.
+  - Only these paths exist WITHOUT the prefix: /, /about, /features, /bourbon-inventory-app, /press, /support, /share, /privacy, /terms.
+  - Link to \`/bourbon-inventory-app\` when the article touches cataloging a collection, tracking what you own, collection value, insurance, or spreadsheet-vs-app. It is our install-intent landing page and needs the internal links.
+  - Vary anchor text: roughly 15-25% exact-match, 30-40% partial-match, the rest semantic or descriptive. Never repeat the same anchor text for the same target.`;
 }
 
 function userPrompt(site, { tier, existingList, existingSlugs, today, topicHint }) {

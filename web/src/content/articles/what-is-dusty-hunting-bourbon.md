@@ -104,7 +104,7 @@ Practical risk mitigation:
 
 ## How do dusty bottles fit into a broader bourbon collection?
 
-For most collectors, dusties complement rather than replace a modern cellar. They bring historical depth and one-of-a-kind flavor reference points that no current release can match. A side-by-side tasting of a glut-era expression against its modern equivalent is a genuinely illuminating exercise (see our guide on [what is a bourbon vertical tasting](/what-is-a-bourbon-vertical-tasting) for how to structure that kind of comparison).
+For most collectors, dusties complement rather than replace a modern cellar. They bring historical depth and one-of-a-kind flavor reference points that no current release can match. A side-by-side tasting of a glut-era expression against its modern equivalent is a genuinely illuminating exercise (see our guide on [what is a bourbon vertical tasting](/articles/what-is-a-bourbon-vertical-tasting) for how to structure that kind of comparison).
 
 There's a certain magic about obtaining a whiskey that's been lost to time, it's like collecting a bit of history in liquid form. Like wine collectors who seek out certain vintages, dusties are a bourbon hunter's version of that. And unlike fine wine, whiskey doesn't degrade in a sealed bottle: a well-stored 1985 expression poured today is chemically the same liquid that was bottled back then.
 

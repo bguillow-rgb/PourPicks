@@ -104,7 +104,7 @@ Keep the camera stable for close-up capsule and lot-code shots. Blurred images o
 
 The rule is simple: your camera lens must be level with the liquid surface. Place the bottle on a stable surface, crouch or lower your phone until the lens sits at exactly the height of the meniscus, and shoot straight across. Any upward angle inflates the apparent fill; any downward angle deflates it.
 
-Use consistent side lighting, a window to the left or right of the bottle rather than behind you, so the light passes *through* the glass and makes the liquid surface clearly visible. If the bottle has dark glass, a backlight or light tent becomes necessary rather than optional. Once you establish a consistent fill-level angle, every bottle in your catalog becomes directly comparable, which matters when you're grading condition alongside our [guide to bourbon bottle condition grading](/how-to-grade-bourbon-bottle-condition).
+Use consistent side lighting, a window to the left or right of the bottle rather than behind you, so the light passes *through* the glass and makes the liquid surface clearly visible. If the bottle has dark glass, a backlight or light tent becomes necessary rather than optional. Once you establish a consistent fill-level angle, every bottle in your catalog becomes directly comparable, which matters when you're grading condition alongside our [guide to bourbon bottle condition grading](/articles/how-to-grade-bourbon-bottle-condition).
 
 ---
 
@@ -131,7 +131,7 @@ Shoot in natural daylight whenever possible. Color accuracy under incandescent o
 
 Consistent file naming is the difference between a searchable archive and a folder of 400 images called IMG_3847 through IMG_4246. A simple convention that works: `[Distillery]-[Expression]-[Year-Bottled]-[Angle].jpg`. For example: `BuffaloTrace-EHTaylor-SmallBatch-BiB-2023-front.jpg`.
 
-If you're cataloging inside Pour Picks, photos attach directly to each bottle entry alongside your tasting notes, purchase price, and estimated current value, so the naming convention matters less since the app handles the metadata. For bottles stored in a general photo archive or a cloud folder as a backup, though, disciplined naming pays off quickly. Pair your photos with the [valuation data](/how-to-value-a-bourbon-collection) you track so the record is complete: what you have, what it looks like, and what it's worth.
+If you're cataloging inside Pour Picks, photos attach directly to each bottle entry alongside your tasting notes, purchase price, and estimated current value, so the naming convention matters less since the app handles the metadata. For bottles stored in a general photo archive or a cloud folder as a backup, though, disciplined naming pays off quickly. Pair your photos with the [valuation data](/articles/how-to-value-a-bourbon-collection) you track so the record is complete: what you have, what it looks like, and what it's worth.
 
 ---
 

@@ -88,7 +88,7 @@ Yes, and understanding this changes how you approach specific bottles.
 
 Cask-strength bourbons almost always benefit from a few drops to tame the heat and open up complexity. High-rye expressions can surprise you in the other direction: a drop or two sometimes sharpens the pepper and cinnamon rather than softening it, which isn't a bad thing. On the wheated side, Weller, Old Fitzgerald, Maker's Mark, water tends to amplify the soft caramel and stone-fruit notes that make those expressions appealing in the first place. Some older bourbons that have developed pronounced oakiness over time can benefit too. A little water can pull the wood back into balance and reveal what's underneath.
 
-Many bourbon drinkers pick up more fruit notes after adding water, but the effect on spice is less predictable, and the finish can shift in either direction. This variability is exactly what makes the exercise worth doing. If your collection spans multiple mash bills and proof ranges, and if you use our guide to [single barrel vs. small batch bourbon](/single-barrel-vs-small-batch-bourbon) to contextualize what you're pouring, experimenting with water is one of the fastest ways to understand how each style is put together.
+Many bourbon drinkers pick up more fruit notes after adding water, but the effect on spice is less predictable, and the finish can shift in either direction. This variability is exactly what makes the exercise worth doing. If your collection spans multiple mash bills and proof ranges, and if you use our guide to [single barrel vs. small batch bourbon](/articles/single-barrel-vs-small-batch-bourbon) to contextualize what you're pouring, experimenting with water is one of the fastest ways to understand how each style is put together.
 
 ---
 

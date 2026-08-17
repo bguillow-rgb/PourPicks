@@ -114,7 +114,7 @@ Here are the concrete triggers experienced collectors use.
 
 ## Does opening a bottle affect its condition grading or resale?
 
-Yes, completely. When buying collectibles, it matters to buy from reputable sellers, people who have seen tens of thousands of bottles and actually know what they're looking at. The same scrutiny applies when you're the seller. An opened bottle, even one carefully resealed, is graded as "opened" and commands a fraction of what the same expression fetches sealed. For collectors who track bottle condition as part of their inventory (which our [how to grade bourbon bottle condition](/how-to-grade-bourbon-bottle-condition) guide covers in detail), opening a bottle is a one-way door on condition score.
+Yes, completely. When buying collectibles, it matters to buy from reputable sellers, people who have seen tens of thousands of bottles and actually know what they're looking at. The same scrutiny applies when you're the seller. An opened bottle, even one carefully resealed, is graded as "opened" and commands a fraction of what the same expression fetches sealed. For collectors who track bottle condition as part of their inventory (which our [how to grade bourbon bottle condition](/articles/how-to-grade-bourbon-bottle-condition) guide covers in detail), opening a bottle is a one-way door on condition score.
 
 That said, condition only matters if you plan to sell. If you plan to drink it, and for most bottles, drinking is the right call, the condition grade is irrelevant.
 

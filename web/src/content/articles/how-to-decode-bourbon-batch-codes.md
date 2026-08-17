@@ -106,7 +106,7 @@ This isn't about memorizing every distillery's cipher. It's about learning the u
 | Maker's Mark | Day-coded ink stamp | Day of year + year, sometimes line identifier |
 | Craft / Independent | Highly variable | May include cask number, distillation year, bottling sequence |
 
-For Four Roses, the recipe code (OBSV, OESO, and the rest) is its own deep subject. The site's [guide to reading Four Roses recipe codes](/how-to-read-four-roses-recipe-code) covers all ten expressions in detail.
+For Four Roses, the recipe code (OBSV, OESO, and the rest) is its own deep subject. The site's [guide to reading Four Roses recipe codes](/articles/how-to-read-four-roses-recipe-code) covers all ten expressions in detail.
 
 ---
 

@@ -88,7 +88,7 @@ When cataloging four grain releases, the mash bill detail is worth capturing bey
 
 Pour Picks lets you log all of this per bottle, including custom tasting notes fields and release metadata. If you're building out a four grain sub-collection or comparing vintages of E.H. Taylor Four Grain side by side, the data stays organized in one place. The same goes for tracking secondary market value on limited expressions, which matters given that today's more deliberate collectors are tracking auction performance and thinking carefully about when to buy, hold, or consign.
 
-If you want more context on how secondary grain choices shape flavor across the whole spectrum, the guides on [what is a mash bill](/what-is-mash-bill), [wheated bourbon](/what-is-wheated-bourbon), and [wheated vs. high-rye bourbon](/wheated-bourbon-vs-high-rye-bourbon) are natural companions to this one.
+If you want more context on how secondary grain choices shape flavor across the whole spectrum, the guides on [what is a mash bill](/articles/what-is-mash-bill), [wheated bourbon](/articles/what-is-wheated-bourbon), and [wheated vs. high-rye bourbon](/articles/wheated-bourbon-vs-high-rye-bourbon) are natural companions to this one.
 
 ---
 

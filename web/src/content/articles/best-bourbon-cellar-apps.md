@@ -66,7 +66,7 @@ Numbers and feature sets change. Verify each app's current pricing on its own li
 
 Disclosure first: this article is published by the team that builds Pour Picks. We will say what we think it is good at and where it is not the answer.
 
-Pour Picks is an iOS app launched in May 2026. It is built around the cellar, not the catalog. You scan any bottle with your phone (the scan is AI, not a barcode lookup, so it works on [store picks](/articles/what-is-a-bourbon-store-pick) and one-offs with no barcode), it lands in your cellar, and you can mark it owned, on the wishlist, or finished. Per-bottle purchase price and total cellar value are tracked. The catalog at launch covered roughly 4,700 American whiskeys, and bottles outside that catalog still get a slot through a personal-bottle path.
+Pour Picks is an iOS app launched in May 2026. It is built around the cellar, not the catalog. You scan any bottle with your phone (the scan is AI, not a barcode lookup, so it works on [store picks](/articles/what-is-a-bourbon-store-pick) and one-offs with no barcode), it lands in your cellar, and you can mark it owned, on the wishlist, or finished. Per-bottle purchase price and total cellar value are tracked. The [bourbon inventory app](/bourbon-inventory-app) page goes further into how cataloging and valuation actually work. The catalog at launch covered roughly 4,700 American whiskeys, and bottles outside that catalog still get a slot through a personal-bottle path.
 
 The feature that differentiates Pour Picks from everything else on this list is **Pour Tonight**. Once your cellar has at least three bottles in it, the app will pick one bottle and tell you why it picked it. "You haven't poured this in six weeks. Cozy Tuesday vibe. Higher proof than most of what you have open right now." That is the question almost every collector asks two or three times a week and almost no app answers.
 
@@ -110,7 +110,7 @@ If you are reading this article, your spreadsheet is probably the reason you are
 - **The spreadsheet quietly breaks somewhere between bottles 20 and 30.** You stop updating it. The "opened" column gets stale. New bottles do not get entered for weeks. Six months later you are not sure what is open.
 - **The spreadsheet has no scan, no recommendation, no value tracking, no nothing beyond what you build.** Some people enjoy building it. Most do not.
 
-A 2024 informal survey of r/bourbon members showed that the median collector tried two cellar apps before settling on one, and the dominant reason cited for switching from a spreadsheet was "I stopped updating it." The friction kills the spreadsheet, not its features.
+A 2024 informal survey of r/bourbon members showed that the median collector tried two cellar apps before settling on one, and the dominant reason cited for switching from a spreadsheet was "I stopped updating it." The friction kills the spreadsheet, not its features. If you want to see what replaces it in practice, our [walkthrough of cataloging a cellar by scan](/bourbon-inventory-app) puts the two side by side.
 
 ## How to choose, in two questions
 

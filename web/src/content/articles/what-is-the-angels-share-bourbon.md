@@ -61,7 +61,7 @@ Beyond proof, evaporation concentrates everything that remains. As liquid escape
 
 Warehouse style and location within it both matter. Heritage bourbon distillers in Kentucky tend to use nine-story, 27-barrels-high rickhouses. At the top, the atmosphere is hot and dry, so water molecules escape much faster than alcohol molecules. That drives proof up in those barrels and concentrates the flavors inside.
 
-At the bottom of the rickhouse, conditions are moist and cool. Because water molecules are small, water can actually penetrate the barrel from the surrounding humidity, pushing proof down to around 110 in those lower barrels. This is the fundamental reason single-barrel releases from a given distillery can vary so dramatically in proof and flavor even within the same production run, and it's a major part of why store picks and private barrel selections (see our guide to [what is a bourbon store pick](/what-is-a-bourbon-store-pick)) appeal to collectors. You're not just buying a bottle; you're buying a very specific microclimate decision.
+At the bottom of the rickhouse, conditions are moist and cool. Because water molecules are small, water can actually penetrate the barrel from the surrounding humidity, pushing proof down to around 110 in those lower barrels. This is the fundamental reason single-barrel releases from a given distillery can vary so dramatically in proof and flavor even within the same production run, and it's a major part of why store picks and private barrel selections (see our guide to [what is a bourbon store pick](/articles/what-is-a-bourbon-store-pick)) appeal to collectors. You're not just buying a bottle; you're buying a very specific microclimate decision.
 
 | Factor | Lower Floors | Upper Floors |
 |---|---|---|
@@ -90,7 +90,7 @@ This is also why allocated multi-year expressions carry price tags that can feel
 
 ## Does where a whiskey is made change the angel's share meaningfully?
 
-Yes, and this affects how you think about age statements from different regions. It's generally believed that if two identical barrels were filled and placed in Scotland and Kentucky simultaneously, the Scottish barrel would need roughly three years to match a single year of maturation in Kentucky. That's a good reason not to judge a whiskey purely by the number on its label: maturity and age aren't the same thing. A 6-year Kentucky bourbon has often spent as much effective time interacting with its barrel as a 10-year Scotch, which is one reason age statements (covered in our [bourbon age statement vs. NAS guide](/bourbon-age-statement-vs-nas)) are a more nuanced signal than the number alone suggests.
+Yes, and this affects how you think about age statements from different regions. It's generally believed that if two identical barrels were filled and placed in Scotland and Kentucky simultaneously, the Scottish barrel would need roughly three years to match a single year of maturation in Kentucky. That's a good reason not to judge a whiskey purely by the number on its label: maturity and age aren't the same thing. A 6-year Kentucky bourbon has often spent as much effective time interacting with its barrel as a 10-year Scotch, which is one reason age statements (covered in our [bourbon age statement vs. NAS guide](/articles/bourbon-age-statement-vs-nas)) are a more nuanced signal than the number alone suggests.
 
 ---
 

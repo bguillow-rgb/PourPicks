@@ -109,7 +109,7 @@ Once you have a rare bottle, whether you hunted it at retail, won a lottery, or 
 
 That means logging fill level, bottle condition, purchase price, and storage location. Pour Picks was built exactly for this. You can scan a label to catalog the bottle, record where and when you acquired it, note the fill level over time if you open it, and track how comparable bottles move on the secondary market. When every detail lives in one place, you're not scrambling to remember what you paid or whether that Pappy 20 was a 2021 or 2022 release when someone asks.
 
-Pair that habit with our guide to [grading bourbon bottle condition](/how-to-grade-bourbon-bottle-condition) and you'll have the documentation a serious collector, or a future buyer, would actually want to see.
+Pair that habit with our guide to [grading bourbon bottle condition](/articles/how-to-grade-bourbon-bottle-condition) and you'll have the documentation a serious collector, or a future buyer, would actually want to see.
 
 ---
 

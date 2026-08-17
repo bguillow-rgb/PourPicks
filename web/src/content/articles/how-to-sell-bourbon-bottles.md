@@ -103,7 +103,7 @@ Outside Kentucky, D.C., and a handful of other states with similar provisions, t
 
 Collector-to-collector trades occupy a different legal space than outright sales. Exchanging bottles without money changing hands is generally treated differently from unlicensed alcohol sales in most jurisdictions, though laws vary and this guide isn't legal advice. What's clear is that the bourbon community has a long, well-established trading culture built around that distinction.
 
-If you want to upgrade your cellar by trading up rather than cashing out, our guide on [how to trade bourbon bottles](/how-to-trade-bourbon-bottles) covers the mechanics in detail: how to price a fair trade, how to structure a safe meetup, and how to protect yourself from getting burned.
+If you want to upgrade your cellar by trading up rather than cashing out, our guide on [how to trade bourbon bottles](/articles/how-to-trade-bourbon-bottles) covers the mechanics in detail: how to price a fair trade, how to structure a safe meetup, and how to protect yourself from getting burned.
 
 ---
 

@@ -104,8 +104,8 @@ Once you've found a potential trade partner and verified values, structure matte
 
 - **Fill level**: The bourbon should be at or near the fill line for an unopened bottle. Any evaporation from a sealed bottle is a red flag.
 - **Seal integrity**: Wax, foil capsule, or shrink wrap should be intact and show no signs of tampering or re-sealing.
-- **Label condition**: Peeling, water staining, tears, or fading affect both collectibility and resale value. Our guide on [how to grade bourbon bottle condition](/how-to-grade-bourbon-bottle-condition) walks through a full grading framework.
-- **Batch/barrel codes**: For single barrels or limited releases, confirm the code on the bottle matches what was discussed. See our [bourbon batch code guide](/how-to-decode-bourbon-batch-codes) for help reading production stamps.
+- **Label condition**: Peeling, water staining, tears, or fading affect both collectibility and resale value. Our guide on [how to grade bourbon bottle condition](/articles/how-to-grade-bourbon-bottle-condition) walks through a full grading framework.
+- **Batch/barrel codes**: For single barrels or limited releases, confirm the code on the bottle matches what was discussed. See our [bourbon batch code guide](/articles/how-to-decode-bourbon-batch-codes) for help reading production stamps.
 - **Age and authenticity**: Dusty or vintage bottles deserve extra scrutiny. Cork condition, label printing style, and tax strips can all help verify legitimacy.
 
 First-batch and limited anniversary editions typically sell for more, and small details (label condition, cork type) can move the price meaningfully.

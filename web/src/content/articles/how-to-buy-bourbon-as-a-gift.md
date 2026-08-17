@@ -66,7 +66,7 @@ For a collector, the distinction matters a lot. Here's the practical breakdown:
 | Availability | Limited by the barrel itself; often a one-time release | Usually repeatable |
 | Best for gifting | Serious collectors who journal their pours | Newer collectors or casual drinkers |
 
-No two barrels produce the same whiskey. That's exactly what makes a single barrel feel like a gift rather than a grocery run. A store-picked single barrel, one that a specific retailer hand-selected and bottled exclusively for their shop, adds another layer of provenance that collectors genuinely appreciate. For more on how those selections work, the Pour Picks guide to [what a bourbon store pick is](/what-is-a-bourbon-store-pick) covers the barrel-pick process in detail.
+No two barrels produce the same whiskey. That's exactly what makes a single barrel feel like a gift rather than a grocery run. A store-picked single barrel, one that a specific retailer hand-selected and bottled exclusively for their shop, adds another layer of provenance that collectors genuinely appreciate. For more on how those selections work, the Pour Picks guide to [what a bourbon store pick is](/articles/what-is-a-bourbon-store-pick) covers the barrel-pick process in detail.
 
 ## "I keep hearing 'don't buy Pappy.' But what if I actually have a connection and can get it at retail?"
 

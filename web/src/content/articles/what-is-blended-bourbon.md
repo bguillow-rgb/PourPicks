@@ -98,7 +98,7 @@ Cask finishing, or secondary maturation, means a fully matured bourbon gets tran
 
 A third approach, the Solera system, involves continuous fractional blending where only a portion of the aged stock is pulled for bottling while newer whiskey is added to what remains. The result is a whiskey that never stops evolving, with newer distillate layering onto older, matured stock.
 
-A finished bourbon labeled "bourbon finished in port casks" is still a single-origin whiskey that received extra wood influence. A blended bourbon is a marriage of separately aged whiskeys. Both can produce outstanding bottles; they just get there differently. For a closer look at what finishing does to flavor, see our guide to [bourbon cask finishing](/what-is-bourbon-cask-finishing).
+A finished bourbon labeled "bourbon finished in port casks" is still a single-origin whiskey that received extra wood influence. A blended bourbon is a marriage of separately aged whiskeys. Both can produce outstanding bottles; they just get there differently. For a closer look at what finishing does to flavor, see our guide to [bourbon cask finishing](/articles/what-is-bourbon-cask-finishing).
 
 ---
 
@@ -132,7 +132,7 @@ A legally distinct subcategory in which all components must be straight bourbons
 The straight bourbon component(s) must meet straight bourbon aging requirements (minimum two years). The neutral grain spirit or other whiskey components blended in do not carry their own aging requirement under blended bourbon category rules.
 
 **How can I tell if a bottle is blended bourbon vs. straight bourbon?**
-Check the label's type designation. "Kentucky Straight Bourbon Whiskey" or "Straight Bourbon Whiskey" means no blending with neutral spirit. "Blended Bourbon Whiskey" or "Blend of Straight Bourbons" are separate designations that will appear on the front or back label as required by the TTB. Our [guide to reading a bourbon label](/how-to-read-a-bourbon-label) walks through every line of that type statement.
+Check the label's type designation. "Kentucky Straight Bourbon Whiskey" or "Straight Bourbon Whiskey" means no blending with neutral spirit. "Blended Bourbon Whiskey" or "Blend of Straight Bourbons" are separate designations that will appear on the front or back label as required by the TTB. Our [guide to reading a bourbon label](/articles/how-to-read-a-bourbon-label) walks through every line of that type statement.
 
 **Do blended bourbons hold their value on the secondary market?**
 Most mass-market blended bourbons do not appreciate significantly. Limited "blend of straight bourbons" releases from craft houses, especially single-batch, high-proof expressions with full transparency about component ages and sources, have shown real secondary market interest in recent years.

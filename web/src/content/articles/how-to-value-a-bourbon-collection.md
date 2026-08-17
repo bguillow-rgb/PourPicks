@@ -70,7 +70,7 @@ Summed across the cellar, those give you total cost basis and total current valu
 
 If your bourbon is worth more than your homeowner's or renter's policy covers under standard personal-property limits, it is worth a call to your insurer about a scheduled rider or a standalone valuables policy. Sub-limits on a standard policy can be surprisingly low, and a collection can quietly outgrow them.
 
-Whatever you decide, the prerequisite is the same: a current, documented, per-bottle inventory with values, purchase dates, and photos. Most people find out their collection is underinsured *after* a loss, when reconstructing what they owned is nearly impossible. The documentation is the point; the insurance is just what you do with it.
+Whatever you decide, the prerequisite is the same: a current, documented, per-bottle inventory with values, purchase dates, and photos. Most people find out their collection is underinsured *after* a loss, when reconstructing what they owned is nearly impossible. The documentation is the point; the insurance is just what you do with it. An [app that keeps a per-bottle inventory](/bourbon-inventory-app) is the least painful way to keep those records current.
 
 ## Doing this automatically in a cellar app
 
