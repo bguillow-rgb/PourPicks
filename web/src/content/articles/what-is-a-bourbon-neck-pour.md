@@ -14,10 +14,10 @@ quickAnswer: "A bourbon neck pour is the first one or two drams poured from a fr
 publishedAt: "2026-08-01"
 author: "Pour Picks"
 relatedSlugs:
+  - "what-is-bourbon-and-branch"
   - "does-bourbon-go-bad"
   - "how-to-build-a-bourbon-flight"
   - "what-is-a-bourbon-decanter"
-  - "how-many-pours-in-a-bottle-of-bourbon"
 faqs:
   - q: "What is a bourbon neck pour?"
     a: "A neck pour is the first one or two drams poured from a freshly opened bottle of bourbon, literally the whiskey that was sitting in the narrow neck of the bottle. Collectors often notice it tastes sharper or different from pours later in the bottle."
