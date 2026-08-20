@@ -15,9 +15,9 @@ publishedAt: "2026-08-17"
 author: "Pour Picks"
 relatedSlugs:
   - "what-is-mash-bill"
+  - "what-is-a-bourbon-honey-barrel"
   - "what-is-four-grain-bourbon"
   - "what-is-wheated-bourbon"
-  - "wheated-bourbon-vs-high-rye-bourbon"
 faqs:
   - q: "Is there an official minimum rye percentage for a bourbon to be called 'high-rye'?"
     a: "No. 'High-rye' is a marketing and collector term, not a legal TTB designation. Most industry insiders apply it to bourbons with 18% or more rye in the mash bill, though some place the threshold as high as 25%. Always read or research the actual mash bill rather than relying on label language."

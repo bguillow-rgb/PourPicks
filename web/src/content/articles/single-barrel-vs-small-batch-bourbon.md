@@ -17,7 +17,7 @@ relatedSlugs:
   - "how-to-read-a-bourbon-label"
   - "full-proof-vs-barrel-proof-vs-cask-strength-bourbon"
   - "how-to-read-four-roses-recipe-code"
-  - "bourbon-vs-rye-difference"
+  - "what-is-a-bourbon-honey-barrel"
 faqs:
   - q: "Is single barrel bourbon always better than small batch?"
     a: "Not necessarily. Single barrel offers uniqueness and collectibility, but barrel variation means quality can swing. Small batch is deliberately consistent. 'Better' depends entirely on whether you prioritize discovering something unrepeatable or returning to a dependable profile."

@@ -17,7 +17,7 @@ relatedSlugs:
   - "what-is-a-rickhouse"
   - "what-is-bourbon-barrel-entry-proof"
   - "what-is-heat-cycling-bourbon"
-  - "what-is-bourbon-barrel-char-level"
+  - "what-is-a-bourbon-honey-barrel"
 faqs:
   - q: "Does rickhouse floor position really change the taste of bourbon?"
     a: "Yes, significantly. Top floors run hotter and drier, which accelerates oak extraction and raises proof. Bottom floors stay cooler and more humid, producing softer, lower-proof whiskey. The difference between the same recipe aged on floor 1 versus floor 7 can be dramatic, different color, proof, and flavor character."
