@@ -116,7 +116,7 @@ The reason is friction. Every time you want to log a pour, you have to: pick up 
 
 A dedicated app removes that friction. The market is small but real:
 
-- **[Pour Picks](https://apps.apple.com/us/app/pour-picks/id6764040132)**, free iOS app. Scan any bottle with your camera (AI reads the label), it lands in your cellar. Tracks owned/wishlist/finished, purchase price, when you opened it, and the "Pour Tonight" feature picks a bottle from what you already own based on what you haven't poured recently. Free for the first 10 scans plus full cellar; $2.99/mo for unlimited.
+- **[Pour Picks](https://apps.apple.com/us/app/pour-picks/id6764040132)**, free iOS app. Scan any bottle with your camera (AI reads the label), it lands in your cellar. Tracks owned/wishlist/finished, purchase price, when you opened it, and the "Pour Tonight" feature picks a bottle from what you already own based on what you haven't poured recently. Free for the first 5 scans plus full cellar; $2.99/mo for unlimited.
 - **Distiller**, community-led review app with a large bottle database. More about reading reviews than managing a cellar.
 - **Whiskeybase**, web-first database; the app experience is less polished but the data depth is unmatched.
 - **A spreadsheet**, works for the first 10 bottles, breaks after that. Always.

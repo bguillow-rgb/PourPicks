@@ -54,7 +54,7 @@ Most apps do (3) very well. Almost none do (4) at all. The middle two are where 
 
 | App | Best for | Cellar tracking | Bottle scan | Pour-tonight rec | Free tier | Pro pricing |
 |---|---|---|---|---|---|---|
-| **Pour Picks** | Tracking your own cellar | Strong | AI label read (Claude Vision) | Yes, cellar-aware | 10 scans + full cellar + quiz | $2.99/mo |
+| **Pour Picks** | Tracking your own cellar | Strong | AI label read (Claude Vision) | Yes, cellar-aware | 5 scans + full cellar + quiz | $2.99/mo |
 | **Distiller** | Researching before buying | Light | No | No | Most features free | In-app upgrades |
 | **Whiskeybase** | Catalog depth, world whiskey | Decent | No (catalog lookup) | No | Free read; paid features for power users | Paid tier |
 | **Drammey** | Clean pure-cellar tracking | Strong | Manual | No | Limited free | Subscription |
@@ -74,7 +74,7 @@ The feature that differentiates Pour Picks from everything else on this list is 
 
 **Not the right answer for:** reading other people's reviews of a bottle before you buy it (there is no community review feed by design), Android users (iOS only at launch), or anyone whose collection skews heavily toward world whiskey outside American bourbon and rye.
 
-**Free tier:** 10 scans, full cellar, basic quiz. **Cask Club:** $2.99 per month for unlimited scans, advanced quiz, tasting journal, journal export.
+**Free tier:** 5 scans, full cellar, basic quiz. **Cask Club:** $2.99 per month for unlimited scans, advanced quiz, tasting journal, journal export.
 
 ## Distiller: best for reviews and discovery
 
