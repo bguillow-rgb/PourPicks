@@ -14,9 +14,9 @@ publishedAt: "2026-06-20"
 author: "Pour Picks"
 relatedSlugs:
   - "full-proof-vs-barrel-proof-vs-cask-strength-bourbon"
+  - "what-is-an-independent-bottler-bourbon"
   - "what-is-allocated-bourbon"
   - "what-is-bourbon-proof"
-  - "how-to-read-four-roses-recipe-code"
 faqs:
   - q: "Is a cask-finished bourbon still legally a bourbon?"
     a: "Yes. As long as the primary aging happened in new, charred oak barrels, a bourbon retains its classification after secondary maturation in a different cask. However, the label must specify the finish, so it's called 'bourbon finished in port casks' rather than simply 'bourbon.'"
