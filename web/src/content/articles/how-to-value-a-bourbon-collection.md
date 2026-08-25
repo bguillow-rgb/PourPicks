@@ -16,7 +16,7 @@ relatedSlugs:
   - "what-is-the-bourbon-secondary-market"
   - "how-to-photograph-bourbon-bottles"
   - "is-bourbon-a-good-investment"
-  - "bourbon-age-statement-vs-nas"
+  - "what-is-the-bourbon-glut"
 faqs:
   - q: "What makes a bourbon bottle valuable?"
     a: "Scarcity and demand, in that order. A bottle is worth more than its shelf price when it is allocated, discontinued, a limited annual release, or an age-stated bottling that is hard to find. Everyday bourbons that sit on shelves stay at retail no matter how good they taste, because anyone can buy another one. Condition, fill level, the presence of the original box, and an intact label also affect what a collector will pay."
