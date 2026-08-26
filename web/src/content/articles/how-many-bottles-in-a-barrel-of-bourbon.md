@@ -15,9 +15,9 @@ publishedAt: "2026-08-16"
 author: "Pour Picks"
 relatedSlugs:
   - "full-proof-vs-barrel-proof-vs-cask-strength-bourbon"
+  - "how-to-choose-bourbon-proof"
   - "how-to-read-a-bourbon-label"
   - "should-you-add-water-to-bourbon"
-  - "what-is-a-bourbon-honey-barrel"
 faqs:
   - q: "How many 750ml bottles does a single barrel of bourbon produce?"
     a: "Most single barrels yield between 150 and 240 standard 750ml bottles after accounting for evaporation during aging and any proof dilution at bottling. The exact number depends on how long the bourbon aged and the proof at which it was dumped."
