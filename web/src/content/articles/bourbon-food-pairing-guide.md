@@ -16,8 +16,8 @@ author: "Pour Picks"
 relatedSlugs:
   - "how-to-read-a-bourbon-label"
   - "what-is-four-grain-bourbon"
+  - "what-is-heirloom-grain-bourbon"
   - "what-is-high-rye-bourbon"
-  - "what-is-wheated-bourbon"
 faqs:
   - q: "What food goes best with wheated bourbon?"
     a: "Wheated bourbons like W.L. Weller or Larceny pair best with soft, buttery, or sweet foods, think honey-glazed ham, brie, shortbread cookies, caramel desserts, or stone fruits like peaches and apricots. Their low-spice profile means you want food that echoes their gentle sweetness rather than fighting it."

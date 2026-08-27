@@ -13,10 +13,10 @@ quickAnswer: "Four grain bourbon uses all four grains, corn, rye, wheat, and mal
 publishedAt: "2026-07-20"
 author: "Pour Picks"
 relatedSlugs:
+  - "what-is-heirloom-grain-bourbon"
   - "what-is-wheated-bourbon"
   - "bourbon-food-pairing-guide"
   - "what-is-high-rye-bourbon"
-  - "what-is-mash-bill"
 faqs:
   - q: "Is four grain bourbon the same as wheated bourbon?"
     a: "No. Wheated bourbon replaces rye with wheat, using three grains total. Four grain bourbon keeps both rye and wheat alongside corn and malted barley, balancing spice and softness in the same bottle."
