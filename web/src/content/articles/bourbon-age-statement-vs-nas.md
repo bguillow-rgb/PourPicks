@@ -14,10 +14,10 @@ quickAnswer: "A bourbon age statement tells you the minimum years the youngest w
 publishedAt: "2026-06-19"
 author: "Pour Picks"
 relatedSlugs:
+  - "how-long-is-bourbon-aged"
   - "how-to-grade-bourbon-bottle-condition"
   - "what-is-a-bourbon-decanter"
   - "what-is-a-bourbon-store-pick"
-  - "what-is-a-dsp-number-bourbon"
 faqs:
   - q: "What does 'no age statement' mean on a bourbon bottle?"
     a: "NAS means the distillery chose not to print a specific age on the label. For straight bourbon, federal law still guarantees the youngest whiskey inside spent at least 4 years in a new charred oak barrel. The absence of a number reflects a blending decision, not a quality shortcut."
