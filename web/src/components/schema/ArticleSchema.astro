@@ -23,6 +23,7 @@ const {
   url,
   publishedAt,
   updatedAt,
+  author,
   heroImage,
   heroImageWidth,
   heroImageHeight,
@@ -46,10 +47,17 @@ const schema = {
   },
   datePublished: publishedAt.toISOString(),
   dateModified: (updatedAt ?? publishedAt).toISOString(),
+  // Author is an Organization, never a Person. This block previously emitted
+  // schema.org/Person named SITE.founder.name — a real human byline ("Bob
+  // Guillow") on all 60+ articles, in direct breach of the standing
+  // no-human-byline rule. It also ignored the `author` prop the layout was
+  // already passing (the brand desk byline shown on the page), so the schema
+  // and the visible byline disagreed. Now both use `author` as an
+  // Organization. Fixed 2026-08-31; applies to every article, not just new ones.
   author: {
-    '@type': 'Person',
-    name: SITE.founder.name,
-    url: `${SITE.url}/about`,
+    '@type': 'Organization',
+    name: author,
+    url: SITE.url,
   },
   publisher: {
     '@type': 'Organization',
