@@ -17,7 +17,7 @@ relatedSlugs:
   - "how-to-write-bourbon-tasting-notes"
   - "how-to-build-a-bourbon-palate"
   - "toasted-barrel-vs-charred-barrel-bourbon"
-  - "what-is-bourbon-barrel-char-level"
+  - "what-are-heads-hearts-tails-bourbon"
 faqs:
   - q: "Who created the official bourbon flavor wheel?"
     a: "The most widely cited bourbon flavor wheel was developed by the Council of Whiskey Masters. The American Bourbon Association also publishes its own version. Several distilleries, including Woodford Reserve, have proprietary wheels built around their specific flavor profiles."
