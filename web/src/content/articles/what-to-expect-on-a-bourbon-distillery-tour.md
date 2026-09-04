@@ -14,10 +14,10 @@ quickAnswer: "Most Kentucky bourbon distillery tours run 45-90 minutes, follow a
 publishedAt: "2026-09-01"
 author: "Pour Picks"
 relatedSlugs:
+  - "what-is-a-bourbon-of-the-month-club"
   - "how-annual-bourbon-releases-work"
   - "how-to-build-a-bourbon-flight"
   - "how-to-buy-bourbon-as-a-gift"
-  - "how-to-date-a-vintage-bourbon-bottle"
 faqs:
   - q: "Do I need to book distillery tours in advance?"
     a: "Yes. Almost every Kentucky distillery now requires advance reservations, and popular stops like Buffalo Trace, Woodford Reserve, and Maker's Mark can sell out weeks ahead. Book at least a month before your visit, especially in spring or fall."

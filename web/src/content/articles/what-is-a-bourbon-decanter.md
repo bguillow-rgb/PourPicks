@@ -16,8 +16,8 @@ author: "Pour Picks"
 relatedSlugs:
   - "what-is-a-bourbon-store-pick"
   - "bourbon-age-statement-vs-nas"
+  - "what-is-a-bourbon-of-the-month-club"
   - "how-to-choose-bourbon-proof"
-  - "how-to-date-a-vintage-bourbon-bottle"
 faqs:
   - q: "Is it safe to store bourbon in a decanter long-term?"
     a: "For short-term serving (a few days to weeks), a quality lead-free crystal or glass decanter is fine. Long-term storage is not recommended. Decanters typically lack airtight seals, accelerating oxidation. Some vintage crystal decanters also contain lead, which can leach into the spirit over time. For your cellar, keep bourbon in its original sealed bottle."
