@@ -14,10 +14,10 @@ quickAnswer: "A bourbon of the month club is a subscription service that deliver
 publishedAt: "2026-09-04"
 author: "Pour Picks"
 relatedSlugs:
+  - "what-is-a-bourbon-private-barrel-program"
   - "bourbon-age-statement-vs-nas"
   - "what-is-a-bourbon-decanter"
   - "what-to-expect-on-a-bourbon-distillery-tour"
-  - "how-annual-bourbon-releases-work"
 faqs:
   - q: "Is a bourbon of the month club worth it for serious collectors?"
     a: "It depends on your goals. Subscription boxes are best for discovery, finding bottles you'd never seek out on your own. Distillery VIP clubs are better for collectors who want early access to limited releases or barrel picks. Neither replaces targeted hunting, but both can fill gaps in a cellar and surface overlooked expressions."

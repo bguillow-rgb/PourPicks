@@ -14,10 +14,10 @@ quickAnswer: "A whiskey thief is a long, slender tube (traditionally copper, now
 publishedAt: "2026-08-31"
 author: "Pour Picks"
 relatedSlugs:
+  - "what-is-a-bourbon-private-barrel-program"
   - "how-to-do-a-bourbon-barrel-pick"
   - "what-is-a-bourbon-store-pick"
   - "full-proof-vs-barrel-proof-vs-cask-strength-bourbon"
-  - "how-annual-bourbon-releases-work"
 faqs:
   - q: "What is a whiskey thief used for?"
     a: "A whiskey thief is used to draw small samples of whiskey directly from an aging barrel for tasting or testing. Distillers use one to monitor maturation progress; retailers and enthusiast groups use one during barrel pick events to evaluate and select individual barrels."
