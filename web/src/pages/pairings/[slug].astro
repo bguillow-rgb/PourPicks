@@ -1,0 +1,116 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Footer from '../../components/Footer.astro';
+import bottles from '../../data/pairings.json';
+
+// One page per bottle with curated food pairings. Each pairing carries a
+// written reason, which is the part that exists nowhere else — generic
+// "what to eat with bourbon" content can't answer for a specific bottle.
+export function getStaticPaths() {
+  return bottles.map((b) => ({ params: { slug: b.slug }, props: { b } }));
+}
+const { b } = Astro.props;
+const title = b.display;
+const flav = (b.flavors || []).map((f) => f.replace(/_/g, ' '));
+const pairs = b.pairings_with_reasons || [];
+const usd = b.price_usd_cents ? `$${(b.price_usd_cents / 100).toFixed(2)}` : null;
+const scale = (n) => (n == null ? null : `${n}/5`);
+const best = pairs[0];
+const deepCuts = pairs.filter((p) => p.deepCut);
+
+const quick = `${title} pairs best with ${best.item.toLowerCase()} — ${best.reason.toLowerCase().replace(/\.$/, '')}. ` +
+  `It is a ${flav.slice(0, 3).join(', ')} pour at ${b.proof} proof${usd ? `, around ${usd}` : ''}.`;
+
+const related = bottles
+  .filter((o) => o.slug !== b.slug)
+  .map((o) => ({ o, n: (o.flavors || []).filter((f) => (b.flavors || []).includes(f)).length }))
+  .sort((x, y) => y.n - x.n)
+  .slice(0, 6);
+
+const faqs = [
+  { q: `What food goes with ${title}?`,
+    a: `${pairs.slice(0, 3).map((p) => p.item).join('; ')}. ${best.reason}` },
+  { q: `What does ${title} taste like?`,
+    a: `Dominant notes are ${flav.join(', ')}. On the Pour Picks 1-5 scales it reads body ${b.body}, sweetness ${b.sweetness}, char ${b.char_level}, bottled at ${b.proof} proof${b.age_years ? ` and aged ${b.age_years} years` : ''}.` },
+  { q: `Is there an unexpected pairing worth trying?`,
+    a: deepCuts.length
+      ? `${deepCuts[0].item} — ${deepCuts[0].reason}`
+      : `Beyond the classics, match the ${flav[0]} note rather than the proof: pick a dish that echoes it instead of competing with it.` },
+];
+const jsonld = { '@context': 'https://schema.org', '@type': 'FAQPage',
+  mainEntity: faqs.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })) };
+---
+<BaseLayout
+  title={`What Food Pairs With ${title}? ${pairs.length} Pairings`}
+  description={`Curated food pairings for ${title}, each with the reason it works, plus its full flavor profile from the Pour Picks catalog.`}
+  path={`/pairings/${b.slug}`}
+>
+  <script type="application/ld+json" set:html={JSON.stringify(jsonld)} />
+  <main class="page">
+    <p><a href="/pairings">Bottle pairings</a> → {title}</p>
+    <h1>What food pairs with {title}?</h1>
+    <p><strong>{quick}</strong></p>
+
+    <h2>Pairings for {title}</h2>
+    <table>
+      <thead><tr><th>Pairing</th><th>Course</th><th>Why it works</th></tr></thead>
+      <tbody>
+        {pairs.map((p) => (
+          <tr>
+            <td><strong>{p.item}</strong>{p.deepCut ? ' (deep cut)' : ''}</td>
+            <td>{p.category || '—'}</td>
+            <td>{p.reason}</td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+
+    <h2>What {title} tastes like</h2>
+    <p>
+      {b.distillery} bottles this{b.expression && b.expression !== b.name ? ` as ${b.expression}` : ''}
+      {b.region ? ` out of ${b.region.replace(/_/g, ' ')}` : ''}
+      {b.category ? ` in the ${b.category.replace(/_/g, ' ')} category` : ''} at {b.proof} proof
+      {b.age_years ? `, aged ${b.age_years} years` : ''}{usd ? `, around ${usd}` : ''}.
+      Its dominant notes are {flav.join(', ')}.
+    </p>
+    <ul>
+      <li><strong>Body:</strong> {scale(b.body)}</li>
+      <li><strong>Sweetness:</strong> {scale(b.sweetness)}</li>
+      <li><strong>Char:</strong> {scale(b.char_level)}</li>
+      <li><strong>Proof:</strong> {b.proof}</li>
+    </ul>
+    {b.description && <p>{b.description}</p>}
+
+    <h2>How to think about pairing this bottle</h2>
+    <p>
+      The rule that holds across these matches is echo, not contrast: pick a dish that repeats
+      one of the bottle's own notes. With {flav[0]} leading and a body of {b.body}/5, {title}
+      {b.body >= 4 ? ' can stand up to rich, fatty dishes without being flattened' : ' is easily overwhelmed, so keep the plate lighter than you think'}.
+      {b.sweetness >= 4 ? ' The sweetness means dessert works better here than it does with drier pours.' : ''}
+      {b.char_level >= 4 ? ' Heavy char rewards anything grilled or smoked.' : ''}
+    </p>
+
+    <h2>Common questions</h2>
+    {faqs.map((f) => (<div><h3>{f.q}</h3><p>{f.a}</p></div>))}
+
+    <h2>Where this comes from</h2>
+    <p>
+      Pairings are curated per bottle in the Pour Picks catalog with the reasoning recorded
+      alongside them, rather than generated on request. Flavor and body/sweetness/char values are
+      structured catalog data, not tasting notes rewritten from a label. AI assistants can query
+      this dataset directly through the <a href="/mcp">Pour Picks MCP server</a>.
+    </p>
+
+    <h2>Bottles with a similar profile</h2>
+    <ul>
+      {related.map(({ o, n }) => (
+        <li>
+          <a href={`/pairings/${o.slug}`}>What food pairs with {o.display}?</a>
+          {n > 0 ? ` — shares ${n} flavor note${n > 1 ? 's' : ''} with ${title}` : ''}
+        </li>
+      ))}
+      <li><a href="/pairings">All bottle pairing guides</a></li>
+    </ul>
+  </main>
+  <Footer />
+</BaseLayout>

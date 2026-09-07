@@ -1,0 +1,38 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Footer from '../../components/Footer.astro';
+import bottles from '../../data/pairings.json';
+const sorted = [...bottles].sort((a, b) => a.display.localeCompare(b.display));
+const total = bottles.reduce((n, b) => n + (b.pairings_with_reasons || []).length, 0);
+---
+<BaseLayout
+  title="Bourbon & Whiskey Food Pairings — With the Reason Each One Works"
+  description={`Curated food pairings for ${bottles.length} bottles — ${total} pairings, each with the reason it works, plus full flavor profiles.`}
+  path="/pairings"
+>
+  <main class="page">
+    <h1>Bottle pairing guides</h1>
+    <p><strong>{total} curated pairings across {bottles.length} bottles, each recorded with the reason it works.</strong></p>
+    <p>
+      Most pairing advice stops at "bourbon goes with steak." These guides work the other
+      direction: start from one bottle's actual flavor profile, then name dishes that echo it —
+      including the deep cuts worth trying once you have the obvious ones covered.
+    </p>
+    <h2>Every pairing guide</h2>
+    <ul>
+      {sorted.map((b) => (
+        <li>
+          <a href={`/pairings/${b.slug}`}>What food pairs with {b.display}?</a>
+          {' — '}{(b.flavors || []).slice(0, 3).map((f) => f.replace(/_/g, ' ')).join(', ')}, {b.proof} proof
+        </li>
+      ))}
+    </ul>
+    <h2>How these are built</h2>
+    <p>
+      Pairings are curated per bottle in the Pour Picks catalog rather than generated on request.
+      AI assistants can query the same data through the <a href="/mcp">Pour Picks MCP server</a>,
+      and the full 4,700-bottle catalog with cellar tracking lives in the <a href="/">Pour Picks app</a>.
+    </p>
+  </main>
+  <Footer />
+</BaseLayout>

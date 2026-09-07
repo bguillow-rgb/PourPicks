@@ -1,0 +1,2475 @@
+[
+ {
+  "id": "255df63d-fb75-4b1a-876f-6293a94a77b4",
+  "name": "10 Year Single Barrel Bottled in Bond",
+  "distillery": "Henry McKenna",
+  "expression": "10 Year Single Barrel Bottled in Bond",
+  "proof": 100,
+  "age_years": 10,
+  "region": "kentucky",
+  "category": "bourbon",
+  "flavors": [
+   "caramel",
+   "vanilla",
+   "oak",
+   "baking_spice",
+   "cherry"
+  ],
+  "body": 4,
+  "sweetness": 3,
+  "char_level": 4,
+  "price_usd_cents": null,
+  "popularity_tier": 5,
+  "description": null,
+  "pairings_with_reasons": [
+   {
+    "item": "Dry-aged duck breast, cherry gastrique, medium-rare",
+    "reason": "Cherry and baking spice echo the tart glaze perfectly.",
+    "category": "poultry"
+   },
+   {
+    "item": "Aged Comt\u00e9, 24-month, with honeycomb and walnut",
+    "reason": "Caramel notes amplify the cheese's crystalline sweetness and nuttiness.",
+    "category": "cheese"
+   },
+   {
+    "item": "Sichuan twice-cooked pork belly, caramelized leeks, numbing heat",
+    "reason": "Vanilla smooths the spice while oak handles the char.",
+    "deepCut": true,
+    "category": "meat"
+   }
+  ],
+  "display": "Henry McKenna 10 Year Single Barrel Bottled in Bond",
+  "slug": "henry-mckenna-10-year-single-barrel-bottled-in-bond"
+ },
+ {
+  "id": "d4decbba-c684-45a8-a502-754f86aef04b",
+  "name": "130th Anniversary Limited Edition",
+  "distillery": "Four Roses",
+  "expression": "130th Anniversary Limited Edition",
+  "proof": 109.4,
+  "age_years": null,
+  "region": "kentucky",
+  "category": "bourbon",
+  "flavors": [
+   "caramel",
+   "cherry",
+   "baking_spice",
+   "vanilla",
+   "oak"
+  ],
+  "body": 4,
+  "sweetness": 3,
+  "char_level": 3,
+  "price_usd_cents": null,
+  "popularity_tier": 5,
+  "description": null,
+  "pairings_with_reasons": [
+   {
+    "item": "Dry-aged duck breast, cherry gastrique, served warm",
+    "reason": "Cherry-forward bourbon mirrors the fruit reduction and caramelized duck skin.",
+    "category": "poultry"
+   },
+   {
+    "item": "Aged Manchego with membrillo and Marcona almonds",
+    "reason": "Caramel and oak stand up to sharp sheep's milk tang.",
+    "category": "cheese"
+   },
+   {
+    "item": "Korean tteokbokki with gochujang and fish cake, extra glaze",
+    "reason": "Baking spice cuts sweet-spicy rice cakes, proof amplifies umami depth.",
+    "deepCut": true,
+    "category": "appetizer"
+   }
+  ],
+  "display": "Four Roses 130th Anniversary Limited Edition",
+  "slug": "four-roses-130th-anniversary-limited-edition"
+ },
+ {
+  "id": "5c7e4927-683e-4bcf-a9b9-4c38e2a72f5b",
+  "name": "15 Year",
+  "distillery": "Russell's Reserve",
+  "expression": "15 Year",
+  "proof": 117.2,
+  "age_years": 15,
+  "region": "kentucky",
+  "category": "bourbon",
+  "flavors": [
+   "caramel",
+   "vanilla",
+   "baking_spice",
+   "dried_fruit",
+   "oak"
+  ],
+  "body": 4,
+  "sweetness": 3,
+  "char_level": 4,
+  "price_usd_cents": null,
+  "popularity_tier": 5,
+  "description": null,
+  "pairings_with_reasons": [
+   {
+    "item": "Dry-aged duck breast, seared rare, cherry gastrique",
+    "reason": "Baking spice and dried fruit echo the tart cherry reduction perfectly.",
+    "category": "poultry"
+   },
+   {
+    "item": "Aged Comt\u00e9, 24-month, with toasted hazelnuts and wildflower honey",
+    "reason": "Caramel and oak depth meet crystalline umami and sweet nuttiness.",
+    "category": "cheese"
+   },
+   {
+    "item": "Filipino lechon kawali, twice-fried pork belly, spiced vinegar dip",
+    "reason": "High proof cuts through crackling fat, vanilla softens sharp vinegar.",
+    "deepCut": true,
+    "category": "bbq"
+   }
+  ],
+  "display": "Russell's Reserve 15 Year",
+  "slug": "russell-s-reserve-15-year"
+ },
+ {
+  "id": "a6d6c760-aa5c-4172-9a60-ece35fc1008b",
+  "name": "15 Year Bourbon",
+  "distillery": "Knob Creek",
+  "expression": "15 Year Bourbon",
+  "proof": 100,
+  "age_years": 15,
+  "region": "kentucky",
+  "category": "bourbon",
+  "flavors": [
+   "caramel",
+   "vanilla",
+   "oak",
+   "baking_spice",
+   "leather"
+  ],
+  "body": 4,
+  "sweetness": 3,
+  "char_level": 3,
+  "price_usd_cents": null,
+  "popularity_tier": 5,
+  "description": null,
+  "pairings_with_reasons": [
+   {
+    "item": "Padron Anniversario Maduro, cool evening smoke",
+    "reason": "Leather and oak cradle the wrapper's earthy, spiced sweetness beautifully.",
+    "category": "cigar"
+   },
+   {
+    "item": "Burnt-ends brisket, KC-style, bark heavy with molasses",
+    "reason": "Fifteen years of oak meets char; caramel echoes the glaze.",
+    "category": "bbq"
+   },
+   {
+    "item": "Persian tahdig with saffron crust, crispy bottom layer",
+    "reason": "Caramelized rice crust mirrors vanilla and baking spice warmth perfectly.",
+    "deepCut": true,
+    "category": "vegetarian"
+   }
+  ],
+  "display": "Knob Creek 15 Year Bourbon",
+  "slug": "knob-creek-15-year-bourbon"
+ },
+ {
+  "id": "421ad7af-d9b1-45d0-b5e0-c158e5983f61",
+  "name": "18 Year Bourbon",
+  "distillery": "Knob Creek",
+  "expression": "18 Year Bourbon",
+  "proof": 100,
+  "age_years": 18,
+  "region": "kentucky",
+  "category": "bourbon",
+  "flavors": [
+   "caramel",
+   "vanilla",
+   "oak",
+   "baking_spice",
+   "dried_fruit"
+  ],
+  "body": 4,
+  "sweetness": 3,
+  "char_level": 3,
+  "price_usd_cents": null,
+  "popularity_tier": 5,
+  "description": null,
+  "pairings_with_reasons": [
+   {
+    "item": "Dry-aged duck breast, rendered crispy, cherry gastrique",
+    "reason": "Eighteen years of oak amplifies duck's richness, dried fruit mirrors cherry.",
+    "category": "poultry"
+   },
+   {
+    "item": "Aged Manchego with membrillo and marcona almonds",
+    "reason": "Caramel and baking spice find harmony in Spain's sweet-nutty trinity.",
+    "category": "cheese"
+   },
+   {
+    "item": "Korean tteokbokki, gochujang-glazed, fish cake coins, sesame",
+    "reason": "Chewy rice cakes absorb vanilla, spice meets spice, caramel tames heat.",
+    "deepCut": true,
+    "category": "snack"
+   }
+  ],
+  "display": "Knob Creek 18 Year Bourbon",
+  "slug": "knob-creek-18-year-bourbon"
+ },
+ {
+  "id": "e8987c4f-9c76-43df-921e-73df0461a933",
+  "name": "Antique Collection Eagle Rare 17 2024",
+  "distillery": "Buffalo Trace",
+  "expression": "Antique Collection Eagle Rare 17 2024",
+  "proof": 101,
+  "age_years": 17,
+  "region": "kentucky",
+  "category": "bourbon",
+  "flavors": [
+   "caramel",
+   "dried_fruit",
+   "leather",
+   "dark_chocolate",
+   "vanilla"
+  ],
+  "body": 4,
+  "sweetness": 3,
+  "char_level": 3,
+  "price_usd_cents": null,
+  "popularity_tier": 5,
+  "description": null,
+  "pairings_with_reasons": [
+   {
+    "item": "Dry-aged duck breast, rendered crisp, cherry gastrique",
+    "reason": "Dried fruit and leather mirror the gamey char and tart reduction.",
+    "category": "poultry"
+   },
+   {
+    "item": "Aged Manchego with membrillo and Marcona almonds",
+    "reason": "Caramel notes embrace the quince paste's honeyed oxidation beautifully.",
+    "category": "cheese"
+   },
+   {
+    "item": "Persian tahdig with saffron crust and barberry compote",
+    "reason": "Seventeen years meets crispy rice's caramelization and jeweled fruit tartness.",
+    "deepCut": true,
+    "category": "comfort"
+   }
+  ],
+  "display": "Buffalo Trace Antique Collection Eagle Rare 17 2024",
+  "slug": "buffalo-trace-antique-collection-eagle-rare-17-2024"
+ },
+ {
+  "id": "014a6c62-1ac8-4229-9701-4ee68f6ae41a",
+  "name": "Antique Collection George T. Stagg 2024",
+  "distillery": "Buffalo Trace",
+  "expression": "Antique Collection George T. Stagg 2024",
+  "proof": 136.6,
+  "age_years": null,
+  "region": "kentucky",
+  "category": "bourbon",
+  "flavors": [
+   "caramel",
+   "dark_chocolate",
+   "char",
+   "leather",
+   "baking_spice"
+  ],
+  "body": 5,
+  "sweetness": 3,
+  "char_level": 5,
+  "price_usd_cents": null,
+  "popularity_tier": 5,
+  "description": null,
+  "pairings_with_reasons": [
+   {
+    "item": "Bone-in lamb chops, Moroccan spice crust, charred crispy",
+    "reason": "Char and baking spice mirror the bottle's deep roasted power.",
+    "category": "meat"
+   },
+   {
+    "item": "Sichuan cumin lamb skewers, crispy fat edges, slight ma la",
+    "reason": "Caramel cuts through tingle; leather amplifies savory char.",
+    "deepCut": true,
+    "category": "bbq"
+   },
+   {
+    "item": "Room-temp Parmigiano-Reggiano, 36-month, crumbly crystals",
+    "reason": "Umami crystals crack open caramel, proof dissolves fat beautifully.",
+    "category": "cheese"
+   }
+  ],
+  "display": "Buffalo Trace Antique Collection George T. Stagg 2024",
+  "slug": "buffalo-trace-antique-collection-george-t-stagg-2024"
+ },
+ {
+  "id": "b8dcc9f2-11c1-4263-b73b-cb65440bff95",
+  "name": "Antique Collection Sazerac 18 2024",
+  "distillery": "Buffalo Trace",
+  "expression": "Antique Collection Sazerac 18 2024",
+  "proof": 90,
+  "age_years": 18,
+  "region": "kentucky",
+  "category": "bourbon",
+  "flavors": [
+   "leather",
+   "dark_fruit",
+   "baking_spice",
+   "toffee",
+   "oak"
+  ],
+  "body": 4,
+  "sweetness": 3,
+  "char_level": 3,
+  "price_usd_cents": null,
+  "popularity_tier": 5,
+  "description": null,
+  "pairings_with_reasons": [
+   {
+    "item": "Padron Nicaragua robusto, oily Habano wrapper, slow-burn",
+    "reason": "Leather and oak amplify the leaf's earthy spice beautifully.",
+    "category": "cigar"
+   },
+   {
+    "item": "Georgian churchkhela, walnut-stuffed grape must candy, room temperature",
+    "reason": "Dark fruit and toffee mirror the caramelized grape must.",
+    "deepCut": true,
+    "category": "snack"
+   },
+   {
+    "item": "Sichuan twice-cooked pork belly, caramelized leeks, Pixian doubanjiang",
+    "reason": "Baking spice cuts through fat while toffee tames fermented heat.",
+    "category": "meat"
+   }
+  ],
+  "display": "Buffalo Trace Antique Collection Sazerac 18 2024",
+  "slug": "buffalo-trace-antique-collection-sazerac-18-2024"
+ },
+ {
+  "id": "12395670-06e7-4010-9c17-d9e4b82e83d2",
+  "name": "Antique Collection Thomas H. Handy Sazerac 2024",
+  "distillery": "Buffalo Trace",
+  "expression": "Antique Collection Thomas H. Handy Sazerac 2024",
+  "proof": 129.5,
+  "age_years": null,
+  "region": "kentucky",
+  "category": "bourbon",
+  "flavors": [
+   "rye_spice",
+   "caramel",
+   "cinnamon",
+   "dark_fruit",
+   "leather"
+  ],
+  "body": 5,
+  "sweetness": 3,
+  "char_level": 4,
+  "price_usd_cents": null,
+  "popularity_tier": 5,
+  "description": null,
+  "pairings_with_reasons": [
+   {
+    "item": "Padron 1964 Anniversary Maduro robusto, cedar-forward",
+    "reason": "Leather and rye spice mirror the wrapper's earthy bite.",
+    "category": "cigar"
+   },
+   {
+    "item": "Korean gochujang-glazed pork belly, crispy edges, sesame",
+    "reason": "Caramel meets fermented heat, cinnamon cuts the char beautifully.",
+    "category": "bbq"
+   },
+   {
+    "item": "Ethiopian doro wat with injera, berbere-heavy, bone-in",
+    "reason": "Dark fruit and spice tangle with fenugreek's warm complexity.",
+    "deepCut": true,
+    "category": "comfort"
+   }
+  ],
+  "display": "Buffalo Trace Antique Collection Thomas H. Handy Sazerac 2024",
+  "slug": "buffalo-trace-antique-collection-thomas-h-handy-sazerac-2024"
+ },
+ {
+  "id": "6b1ffa65-503c-4919-bf8f-d24e68251bd8",
+  "name": "Antique Collection William Larue Weller 2024",
+  "distillery": "Buffalo Trace",
+  "expression": "Antique Collection William Larue Weller 2024",
+  "proof": 125,
+  "age_years": null,
+  "region": "kentucky",
+  "category": "bourbon",
+  "flavors": [
+   "caramel",
+   "vanilla",
+   "dark_chocolate",
+   "cherry",
+   "baking_spice"
+  ],
+  "body": 5,
+  "sweetness": 4,
+  "char_level": 3,
+  "price_usd_cents": null,
+  "popularity_tier": 5,
+  "description": null,
+  "pairings_with_reasons": [
+   {
+    "item": "Grilled pork jowl, Korean gochugaru glaze, charred edges",
+    "reason": "Caramel and baking spice mirror the sticky-sweet heat perfectly.",
+    "deepCut": true,
+    "category": "bbq"
+   },
+   {
+    "item": "Valrhona Dulcey blonde chocolate ganache tart, salted",
+    "reason": "Blonde cocoa echoes vanilla and cherry without overwhelming high proof.",
+    "category": "dessert"
+   },
+   {
+    "item": "Aged Manchego with membrillo quince paste, room temperature",
+    "reason": "Cherry notes lift the quince while caramel softens salty crystals.",
+    "category": "cheese"
+   }
+  ],
+  "display": "Buffalo Trace Antique Collection William Larue Weller 2024",
+  "slug": "buffalo-trace-antique-collection-william-larue-weller-2024"
+ },
+ {
+  "id": "6208c37e-4899-425e-bb53-6290d3ba9332",
+  "name": "Barcel\u00f3 Imperial Onyx",
+  "distillery": "Barcel\u00f3",
+  "expression": "Barcel\u00f3 Imperial Onyx",
+  "proof": 80,
+  "age_years": null,
+  "region": "dominican_republic",
+  "category": "rum",
+  "flavors": [
+   "caramel",
+   "vanilla",
+   "dried_fruit",
+   "chocolate",
+   "oak"
+  ],
+  "body": 4,
+  "sweetness": 4,
+  "char_level": 3,
+  "price_usd_cents": null,
+  "popularity_tier": 5,
+  "description": "Ultra-premium limited edition rum with extended aging in select casks, showcasing the most refined expressions of Dominican rum craftsmanship.",
+  "pairings_with_reasons": [
+   {
+    "item": "Manchego viejo aged 12 months, thin-sliced with fig preserves",
+    "reason": "Caramel and oak echo the cheese's crystalline nuttiness beautifully.",
+    "category": "cheese"
+   },
+   {
+    "item": "Filipino leche flan, hand-torched with muscovado sugar crust",
+    "reason": "Burnt sugar caramel mirrors the rum's Dominican cane sweetness.",
+    "category": "dessert"
+   },
+   {
+    "item": "Persian fesenjan stew, walnut-pomegranate over saffron rice",
+    "reason": "Dried fruit notes lift the tart-sweet pomegranate molasses elegantly.",
+    "deepCut": true,
+    "category": "meat"
+   }
+  ],
+  "display": "Barcel\u00f3 Imperial Onyx",
+  "slug": "barcel-imperial-onyx"
+ },
+ {
+  "id": "b3831f7f-3454-4420-a9f3-5ccdac00a243",
+  "name": "Belvedere Heritage 176",
+  "distillery": "Belvedere",
+  "expression": "Heritage 176",
+  "proof": 80,
+  "age_years": null,
+  "region": "poland",
+  "category": "vodka",
+  "flavors": [
+   "rye_spice",
+   "white_pepper",
+   "citrus",
+   "bread"
+  ],
+  "body": 2,
+  "sweetness": 1,
+  "char_level": 1,
+  "price_usd_cents": null,
+  "popularity_tier": 5,
+  "description": "Limited release commemorating 176 years of Polish vodka-making heritage at the Polmos \u017byrard\u00f3w distillery.",
+  "pairings_with_reasons": [
+   {
+    "item": "Oysters on the half shell",
+    "reason": "Clean rye minerality mirrors briny ocean essence perfectly.",
+    "category": "seafood"
+   },
+   {
+    "item": "Classic Vodka Martini",
+    "reason": "Silky rye character shines through with minimal dilution.",
+    "category": "cocktail"
+   },
+   {
+    "item": "Chilled cucumber soup",
+    "reason": "Crisp white pepper notes elevate cool, elegant flavors.",
+    "deepCut": true,
+    "category": "appetizer"
+   }
+  ],
+  "display": "Belvedere Heritage 176",
+  "slug": "belvedere-heritage-176"
+ },
+ {
+  "id": "a31f106c-ff55-4926-9b72-7d25f294f785",
+  "name": "Belvedere Vodka",
+  "distillery": "Belvedere",
+  "expression": "10",
+  "proof": 80,
+  "age_years": null,
+  "region": "poland",
+  "category": "vodka",
+  "flavors": [
+   "rye_spice",
+   "white_pepper",
+   "citrus",
+   "cream"
+  ],
+  "body": 1,
+  "sweetness": 1,
+  "char_level": 1,
+  "price_usd_cents": null,
+  "popularity_tier": 5,
+  "description": "Ultra-premium expression celebrating Belvedere's 10th anniversary with extended maceration and unique production methods.",
+  "pairings_with_reasons": [
+   {
+    "item": "Oysters on the half shell",
+    "reason": "Clean minerality mirrors the vodka's crisp rye purity.",
+    "category": "seafood"
+   },
+   {
+    "item": "Caviar with cr\u00e8me fra\u00eeche",
+    "reason": "Creamy richness enhances the silky, peppery grain character.",
+    "category": "appetizer"
+   },
+   {
+    "item": "Classic Martini",
+    "reason": "Ultra-premium smoothness shines in this minimal, elegant serve.",
+    "category": "cocktail"
+   }
+  ],
+  "display": "Belvedere Vodka",
+  "slug": "belvedere-vodka"
+ },
+ {
+  "id": "f8f33935-d812-4672-8a50-e17dff7f3a84",
+  "name": "Binny's Single Barrel Four Roses",
+  "distillery": "Binny's",
+  "expression": "Four Roses Single Barrel",
+  "proof": 100,
+  "age_years": null,
+  "region": "Kentucky",
+  "category": "bourbon",
+  "flavors": [
+   "rye_spice",
+   "cherry",
+   "floral",
+   "oak",
+   "vanilla"
+  ],
+  "body": 3,
+  "sweetness": 2,
+  "char_level": 2,
+  "price_usd_cents": null,
+  "popularity_tier": 5,
+  "description": "Spicy, fruit-forward Four Roses with prominent rye character. Notes of cherry, floral elements, and warm oak.",
+  "pairings_with_reasons": [
+   {
+    "item": "Dry-aged duck breast, seared rare, cherry gastrique",
+    "reason": "Rye spice cuts duck fat while cherry notes mirror gastrique.",
+    "category": "poultry"
+   },
+   {
+    "item": "Aged Manchego with Marcona almonds and rosemary honey",
+    "reason": "Floral bourbon echoes rosemary, vanilla softens sheep's milk tang.",
+    "category": "cheese"
+   },
+   {
+    "item": "Korean tteokbokki with gochugaru and fish cake, piping hot",
+    "reason": "Rye spice bridges fermented heat, fruit tames gochugaru burn.",
+    "deepCut": true,
+    "category": "appetizer"
+   }
+  ],
+  "display": "Binny's Single Barrel Four Roses",
+  "slug": "binny-s-single-barrel-four-roses"
+ },
+ {
+  "id": "5a85b9fe-ffe6-4e95-a0b1-d59d1edb9c6e",
+  "name": "Bottled in Bond 13 Year",
+  "distillery": "Old Fitzgerald",
+  "expression": "Bottled in Bond 13 Year",
+  "proof": 100,
+  "age_years": 13,
+  "region": "kentucky",
+  "category": "bourbon",
+  "flavors": [
+   "caramel",
+   "vanilla",
+   "oak",
+   "honey",
+   "dried_fruit"
+  ],
+  "body": 4,
+  "sweetness": 4,
+  "char_level": 3,
+  "price_usd_cents": null,
+  "popularity_tier": 5,
+  "description": null,
+  "pairings_with_reasons": [
+   {
+    "item": "Dry-aged duck breast, medium-rare, cherry gastrique",
+    "reason": "Dried fruit and honey amplify the tart cherry reduction beautifully.",
+    "category": "poultry"
+   },
+   {
+    "item": "Aged Manchego with marcona almonds and fig jam",
+    "reason": "Caramel notes mirror the nutty, crystalline sheep's milk sharpness.",
+    "category": "cheese"
+   },
+   {
+    "item": "Levantine knafeh with orange blossom syrup, still warm",
+    "reason": "Honey and vanilla cradle the buttery cheese and floral sweetness.",
+    "deepCut": true,
+    "category": "dessert"
+   }
+  ],
+  "display": "Old Fitzgerald Bottled in Bond 13 Year",
+  "slug": "old-fitzgerald-bottled-in-bond-13-year"
+ },
+ {
+  "id": "b9c31dcc-9a11-488b-937e-da6fe2ff006d",
+  "name": "Bottled in Bond 17 Year",
+  "distillery": "Old Fitzgerald",
+  "expression": "Bottled in Bond 17 Year",
+  "proof": 100,
+  "age_years": 17,
+  "region": "kentucky",
+  "category": "bourbon",
+  "flavors": [
+   "caramel",
+   "dried_fruit",
+   "oak",
+   "leather",
+   "vanilla"
+  ],
+  "body": 5,
+  "sweetness": 4,
+  "char_level": 4,
+  "price_usd_cents": null,
+  "popularity_tier": 5,
+  "description": null,
+  "pairings_with_reasons": [
+   {
+    "item": "Dry-aged duck breast, seared rare, black cherry gastrique",
+    "reason": "Seventeen years of oak meets gamey richness and dried fruit echo.",
+    "category": "poultry"
+   },
+   {
+    "item": "Manchego reserva, aged 12 months, with honeycomb and marcona almonds",
+    "reason": "Caramel and leather complexity matches crystallized sheep's milk tang.",
+    "category": "cheese"
+   },
+   {
+    "item": "Taiwanese braised pork belly lu rou, five-spice forward, over sticky rice",
+    "reason": "Vanilla and caramel softens soy umami, leather greets star anise.",
+    "deepCut": true,
+    "category": "comfort"
+   }
+  ],
+  "display": "Old Fitzgerald Bottled in Bond 17 Year",
+  "slug": "old-fitzgerald-bottled-in-bond-17-year"
+ },
+ {
+  "id": "aa764ecd-070f-4d27-a395-5199363c1574",
+  "name": "Bowmore 27 Year Old",
+  "distillery": "Bowmore",
+  "expression": "The Vintner's Trilogy",
+  "proof": 97.2,
+  "age_years": 27,
+  "region": "islay",
+  "category": "scotch_single_malt",
+  "flavors": [
+   "peat_smoke",
+   "dried_fruit",
+   "sherry",
+   "dark_chocolate",
+   "brine"
+  ],
+  "body": 4,
+  "sweetness": 3,
+  "char_level": 3,
+  "price_usd_cents": null,
+  "popularity_tier": 5,
+  "description": "Wine cask matured expression from the Vintner's Trilogy series.",
+  "pairings_with_reasons": [
+   {
+    "item": "Partag\u00e1s Serie D No. 4, half-smoked, rested",
+    "reason": "Peat and tobacco leaf mirror the wine-cask tannins perfectly.",
+    "category": "cigar"
+   },
+   {
+    "item": "Comt\u00e9 36-month, room temp, honeycomb drizzle",
+    "reason": "Sherry sweetness finds the nutty crystals, brine cuts richness.",
+    "category": "cheese"
+   },
+   {
+    "item": "Korean ganjang gejang, cold raw crab, soy-aged",
+    "reason": "Brine meets brine; dried fruit lifts fermented soy funk.",
+    "deepCut": true,
+    "category": "seafood"
+   }
+  ],
+  "display": "Bowmore 27 Year Old",
+  "slug": "bowmore-27-year-old"
+ },
+ {
+  "id": "a0e8f001-eab5-400e-b3b2-d31ff046dcf9",
+  "name": "Buffalo Trace",
+  "distillery": "Buffalo Trace",
+  "expression": "Buffalo Trace",
+  "proof": 90,
+  "age_years": null,
+  "region": "Kentucky",
+  "category": "bourbon",
+  "flavors": [
+   "vanilla",
+   "caramel",
+   "oak"
+  ],
+  "body": 3,
+  "sweetness": 4,
+  "char_level": 3,
+  "price_usd_cents": 2999,
+  "popularity_tier": 5,
+  "description": "Easy-sipping flagship. Vanilla, caramel, and soft oak.",
+  "pairings_with_reasons": [
+   {
+    "item": "Charred street corn esquites, crema fresca, lime zest",
+    "reason": "Caramel char and vanilla crema echo the bourbon's sweetness.",
+    "deepCut": true,
+    "category": "vegetarian"
+   },
+   {
+    "item": "Five-year clothbound cheddar, room temp, honeycomb shard",
+    "reason": "Oak tannins cut through aged funk, honey mirrors caramel.",
+    "category": "cheese"
+   },
+   {
+    "item": "Crispy pork belly burnt ends, Kentucky bourbon glaze",
+    "reason": "Vanilla and char unite in sweet-savory bourbon reduction.",
+    "category": "bbq"
+   }
+  ],
+  "display": "Buffalo Trace",
+  "slug": "buffalo-trace"
+ },
+ {
+  "id": "38cf21e2-5acc-435c-80b7-1a0c71da46e7",
+  "name": "Canadian Club",
+  "distillery": "Canadian Club",
+  "expression": "Chronicles 42 Year Old",
+  "proof": 90.2,
+  "age_years": 42,
+  "region": "ontario",
+  "category": "canadian",
+  "flavors": [
+   "oak",
+   "dried_fruit",
+   "toffee",
+   "baking_spice",
+   "leather"
+  ],
+  "body": 4,
+  "sweetness": 3,
+  "char_level": 3,
+  "price_usd_cents": null,
+  "popularity_tier": 5,
+  "description": "Part of the highly sought-after Chronicles series, representing some of the oldest Canadian whisky ever released.",
+  "pairings_with_reasons": [
+   {
+    "item": "Andalusian Marcona almonds, fried in olive oil, still warm",
+    "reason": "Toffee and baking spice magnify salted, toasted richness beautifully.",
+    "category": "snack"
+   },
+   {
+    "item": "Persian jeweled rice with saffron, barberries, and candied orange peel",
+    "reason": "Dried fruit notes mirror barberry tartness; oak frames saffron complexity.",
+    "deepCut": true,
+    "category": "vegetarian"
+   },
+   {
+    "item": "Nicaraguan Habano Robusto, aged five years in Spanish cedar",
+    "reason": "Leather tag meets tobacco leaf; four decades ask for patience.",
+    "category": "cigar"
+   }
+  ],
+  "display": "Canadian Club",
+  "slug": "canadian-club"
+ },
+ {
+  "id": "47e2ce09-0815-4440-9397-7b07f748ca74",
+  "name": "Cellar Aged 2023",
+  "distillery": "Maker's Mark",
+  "expression": "Cellar Aged 2023",
+  "proof": 115.7,
+  "age_years": 12,
+  "region": "kentucky",
+  "category": "bourbon",
+  "flavors": [
+   "caramel",
+   "vanilla",
+   "baking_spice",
+   "oak",
+   "dried_fruit"
+  ],
+  "body": 4,
+  "sweetness": 4,
+  "char_level": 4,
+  "price_usd_cents": null,
+  "popularity_tier": 5,
+  "description": null,
+  "pairings_with_reasons": [
+   {
+    "item": "Dry-aged duck breast, seared rare, with cherry gastrique",
+    "reason": "Dried fruit and baking spice echo the tart-sweet glaze perfectly.",
+    "category": "poultry"
+   },
+   {
+    "item": "Valrhona Dulcey blondie, warm center, flaked Maldon salt",
+    "reason": "Caramelized white chocolate mirrors the toasted oak and vanilla warmth.",
+    "category": "dessert"
+   },
+   {
+    "item": "Georgian churchkhela, walnut-stuffed grape must candy, room temperature",
+    "reason": "Centuries-old sweetness meets twelve years of barrel-concentrated dried fruit.",
+    "deepCut": true,
+    "category": "snack"
+   }
+  ],
+  "display": "Maker's Mark Cellar Aged 2023",
+  "slug": "maker-s-mark-cellar-aged-2023"
+ },
+ {
+  "id": "6e05bab0-d6d4-48b1-b918-e728604ece39",
+  "name": "Cellar Aged 2024",
+  "distillery": "Maker's Mark",
+  "expression": "Cellar Aged 2024",
+  "proof": 115,
+  "age_years": 12,
+  "region": "kentucky",
+  "category": "bourbon",
+  "flavors": [
+   "caramel",
+   "vanilla",
+   "baking_spice",
+   "oak",
+   "dark_fruit"
+  ],
+  "body": 4,
+  "sweetness": 4,
+  "char_level": 4,
+  "price_usd_cents": null,
+  "popularity_tier": 5,
+  "description": null,
+  "pairings_with_reasons": [
+   {
+    "item": "Dry-aged duck breast, seared rare, cherry gastrique",
+    "reason": "Dark fruit echoes the cherry while caramel tempers gamey richness.",
+    "category": "poultry"
+   },
+   {
+    "item": "Aged Manchego with candied orange peel and marcona almonds",
+    "reason": "Baking spice and oak amplify the sheep's milk funk beautifully.",
+    "category": "cheese"
+   },
+   {
+    "item": "Korean tteokbokki in gochujang-butter sauce, fish cake coins",
+    "reason": "Vanilla and caramel cool the heat, oak anchors chewy rice.",
+    "deepCut": true,
+    "category": "comfort"
+   }
+  ],
+  "display": "Maker's Mark Cellar Aged 2024",
+  "slug": "maker-s-mark-cellar-aged-2024"
+ },
+ {
+  "id": "528015d4-8927-44b9-8852-d77179ca5191",
+  "name": "Coy Hill High Proof",
+  "distillery": "Jack Daniel's",
+  "expression": "Coy Hill High Proof",
+  "proof": 137,
+  "age_years": null,
+  "region": "tennessee",
+  "category": "tennessee",
+  "flavors": [
+   "char",
+   "caramel",
+   "banana",
+   "baking_spice",
+   "oak"
+  ],
+  "body": 5,
+  "sweetness": 3,
+  "char_level": 5,
+  "price_usd_cents": null,
+  "popularity_tier": 5,
+  "description": null,
+  "pairings_with_reasons": [
+   {
+    "item": "Charred octopus tentacle, olive oil and smoked paprika finish",
+    "reason": "Char and baking spice meet briny smoke at high proof.",
+    "category": "seafood"
+   },
+   {
+    "item": "Sticky toffee pudding, dates caramelized, served warm with clotted cream",
+    "reason": "Caramel and banana amplify the pudding's deep molasses sweetness.",
+    "category": "dessert"
+   },
+   {
+    "item": "Khao niao mamuang, overripe Alphonso mango with warm coconut sticky rice",
+    "reason": "Banana and oak dance with tropical fruit's silky heat cut.",
+    "deepCut": true,
+    "category": "pairing"
+   }
+  ],
+  "display": "Jack Daniel's Coy Hill High Proof",
+  "slug": "jack-daniel-s-coy-hill-high-proof"
+ },
+ {
+  "id": "f88330af-8250-43e8-bf18-3e5d9567d130",
+  "name": "Dalwhinnie",
+  "distillery": "Dalwhinnie",
+  "expression": "30 Year Old",
+  "proof": 96.4,
+  "age_years": 30,
+  "region": "highlands",
+  "category": "scotch_single_malt",
+  "flavors": [
+   "honey",
+   "heather",
+   "smoke",
+   "malt",
+   "dried_fruit"
+  ],
+  "body": 3,
+  "sweetness": 3,
+  "char_level": 2,
+  "price_usd_cents": null,
+  "popularity_tier": 5,
+  "description": "Rare limited release from one of Scotland's highest distilleries. Complex with deep honey, heather, and subtle smoke notes developed over three decades.",
+  "pairings_with_reasons": [
+   {
+    "item": "Grilled venison with juniper",
+    "reason": "Heather and smoke echo the Highland game's wild terroir.",
+    "category": "meat"
+   },
+   {
+    "item": "Aged Comt\u00e9 cheese",
+    "reason": "Three decades of maturation mirrored in crystalline nutty depths.",
+    "category": "cheese"
+   },
+   {
+    "item": "Honeycomb with sea salt",
+    "reason": "Pure highland honey intensified by mineral salinity and age.",
+    "category": "dessert"
+   }
+  ],
+  "display": "Dalwhinnie",
+  "slug": "dalwhinnie"
+ },
+ {
+  "id": "c9157568-264a-42a0-aaf1-ccb4036aed34",
+  "name": "Delamain Tr\u00e8s V\u00e9n\u00e9rable",
+  "distillery": "Delamain",
+  "expression": "Tr\u00e8s V\u00e9n\u00e9rable",
+  "proof": 80,
+  "age_years": 45,
+  "region": "grande champagne",
+  "category": "cognac",
+  "flavors": [
+   "dried_fruit",
+   "raisin",
+   "fig",
+   "honey",
+   "leather"
+  ],
+  "body": 3,
+  "sweetness": 3,
+  "char_level": 2,
+  "price_usd_cents": null,
+  "popularity_tier": 5,
+  "description": "Delamain's prestige cuv\u00e9e blending eaux-de-vie aged 45-55 years from Grande Champagne. Exceptionally rare and refined with notes of rancio, dried fruits, and polished oak.",
+  "pairings_with_reasons": [
+   {
+    "item": "Ca\u00f1a de lomo ib\u00e9rico, hand-sliced, with Marcona almonds",
+    "reason": "Rancio and acorn-fed pork echo five decades of oak refinement.",
+    "category": "charcuterie"
+   },
+   {
+    "item": "Persian saffron rice tahdig, crispy bottom, with barberries",
+    "reason": "Caramelized crust and tart jewels mirror honey and dried fruit.",
+    "category": "comfort"
+   },
+   {
+    "item": "Aged Sauternes-soaked Roquefort, room temperature, crumbled",
+    "reason": "Blue mold's leather funk meets fig sweetness in Grande Champagne.",
+    "deepCut": true,
+    "category": "cheese"
+   }
+  ],
+  "display": "Delamain Tr\u00e8s V\u00e9n\u00e9rable",
+  "slug": "delamain-tr-s-v-n-rable"
+ },
+ {
+  "id": "c82e9ad6-5c8f-45ff-bb87-99dc84740c97",
+  "name": "Don Julio \u00daltima Reserva",
+  "distillery": "Don Julio",
+  "expression": "Extra A\u00f1ejo",
+  "proof": 80,
+  "age_years": null,
+  "region": "jalisco",
+  "category": "tequila",
+  "flavors": [
+   "caramel",
+   "vanilla",
+   "oak",
+   "baking_spice",
+   "dried_fruit"
+  ],
+  "body": 4,
+  "sweetness": 4,
+  "char_level": 3,
+  "price_usd_cents": null,
+  "popularity_tier": 5,
+  "description": "Ultra-premium extra a\u00f1ejo aged in unique cask finishes, part of Don Julio's limited reserve collection with rotating annual releases.",
+  "pairings_with_reasons": [
+   {
+    "item": "Grilled ribeye with coffee rub",
+    "reason": "Oak-aged richness stands up to char and umami depth.",
+    "category": "steak"
+   },
+   {
+    "item": "Dulce de leche flan",
+    "reason": "Caramel and vanilla notes mirror the creamy custard sweetness.",
+    "category": "dessert"
+   },
+   {
+    "item": "Dark roast espresso",
+    "reason": "Baking spice and dried fruit complement bold roasted coffee notes.",
+    "category": "coffee"
+   }
+  ],
+  "display": "Don Julio \u00daltima Reserva",
+  "slug": "don-julio-ltima-reserva"
+ },
+ {
+  "id": "e071c06c-ede3-4717-99e8-f3ccf07d873e",
+  "name": "Eagle Rare",
+  "distillery": "Buffalo Trace",
+  "expression": "Eagle Rare 10 Year",
+  "proof": 90,
+  "age_years": 10,
+  "region": "Kentucky",
+  "category": "bourbon",
+  "flavors": [
+   "leather",
+   "honey",
+   "oak",
+   "dark_fruit"
+  ],
+  "body": 4,
+  "sweetness": 3,
+  "char_level": 3,
+  "price_usd_cents": 4999,
+  "popularity_tier": 5,
+  "description": "Age-stated bourbon with leather, dried fruit, and honey.",
+  "pairings_with_reasons": [
+   {
+    "item": "Dry-aged duck breast, rendered crispy, cherry gastrique",
+    "reason": "Dark fruit meets duck fat, honey bridges the tart cherry.",
+    "category": "poultry"
+   },
+   {
+    "item": "Aged Manchego with membrillo and Marcona almonds",
+    "reason": "Leather tannins grip the sheep's milk, honey echoes quince.",
+    "category": "cheese"
+   },
+   {
+    "item": "Sichuan twice-cooked pork belly, numbing peppercorn crust",
+    "reason": "Oak tames ma la heat, honey soothes the numbing burn.",
+    "deepCut": true,
+    "category": "bbq"
+   }
+  ],
+  "display": "Buffalo Trace Eagle Rare",
+  "slug": "buffalo-trace-eagle-rare"
+ },
+ {
+  "id": "e82fe557-28ca-4043-845e-6aec6acdb6fe",
+  "name": "El Dorado",
+  "distillery": "Demerara Diamond",
+  "expression": "21 Year",
+  "proof": 86,
+  "age_years": 21,
+  "region": "guyana",
+  "category": "rum",
+  "flavors": [
+   "tobacco",
+   "leather",
+   "tropical_fruit",
+   "molasses",
+   "dried_fruit"
+  ],
+  "body": 4,
+  "sweetness": 4,
+  "char_level": 3,
+  "price_usd_cents": null,
+  "popularity_tier": 5,
+  "description": "Premium aged expression showcasing the best of Diamond's heritage stills, complex with tobacco, leather, and tropical fruit.",
+  "pairings_with_reasons": [
+   {
+    "item": "Davidoff Nicaragua Toro, halfway smoked, post-dinner",
+    "reason": "Tobacco and leather notes mirror the wrapper's earthy sweetness perfectly.",
+    "category": "cigar"
+   },
+   {
+    "item": "Filipino lechon kawali, crispy pork belly with vinegar dipping sauce",
+    "reason": "Molasses and tropical fruit cut through the fatty crackle beautifully.",
+    "category": "meat"
+   },
+   {
+    "item": "Turkish kahve with cardamom, muddy bottom sip, no sugar",
+    "reason": "Dried fruit and complex bitterness dance through the rum's oak.",
+    "deepCut": true,
+    "category": "coffee"
+   }
+  ],
+  "display": "Demerara Diamond El Dorado",
+  "slug": "demerara-diamond-el-dorado"
+ },
+ {
+  "id": "de787f74-e749-44df-a555-27efb18316bd",
+  "name": "Elijah Craig Small Batch",
+  "distillery": "Heaven Hill",
+  "expression": "Elijah Craig Small Batch",
+  "proof": 94,
+  "age_years": null,
+  "region": "Kentucky",
+  "category": "bourbon",
+  "flavors": [
+   "caramel",
+   "vanilla",
+   "toffee",
+   "oak"
+  ],
+  "body": 4,
+  "sweetness": 4,
+  "char_level": 3,
+  "price_usd_cents": 3499,
+  "popularity_tier": 5,
+  "description": "Classic charred-oak bourbon. Toffee-forward.",
+  "pairings_with_reasons": [
+   {
+    "item": "Korean tteokbokki, gochujang-glazed, fish cake ribbons",
+    "reason": "Toffee sweetness tames gochujang heat, oak steadies chewy rice.",
+    "deepCut": true,
+    "category": "snack"
+   },
+   {
+    "item": "Aged Mimolette, 18-month, crystalline crumble with honeycomb",
+    "reason": "Caramel notes mirror the cheese's butterscotch funk perfectly.",
+    "category": "cheese"
+   },
+   {
+    "item": "Brown-butter pecan pie, day-old, cold from fridge",
+    "reason": "Charred oak amplifies toasted pecan, vanilla echoes custard's richness.",
+    "category": "dessert"
+   }
+  ],
+  "display": "Heaven Hill Elijah Craig Small Batch",
+  "slug": "heaven-hill-elijah-craig-small-batch"
+ },
+ {
+  "id": "165e5019-8508-4813-8084-f60b0dc2c233",
+  "name": "Family Estate Single Barrel 12 Year",
+  "distillery": "Willett",
+  "expression": "Family Estate Single Barrel 12 Year",
+  "proof": 110,
+  "age_years": 12,
+  "region": "kentucky",
+  "category": "bourbon",
+  "flavors": [
+   "caramel",
+   "oak",
+   "dried_fruit",
+   "baking_spice",
+   "leather"
+  ],
+  "body": 4,
+  "sweetness": 3,
+  "char_level": 4,
+  "price_usd_cents": null,
+  "popularity_tier": 5,
+  "description": null,
+  "pairings_with_reasons": [
+   {
+    "item": "Padron 1964 Anniversary Natural robusto, mid-smoke",
+    "reason": "Leather and baking spice mirror the twelve-year oak complexity.",
+    "category": "cigar"
+   },
+   {
+    "item": "Iranian barberries stewed with saffron rice, crisp tahdig",
+    "reason": "Dried fruit notes bloom against tart berries and caramelized crust.",
+    "deepCut": true,
+    "category": "vegetarian"
+   },
+   {
+    "item": "Aged Gouda wafer, three-year minimum, room temperature shard",
+    "reason": "Crystalline crunch meets caramel, both built by patient time.",
+    "category": "cheese"
+   }
+  ],
+  "display": "Willett Family Estate Single Barrel 12 Year",
+  "slug": "willett-family-estate-single-barrel-12-year"
+ },
+ {
+  "id": "60b979a2-ddb5-4a86-96ef-d1f175634276",
+  "name": "Flor de Ca\u00f1a 30 Year Old",
+  "distillery": "Flor de Ca\u00f1a",
+  "expression": "30 Year Old",
+  "proof": 80,
+  "age_years": 30,
+  "region": "nicaragua",
+  "category": "rum",
+  "flavors": [
+   "caramel",
+   "dried_fruit",
+   "oak",
+   "vanilla",
+   "baking_spice"
+  ],
+  "body": 4,
+  "sweetness": 3,
+  "char_level": 3,
+  "price_usd_cents": null,
+  "popularity_tier": 5,
+  "description": "Ultra-premium expression aged for three decades in ex-bourbon barrels. Limited release showcasing Flor de Ca\u00f1a's commitment to extended aging.",
+  "pairings_with_reasons": [
+   {
+    "item": "Caramelized pineapple upside-down cake, warm from cast iron",
+    "reason": "Tropical fruit mirrors three decades of slow oak caramelization.",
+    "category": "dessert"
+   },
+   {
+    "item": "Pan-seared foie gras with fig compote, salt flake",
+    "reason": "Dried fruit and vanilla cut through rich liver's butter sweetness.",
+    "category": "meat"
+   },
+   {
+    "item": "Filipino leche flan with burnt sugar top, coconut cream drizzle",
+    "reason": "Silky custard echoes rum's vanilla while caramel meets caramel.",
+    "deepCut": true,
+    "category": "pairing"
+   }
+  ],
+  "display": "Flor de Ca\u00f1a 30 Year Old",
+  "slug": "flor-de-ca-a-30-year-old"
+ },
+ {
+  "id": "50ec017e-9440-4c99-bbc7-0cbae2318ab7",
+  "name": "Four Roses",
+  "distillery": "Four Roses",
+  "expression": "Four Roses Single Barrel",
+  "proof": 100,
+  "age_years": null,
+  "region": "Kentucky",
+  "category": "bourbon",
+  "flavors": [
+   "cherry",
+   "rye_spice",
+   "cocoa",
+   "cinnamon"
+  ],
+  "body": 4,
+  "sweetness": 3,
+  "char_level": 3,
+  "price_usd_cents": 5999,
+  "popularity_tier": 5,
+  "description": "High-rye single barrel. Bright cherry, dusty cocoa, rye bite.",
+  "pairings_with_reasons": [
+   {
+    "item": "Dry-aged duck breast, medium-rare, cherry gastrique",
+    "reason": "Rye spice cuts fat, cherry notes echo the gastrique beautifully.",
+    "category": "poultry"
+   },
+   {
+    "item": "Manchego aged 18 months, quince paste, Marcona almonds",
+    "reason": "Dusty cocoa mirrors nutty manchego, cinnamon warms the quince.",
+    "category": "cheese"
+   },
+   {
+    "item": "Korean tteokbokki with gochugaru, fish cake, sesame oil",
+    "reason": "High-proof cuts chewy rice cake sweetness, rye matches gochugaru heat.",
+    "deepCut": true,
+    "category": "snack"
+   }
+  ],
+  "display": "Four Roses",
+  "slug": "four-roses"
+ },
+ {
+  "id": "8c9900d7-255b-4144-8179-06993638094f",
+  "name": "Four Roses Limited Edition Small Batch",
+  "distillery": "Four Roses",
+  "expression": "Limited Edition Small Batch 2017",
+  "proof": 110.2,
+  "age_years": null,
+  "region": "kentucky",
+  "category": "bourbon",
+  "flavors": [
+   "caramel",
+   "baking_spice",
+   "cherry",
+   "vanilla",
+   "oak"
+  ],
+  "body": 4,
+  "sweetness": 3,
+  "char_level": 3,
+  "price_usd_cents": null,
+  "popularity_tier": 5,
+  "description": "Annual limited edition small batch release from 2017, blending select barrels from Four Roses' ten bourbon recipes.",
+  "pairings_with_reasons": [
+   {
+    "item": "Dry-aged duck breast, cherry gastrique, served medium-rare",
+    "reason": "Cherry and baking spice echo the gastrique's sweet-tart depth perfectly.",
+    "category": "poultry"
+   },
+   {
+    "item": "Valrhona Dulcey blondie with toasted pecans, warm from oven",
+    "reason": "Caramelized blonde chocolate mirrors the bourbon's butterscotch and vanilla notes.",
+    "category": "dessert"
+   },
+   {
+    "item": "Korean tteokbokki with gochujang glaze, extra fishcake, piping hot",
+    "reason": "Gochujang's sweet heat plays against proof while caramel meets chewy rice.",
+    "deepCut": true,
+    "category": "comfort"
+   }
+  ],
+  "display": "Four Roses Limited Edition Small Batch",
+  "slug": "four-roses-limited-edition-small-batch"
+ },
+ {
+  "id": "ba59dba1-7f3e-4b50-abdd-b388cf01dfe3",
+  "name": "Four Roses Single Barrel Pick",
+  "distillery": "Binny's",
+  "expression": "Four Roses Single Barrel",
+  "proof": 100,
+  "age_years": null,
+  "region": "Kentucky",
+  "category": "bourbon",
+  "flavors": [
+   "cherry",
+   "rye_spice",
+   "oak",
+   "floral",
+   "black_pepper"
+  ],
+  "body": 3,
+  "sweetness": 2,
+  "char_level": 3,
+  "price_usd_cents": null,
+  "popularity_tier": 5,
+  "description": "Spicy, fruit-forward bourbon with floral notes. Dark cherry, oak char, and peppery finish.",
+  "pairings_with_reasons": [
+   {
+    "item": "Sichuan dry-fried green beans with minced pork, Sichuan peppercorns",
+    "reason": "Floral notes mirror the numbing spice, black pepper amplifies heat.",
+    "deepCut": true,
+    "category": "vegetarian"
+   },
+   {
+    "item": "Five-year Manchego, room temp, drizzled with aged Pedro Xim\u00e9nez",
+    "reason": "Cherry sweetness cuts crystallized sharpness, rye spice bridges nutty funk.",
+    "category": "cheese"
+   },
+   {
+    "item": "Duck confit hash with crispy potatoes, fried sage leaves",
+    "reason": "Oak char matches crisped fat, floral bourbon lifts savory richness.",
+    "category": "breakfast"
+   }
+  ],
+  "display": "Binny's Four Roses Single Barrel Pick",
+  "slug": "binny-s-four-roses-single-barrel-pick"
+ },
+ {
+  "id": "acd68de0-fff4-4ad8-a97c-ac858be0e5a1",
+  "name": "Foursquare 2007",
+  "distillery": "Foursquare",
+  "expression": "2007",
+  "proof": 120,
+  "age_years": 12,
+  "region": "barbados",
+  "category": "rum",
+  "flavors": [
+   "molasses",
+   "tropical_fruit",
+   "baking_spice",
+   "oak",
+   "toffee"
+  ],
+  "body": 4,
+  "sweetness": 3,
+  "char_level": 3,
+  "price_usd_cents": null,
+  "popularity_tier": 5,
+  "description": "A single vintage release from the 2007 distillation, part of the Exceptional Cask series.",
+  "pairings_with_reasons": [
+   {
+    "item": "Filipino lechon kawali, crisp pork belly with palm vinegar dip",
+    "reason": "Molasses-driven rum amplifies caramelized pork fat, toffee mirrors char.",
+    "category": "meat"
+   },
+   {
+    "item": "Aged Comt\u00e9 extra, 24-month, room temp with toasted walnut",
+    "reason": "Nutty crystals dissolve into baking spice, tropical fruit cuts salt.",
+    "category": "cheese"
+   },
+   {
+    "item": "Taiwanese pineapple cake, Su-style with salted egg yolk",
+    "reason": "Oak tannins tame jam sweetness, yolk's fat softens proof.",
+    "deepCut": true,
+    "category": "dessert"
+   }
+  ],
+  "display": "Foursquare 2007",
+  "slug": "foursquare-2007"
+ },
+ {
+  "id": "aacd7f53-df75-4b74-aca0-4e6b095227ff",
+  "name": "Foursquare 2009",
+  "distillery": "Foursquare",
+  "expression": "2009",
+  "proof": 120,
+  "age_years": 11,
+  "region": "barbados",
+  "category": "rum",
+  "flavors": [
+   "molasses",
+   "tropical_fruit",
+   "baking_spice",
+   "oak",
+   "toffee"
+  ],
+  "body": 4,
+  "sweetness": 3,
+  "char_level": 3,
+  "price_usd_cents": null,
+  "popularity_tier": 5,
+  "description": "A single vintage release from the 2009 distillation, showcasing Foursquare's aging program.",
+  "pairings_with_reasons": [
+   {
+    "item": "Slow-roasted Berkshire pork belly, crackling intact, five-spice rub",
+    "reason": "Toffee and baking spice echo the caramelized crust beautifully.",
+    "category": "meat"
+   },
+   {
+    "item": "Sticky toffee pudding, still-warm Medjool dates, clotted cream",
+    "reason": "Molasses and oak mirror the pudding's deep, buttery caramel.",
+    "category": "dessert"
+   },
+   {
+    "item": "Filipino lechon kawali with atchara papaya slaw, palm vinegar drizzle",
+    "reason": "Tropical fruit cuts the proof while toffee amplifies crispy pork.",
+    "deepCut": true,
+    "category": "bbq"
+   }
+  ],
+  "display": "Foursquare 2009",
+  "slug": "foursquare-2009"
+ },
+ {
+  "id": "78863e6d-433e-46a8-b02e-2dbc00e5457f",
+  "name": "Foursquare Exceptional Cask 2024 Polysyllabic",
+  "distillery": "Foursquare",
+  "expression": "Exceptional Cask Yearly 2024 Polysyllabic",
+  "proof": 120,
+  "age_years": 14,
+  "region": "barbados",
+  "category": "rum",
+  "flavors": [
+   "tropical_fruit",
+   "molasses",
+   "toffee",
+   "baking_spice",
+   "oak"
+  ],
+  "body": 4,
+  "sweetness": 3,
+  "char_level": 2,
+  "price_usd_cents": null,
+  "popularity_tier": 5,
+  "description": "The 2024 Exceptional Cask Series release, a 14-year-old blend of pot and column still rums aged in ex-bourbon casks.",
+  "pairings_with_reasons": [
+   {
+    "item": "Jerk chicken with charred pineapple",
+    "reason": "Tropical spice mirrors the rum's island heat and fruit.",
+    "category": "poultry"
+   },
+   {
+    "item": "Sticky toffee pudding",
+    "reason": "Molasses and toffee notes echo in caramelized date sweetness.",
+    "category": "dessert"
+   },
+   {
+    "item": "Aged Jamaican blue mountain coffee",
+    "reason": "Barrel-aged complexity meets high-altitude roast depth perfectly.",
+    "category": "coffee"
+   }
+  ],
+  "display": "Foursquare Exceptional Cask 2024 Polysyllabic",
+  "slug": "foursquare-exceptional-cask-2024-polysyllabic"
+ },
+ {
+  "id": "9c7281c6-73aa-4e61-81ae-cb11eab100db",
+  "name": "Generations",
+  "distillery": "Wild Turkey",
+  "expression": "Generations",
+  "proof": 108.4,
+  "age_years": 15,
+  "region": "kentucky",
+  "category": "bourbon",
+  "flavors": [
+   "caramel",
+   "dark_fruit",
+   "baking_spice",
+   "leather",
+   "oak"
+  ],
+  "body": 5,
+  "sweetness": 3,
+  "char_level": 4,
+  "price_usd_cents": null,
+  "popularity_tier": 5,
+  "description": null,
+  "pairings_with_reasons": [
+   {
+    "item": "Cantonese char siu pork, caramelized edges, warm mustard",
+    "reason": "Dark fruit and baking spice mirror five-spice lacquered crust beautifully.",
+    "deepCut": true,
+    "category": "bbq"
+   },
+   {
+    "item": "Comt\u00e9 cheese aged 24 months, crystalline texture, honeycomb side",
+    "reason": "Leather and oak meet alpine nutty funk, proof cuts sweetness.",
+    "category": "cheese"
+   },
+   {
+    "item": "Partag\u00e1s Serie D No. 4, box-pressed robusto",
+    "reason": "Fifteen years demands tobacco with time; caramel softens earth.",
+    "category": "cigar"
+   }
+  ],
+  "display": "Wild Turkey Generations",
+  "slug": "wild-turkey-generations"
+ },
+ {
+  "id": "cd0825d5-dddf-40b6-92cf-1873f72a11f0",
+  "name": "George T. Stagg 2015",
+  "distillery": "George T. Stagg Yearly",
+  "expression": "2015",
+  "proof": 129.2,
+  "age_years": 15,
+  "region": "kentucky",
+  "category": "bourbon",
+  "flavors": [
+   "caramel",
+   "dark_chocolate",
+   "leather",
+   "dried_fruit",
+   "baking_spice"
+  ],
+  "body": 5,
+  "sweetness": 3,
+  "char_level": 4,
+  "price_usd_cents": null,
+  "popularity_tier": 5,
+  "description": "Part of the Buffalo Trace Antique Collection, this uncut and unfiltered bourbon is aged in Warehouse H and released annually at barrel proof.",
+  "pairings_with_reasons": [
+   {
+    "item": "Sichuan dry-aged beef, cumin-crusted, still sizzling",
+    "reason": "Ma la heat and numbing spice amplify leather and baking spice.",
+    "category": "meat"
+   },
+   {
+    "item": "Aged Manchego with membrillo and Marcona almonds",
+    "reason": "Caramel notes mirror quince sweetness, fifteen years meet Spanish patience.",
+    "category": "cheese"
+   },
+   {
+    "item": "Vietnamese c\u00e0 ph\u00ea s\u1eefa \u0111\u00e1 over hand-crushed ice",
+    "reason": "Condensed milk tames barrel proof, dried fruit echoes robusta char.",
+    "deepCut": true,
+    "category": "drink"
+   }
+  ],
+  "display": "George T. Stagg Yearly George T. Stagg 2015",
+  "slug": "george-t-stagg-yearly-george-t-stagg-2015"
+ },
+ {
+  "id": "12de4c32-adfd-4db9-be58-41397bbc02d1",
+  "name": "George T. Stagg 2016",
+  "distillery": "George T. Stagg Yearly",
+  "expression": "2016",
+  "proof": 132.2,
+  "age_years": 15,
+  "region": "kentucky",
+  "category": "bourbon",
+  "flavors": [
+   "caramel",
+   "dark_chocolate",
+   "leather",
+   "baking_spice",
+   "dried_fruit"
+  ],
+  "body": 5,
+  "sweetness": 3,
+  "char_level": 4,
+  "price_usd_cents": null,
+  "popularity_tier": 5,
+  "description": "Part of the Buffalo Trace Antique Collection, this uncut and unfiltered bourbon is aged in Warehouse H and released annually at barrel proof.",
+  "pairings_with_reasons": [
+   {
+    "item": "Sichuan twice-cooked pork belly, crisp edges, cumin-forward",
+    "reason": "Caramel and baking spice cut through numbing oil, leather grounds heat.",
+    "deepCut": true,
+    "category": "meat"
+   },
+   {
+    "item": "Valrhona Dulcey blondie, browned butter, warm from oven",
+    "reason": "Barrel char meets blonde caramel, dried fruit echoes toffee sweetness.",
+    "category": "dessert"
+   },
+   {
+    "item": "Aged Gouda, five-year Reypenaer, crystalline shards, room temperature",
+    "reason": "Tyrosine crunch mirrors proof bite, caramel notes thread through umami.",
+    "category": "cheese"
+   }
+  ],
+  "display": "George T. Stagg Yearly George T. Stagg 2016",
+  "slug": "george-t-stagg-yearly-george-t-stagg-2016"
+ },
+ {
+  "id": "e3fd2991-36b4-43e9-8a9f-59af155dddbe",
+  "name": "Glenmorangie 25 Year Old",
+  "distillery": "Glenmorangie",
+  "expression": "25 Year Old",
+  "proof": 86,
+  "age_years": 25,
+  "region": "highlands",
+  "category": "scotch_single_malt",
+  "flavors": [
+   "honey",
+   "dried_fruit",
+   "toffee",
+   "vanilla",
+   "orange_peel"
+  ],
+  "body": 4,
+  "sweetness": 4,
+  "char_level": 3,
+  "price_usd_cents": null,
+  "popularity_tier": 5,
+  "description": "Ultra-premium age-statement expression matured in American oak and European oak casks.",
+  "pairings_with_reasons": [
+   {
+    "item": "Pan-seared foie gras, chilled Sauternes reduction, fleur de sel",
+    "reason": "Honey and toffee cradle foie's richness, orange brightens fat.",
+    "category": "appetizer"
+   },
+   {
+    "item": "Aged Comt\u00e9 from Jura, 36-month, room temp with honeycomb",
+    "reason": "Crystalline umami meets dried fruit sweetness, vanilla softens nuttiness.",
+    "category": "cheese"
+   },
+   {
+    "item": "Persian saffron rice tahdig, crispy bottom, with barberries",
+    "reason": "Caramelized crust echoes toffee, dried barberries mirror orange peel.",
+    "deepCut": true,
+    "category": "pairing"
+   }
+  ],
+  "display": "Glenmorangie 25 Year Old",
+  "slug": "glenmorangie-25-year-old"
+ },
+ {
+  "id": "21bb8370-2b4b-4a47-b555-92ddb4ade9ae",
+  "name": "Grand Marnier Cuv\u00e9e du Cent Cinquantenaire",
+  "distillery": "Grand Marnier",
+  "expression": "Cuv\u00e9e du Cent Cinquantenaire",
+  "proof": 80,
+  "age_years": 25,
+  "region": null,
+  "category": "other",
+  "flavors": [
+   "orange_peel",
+   "caramel",
+   "dried_fruit",
+   "honey",
+   "vanilla"
+  ],
+  "body": 4,
+  "sweetness": 4,
+  "char_level": 2,
+  "price_usd_cents": null,
+  "popularity_tier": 5,
+  "description": "A prestigious limited edition celebrating 150 years, blending extra-aged Cognacs with rare orange essences in a crystal decanter.",
+  "pairings_with_reasons": [
+   {
+    "item": "Duck confit with orange gastrique, crispy skin intact",
+    "reason": "Twenty-five-year Cognac base amplifies caramelized duck fat and citrus lacquer.",
+    "category": "poultry"
+   },
+   {
+    "item": "Aged Comt\u00e9 cheese, 24-month, paired with candied orange peel",
+    "reason": "Crystalline sweetness mirrors honey and dried fruit, nutty crystals echo oak.",
+    "category": "cheese"
+   },
+   {
+    "item": "Turkish revani semolina cake, orange blossom syrup, warm",
+    "reason": "Rare orange essences find their twin in Ottoman citrus-soaked semolina.",
+    "deepCut": true,
+    "category": "dessert"
+   }
+  ],
+  "display": "Grand Marnier Cuv\u00e9e du Cent Cinquantenaire",
+  "slug": "grand-marnier-cuv-e-du-cent-cinquantenaire"
+ },
+ {
+  "id": "9d3ac63d-71d8-4f54-8de9-ba57bf134b38",
+  "name": "Hakushu 18 Year Old",
+  "distillery": "Hakushu",
+  "expression": "18 Year Old",
+  "proof": 86,
+  "age_years": 18,
+  "region": "Southern Japan",
+  "category": "japanese",
+  "flavors": [
+   "honey",
+   "oak",
+   "peat_smoke",
+   "orchard_fruit"
+  ],
+  "body": 3,
+  "sweetness": 3,
+  "char_level": 2,
+  "price_usd_cents": null,
+  "popularity_tier": 5,
+  "description": "Complex mountain whisky with deeper oak integration and refined peat. Honey, orchard fruit, soft smoke, and mineral notes.",
+  "pairings_with_reasons": [
+   {
+    "item": "Wild mackerel sashimi, \u014dshima-shio cured, morning-caught",
+    "reason": "Mineral whisky meets ocean brine, orchard fruit cuts oiliness.",
+    "deepCut": true,
+    "category": "seafood"
+   },
+   {
+    "item": "Aged Comt\u00e9 fort, 36-month cave-aged, room temp with buckwheat honey",
+    "reason": "Crystalline texture mirrors oak tannins, honey echoes honey notes.",
+    "category": "cheese"
+   },
+   {
+    "item": "Padron peppers, blistered in Asturian cider, flaked salt",
+    "reason": "Char meets soft peat, fruit sweetness tames capsaicin heat.",
+    "category": "appetizer"
+   }
+  ],
+  "display": "Hakushu 18 Year Old",
+  "slug": "hakushu-18-year-old"
+ },
+ {
+  "id": "6c01618f-4f00-4c1d-9682-398261483dc8",
+  "name": "Hakushu 18 Year Old",
+  "distillery": "Suntory Whisky",
+  "expression": "18 Year Old",
+  "proof": 86,
+  "age_years": 18,
+  "region": "japan",
+  "category": "japanese",
+  "flavors": [
+   "apple",
+   "peat_smoke",
+   "grass",
+   "honey",
+   "mint"
+  ],
+  "body": 3,
+  "sweetness": 2,
+  "char_level": 2,
+  "price_usd_cents": null,
+  "popularity_tier": 5,
+  "description": "A rare, elegant single malt with refined smoke, green apple, and subtle peat notes aged in various cask types.",
+  "pairings_with_reasons": [
+   {
+    "item": "Pressed Kyoto-style mackerel sushi, room temperature, no soy",
+    "reason": "Grass and mint amplify vinegar rice, smoke echoes cured fish.",
+    "deepCut": true,
+    "category": "seafood"
+   },
+   {
+    "item": "Aged Comt\u00e9 24-month with honeycomb shards and apple",
+    "reason": "Crystalline nuttiness mirrors honey sweetness, apple tags loop back home.",
+    "category": "cheese"
+   },
+   {
+    "item": "Padron peppers, charred blistered skin, Maldon salt finish",
+    "reason": "Peat smoke loves char, mint cuts heat, green apple balances.",
+    "category": "appetizer"
+   }
+  ],
+  "display": "Suntory Whisky Hakushu 18 Year Old",
+  "slug": "suntory-whisky-hakushu-18-year-old"
+ },
+ {
+  "id": "f01aec45-0a3c-47ca-9540-6041af7e03bd",
+  "name": "Hakushu 25 Year Old",
+  "distillery": "Hakushu",
+  "expression": "25 Year Old",
+  "proof": 86,
+  "age_years": 25,
+  "region": "Southern Japan",
+  "category": "japanese",
+  "flavors": [
+   "dried_fruit",
+   "oak",
+   "caramel",
+   "nuts",
+   "peat_smoke"
+  ],
+  "body": 4,
+  "sweetness": 3,
+  "char_level": 2,
+  "price_usd_cents": null,
+  "popularity_tier": 5,
+  "description": "Aged mountain single malt with rich oak and subtle peat. Dried fruit, caramel, walnut, and elegant smoke intertwine.",
+  "pairings_with_reasons": [
+   {
+    "item": "Dry-aged duck breast, medium-rare, with sansho pepper crust",
+    "reason": "Game richness echoes walnut depth, peat smoke cuts fatty umami.",
+    "category": "poultry"
+   },
+   {
+    "item": "Room-temperature Comt\u00e9 36-month with dried apricot and walnut conserva",
+    "reason": "Crystalline nuttiness mirrors aged oak, fruit sweetness balances elegant smoke.",
+    "category": "cheese"
+   },
+   {
+    "item": "Korean doenjang-jjigae with wild mushrooms, black sesame, clay-pot bubbling",
+    "reason": "Fermented soybean earthiness dances with 25 years of mountain terroir.",
+    "deepCut": true,
+    "category": "comfort"
+   }
+  ],
+  "display": "Hakushu 25 Year Old",
+  "slug": "hakushu-25-year-old"
+ },
+ {
+  "id": "8387eee8-fe8a-4285-8d17-bc790b3042b7",
+  "name": "Hazelburn 21 Year Old",
+  "distillery": "Hazelburn",
+  "expression": "21 Year Old",
+  "proof": 92.2,
+  "age_years": 21,
+  "region": "campbeltown",
+  "category": "scotch_single_malt",
+  "flavors": [
+   "dried_fruit",
+   "sherry",
+   "baking_spice",
+   "toffee",
+   "oak"
+  ],
+  "body": 4,
+  "sweetness": 3,
+  "char_level": 3,
+  "price_usd_cents": null,
+  "popularity_tier": 5,
+  "description": "Flagship aged expression of triple distilled Hazelburn, showcasing deep maturity with layered fruit, spice, and refined oak influence.",
+  "pairings_with_reasons": [
+   {
+    "item": "Roasted duck breast with cherry reduction",
+    "reason": "Rich dried fruit notes echo the sweet-tart cherry glaze beautifully.",
+    "category": "poultry"
+   },
+   {
+    "item": "Aged Manchego cheese",
+    "reason": "Nutty sheep's milk complexity mirrors the whisky's deep oak maturity.",
+    "category": "cheese"
+   },
+   {
+    "item": "Espresso with orange zest",
+    "reason": "Triple distillation's refinement complements bright citrus and roasted depth.",
+    "category": "coffee"
+   }
+  ],
+  "display": "Hazelburn 21 Year Old",
+  "slug": "hazelburn-21-year-old"
+ },
+ {
+  "id": "d078fc4f-5191-482a-994c-3872a48915d9",
+  "name": "Hibiki 17 Year Old",
+  "distillery": "Suntory Whisky",
+  "expression": "17 Year Old",
+  "proof": 86,
+  "age_years": 17,
+  "region": "japan",
+  "category": "japanese",
+  "flavors": [
+   "honey",
+   "dried_fruit",
+   "floral",
+   "orange_peel",
+   "vanilla"
+  ],
+  "body": 3,
+  "sweetness": 3,
+  "char_level": 2,
+  "price_usd_cents": null,
+  "popularity_tier": 5,
+  "description": "A highly sought-after age-stated blend combining components from Yamazaki, Hakushu, and Chita with elegant complexity.",
+  "pairings_with_reasons": [
+   {
+    "item": "Uni nigiri with yuzu zest and Hokkaido sea salt",
+    "reason": "Orange peel and honey mirror sweet brine, floral notes lift umami.",
+    "deepCut": true,
+    "category": "seafood"
+   },
+   {
+    "item": "Aged Comt\u00e9 36-month with honeycomb and toasted walnut",
+    "reason": "Crystalline texture meets dried fruit, vanilla echoes nutty caramel depth.",
+    "category": "cheese"
+   },
+   {
+    "item": "Osmanthus jelly with candied kumquat and puffed rice",
+    "reason": "Floral whisky meets floral dessert, citrus peel amplifies orange harmony.",
+    "category": "dessert"
+   }
+  ],
+  "display": "Suntory Whisky Hibiki 17 Year Old",
+  "slug": "suntory-whisky-hibiki-17-year-old"
+ },
+ {
+  "id": "90e7acb6-b0b3-4e7a-aeb6-2995418cdc99",
+  "name": "Hibiki 21 Year Old",
+  "distillery": "Hibiki",
+  "expression": "21 Year Old",
+  "proof": 86,
+  "age_years": 21,
+  "region": "Japan",
+  "category": "japanese",
+  "flavors": [
+   "sherry",
+   "dried_fruit",
+   "oak",
+   "toffee",
+   "chocolate"
+  ],
+  "body": 4,
+  "sweetness": 3,
+  "char_level": 2,
+  "price_usd_cents": null,
+  "popularity_tier": 5,
+  "description": "Two decades of maturation deliver deep complexity with sherry influence, dried stone fruit, and polished oak. Smooth, sophisticated finish.",
+  "pairings_with_reasons": [
+   {
+    "item": "Sichuan mapo tofu with fermented black beans, numbing heat",
+    "reason": "Sherry sweetness tames ma la, toffee echoes fermented umami.",
+    "deepCut": true,
+    "category": "vegetarian"
+   },
+   {
+    "item": "Aged Mimolette, 18-month, crystalline crunch with honeycomb",
+    "reason": "Dried fruit mirrors caramelized curds, oak balances nutty salinity.",
+    "category": "cheese"
+   },
+   {
+    "item": "Spanish jam\u00f3n ib\u00e9rico de bellota, hand-carved, room temperature",
+    "reason": "Acorn-fed richness meets sherry cask, stone fruit cuts clean fat.",
+    "category": "charcuterie"
+   }
+  ],
+  "display": "Hibiki 21 Year Old",
+  "slug": "hibiki-21-year-old"
+ },
+ {
+  "id": "c44db371-91dd-40b9-a2e7-d2ed1bc6cedf",
+  "name": "Hibiki 30 Year Old",
+  "distillery": "Suntory Whisky",
+  "expression": "30 Year Old",
+  "proof": 86,
+  "age_years": 30,
+  "region": "japan",
+  "category": "japanese",
+  "flavors": [
+   "dried_fruit",
+   "honey",
+   "sherry"
+  ],
+  "body": 4,
+  "sweetness": 4,
+  "char_level": 2,
+  "price_usd_cents": null,
+  "popularity_tier": 5,
+  "description": "The pinnacle of Suntory's blending craft, an extremely rare and expensive blend of the finest aged components.",
+  "pairings_with_reasons": [
+   {
+    "item": "A5 Wagyu with ponzu reduction",
+    "reason": "Luxurious marbling mirrors the whisky's silken dried fruit opulence.",
+    "category": "meat"
+   },
+   {
+    "item": "Aged Comt\u00e9 with chestnut honey",
+    "reason": "Nutty crystalline cheese echoes three decades of sherry cask evolution.",
+    "category": "cheese"
+   },
+   {
+    "item": "Single-origin Ethiopian coffee ceremony",
+    "reason": "Floral jasmine notes dance alongside the blend's incense-like complexity.",
+    "category": "coffee"
+   }
+  ],
+  "display": "Suntory Whisky Hibiki 30 Year Old",
+  "slug": "suntory-whisky-hibiki-30-year-old"
+ },
+ {
+  "id": "0b799758-51bf-45f8-8a7d-a4d79963e2fb",
+  "name": "Hibiki 30 Year Old",
+  "distillery": "Hibiki",
+  "expression": "30 Year Old",
+  "proof": 86,
+  "age_years": 30,
+  "region": "Japan",
+  "category": "japanese",
+  "flavors": [
+   "honey",
+   "dark_chocolate",
+   "oak",
+   "dried_fruit",
+   "leather"
+  ],
+  "body": 4,
+  "sweetness": 2,
+  "char_level": 2,
+  "price_usd_cents": null,
+  "popularity_tier": 5,
+  "description": "Three decades in cask create a profound whisky with layered maturity. Honeyed oak, dark chocolate, and subtle spice define this rare expression.",
+  "pairings_with_reasons": [
+   {
+    "item": "Uni nigiri, brushed with aged soy, still cold",
+    "reason": "Ocean brine mirrors thirty years of oak-aged honeyed umami.",
+    "deepCut": true,
+    "category": "seafood"
+   },
+   {
+    "item": "Piedmontese hazelnut torta, room temp, no cream",
+    "reason": "Dried fruit and leather find their echo in roasted Langhe nuts.",
+    "category": "dessert"
+   },
+   {
+    "item": "Miyazaki A5 wagyu tataki, seared edge, ponzu mist",
+    "reason": "Marbled fat melts into honey notes, oak tannins cut richness.",
+    "category": "meat"
+   }
+  ],
+  "display": "Hibiki 30 Year Old",
+  "slug": "hibiki-30-year-old"
+ },
+ {
+  "id": "a44ff8be-545f-4165-ba25-02e593bceced",
+  "name": "Highland Park 18 Year Old",
+  "distillery": "Highland Park",
+  "expression": "18 Year Old",
+  "proof": 86,
+  "age_years": 18,
+  "region": "Highland",
+  "category": "scotch_single_malt",
+  "flavors": [
+   "peat_smoke",
+   "sherry",
+   "dried_fruit",
+   "toffee",
+   "tobacco"
+  ],
+  "body": 4,
+  "sweetness": 3,
+  "char_level": 3,
+  "price_usd_cents": null,
+  "popularity_tier": 5,
+  "description": "Sophisticated balance of peat, sherry oak, and dried orchard fruit. Toffee, tobacco notes, lingering smoke and spice.",
+  "pairings_with_reasons": [
+   {
+    "item": "Hot-smoked Orkney herring on oatcakes, room temp butter",
+    "reason": "Island smoke meets island smoke, toffee softens the brine.",
+    "category": "seafood"
+   },
+   {
+    "item": "Partag\u00e1s Serie D No.4, Cuban, post-dinner ritual",
+    "reason": "Tobacco notes mirror wrapper, sherry sweetness cuts earthiness cleanly.",
+    "category": "cigar"
+   },
+   {
+    "item": "Lamb tagine with prunes, apricots, cinnamon bark, saffron threads",
+    "reason": "Dried fruit echoes sherry cask, peat cuts sweet spice.",
+    "deepCut": true,
+    "category": "meat"
+   }
+  ],
+  "display": "Highland Park 18 Year Old",
+  "slug": "highland-park-18-year-old"
+ },
+ {
+  "id": "9cdcc791-28ab-4544-86e5-3a37ad4ae55c",
+  "name": "Highland Park 25 Year Old",
+  "distillery": "Highland Park",
+  "expression": "25 Year Old",
+  "proof": 86,
+  "age_years": 25,
+  "region": "Highland",
+  "category": "scotch_single_malt",
+  "flavors": [
+   "sherry",
+   "dried_fruit",
+   "leather",
+   "toffee",
+   "forest_floor"
+  ],
+  "body": 5,
+  "sweetness": 3,
+  "char_level": 2,
+  "price_usd_cents": null,
+  "popularity_tier": 5,
+  "description": "Luxurious maturity with integrated sherry, subtle peat, and dried stone fruit. Toffee, leather, forest floor complexity.",
+  "pairings_with_reasons": [
+   {
+    "item": "Room-temperature Ossau-Iraty with black cherry preserves",
+    "reason": "Sherry and toffee mirror sheep's milk sweetness, cherry echoes fruit.",
+    "category": "cheese"
+   },
+   {
+    "item": "Partag\u00e1s Serie D No. 4, half-smoked and rested",
+    "reason": "Leather and forest floor meet Cuban tobacco's earthy midpoint.",
+    "category": "cigar"
+   },
+   {
+    "item": "Persian fesenjan with duck, pomegranate molasses, walnut paste",
+    "reason": "Dried fruit and toffee dance with molasses tartness, nutty depth.",
+    "deepCut": true,
+    "category": "poultry"
+   }
+  ],
+  "display": "Highland Park 25 Year Old",
+  "slug": "highland-park-25-year-old"
+ },
+ {
+  "id": "1bb3a466-4c63-4470-a12f-e9dde59ed740",
+  "name": "Highland Park 40 Year Old",
+  "distillery": "Highland Park",
+  "expression": "40 Year Old",
+  "proof": 90.6,
+  "age_years": 40,
+  "region": "orkney",
+  "category": "scotch_single_malt",
+  "flavors": [
+   "sherry",
+   "dried_fruit",
+   "honey",
+   "oak",
+   "baking_spice"
+  ],
+  "body": 4,
+  "sweetness": 3,
+  "char_level": 2,
+  "price_usd_cents": null,
+  "popularity_tier": 5,
+  "description": "Ultra-premium aged expression showcasing exceptional cask maturation over four decades.",
+  "pairings_with_reasons": [
+   {
+    "item": "Duck breast with cherry gastrique",
+    "reason": "Dried fruit and sherry notes mirror the rich cherry reduction.",
+    "category": "poultry"
+   },
+   {
+    "item": "Aged Manchego",
+    "reason": "Forty years of maturation meets equally complex nutty sheep's milk.",
+    "category": "cheese"
+   },
+   {
+    "item": "Single-origin Ethiopian coffee",
+    "reason": "Highland honeyed sweetness complements natural floral coffee aromatics.",
+    "category": "coffee"
+   }
+  ],
+  "display": "Highland Park 40 Year Old",
+  "slug": "highland-park-40-year-old"
+ },
+ {
+  "id": "68e86e5e-639d-47e1-88f9-73d2bb7a2c70",
+  "name": "Highland Park 50 Year Old",
+  "distillery": "Highland Park",
+  "expression": "50 Year Old",
+  "proof": 88.4,
+  "age_years": 50,
+  "region": "orkney",
+  "category": "scotch_single_malt",
+  "flavors": [
+   "dried_fruit",
+   "sherry",
+   "dark_chocolate",
+   "honey",
+   "oak"
+  ],
+  "body": 5,
+  "sweetness": 4,
+  "char_level": 3,
+  "price_usd_cents": null,
+  "popularity_tier": 5,
+  "description": "Rare limited release representing five decades of maturation in exceptional sherry casks.",
+  "pairings_with_reasons": [
+   {
+    "item": "Persian saffron rice tahdig, crispy bottom layer, butter-soaked",
+    "reason": "Sherry sweetness meets caramelized rice crust, honey echoes saffron.",
+    "deepCut": true,
+    "category": "comfort"
+   },
+   {
+    "item": "5-year Parmigiano Reggiano, room temp, crumbled with aged balsamic",
+    "reason": "Crystalline umami mirrors oak tannins, dried fruit finds its match.",
+    "category": "cheese"
+   },
+   {
+    "item": "Valrhona Dulcey blondie with toasted hazelnuts, warm",
+    "reason": "Blonde chocolate's caramel notes dance with fifty years of sherry.",
+    "category": "dessert"
+   }
+  ],
+  "display": "Highland Park 50 Year Old",
+  "slug": "highland-park-50-year-old"
+ },
+ {
+  "id": "743c62d2-4384-4850-8d97-6ce6360708d8",
+  "name": "Jim Beam Black",
+  "distillery": "Jim Beam",
+  "expression": "Jim Beam Black Extra-Aged",
+  "proof": 86,
+  "age_years": 8,
+  "region": "Kentucky",
+  "category": "bourbon",
+  "flavors": [
+   "caramel",
+   "vanilla",
+   "oak"
+  ],
+  "body": 3,
+  "sweetness": 3,
+  "char_level": 3,
+  "price_usd_cents": 2499,
+  "popularity_tier": 5,
+  "description": "The black label. Familiar, more oak than white label.",
+  "pairings_with_reasons": [
+   {
+    "item": "Brown-butter pecan pie, day-old and room temperature",
+    "reason": "Oak tannins cut through the brown butter's nutty sweetness perfectly.",
+    "category": "dessert"
+   },
+   {
+    "item": "Aged manchego with membrillo, sliced thick and oily",
+    "reason": "Sheep's milk funk plays against vanilla, quince mirrors caramel notes.",
+    "category": "cheese"
+   },
+   {
+    "item": "Korean tteokbokki with gochujang glaze, sticky and chewy",
+    "reason": "Sweet-spicy rice cakes echo caramel heat, oak balances fermented chili.",
+    "deepCut": true,
+    "category": "snack"
+   }
+  ],
+  "display": "Jim Beam Black",
+  "slug": "jim-beam-black"
+ },
+ {
+  "id": "6b8b9262-b2ff-4f42-8cc0-e8cf99664f23",
+  "name": "JP Wiser's 35 Year Old",
+  "distillery": "JP Wiser's",
+  "expression": "35 Year Old",
+  "proof": 80,
+  "age_years": 35,
+  "region": "ontario",
+  "category": "canadian",
+  "flavors": [
+   "oak",
+   "dried_fruit",
+   "toffee",
+   "vanilla",
+   "honey"
+  ],
+  "body": 4,
+  "sweetness": 3,
+  "char_level": 3,
+  "price_usd_cents": null,
+  "popularity_tier": 5,
+  "description": "An ultra-premium limited release showcasing exceptional aging in Canadian whisky. Rich, complex, and highly collectible.",
+  "pairings_with_reasons": [
+   {
+    "item": "Aged Comt\u00e9 36-month, room temperature with honeycomb shard",
+    "reason": "Mirrors three decades of oak with crystallized alpine sweetness.",
+    "category": "cheese"
+   },
+   {
+    "item": "Pan-seared duck breast, rendered fat pooled, tart cherry gastrique",
+    "reason": "Toffee and dried fruit amplify the sweet-savory caramelized skin.",
+    "category": "poultry"
+   },
+   {
+    "item": "Persian saffron rice tahdig, crispy bottom layer with barberries",
+    "reason": "Honey notes dance with caramelized crust and jeweled tartness.",
+    "deepCut": true,
+    "category": "vegetarian"
+   }
+  ],
+  "display": "JP Wiser's 35 Year Old",
+  "slug": "jp-wiser-s-35-year-old"
+ },
+ {
+  "id": "65c91947-b974-4f24-b4a5-45b9a27e68e1",
+  "name": "Knappogue Castle 1951",
+  "distillery": "Knappogue Castle",
+  "expression": "1951",
+  "proof": 80,
+  "age_years": null,
+  "region": null,
+  "category": "irish",
+  "flavors": [
+   "sherry",
+   "dried_fruit",
+   "oak",
+   "honey",
+   "nuts"
+  ],
+  "body": 3,
+  "sweetness": 3,
+  "char_level": 2,
+  "price_usd_cents": null,
+  "popularity_tier": 5,
+  "description": "An extremely rare vintage release, one of the oldest Irish whiskeys ever bottled, representing a historic piece of Irish whiskey heritage.",
+  "pairings_with_reasons": [
+   {
+    "item": "Roasted duck with fig glaze",
+    "reason": "Vintage sherry notes mirror the sweet glaze and gamy richness.",
+    "category": "poultry"
+   },
+   {
+    "item": "Aged Comt\u00e9 cheese",
+    "reason": "Nutty crystalline complexity matches decades of oak maturation perfectly.",
+    "category": "cheese"
+   },
+   {
+    "item": "Single-origin Ethiopian coffee",
+    "reason": "Dried fruit and floral heritage notes echo the whiskey's rarity.",
+    "category": "coffee"
+   }
+  ],
+  "display": "Knappogue Castle 1951",
+  "slug": "knappogue-castle-1951"
+ },
+ {
+  "id": "db173a4a-e848-4e29-9259-b3b0a5ba04ec",
+  "name": "Knob Creek 9",
+  "distillery": "Knob Creek",
+  "expression": "Knob Creek 9 Year",
+  "proof": 100,
+  "age_years": 9,
+  "region": "Kentucky",
+  "category": "bourbon",
+  "flavors": [
+   "char",
+   "leather",
+   "oak",
+   "caramel"
+  ],
+  "body": 5,
+  "sweetness": 3,
+  "char_level": 4,
+  "price_usd_cents": 3499,
+  "popularity_tier": 5,
+  "description": "Barrel-char forward, 9-year age statement.",
+  "pairings_with_reasons": [
+   {
+    "item": "Smashed double cheeseburger, crisp edges, American cheese",
+    "reason": "Char crust mirrors barrel char, caramel sweetens beef fat beautifully.",
+    "category": "comfort"
+   },
+   {
+    "item": "Taiwanese lu rou fan, braised pork belly over rice",
+    "reason": "Oak tannins cut through soy-braised fat, leather echoes star anise.",
+    "deepCut": true,
+    "category": "meat"
+   },
+   {
+    "item": "Valrhona Dulcey blondie, warm, browned butter",
+    "reason": "Caramelized white chocolate meets bourbon caramel, both golden and toasted.",
+    "category": "dessert"
+   }
+  ],
+  "display": "Knob Creek 9",
+  "slug": "knob-creek-9"
+ },
+ {
+  "id": "1b949884-934e-4689-b3fa-be431518f277",
+  "name": "Lagavulin 16 Year Old",
+  "distillery": "Lagavulin",
+  "expression": "16 Year Old",
+  "proof": 86,
+  "age_years": 16,
+  "region": "Islay",
+  "category": "scotch_single_malt",
+  "flavors": [
+   "peat_smoke",
+   "seaweed",
+   "dried_fruit",
+   "oak",
+   "brine"
+  ],
+  "body": 4,
+  "sweetness": 2,
+  "char_level": 4,
+  "price_usd_cents": null,
+  "popularity_tier": 5,
+  "description": "Complex flagship: heavy peat, seaweed, and brine balanced with dried fruit and oak sweetness. Long, smoky finish.",
+  "pairings_with_reasons": [
+   {
+    "item": "Hot-smoked Ora King salmon, skin crisp, lemon oil",
+    "reason": "Brine and smoke meet oily richness, seaweed echoes the sea.",
+    "category": "seafood"
+   },
+   {
+    "item": "Montecristo No. 2 torpedo, Ecuadorian wrapper, half-burnt",
+    "reason": "Peat and tobacco char spiral together through the long finish.",
+    "category": "cigar"
+   },
+   {
+    "item": "Korean miyeok-guk seaweed soup, anchovy broth, sesame oil",
+    "reason": "Oceanic brine and umami mirror Islay's coast in liquid form.",
+    "deepCut": true,
+    "category": "comfort"
+   }
+  ],
+  "display": "Lagavulin 16 Year Old",
+  "slug": "lagavulin-16-year-old"
+ }
+]
