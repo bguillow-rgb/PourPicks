@@ -70,10 +70,19 @@ export const SITE = {
   },
 };
 
+// Spirit categories the public pairing guides are allowed to cover. The
+// catalog behind src/data/pairings.json carries world spirits, but this site
+// is positioned as bourbon and American whiskey, and crawl budget on a
+// four-referring-domain property is too tight to spend on scotch, rum and
+// vodka pages. Filtered at build time in src/pages/pairings/, so regenerating
+// the JSON can never silently republish an off-category page.
+export const PAIRING_CATEGORIES = ['bourbon', 'tennessee'];
+
 export const NAV = [
   { label: 'Home', href: '/' },
   { label: 'Features', href: '/features' },
   { label: 'Blog', href: '/articles' },
+  { label: 'Pairings', href: '/pairings' },
   { label: 'About', href: '/about' },
   { label: 'Press', href: '/press' },
   { label: 'Support', href: '/support' },

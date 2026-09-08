@@ -1,14 +1,23 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import Footer from '../../components/Footer.astro';
-import bottles from '../../data/pairings.json';
+import allBottles from '../../data/pairings.json';
+import { PAIRING_CATEGORIES } from '../../consts';
 
 // One page per bottle with curated food pairings. Each pairing carries a
 // written reason, which is the part that exists nowhere else — generic
 // "what to eat with bourbon" content can't answer for a specific bottle.
+//
+// Only American whiskey ships. See PAIRING_CATEGORIES in consts.ts.
+// Astro hoists getStaticPaths into a scope where only this file's imports are
+// visible, so the filter is inlined here rather than shared via a local const.
 export function getStaticPaths() {
-  return bottles.map((b) => ({ params: { slug: b.slug }, props: { b } }));
+  return allBottles
+    .filter((b) => PAIRING_CATEGORIES.includes(b.category))
+    .map((b) => ({ params: { slug: b.slug }, props: { b } }));
 }
+
+const bottles = allBottles.filter((b) => PAIRING_CATEGORIES.includes(b.category));
 const { b } = Astro.props;
 const title = b.display;
 const flav = (b.flavors || []).map((f) => f.replace(/_/g, ' '));

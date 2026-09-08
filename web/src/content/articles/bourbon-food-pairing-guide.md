@@ -36,6 +36,8 @@ published: true
 
 Most bourbon food pairing guides list the same ten ingredients and call it done. This one goes further, because a 90-proof wheated bourbon and a 130-proof single barrel don't ask the same things of the kitchen. If you've spent real time building a cellar, you already know that every bottle tells a different story. The food on the table should be part of that story.
 
+This page covers the principles. If you want the answer for one specific bottle instead, we publish [bottle pairing guides](/pairings) built from each bourbon's own flavor profile, with the reason each match works written out.
+
 ## Why does mash bill change what I should eat with my bourbon?
 
 *A question we hear often:* The flavors you taste in a bourbon aren't random. They flow directly from the grain recipe behind the distillate.
