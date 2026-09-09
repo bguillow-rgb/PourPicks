@@ -17,7 +17,7 @@ relatedSlugs:
   - "what-are-heads-hearts-tails-bourbon"
   - "how-rickhouse-floor-position-affects-bourbon-flavor"
   - "toasted-barrel-vs-charred-barrel-bourbon"
-  - "wheated-bourbon-vs-high-rye-bourbon"
+  - "what-is-craft-bourbon"
 faqs:
   - q: "Is pot still bourbon better than column still bourbon?"
     a: "Neither is objectively better. Column still bourbon excels at clean, consistent, barrel-driven flavors, the classic American style. Pot still bourbon delivers more grain-derived complexity and texture. The 'better' bottle depends entirely on what you're tasting for."

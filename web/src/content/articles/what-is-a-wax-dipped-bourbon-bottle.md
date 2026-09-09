@@ -14,10 +14,10 @@ quickAnswer: "A wax-dipped bourbon bottle is one whose neck and cap are coated i
 publishedAt: "2026-08-08"
 author: "Pour Picks"
 relatedSlugs:
+  - "what-is-craft-bourbon"
   - "what-is-the-bourbon-glut"
   - "bourbon-age-statement-vs-nas"
   - "full-proof-vs-barrel-proof-vs-cask-strength-bourbon"
-  - "should-you-open-or-keep-bourbon-sealed"
 faqs:
   - q: "Does the wax on a bourbon bottle actually preserve the whiskey inside?"
     a: "No, for sealed bottles, the wax is purely decorative. Modern closure systems (synthetic corks, threaded caps beneath the wax) handle the real sealing work. The wax does not affect how the bourbon ages or how long it stays shelf-stable once sealed."
