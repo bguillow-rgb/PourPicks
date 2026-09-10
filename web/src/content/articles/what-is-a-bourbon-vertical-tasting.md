@@ -15,8 +15,8 @@ author: "Pour Picks"
 relatedSlugs:
   - "how-to-build-a-bourbon-flight"
   - "how-to-start-a-bourbon-tasting-club"
+  - "ideal-temperature-humidity-bourbon-storage"
   - "bourbon-flavor-wheel-guide"
-  - "bourbon-food-pairing-guide"
 faqs:
   - q: "What is the difference between a vertical and a horizontal bourbon tasting?"
     a: "A vertical tasting stays within one distillery and compares different expressions, ages, or annual releases. A horizontal tasting compares the same style of bourbon -- say, wheated bourbons or high-rye expressions -- across multiple distilleries. Verticals teach you a distillery's house character; horizontals teach you how grain and process vary across the category."
