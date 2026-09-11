@@ -14,10 +14,10 @@ quickAnswer: "To sell bourbon bottles legally, your best options are: consign th
 publishedAt: "2026-08-13"
 author: "Pour Picks"
 relatedSlugs:
+  - "how-to-buy-bourbon-at-auction"
   - "what-is-the-bourbon-secondary-market"
   - "how-to-grade-bourbon-bottle-condition"
   - "how-to-insure-a-bourbon-collection"
-  - "how-to-photograph-bourbon-bottles"
 faqs:
   - q: "Is it legal to sell bourbon bottles as a private individual?"
     a: "It depends on how and where you sell. Selling to a licensed retailer is legal in several states, including Kentucky under KRS 243.232(1), and Washington D.C. Consigning through a licensed auction house is broadly legal. Selling directly to another private citizen, especially online, is illegal in every U.S. state without a liquor license."
