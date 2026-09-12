@@ -14,10 +14,10 @@ quickAnswer: "Bourbon and branch is bourbon whiskey served with a small measure 
 publishedAt: "2026-08-19"
 author: "Pour Picks"
 relatedSlugs:
+  - "does-bourbon-have-terroir"
   - "should-you-add-water-to-bourbon"
   - "what-is-a-bourbon-neck-pour"
   - "what-is-bourbon-barrel-char-level"
-  - "full-proof-vs-barrel-proof-vs-cask-strength-bourbon"
 faqs:
   - q: "What does 'branch' mean in bourbon and branch?"
     a: "'Branch' is an old Southern American term for a natural stream or creek, specifically the iron-free, limestone-filtered water that flowed near Kentucky distilleries. Ordering 'bourbon and branch' originally meant your whiskey would be cut with the same pure water used to make it."

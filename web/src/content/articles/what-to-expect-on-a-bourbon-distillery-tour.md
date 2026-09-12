@@ -16,8 +16,8 @@ author: "Pour Picks"
 relatedSlugs:
   - "what-is-a-bourbon-of-the-month-club"
   - "what-is-the-kentucky-bourbon-barrel-tax"
+  - "does-bourbon-have-terroir"
   - "how-annual-bourbon-releases-work"
-  - "how-to-build-a-bourbon-flight"
 faqs:
   - q: "Do I need to book distillery tours in advance?"
     a: "Yes. Almost every Kentucky distillery now requires advance reservations, and popular stops like Buffalo Trace, Woodford Reserve, and Maker's Mark can sell out weeks ahead. Book at least a month before your visit, especially in spring or fall."
