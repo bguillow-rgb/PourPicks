@@ -14,10 +14,10 @@ quickAnswer: "Open a bourbon bottle when you have a reason to share or savor it,
 publishedAt: "2026-08-02"
 author: "Pour Picks"
 relatedSlugs:
+  - "how-to-build-a-bourbon-rotation"
   - "is-bourbon-a-good-investment"
   - "should-you-add-water-to-bourbon"
   - "what-is-a-wax-dipped-bourbon-bottle"
-  - "how-long-is-bourbon-aged"
 faqs:
   - q: "Does a sealed bottle of bourbon improve with age?"
     a: "No. Unlike wine, bourbon stops maturing the moment it leaves the barrel. A sealed bottle sitting on your shelf for 10 years will taste essentially the same as it did on release day, assuming it's stored properly away from heat and light."
