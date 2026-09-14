@@ -17,7 +17,7 @@ relatedSlugs:
   - "how-to-insure-a-bourbon-collection"
   - "what-is-the-bourbon-glut"
   - "what-is-the-bourbon-secondary-market"
-  - "how-to-value-a-bourbon-collection"
+  - "how-to-spot-a-fake-bourbon-bottle"
 faqs:
   - q: "What is the best background for photographing bourbon bottles?"
     a: "A matte white or light-gray backdrop is the safest all-purpose choice, it reflects light softly, keeps the bottle's color accurate, and makes the label easy to read. Dark or textured backgrounds can work aesthetically but hide label details that matter for documentation."
