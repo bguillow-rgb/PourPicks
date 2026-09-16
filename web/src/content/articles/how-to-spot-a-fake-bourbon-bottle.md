@@ -14,10 +14,10 @@ quickAnswer: "Spot a fake bourbon bottle by checking five physical markers in or
 publishedAt: "2026-09-14"
 author: "Pour Picks"
 relatedSlugs:
+  - "how-do-bourbon-state-lotteries-work"
   - "how-to-photograph-bourbon-bottles"
   - "is-bourbon-a-good-investment"
   - "what-is-allocated-bourbon"
-  - "what-is-the-bourbon-glut"
 faqs:
   - q: "How common are fake bourbon bottles on the secondary market?"
     a: "Counterfeits are concentrated in the highest-demand allocated expressions, Pappy Van Winkle, Weller, Buffalo Trace Antique Collection, and Colonel E.H. Taylor. Rare Whisky 101 has estimated that counterfeit bottles account for a significant share of premium whiskey resold through informal channels. Risk is near-zero at licensed retailers but meaningfully elevated in peer-to-peer trades and social-media groups."
