@@ -1,16 +1,21 @@
 ---
-title: "Best Bourbon Cellar Apps in 2026 (Tested and Compared)"
-seoTitle: "Best Bourbon Apps for Tracking a Collection (2026)"
-description: "An honest, hands-on comparison of the bourbon cellar and whiskey apps worth using in 2026: Distiller, Whiskeybase, Pour Picks, Drammey, and the spreadsheet most people are still using."
+title: "Best Bourbon App in 2026: 9 Collection Apps Compared"
+seoTitle: "Best Bourbon Apps in 2026: 9 Collection Apps Compared"
+description: "An honest comparison of the bourbon and whiskey apps collectors use in 2026: Distiller, OnlyDrams, BarrelBook, BAXUS, Whiskybase, Whiskey Shelf, WhiskeyMate, DramWise, Pour Picks and the spreadsheet."
 tier: pillar
-targetQuery: "best bourbon cellar app"
+targetQuery: "best bourbon app"
 relatedQueries:
-  - "best whiskey app"
+  - "bourbon app"
+  - "best bourbon apps"
+  - "bourbon tracker app"
   - "best bourbon tracking app"
   - "distiller vs whiskeybase"
-  - "bourbon collection app ios"
-quickAnswer: "The best bourbon cellar app depends on what you actually want. Pour Picks is the strongest pick for tracking your own collection. Distiller wins on community reviews. Whiskeybase has the deepest catalog. Drammey is the cleanest pure-cellar tool. Most spreadsheets quietly fail by bottle 25."
+  - "best bourbon collection app"
+  - "whiskey collection app"
+  - "best whiskey app"
+quickAnswer: "There is no single best bourbon app, because they do different jobs. Distiller is the research reference. OnlyDrams is the most-rated collection app. BarrelBook captures store-pick details from a photo. BAXUS values and trades bottles. Pour Picks matches bottles to your palate. Pick by the job you need done."
 publishedAt: "2026-05-21"
+updatedAt: "2026-09-16"
 author: "Pour Picks"
 relatedSlugs:
   - "distiller-vs-whiskeybase"
@@ -18,137 +23,144 @@ relatedSlugs:
   - "how-to-start-a-bourbon-cellar"
   - "ideal-temperature-humidity-bourbon-storage"
 faqs:
-  - q: "What is the best bourbon cellar app overall?"
-    a: "For tracking your own collection, including scanning bottles to add them and getting a recommendation for what to pour tonight, Pour Picks is the strongest pick in 2026. For reading community reviews before you buy, Distiller is the long-standing leader. For catalog depth across world whiskey, Whiskeybase is unmatched. The right answer depends on which job you are hiring the app for."
-  - q: "Is Distiller still good in 2026?"
-    a: "Yes, for what it does. Distiller is built around community reviews and a ratings database, which is where it excels. It is less suited to managing your own cellar, tracking pours, or recording what your own bottle of a release actually tasted like compared to the community average. Many serious collectors use Distiller to research bottles and a separate app to manage their cellar."
-  - q: "What's the difference between Distiller and Whiskeybase?"
-    a: "Distiller is American, app-first, and built around community reviews and curated editorial. Whiskeybase is European, web-first, and built around an exhaustive catalog of every bottling ever released, including independent bottlers and single casks. If you collect mainstream American whiskey, Distiller has the cleaner experience. If you collect anything outside that lane, Whiskeybase has data you cannot find elsewhere."
+  - q: "What is the best bourbon app overall?"
+    a: "Depends on the job. Distiller is still the reference for looking a bottle up before you buy it, with 4.72 stars across 4,928 US ratings in September 2026. OnlyDrams is the most-rated collection app at 4.86 stars across 10,245 ratings. Pour Picks matches bottles to your own palate, though it's much newer and has only 12 ratings."
+  - q: "Is there a free bourbon tracking app?"
+    a: "All of the collection apps in this comparison are free to download. Where the free tier stops varies. Whiskey Shelf advertises unlimited bottles, and DramWise says it has no bottle caps. Pour Picks is free for five owned bottles and five label scans, and charges for more."
+  - q: "Which bourbon app can scan a bottle?"
+    a: "Several. BarrelBook reads up to three photos of a bottle rather than a barcode, which helps with store picks. Pour Picks reads the label with AI. OnlyDrams and BAXUS both scan barcodes to show what a bottle should cost. Whiskybase handles labels or barcodes. No scanner gets every single barrel or dusty right, so expect to correct a few."
+  - q: "Is there an app that tells you what bourbon to pour tonight?"
+    a: "Yes, three that we found. OnlyDrams has a pour picker that searches your collection. DramWise has a tonight's-pour picker that only suggests open bottles. Pour Picks suggests a bottle from your cellar, weighted toward your palate profile. None of them knows your mood, so treat the pick as a nudge."
+  - q: "What's the difference between Distiller and Whiskybase?"
+    a: "Distiller is American and app-first. It's built around flavor graphs and reviews from experts and the community, with TruePrice market values on top. Whiskybase is European and calls itself the world's largest whisky database, with deep coverage of single casks and independent bottlings. For mainstream American whiskey, Distiller is the smoother experience. For anything outside that lane, Whiskybase has data you won't find elsewhere."
   - q: "Why not just use a spreadsheet?"
-    a: "A spreadsheet works fine for the first 10 to 15 bottles. After that, the friction of opening the spreadsheet, finding the row, and typing your notes is so high that most people stop logging. By bottle 30, the spreadsheet is six months out of date and unreliable. Dedicated cellar apps survive past that point because they remove the friction at the point of pouring."
-  - q: "Are bourbon cellar apps worth paying for?"
-    a: "Free tiers cover the basics for almost every collector. Paid tiers ($2.99 to $4.99 a month is the typical range) unlock things like unlimited scans, advanced search, journal export, or detailed analytics. If your cellar is under 25 bottles and you do not log every pour, free is fine. If you collect actively or want to look back at five years of tasting notes, the paid tier pays for itself."
-  - q: "Do any bourbon apps work without an internet connection?"
-    a: "Most need a connection to scan bottles or fetch metadata, but Pour Picks caches your cellar locally so you can browse and add notes offline; the scan itself needs the network because the AI runs server-side. Distiller is largely online-only. Whiskeybase web works offline only if you take screenshots ahead of time."
-  - q: "Which bourbon app has the best bottle scan feature?"
-    a: "Pour Picks runs its scan on Claude Vision, which reads the entire label (distillery, expression, proof, age, batch and bottle numbers when visible) rather than reading the barcode. This handles store picks, single barrels, and limited releases that have no barcode at all. Most other apps either rely on barcode lookup or do not have a scan feature."
+    a: "A spreadsheet works for the first 10 to 15 bottles. After that, the effort of opening it, finding the row and typing notes is high enough that most people stop. Once it's months out of date it can't answer the only question that matters, which is what you actually have open. Apps survive past that point because they cut the typing."
+  - q: "Are bourbon apps worth paying for?"
+    a: "Only if you hit the free tier's limit in a way that bothers you. For Pour Picks, that's a sixth owned bottle or a sixth scan; the Cask Club membership is $2.99 a month or $24.99 a year. If your shelf is small and you don't mind typing entries in, a free app with no bottle cap will do."
 published: true
 ---
 
-If you collect bourbon long enough, you reach the same crossroads every collector eventually reaches: the spreadsheet has gotten away from you, the notebook is full, and you cannot remember whether you ever opened that bottle in the back. So you start looking for an app.
+If you collect bourbon long enough, you reach the same point everyone does. The spreadsheet got away from you months ago. You can't remember whether you ever opened the bottle in the back. So you go looking for an app and find a dozen that all claim to do everything.
 
-This is the honest version of that comparison, written by a team that builds one of these apps and uses several of the others. We will tell you where Pour Picks is the right answer and where it is not.
+They don't. This is the honest version of that comparison, written by the team that builds one of these apps, Pour Picks. We'll say where it's the right answer and where it isn't.
 
-## What does a bourbon cellar app actually need to do?
+The ratings, versions and update dates below come from each app's US App Store listing, checked on 16 September 2026. Every feature we attribute to another app comes from that app's own listing too. Those numbers move, so check the listing before you commit.
 
-Cellar management is a different job from bottle research, and most apps optimize for one or the other. Before you pick a tool, decide which of these jobs matters most to you:
+## What does a bourbon app actually need to do?
 
-1. **Track what you own.** Bottles in, bottles opened, bottles finished. Purchase price, value over time, who gave you what for which birthday.
-2. **Record what you pour.** Each glass, each tasting, what you actually thought versus what the community says.
-3. **Research what to buy next.** Reviews, scores, mash bills, price history, allocation status.
-4. **Recommend what to pour tonight.** From the bottles you already own, what should come down off the shelf right now.
+Before you pick one, decide which of these jobs you mostly need done.
 
-Most apps do (3) very well. Almost none do (4) at all. The middle two are where the field splits.
+1. **Research what to buy.** Reviews, flavor profiles, mash bills, fair prices.
+2. **Track what you own.** Bottles in, opened and finished, what you paid, what they're worth now.
+3. **Capture the details.** Store pick, barrel number, bottle number, proof. The specifics that make one bottle of a release different from another.
+4. **Decide what to pour.** From the bottles already on your shelf.
+
+A few apps try to do all four. Most do one or two well, and the right choice depends on which ones you care about.
 
 ## The 2026 lineup at a glance
 
-| App | Best for | Cellar tracking | Bottle scan | Pour-tonight rec | Free tier | Pro pricing |
-|---|---|---|---|---|---|---|
-| **Pour Picks** | Tracking your own cellar | Strong | AI label read (Claude Vision) | Yes, cellar-aware | 5 scans + full cellar + quiz | $2.99/mo |
-| **Distiller** | Researching before buying | Light | No | No | Most features free | In-app upgrades |
-| **Whiskeybase** | Catalog depth, world whiskey | Decent | No (catalog lookup) | No | Free read; paid features for power users | Paid tier |
-| **Drammey** | Clean pure-cellar tracking | Strong | Manual | No | Limited free | Subscription |
-| **Spreadsheet** | First 10 bottles only | Whatever you build | None | None | Free | Free |
+| App | Best for | Collection tracking | Scan | Pour picker | Rating (US App Store, Sep 2026) |
+|---|---|---|---|---|---|
+| **Distiller** | Research and reviews | Lists with values | No | No | 4.72 (4,928 ratings) |
+| **OnlyDrams** | Community and collection | Yes | Barcode | Yes | 4.86 (10,245 ratings) |
+| **BarrelBook** | Store-pick details | Yes | Photo, up to 3 | No | 4.82 (631 ratings) |
+| **BAXUS** | Valuing and trading bottles | Yes, with market value | Barcode | No | 4.61 (528 ratings) |
+| **Whiskey Shelf** | Unlimited inventory and reports | Yes | No | No | 4.50 (129 ratings) |
+| **WhiskeyMate** | Detailed bottle records | Yes | Barcode | No | 4.67 (88 ratings) |
+| **Whiskybase** | World whisky catalog | Yes | Label or barcode | No | 1 US rating |
+| **DramWise** | Manual entry, no account | Yes | No | Yes, open bottles only | No ratings yet |
+| **Pour Picks** | Palate matching | Yes, 5 free | AI label read | Yes | 5.00 (12 ratings) |
+| **Spreadsheet** | Your first 10 bottles | Whatever you build | No | No | Free |
 
-Numbers and feature sets change. Verify each app's current pricing on its own listing before committing.
+A "No" means we didn't find the feature in the app's App Store listing. We didn't install every app to confirm it's missing.
 
-## Pour Picks: best for tracking your own cellar
+Read the Pour Picks row with this in mind: it launched in May 2026 and has 12 ratings. OnlyDrams has more than ten thousand. If ratings volume is how you choose, this comparison has already given you your answer.
 
-Disclosure first: this article is published by the team that builds Pour Picks. We will say what we think it is good at and where it is not the answer.
+## Distiller: the research reference
 
-Pour Picks is an iOS app launched in May 2026. It is built around the cellar, not the catalog. You scan any bottle with your phone (the scan is AI, not a barcode lookup, so it works on [store picks](/articles/what-is-a-bourbon-store-pick) and one-offs with no barcode), it lands in your cellar, and you can mark it owned, on the wishlist, or finished. Per-bottle purchase price and total cellar value are tracked. The [bourbon inventory app](/bourbon-inventory-app) page goes further into how cataloging and valuation actually work. The catalog at launch covered roughly 4,700 American whiskeys, and bottles outside that catalog still get a slot through a personal-bottle path.
+Distiller has been on the App Store since 2014 and is the most-rated research app in this comparison. The listing talks about nearly 60,000 spirits with flavor graphs and millions of reviews from experts and regular drinkers. TruePrice shows current and historical fair market values, and Distiller will estimate what any list you build is worth. It has 4.72 stars from 4,928 ratings, and version 7.52.2 went out on 20 August 2026.
 
-The feature that differentiates Pour Picks from everything else on this list is **Pour Tonight**. Once your cellar has at least three bottles in it, the app will pick one bottle and tell you why it picked it. "You haven't poured this in six weeks. Cozy Tuesday vibe. Higher proof than most of what you have open right now." That is the question almost every collector asks two or three times a week and almost no app answers.
+**Use it for:** a quick read on a bottle before you buy it, including what it should cost.
 
-**Strong at:** scan-driven cellar building, per-pour journaling, the recommender, working with collections that include allocated and unusual bottles.
+**Not in its listing:** a pour picker, or photo capture of store-pick details.
 
-**Not the right answer for:** reading other people's reviews of a bottle before you buy it (there is no community review feed by design), Android users (iOS only at launch), or anyone whose collection skews heavily toward world whiskey outside American bourbon and rye.
+## OnlyDrams: the most-rated collection app
 
-**Free tier:** 5 scans, full cellar, basic quiz. **Cask Club:** $2.99 per month for unlimited scans, advanced quiz, tasting journal, journal export.
+OnlyDrams is the most-rated collection app we found, at 4.86 stars across 10,245 ratings. It's been on the store since December 2023, and version 3.11.10 went out on 8 June 2026. The listing covers a lot of ground. You browse thousands of bottles and add them to your collection. You can post what you're sipping. Pricing is real-time and, per the listing, pulled from hundreds of sources. It can also scan a barcode in a liquor store to show what you should be paying, and it has a pour picker that searches your collection.
 
-## Distiller: best for reviews and discovery
+**Use it for:** one app that does collection, community and pricing, with a large user base behind it.
 
-Distiller has been around since 2013 and remains the closest thing to a community-led ratings database for American whiskey enthusiasts. The signature feature is the FlavorProfile rating, where users rate a bottle across structured flavor dimensions, and the app aggregates those scores into a community score that is generally more reliable than a single critic's number.
+**Worth knowing:** barcode scanning suits shelf bottles in a store. A store pick or single barrel can carry the same barcode as the standard release, so check what the app matched.
 
-Where Distiller shines: you are standing at a bar or a store, you see a bottle you do not know, and you want a quick read on whether it is worth your time. Distiller is built for that moment. The expression pages are dense with context, reviews, and tasting notes from people who have actually drunk the bottle.
+## BarrelBook: built for store picks
 
-Where Distiller falls short: it is not a great tool for managing your own cellar. You can mark bottles as "Have It" or "Want It," but the interface is built around the catalog (browsing other people's reviews) rather than your own shelf. There is no real pour log, no purchase-price tracking, and no recommendation engine that pulls from what you already own.
+BarrelBook only showed up in December 2025 and already has 4.82 stars from 631 ratings. Version 1.7.4 went out on 12 August 2026. The pitch is narrow on purpose. You take up to three photos of the bottle itself, and it pulls out the details collectors care about, down to barrel and bottle numbers, lot and proof, even warehouse and floor. Each bottle becomes an editable entry with a status that moves from unopened through to finished or archived.
 
-**Best used as:** a research companion you open at the store or before a tasting, not your primary cellar tool.
+**Use it for:** a collection heavy on store picks and single barrels, where the specifics are the point.
 
-## Whiskeybase: best for catalog depth
+## BAXUS: your shelf as an asset
 
-Whiskeybase is a Dutch-built whiskey database that has quietly become the reference for serious collectors of independent bottlings, single casks, and obscure releases. The catalog includes bottlings that have never appeared in any American app, with surprisingly detailed data on cask numbers, ABV variations, and release years.
+BAXUS, formerly BoozApp, treats your collection as something with a market value. Its listing says it shows the real market value of your collection and wishlist, scans barcodes on over 75,000 bottles to check MSRP and market price, and offers a vault where bottles are authenticated and stored so they can be traded on its market. It has 4.61 stars across 528 ratings, version 5.1.1, updated 15 September 2026.
 
-The site is web-first. The mobile experience is functional but not polished. For most American bourbon collectors, the depth is overkill. For anyone who collects across Scotch, Japanese, world whiskey, or independent bottlers like Single Cask Nation, Lost Lantern, or any of the European independents, Whiskeybase has data you simply cannot get from any other source.
+**Use it for:** knowing what your bottles are worth, and trading them if you choose to.
 
-**Best used as:** a reference database, especially when researching independent bottlings or older releases.
+## Whiskey Shelf, WhiskeyMate and DramWise: pure trackers
 
-## Drammey and other pure-cellar tools
+These three do collection tracking without trying to be a community or a marketplace.
 
-Drammey is one of several newer apps in the "pure cellar tracker" category. It does cellar management cleanly, without trying to be a community or a catalog. The interface is minimal, the data model is clean, and if all you want is a digital shelf, it does the job.
+- **Whiskey Shelf** (4.50 stars from 129 ratings) advertises unlimited bottles, rum and tequila included. It values bottles even after they're opened and keeps a wish list. There's a spot for your infinity bottle, and it builds reports.
+- **WhiskeyMate** (4.67 stars from 88 ratings) says its database holds over 300,000 bottle entries across spirits. Each bottle can carry front and back photos plus barrel, batch and bottle number, along with fill level and price. It scans barcodes too.
+- **DramWise** (released June 2026, no ratings yet) is manual-entry first, with no account and no bottle caps. Tasting notes are structured by nose, palate and finish, scored out of 100. A dashboard adds up what the collection is worth, and its tonight's-pour picker only suggests bottles that are already open.
 
-The trade-off is that you give up the integrated features Pour Picks and Distiller offer. No bottle scan. No community reviews. No recommendation engine. For some collectors, that minimalism is the appeal. For most, it is missing the parts that make a cellar app actually save time over a spreadsheet.
+## Whiskybase: the world whisky catalog
 
-**Best used as:** a backup or a starting point if you want zero friction and zero opinions from the app.
+Whiskybase calls itself the world's largest whisky database, with coverage down to rare single casks. Its app has a label and barcode scanner and lets you track your inventory, rate bottles and follow friends. On the US App Store it has a single rating, so there's little US feedback to go on. If you collect Scotch, Japanese whisky or independent bottlers, it has data few other sources have. There's more on how it compares in our [Distiller vs Whiskybase breakdown](/articles/distiller-vs-whiskeybase).
+
+## Pour Picks: for matching bottles to your palate
+
+Disclosure, again: we publish this article and we build this app.
+
+Pour Picks is iPhone-only, free to download, currently version 1.1.2. Its catalog covers about 4,700 American whiskeys. It starts with a short quiz that builds your palate profile: sweet or spicy, easy sipper or cask strength. Every bottle you open then shows how it fits that profile in plain language, so the next bottle you buy is less of a guess.
+
+You add bottles by pointing the camera at the label. The AI reads it and you fix anything it got wrong before it goes in your cellar. That works for [store picks](/articles/what-is-a-bourbon-store-pick) and bottles with no barcode. Pour Tonight suggests something to open from what you already own. The [bourbon inventory app](/bourbon-inventory-app) page goes further into how cataloging works.
+
+**Strong at:** palate matching and label scanning. Pour Tonight helps with what to open next.
+
+**Not the right answer for:** reading community reviews before you buy (there's no review feed), Android users, or a big collection on a free plan.
+
+**Where the free tier stops, plainly:** free accounts hold five owned bottles and get five label scans. Viewing your wishlist and finished bottles is part of the paid tier too. Cask Club, the paid membership, removes those limits. It also adds the advanced quiz and food pairings on every bottle, plus a tasting journal you can export to CSV. It costs $2.99 a month or $24.99 a year. If your shelf has more than five bottles, and it probably does if you're reading this, you'll hit the cap quickly.
 
 ## What about the spreadsheet?
 
-If you are reading this article, your spreadsheet is probably the reason you are reading it. A few hard truths from collectors who have been there:
+If you're reading this, your spreadsheet is probably why.
 
-- **The spreadsheet works fine for the first 10 to 15 bottles.** Below that count, the friction of any app is higher than the friction of one tab in Google Sheets.
-- **The spreadsheet quietly breaks somewhere between bottles 20 and 30.** You stop updating it. The "opened" column gets stale. New bottles do not get entered for weeks. Six months later you are not sure what is open.
-- **The spreadsheet has no scan, no recommendation, no value tracking, no nothing beyond what you build.** Some people enjoy building it. Most do not.
+- **It works for the first 10 to 15 bottles.** Below that, any app is more effort than one tab in Google Sheets.
+- **It breaks somewhere past 20 bottles.** Entries lag, the "opened" column goes stale, and six months later you aren't sure what's open.
+- **It has no scan, no valuation and no suggestions** beyond what you build yourself. Some people enjoy building that. Most don't.
 
-A 2024 informal survey of r/bourbon members showed that the median collector tried two cellar apps before settling on one, and the dominant reason cited for switching from a spreadsheet was "I stopped updating it." The friction kills the spreadsheet, not its features. If you want to see what replaces it in practice, our [walkthrough of cataloging a cellar by scan](/bourbon-inventory-app) puts the two side by side.
+What kills a spreadsheet is the typing. If you want to see the two side by side, our [spreadsheet vs app comparison](/articles/track-bourbon-collection-spreadsheet-vs-app) walks through it.
 
 ## How to choose, in two questions
 
-Two questions narrow it down for most collectors:
+**What do you mostly need?**
 
-**Question 1: What job do you mostly need the app for?**
+- "Tell me about a bottle before I buy it." → Distiller.
+- "Track my collection with a big community around it." → OnlyDrams.
+- "Capture barrel numbers and store picks without typing." → BarrelBook.
+- "Know what my collection is worth." → BAXUS, or Distiller's list values.
+- "Find bottles that suit how I actually drink." → Pour Picks.
+- "Just a clean list, no account." → DramWise.
 
-- "Track what I own and what I have poured." → Pour Picks or Drammey.
-- "Read reviews before buying." → Distiller.
-- "Catalog every release I have heard of." → Whiskeybase.
+**How much will you type?** Be honest. A detailed tracker is worthless if you stop filling it in by bottle 20. If you won't type barrel numbers, pick an app that reads them from a photo.
 
-**Question 2: Do you want a recommendation for what to pour tonight from your own shelf?**
+## What we left out, and why
 
-- Yes → Pour Picks is currently the only app on this list that does that. Drammey, Distiller, and Whiskeybase do not.
-- No → Pick by the first question.
+- **Retailer apps** like Total Wine and Spec's dominate App Store search for "bourbon." They're for shopping and loyalty points.
+- **Wine-first apps** like Vivino and CellarTracker treat whiskey as an afterthought.
+- **Apps that haven't been updated since 2024 or earlier.** We checked update dates, and several whiskey logging apps haven't shipped a version in years.
 
-The biggest decision is whether your primary use is research or cellar management. Mixing those jobs in one app is hard, which is why most apps pick a side. You can run two apps if you really want to do both well.
-
-## What changes in 2026 and beyond
-
-Three shifts worth flagging:
-
-**AI-driven scan is now table stakes.** Apps that rely on barcode lookup increasingly miss store picks, single barrels, and the bottles serious collectors care most about. Expect every serious cellar app within a year to use computer vision to read the label.
-
-**Cellar-aware recommendations are the new differentiator.** Asking "what should I pour" from your own shelf, with context, is something the AI generation of cellar apps can actually do. The first generation of apps could not. Expect this to spread.
-
-**The integration question is unsettled.** Should your cellar app know what is at retail? Should it tell you when your wishlist bottle hits the shelf at a nearby store? Some apps will say yes; others (including Pour Picks) will say no on privacy and "do not turn the cellar into a commerce funnel" grounds. The answer will fragment the category.
-
-## A note on what we did not include
-
-We left a few apps off this list deliberately:
-
-- **Vivino and CellarTracker** are wine-first and treat whiskey as an afterthought. Skip for bourbon.
-- **Untappd-style apps** for spirits exist but are built around social check-ins, not cellar management.
-- **Generic notes apps** (Notion, Apple Notes, Bear) are technically usable but lack any of the structure that makes a real cellar app worth the switch.
-
-If you have a favorite we missed, email us. We update this article every quarter, and a few of the better small apps came to us through reader email.
+If we've missed an app you rely on, email us and we'll look at it for the next update.
 
 ---
 
-*Pour Picks is a free iOS app for bourbon collectors. Scan any bottle to add it to your cellar, log every pour, and let "Pour Tonight" pick what to drink from what you actually own. [Download on the App Store](https://apps.apple.com/us/app/pour-picks/id6764040132).*
+*Pour Picks is a free iPhone app for bourbon collectors. It builds your palate profile and scans bottles into your cellar, then suggests what to pour from what you own. [Download on the App Store](https://apps.apple.com/us/app/pour-picks/id6764040132).*
