@@ -19,9 +19,9 @@ updatedAt: "2026-09-16"
 author: "Pour Picks"
 relatedSlugs:
   - "distiller-vs-whiskeybase"
-  - "how-to-photograph-bourbon-bottles"
-  - "how-to-start-a-bourbon-cellar"
-  - "ideal-temperature-humidity-bourbon-storage"
+  - "track-bourbon-collection-spreadsheet-vs-app"
+  - "how-to-build-a-bourbon-rotation"
+  - "how-to-insure-a-bourbon-collection"
 faqs:
   - q: "What is the best bourbon app overall?"
     a: "Depends on the job. Distiller is still the reference for looking a bottle up before you buy it, with 4.72 stars across 4,928 US ratings in September 2026. OnlyDrams is the most-rated collection app at 4.86 stars across 10,245 ratings. Pour Picks matches bottles to your own palate, though it's much newer and has only 12 ratings."
