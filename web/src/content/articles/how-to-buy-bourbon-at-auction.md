@@ -15,9 +15,9 @@ publishedAt: "2026-09-11"
 author: "Pour Picks"
 relatedSlugs:
   - "how-to-sell-bourbon-bottles"
+  - "what-is-a-bourbon-bottle-split"
   - "how-to-grade-bourbon-bottle-condition"
   - "what-is-a-bourbon-of-the-month-club"
-  - "what-is-the-bourbon-secondary-market"
 faqs:
   - q: "What is a buyer's premium at a bourbon auction?"
     a: "A buyer's premium is a fee the auction house adds on top of your winning hammer price, typically 10%-20% depending on the platform. It goes to the auction house, not the seller. Always calculate it into your maximum before bidding."
