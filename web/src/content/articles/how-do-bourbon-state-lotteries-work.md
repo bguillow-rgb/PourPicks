@@ -16,8 +16,8 @@ author: "Pour Picks"
 relatedSlugs:
   - "how-to-spot-a-fake-bourbon-bottle"
   - "how-annual-bourbon-releases-work"
+  - "how-does-the-kentucky-bourbon-trail-work"
   - "how-to-trade-bourbon-bottles"
-  - "what-is-allocated-bourbon"
 faqs:
   - q: "Do I have to pay to enter a bourbon lottery?"
     a: "No. Legitimate bourbon lotteries, whether run by state liquor boards, retail chains, or independent stores, are free to enter. You never pay until you've won and are purchasing the bottle."

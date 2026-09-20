@@ -16,8 +16,8 @@ author: "Pour Picks"
 relatedSlugs:
   - "what-is-a-wax-dipped-bourbon-bottle"
   - "does-bourbon-have-terroir"
+  - "how-does-the-kentucky-bourbon-trail-work"
   - "how-long-is-bourbon-aged"
-  - "how-to-date-a-vintage-bourbon-bottle"
 faqs:
   - q: "Is there a legal definition of craft bourbon?"
     a: "No. The TTB's standards of identity for bourbon make no distinction between craft and non-craft production. Any distillery, large or small, can legally print 'craft' on a label without meeting any specific requirement."

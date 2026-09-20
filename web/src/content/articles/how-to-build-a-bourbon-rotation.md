@@ -15,9 +15,9 @@ publishedAt: "2026-09-13"
 author: "Pour Picks"
 relatedSlugs:
   - "how-to-organize-a-bourbon-collection"
+  - "how-does-the-kentucky-bourbon-trail-work"
   - "how-long-is-bourbon-aged"
   - "how-to-build-a-bourbon-flight"
-  - "ideal-temperature-humidity-bourbon-storage"
 faqs:
   - q: "How many bourbon bottles should I have open at once?"
     a: "Most collectors find three to five open bottles is the sweet spot, one daily drinker, one or two workhorses for regular sipping, and one shelf piece or special-occasion bottle. More than six open bottles at once risks oxidation on slower-moving pours."

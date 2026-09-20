@@ -17,7 +17,7 @@ relatedSlugs:
   - "how-to-do-a-bourbon-barrel-pick"
   - "what-is-a-bourbon-of-the-month-club"
   - "what-is-a-bourbon-store-pick"
-  - "what-is-a-whiskey-thief"
+  - "how-does-the-kentucky-bourbon-trail-work"
 faqs:
   - q: "What is the difference between a private barrel program and a regular store pick?"
     a: "The terms are often used interchangeably, but 'private barrel program' usually refers to the distillery's formal, structured offering, with set barrel inventories, proof options, and label rules. A 'store pick' is the result: the specific bottle that comes out of a single session within that program."
