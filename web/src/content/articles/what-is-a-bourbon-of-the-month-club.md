@@ -16,8 +16,8 @@ author: "Pour Picks"
 relatedSlugs:
   - "what-is-a-bourbon-private-barrel-program"
   - "how-does-the-kentucky-bourbon-trail-work"
+  - "what-is-a-distillery-exclusive-bourbon"
   - "bourbon-age-statement-vs-nas"
-  - "how-to-buy-bourbon-at-auction"
 faqs:
   - q: "Is a bourbon of the month club worth it for serious collectors?"
     a: "It depends on your goals. Subscription boxes are best for discovery, finding bottles you'd never seek out on your own. Distillery VIP clubs are better for collectors who want early access to limited releases or barrel picks. Neither replaces targeted hunting, but both can fill gaps in a cellar and surface overlooked expressions."

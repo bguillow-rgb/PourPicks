@@ -17,7 +17,7 @@ relatedSlugs:
   - "how-to-buy-bourbon-at-auction"
   - "what-is-a-whiskey-thief"
   - "what-is-a-bourbon-of-the-month-club"
-  - "bourbon-age-statement-vs-nas"
+  - "what-is-a-distillery-exclusive-bourbon"
 faqs:
   - q: "Is participating in a bourbon bottle split legal?"
     a: "For informal among-friends splits, legality is generally not an issue, you're not selling alcohol, just sharing costs on a purchase. Commercial or large-scale splits that involve profit or cross state lines can enter gray legal territory. Always run splits as not-for-profit cost-shares, never as a resale operation, and check your state's alcohol laws if you're shipping samples."
