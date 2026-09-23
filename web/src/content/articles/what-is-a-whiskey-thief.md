@@ -1,5 +1,5 @@
 ---
-title: "What Is a Whiskey Thief? A Bourbon Collector's Guide to the Barrel-Sampling Tool"
+title: "What Is a Whiskey Thief?"
 seoTitle: "What Is a Whiskey Thief? A Bourbon Collector's Guide"
 description: "A whiskey thief is a long tube used to draw samples directly from aging barrels. Learn how it works, why collectors care, and what it reveals about a bourbon."
 tier: "detail"
@@ -38,7 +38,7 @@ If you've been following the world of [bourbon barrel picks](/articles/how-to-do
 
 ---
 
-## "Okay, but how does it actually work -- is there a trick to it?"
+## "Okay, but how does it actually work, is there a trick to it?"
 
 *A question we hear often:* The mechanism is simple. You insert the thief through the bung hole at the head of a barrel, submerging it into the liquid. Then you place your thumb (or close a valve on fancier models) over the opening at the top. This creates a partial vacuum that holds the liquid inside the tube. Lift it out, release your thumb over a glass, and the sample drops cleanly in.
 
@@ -64,7 +64,7 @@ For collectors attending barrel pick events, getting to taste straight from the 
 
 ---
 
-## "Why do distillers use one so often during aging -- what are they actually checking?"
+## "Why do distillers use one so often during aging, what are they actually checking?"
 
 *Readers frequently ask* this one because the barrel-pick experience feels like the main context, but distillers pull samples far more regularly than most collectors realize.
 
@@ -100,7 +100,7 @@ Even collectors who don't home-age may want a thief for display or reference. Co
 
 ---
 
-## "Does a whiskey thief sample ever make it into my bottle -- or is it purely for evaluation?"
+## "Does a whiskey thief sample ever make it into my bottle, or is it purely for evaluation?"
 
 *A question we hear often:* The thief only extracts; it doesn't add anything. The sample drawn is simply a small quantity of the whiskey already in the barrel, and pulling a few ounces for evaluation doesn't meaningfully alter the barrel's character or final yield. A standard 53-gallon barrel holds roughly 200+ liters; a thief sample of 30-60ml is negligible.
 

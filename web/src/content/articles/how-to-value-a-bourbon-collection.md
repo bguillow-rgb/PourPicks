@@ -77,7 +77,3 @@ Whatever you decide, the prerequisite is the same: a current, documented, per-bo
 Valuation is exactly the kind of task that decays the moment you stop doing it by hand. You price everything once in a burst of motivation, then buy six more bottles, open three, and the spreadsheet is stale within a season.
 
 A cellar app keeps the math live. Record purchase price as you add each bottle, update current value when you think to, and the totals stay current as the collection changes. [Pour Picks](https://apps.apple.com/us/app/pour-picks/id6764040132) tracks per-bottle purchase price and overall cellar value, so cost basis and current value sit side by side instead of in a number you half-remember. If you are early in building the collection, [how to start a bourbon cellar](/articles/how-to-start-a-bourbon-cellar) covers the foundation, and [the best bourbon cellar apps](/articles/best-bourbon-cellar-apps) compares which tools handle value tracking well.
-
----
-
-*Pour Picks is a free iOS app for bourbon collectors. Scan any bottle to add it to your cellar, record what you paid, and track your collection's value over time. [Download on the App Store](https://apps.apple.com/us/app/pour-picks/id6764040132).*

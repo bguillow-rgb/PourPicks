@@ -120,7 +120,7 @@ Whiskybase calls itself the world's largest whisky database, with coverage down 
 
 Disclosure, again: we publish this article and we build this app.
 
-Pour Picks is iPhone-only, free to download, currently version 1.1.2. Its catalog covers about 4,700 American whiskeys. It starts with a short quiz that builds your palate profile: sweet or spicy, easy sipper or cask strength. Every bottle you open then shows how it fits that profile in plain language, so the next bottle you buy is less of a guess.
+Pour Picks is iPhone-only, free to download, currently version 1.1.2. Its catalog covers thousands of American whiskeys. It starts with a short quiz that builds your palate profile: sweet or spicy, easy sipper or cask strength. Every bottle you open then shows how it fits that profile in plain language, so the next bottle you buy is less of a guess.
 
 You add bottles by pointing the camera at the label. The AI reads it and you fix anything it got wrong before it goes in your cellar. That works for [store picks](/articles/what-is-a-bourbon-store-pick) and bottles with no barcode. Pour Tonight suggests something to open from what you already own. The [bourbon inventory app](/bourbon-inventory-app) page goes further into how cataloging works.
 

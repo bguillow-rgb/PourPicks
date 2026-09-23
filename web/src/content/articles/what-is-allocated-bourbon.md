@@ -1,5 +1,6 @@
 ---
-title: "What Is Allocated Bourbon? A Collector's Complete Guide"
+title: "What Is Allocated Bourbon?"
+seoTitle: "What Is Allocated Bourbon? A Collector’s Complete Guide"
 description: "Allocated bourbon is rationed by distributors due to limited supply. Learn how the system works, why bottles are so hard to find, and how to improve your odds."
 tier: "detail"
 targetQuery: "what is allocated bourbon"

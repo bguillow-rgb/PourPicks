@@ -1,7 +1,7 @@
 ---
 title: "What Is Bourbon and Branch? The History, the Limestone Science, and How Collectors Should Drink It"
 seoTitle: "What Is Bourbon and Branch? History & How to Drink It"
-description: "Bourbon and branch is whiskey served with pure, iron-free water — a tradition rooted in Kentucky's limestone geology. Here's the history, the science, and how to do it right."
+description: "Bourbon and branch is whiskey cut with plain, iron-free water, a habit rooted in Kentucky's limestone springs. This covers the history, the science, and how to pour it right."
 tier: "detail"
 targetQuery: "what is bourbon and branch"
 relatedQueries:

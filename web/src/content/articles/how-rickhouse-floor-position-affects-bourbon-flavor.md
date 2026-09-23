@@ -1,7 +1,7 @@
 ---
-title: "How Rickhouse Floor Position Affects Bourbon Flavor: A Collector's Guide to Top, Middle, and Bottom"
+title: "How Rickhouse Floor Position Affects Bourbon Flavor"
 seoTitle: "How Rickhouse Floor Position Affects Bourbon Flavor"
-description: "Top floors run hot and bold; bottom floors age slow and soft. Learn exactly how rickhouse position shapes proof, oak, and flavor — and what it means for your cellar."
+description: "Top floors run hot and age bold; bottom floors stay cool and soft. Where a barrel sits in the rickhouse shapes its proof, oak, and flavor, and what ends up in your glass."
 tier: "detail"
 targetQuery: "how does rickhouse floor position affect bourbon flavor"
 relatedQueries:
@@ -121,20 +121,3 @@ When building a collection theme: a rickhouse floor vertical, same distillery, s
 Pour Picks lets you log the floor and rickhouse number directly in a bottle's notes field, so you can spot patterns across your picks over time without losing that data to a paper tag you'll eventually misplace.
 
 ---
-
-## 5 FAQs about rickhouse floor position
-
-Does rickhouse floor position really change the taste of bourbon?
-Yes, significantly. Top floors run hotter and drier, which accelerates oak extraction and raises proof. Bottom floors stay cooler and more humid, producing softer, lower-proof whiskey. The difference between the same recipe aged on floor 1 versus floor 7 can be dramatic: different color, proof, and flavor character.
-
-What floor of a rickhouse produces the boldest bourbon?
-Upper floors, typically floors 5 through 9 in a traditional multi-story rickhouse, produce the boldest, highest-proof bourbon. Intense summer heat forces water out of the barrel and drives whiskey deep into the wood, creating concentrated oak, spice, and dark fruit notes.
-
-Which floor is considered the "sweet spot" for bourbon aging?
-Middle floors, roughly floors 3 through 5 depending on the rickhouse height, are widely regarded as the sweet spot. Temperatures are moderate, humidity is balanced, and the aging curve is neither too aggressive nor too slow. Many distillers target the center-cut for flagship and limited releases.
-
-Why do bottom-floor barrels sometimes lose proof over time?
-In cool, humid conditions near the ground, water molecules from the surrounding air can actually permeate the barrel and dilute the spirit, while alcohol evaporates at a relatively higher rate. A barrel that enters at 125 proof can exit well below that after years on a low floor, sometimes dropping to 99 proof or lower.
-
-Do all distilleries use floor position the same way?
-No. Some distilleries, like Maker's Mark, rotate barrels between floors to even out the effect and produce consistent results. Others, like Four Roses, use single-story warehouses to eliminate floor variation altogether. Many distilleries embrace the variation, drawing from multiple floors when blending to build complexity and depth.

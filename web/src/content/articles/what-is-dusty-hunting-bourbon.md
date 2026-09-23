@@ -1,5 +1,6 @@
 ---
-title: "What Is Dusty Hunting? A Bourbon Collector's Guide"
+title: "What Is Dusty Hunting?"
+seoTitle: "What Is Dusty Hunting? A Bourbon Collector’s Guide"
 description: "Dusty hunting is the art of finding discontinued, out-of-production bourbon bottles in old liquor stores. Learn the signals, the lore, and what makes a dusty worth buying."
 tier: "detail"
 targetQuery: "what is dusty hunting bourbon"

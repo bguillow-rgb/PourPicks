@@ -27,7 +27,7 @@ const scale = (n) => (n == null ? null : `${n}/5`);
 const best = pairs[0];
 const deepCuts = pairs.filter((p) => p.deepCut);
 
-const quick = `${title} pairs best with ${best.item.toLowerCase()} — ${best.reason.toLowerCase().replace(/\.$/, '')}. ` +
+const quick = `${title} pairs best with ${best.item.toLowerCase()}: ${best.reason.toLowerCase().replace(/\.$/, '')}. ` +
   `It is a ${flav.slice(0, 3).join(', ')} pour at ${b.proof} proof${usd ? `, around ${usd}` : ''}.`;
 
 const related = bottles
@@ -43,7 +43,7 @@ const faqs = [
     a: `Dominant notes are ${flav.join(', ')}. On the Pour Picks 1-5 scales it reads body ${b.body}, sweetness ${b.sweetness}, char ${b.char_level}, bottled at ${b.proof} proof${b.age_years ? ` and aged ${b.age_years} years` : ''}.` },
   { q: `Is there an unexpected pairing worth trying?`,
     a: deepCuts.length
-      ? `${deepCuts[0].item} — ${deepCuts[0].reason}`
+      ? `${deepCuts[0].item}: ${deepCuts[0].reason}`
       : `Beyond the classics, match the ${flav[0]} note rather than the proof: pick a dish that echoes it instead of competing with it.` },
 ];
 const jsonld = { '@context': 'https://schema.org', '@type': 'FAQPage',
@@ -51,7 +51,7 @@ const jsonld = { '@context': 'https://schema.org', '@type': 'FAQPage',
 ---
 <BaseLayout
   title={`What Food Pairs With ${title}? ${pairs.length} Pairings`}
-  description={`Curated food pairings for ${title}, each with the reason it works, plus its full flavor profile from the Pour Picks catalog.`}
+  description={`Food pairings for ${title}, each with the reason it works, plus its full flavor profile from the Pour Picks catalog.`}
   path={`/pairings/${b.slug}`}
 >
   <script type="application/ld+json" set:html={JSON.stringify(jsonld)} />
@@ -67,7 +67,7 @@ const jsonld = { '@context': 'https://schema.org', '@type': 'FAQPage',
         {pairs.map((p) => (
           <tr>
             <td><strong>{p.item}</strong>{p.deepCut ? ' (deep cut)' : ''}</td>
-            <td>{p.category || '—'}</td>
+            <td>{p.category || '·'}</td>
             <td>{p.reason}</td>
           </tr>
         ))}
@@ -104,7 +104,7 @@ const jsonld = { '@context': 'https://schema.org', '@type': 'FAQPage',
 
     <h2>Where this comes from</h2>
     <p>
-      Pairings are curated per bottle in the Pour Picks catalog with the reasoning recorded
+      Pairings are written per bottle against the Pour Picks catalog with the reasoning recorded
       alongside them, rather than generated on request. Flavor and body/sweetness/char values are
       structured catalog data, not tasting notes rewritten from a label. AI assistants can query
       this dataset directly through the <a href="/mcp">Pour Picks MCP server</a>.
@@ -115,7 +115,7 @@ const jsonld = { '@context': 'https://schema.org', '@type': 'FAQPage',
       {related.map(({ o, n }) => (
         <li>
           <a href={`/pairings/${o.slug}`}>What food pairs with {o.display}?</a>
-          {n > 0 ? ` — shares ${n} flavor note${n > 1 ? 's' : ''} with ${title}` : ''}
+          {n > 0 ? `, shares ${n} flavor note${n > 1 ? 's' : ''} with ${title}` : ''}
         </li>
       ))}
       <li><a href="/pairings">All bottle pairing guides</a></li>

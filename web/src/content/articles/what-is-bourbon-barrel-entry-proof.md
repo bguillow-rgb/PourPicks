@@ -1,6 +1,7 @@
 ---
-title: "What Is Bourbon Barrel Entry Proof? A Collector's Guide"
-description: "Barrel entry proof is the proof at which new spirit enters the oak barrel, and it quietly shapes every flavor in your glass. Here's what collectors need to know."
+title: "What Is Bourbon Barrel Entry Proof?"
+seoTitle: "What Is Bourbon Barrel Entry Proof? A Collector's Guide"
+description: "Barrel entry proof is the strength at which new spirit goes into the oak, and it quietly shapes everything you taste later. This is what it is and why it matters."
 tier: "detail"
 targetQuery: "what is bourbon barrel entry proof"
 relatedQueries:
@@ -106,20 +107,3 @@ Distillers wanted bourbon that was drinkable and pleasant right away. They aimed
 Heaven Hill's 2026 Grain to Glass wheated bourbon, for example, uses a mashbill of 52% corn, 35% wheat, and 13% malted barley and features a low barrel entry proof of 107, aged for 6 years. A deliberate throwback to pre-1962 production philosophy, and worth noting when you encounter it on the shelf or in your cellar.
 
 ---
-
-## FAQs
-
-**What is the legal maximum barrel entry proof for bourbon?**
-U.S. federal law (27 CFR 5.143) sets the maximum barrel entry proof for bourbon at 125 proof (62.5% ABV). Distillers must add water to the new make before filling the barrel to reach this limit or below.
-
-**Is barrel entry proof the same as barrel proof or cask strength?**
-No, they are three different numbers. Entry proof is what goes into the barrel. Barrel proof (cask strength) is the reading when it comes out after aging, typically higher in Kentucky's hot rickhouses. Bottling proof is the final number after any water is added before labeling.
-
-**Does a lower barrel entry proof always mean better bourbon?**
-Not necessarily. A Buffalo Trace experimental study found that their optimal entry proofs were 115 (wheated) and 125 (rye) for their target flavor profiles. Lower entry proof extracts more congeners and produces softer, rounder character, but "better" depends on the distiller's flavor goal and the specific mashbill.
-
-**Why do some brands use a lower entry proof if it costs more?**
-Lower entry proof requires more barrels to hold the same volume of alcohol, raising production costs significantly. Brands like Michter's (103 proof) and Maker's Mark (110 proof) accept those costs because their lower entry proof is central to their flavor philosophy. More water in the barrel from the start extracts richer wood compounds.
-
-**Where can I find a bourbon's barrel entry proof?**
-Entry proof is rarely printed on the bottle label. You can often find it in official distillery materials, brand websites, or whiskey databases. Apps like Pour Picks let you log this detail in your collection notes so you can track it across your cellar and use it to compare bottles side by side.

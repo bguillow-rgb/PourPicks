@@ -1,5 +1,5 @@
 ---
-title: "How Annual Bourbon Releases Work: A Collector's Guide to Release Seasons, Allocation Cycles, and Planning Your Cellar"
+title: "How Annual Bourbon Releases Work"
 seoTitle: "How Annual Bourbon Releases Work: A Collector's Guide"
 description: "Annual bourbon releases follow predictable seasonal windows. Learn how fall drops, quarterly batches, and allocation cycles work so you can plan smarter and miss fewer bottles."
 tier: "detail"
@@ -94,20 +94,3 @@ The simplest framework is to treat fall as a capital-intensive quarter and build
 A useful exercise is building a tiered annual wishlist: bottles you'll actively pursue and pay retail for (tier 1), bottles you'd add at retail if the opportunity arose (tier 2), and bottles you'd consider on the secondary market only at a specific ceiling price (tier 3). Reviewing this list quarterly against the release calendar keeps you from overextending in fall and lets you capitalize on the quieter spring and summer windows when competition is lower and deals sometimes surface. Tools that help you [organize your bourbon collection](/articles/how-to-organize-a-bourbon-collection) by acquisition date and price paid make this kind of seasonal review much easier to execute.
 
 ---
-
-## FAQs
-
-**When do most allocated bourbons come out each year?**
-The heaviest window is September through December. Flagship releases like the Buffalo Trace Antique Collection typically ship to distributors in October, while Pappy Van Winkle usually reaches retail in November. Spring and summer see far fewer major drops.
-
-**How far in advance do distilleries announce annual releases?**
-It varies widely. Some brands announce in summer for fall drops, giving collectors 2-4 months of lead time. Others, notably Michter's, release with little or no advance notice. Watching TTB label approvals is one way to spot upcoming releases before official announcements.
-
-**Do annual bourbon releases always come out the same time every year?**
-Roughly, but not exactly. Release windows shift by a few weeks each year based on production schedules, distribution logistics, and state-level allocation timing. Treat published dates as estimates, not guarantees, and confirm with your local retailer.
-
-**What's the difference between an annual release and a quarterly batch release?**
-Annual releases (like Four Roses Limited Edition or Old Forester Birthday Bourbon) drop once per year in a single production run. Quarterly batches (like Booker's Bourbon, which releases four named batches per year) arrive multiple times annually with different flavor profiles each time.
-
-**How do I know if I'm on the right retailer list for annual releases?**
-Ask your local store directly whether they receive allocation for the specific bottles you want, and what, if anything, they require from customers to be considered. Many stores use purchase history, loyalty programs, or waitlists. Building a genuine relationship with store staff year-round, not just during release season, is the most reliable strategy.

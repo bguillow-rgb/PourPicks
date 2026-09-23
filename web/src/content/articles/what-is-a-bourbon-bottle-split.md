@@ -1,5 +1,5 @@
 ---
-title: "What Is a Bourbon Bottle Split? A Collector's Guide to Sampling Rare Pours Without Buying the Whole Bottle"
+title: "What Is a Bourbon Bottle Split?"
 seoTitle: "What Is a Bourbon Bottle Split? A Collector's Guide"
 description: "A bourbon bottle split lets collectors divide one bottle into sample-sized portions and share the cost. Learn how splits work, what to expect, and how to run one fairly."
 tier: "detail"
@@ -136,20 +136,3 @@ If you're [tracking your cellar with a bourbon inventory app](/bourbon-inventory
 Splits also connect naturally to [how to build a bourbon rotation](/articles/how-to-build-a-bourbon-rotation): instead of guessing whether a potential daily drinker is worth buying a full bottle of, split a sample first and let the liquid make the case.
 
 ---
-
-## 5 Quick FAQs
-
-Is participating in a bourbon bottle split legal?
-For informal among-friends splits, legality is generally not an issue. You're sharing costs on a purchase, not selling alcohol commercially. Large-scale or cross-state shipping operations can enter gray legal territory. Run every split as a not-for-profit cost-share, never a resale operation, and check your state's alcohol regulations if you're shipping samples.
-
-How much does a typical bourbon bottle split cost per person?
-Your share equals the bottle's cost divided by participants, plus a small materials-and-shipping surcharge (usually $2-5 per person). A $150 bottle split six ways lands at roughly $25-30 per person for a 100 ml pour, a meaningful saving over buying the whole bottle, especially at secondary-market prices.
-
-What size samples are typical in a bourbon bottle split?
-The most common portions are 30 ml (one standard pour), 50 ml (airline-bottle equivalent), and 100 ml (about three pours). A 750 ml bottle yields roughly 7 x 100 ml portions or up to 25 x 30 ml samples, once you account for measurement variance and the organizer's host pour.
-
-Where do bourbon collectors find bottle splits to join?
-The most active split communities are on Reddit (r/bourbon and r/whiskey), Discord servers tied to bourbon collecting groups, and Facebook groups organized by region or brand. Local tasting clubs and whiskey enthusiast forums also host regular splits, often with faster turnaround when members are local enough for hand-off.
-
-What should I look for in a trustworthy split organizer?
-Prioritize organizers with an established community post history or verified trade record, transparent upfront pricing that covers only costs with no profit margin, a clear timeline for when the split will be poured and shipped, and photos of the sealed bottle before opening. Pass on any organizer who won't share those photos or who prices noticeably above cost recovery.

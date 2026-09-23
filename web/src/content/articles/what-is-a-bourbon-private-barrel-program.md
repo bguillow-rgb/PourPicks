@@ -1,5 +1,5 @@
 ---
-title: "What Is a Bourbon Private Barrel Program? A Collector's Guide to How They Work, What They Cost, and Whether They're Worth It"
+title: "What Is a Bourbon Private Barrel Program?"
 seoTitle: "What Is a Bourbon Private Barrel Program?"
 description: "A bourbon private barrel program lets a retailer, club, or group hand-select one specific cask. Learn how they work, what major distilleries offer, and what collectors should know."
 tier: "detail"
@@ -108,20 +108,3 @@ A purpose-built tool like [Pour Picks](/bourbon-inventory-app) lets you log all 
 If you're specifically interested in the day-of experience at the distillery, our article on [how to do a bourbon barrel pick](/articles/how-to-do-a-bourbon-barrel-pick) covers tasting strategy, what to look for across candidate barrels, and how to negotiate proof and yield with the distillery team.
 
 ---
-
-## FAQs
-
-**What is the difference between a private barrel program and a regular store pick?**
-The terms are often used interchangeably, but "private barrel program" usually refers to the distillery's formal, structured offering, with set barrel inventories, proof options, and label rules. A "store pick" is the result: the specific bottle that comes from a single session within that program.
-
-**How much does it cost to participate in a bourbon private barrel program?**
-Costs vary widely by distillery and barrel age. Entry-level programs can run $5,000, $8,000 for a full barrel yield; premium or older expressions can reach $15,000, $20,000 or more per barrel. Those costs are almost always split across a retailer's customer group or a whiskey club membership.
-
-**Can an individual collector participate in a private barrel program, or is it only for retailers?**
-Most programs legally require a licensed retailer or distributor as the named purchaser. However, private groups and bourbon clubs regularly partner with a local retailer who acts as the legal buyer, then splits the bottles among the group, a common and accepted arrangement at virtually every major distillery.
-
-**Do private barrel program bottles have more collector value than standard single barrels?**
-Often yes, especially when the selector has a strong reputation or the barrel represents an unusual profile for that brand. Secondary auction data shows that well-regarded store picks from programs like Four Roses, Buffalo Trace, and Blanton's can trade at multiples of retail, sometimes significantly higher than the distillery's own nationally distributed single barrels.
-
-**How do I track the private barrel picks in my collection and know what I paid versus what they're worth now?**
-A dedicated bourbon cellar app like [Pour Picks](/bourbon-inventory-app) lets you log each barrel-pick bottle individually, record the barrel number, selector, and purchase price, and monitor estimated current value, far more practical than a spreadsheet when you're managing a cellar with multiple private picks from different programs and distilleries.

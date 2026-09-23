@@ -1,7 +1,7 @@
 ---
-title: "What Is Heirloom Grain Bourbon? A Collector's Guide to Heritage Varietals, Flavor Impact, and Why Distillers Are Digging Into the Past"
+title: "What Is Heirloom Grain Bourbon?"
 seoTitle: "What Is Heirloom Grain Bourbon? A Collector's Guide"
-description: "Heirloom grain bourbon uses pre-industrial crop varietals — spelt, Balboa rye, Red Turkey wheat — for distinct flavor and terroir. Here's what collectors need to know."
+description: "Heirloom grain bourbon leans on pre-industrial varietals like spelt, Balboa rye, and Red Turkey wheat for flavor and terroir. This covers what that changes in the glass."
 tier: "detail"
 targetQuery: "what is heirloom grain bourbon"
 relatedQueries:
@@ -110,20 +110,3 @@ Consumers in 2026 are asking more questions and getting more informed. As one in
 Understanding how [mash bill](/articles/what-is-mash-bill) shapes bourbon flavor is the foundation that makes heirloom grain discussions land properly. If the concept of flavoring grains is new to you, that's the place to start before diving into specific varietals.
 
 ---
-
-## FAQs
-
-**Does heirloom grain bourbon taste noticeably different from standard bourbon?**
-Yes, though the degree depends on the grain and where it sits in the mash bill. Heritage grains preserved more complex secondary compounds (oils, proteins, sugars) that modern monoculture bred out in favor of yield. The result can be nuttier, creamier, or more floral than a commodity-grain equivalent aged identically.
-
-**Is "grain to glass" the same thing as heirloom grain?**
-Not necessarily. Grain to glass means the distillery sources and mills its own grain, controlling the full supply chain. The grain itself may or may not be an heirloom varietal. Heaven Hill's Grain to Glass program spotlights specific heritage wheat seed types grown locally, so it qualifies as both, but many grain-to-glass programs use modern commodity strains.
-
-**What heirloom grains are distillers actually using right now?**
-Common varieties in 2026 include Balboa rye (a 1940s-era strain revived by New Riff), spelt and emmer wheat (used by Buffalo Trace in the Daniel Weller series), Red Turkey wheat (used by New Riff), heirloom hard red wheat (used by Heaven Hill), and heirloom corn varieties like Bloody Butcher (used by several craft distillers). Each brings different aromatic and textural qualities.
-
-**Are heirloom grain bourbons worth more on the secondary market?**
-Generally yes, because production runs are small and the grain supply itself is limited. A release like Daniel Weller Spelt or Heaven Hill's Grain to Glass carries a built-in scarcity premium. Whether they appreciate depends on the distillery's reputation and the reception of specific batches, the same calculus as any limited release.
-
-**How can I tell if a bourbon uses heirloom grains from the label?**
-Labels rarely say "heirloom grain" outright. Look for phrases like "estate grain," "heritage varietal," "single origin," a named grain variety (spelt, emmer, Balboa rye), or a farm-specific callout. Some distilleries put this information on back labels or tech sheets; others share it only through tasting notes and press releases.

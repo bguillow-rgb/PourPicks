@@ -1,7 +1,7 @@
 ---
-title: "What Is Wheat Whiskey? A Collector's Guide to America's Most Misunderstood Whiskey Category"
+title: "What Is Wheat Whiskey?"
 seoTitle: "What Is Wheat Whiskey? The Collector's Guide (2026)"
-description: "Wheat whiskey isn't just wheated bourbon by another name. Learn how TTB rules, mash bills, and flavor differ — and why bottles like Bernheim belong in your cellar."
+description: "Wheat whiskey is not just wheated bourbon under another name. TTB rules, mash bills, and flavor all differ, which is why a bottle like Bernheim earns its own shelf spot."
 tier: "detail"
 targetQuery: "what is wheat whiskey"
 relatedQueries:
@@ -103,20 +103,3 @@ If your cellar skews heavily toward high-proof, high-rye expressions, think Book
 From a cellar-value standpoint, the wheat whiskey category is small enough that well-aged expressions from limited releases attract meaningful collector attention. The secondary market for these bottles has historically been more subdued than for equivalent-age bourbons, but that gap has been narrowing as the category earns wider recognition. Buying at retail while the category is still underappreciated and holding an aged expression is a reasonable position for the collector who also genuinely wants to drink it. That intersection of drinkability and collectability is exactly what well-built cellars are built around.
 
 ---
-
-## FAQs
-
-**Is wheat whiskey the same as wheated bourbon?**
-No. Wheated bourbon still has at least 51% corn -- wheat just replaces rye as the secondary flavoring grain. Wheat whiskey flips that hierarchy: it must be made from at least 51% wheat, so corn is optional or minor. They are legally separate TTB categories with different flavor profiles.
-
-**What does wheat whiskey taste like?**
-Wheat whiskey tends toward light sweetness, baked bread or pastry aromas, soft vanilla, and gentle fruit, with little to no rye spice. The texture is often described as creamy and round. Compared to a standard bourbon, it's understated on the palate -- elegant rather than bold.
-
-**What is the most popular wheat whiskey in the United States?**
-Bernheim Original Kentucky Straight Wheat Whiskey, distilled by Heaven Hill and released in 2005, is the most recognized American wheat whiskey. It uses winter wheat as the dominant grain, carries a 7-year age statement (since 2014), and is widely available at many retailers.
-
-**Can wheat whiskey be called bourbon?**
-No. A bourbon must be made from a mash bill of at least 51% corn. Because wheat whiskey leads with wheat rather than corn, it cannot legally be labeled as bourbon, even if it meets every other bourbon requirement (new charred oak, distilled in the U.S., proper proof limits).
-
-**Is wheat whiskey worth collecting?**
-Wheat whiskey is underrepresented in most cellars, which makes well-aged expressions interesting collector targets. Because the category is small and dominated by a handful of producers, limited releases attract genuine attention. Older expressions in particular tend to age gracefully, developing complex caramel and dried-fruit notes.

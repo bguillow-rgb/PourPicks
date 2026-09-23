@@ -1,7 +1,7 @@
 ---
-title: "What Is Craft Bourbon? A Collector's Guide to the Term, the Truth, and What It Actually Means for Your Cellar"
+title: "What Is Craft Bourbon?"
 seoTitle: "What Is Craft Bourbon? A Collector's Guide"
-description: "Craft bourbon has no legal definition — here's what the term actually means, how to spot genuine craft production, and what collectors should know before buying."
+description: "Craft bourbon has no legal definition, so the word does a lot of quiet work. This is what it actually means, how to spot real craft production, and what to check before buying."
 tier: "detail"
 targetQuery: "what is craft bourbon"
 relatedQueries:

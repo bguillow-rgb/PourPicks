@@ -1,7 +1,7 @@
 ---
-title: "Should You Open or Keep Your Bourbon Sealed? A Collector's Decision Guide"
+title: "Should You Open or Keep Your Bourbon Sealed?"
 seoTitle: "Should You Open or Keep Bourbon Sealed? A Guide"
-description: "Open it or hold it? Learn the signals, rules of thumb, and collector frameworks for deciding when a sealed bourbon bottle is worth cracking — and when to wait."
+description: "Crack it or hold it? This lays out the signals, rules of thumb, and collector frameworks for deciding when a sealed bottle is worth opening and when to leave it be."
 tier: "detail"
 targetQuery: "should i open or keep bourbon sealed"
 relatedQueries:
@@ -135,20 +135,3 @@ If your cellar is 80%+ sealed bottles with no specific plan for any of them, you
 The bourbon was made to be experienced. Use your cellar to drink better, not just to own more.
 
 ---
-
-## 5 Quick FAQs
-
-**Does a sealed bottle of bourbon improve with age?**
-No. Bourbon stops maturing the moment it leaves the barrel. A sealed bottle held for a decade will taste the same as it did on release day, assuming proper storage, not better.
-
-**Does opening a bottle ruin its collector value?**
-Yes, for resale purposes. An opened bottle is graded down significantly on the secondary market. If you intend to drink it, that doesn't matter, but the seal is a one-way door for value.
-
-**How long does bourbon last once opened?**
-Properly resealed and kept at or below room temperature with limited light exposure, an opened bottle can last one to two years or longer. The emptier the bottle, the faster flavor degrades due to increased oxygen contact.
-
-**Which sealed bourbons are actually worth holding for value?**
-Bottles with consistent auction demand, Pappy Van Winkle, Buffalo Trace Antique Collection expressions, and select annual limited releases, can hold or appreciate. Most allocated and limited bottles do not.
-
-**Should I keep a backup sealed bottle of my favorite bourbon?**
-One backup of a discontinued or recipe-changed expression is sensible as a reference bottle. Holding multiples of current-production bottles typically doesn't pay off in flavor, value, or experience.

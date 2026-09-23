@@ -1,6 +1,6 @@
 ---
-title: "What Are Heads, Hearts, and Tails in Bourbon? A Collector's Guide to Distillation Cuts"
-description: "Heads, hearts, and tails are the three fractions of a bourbon distillation run. The hearts are what ends up in your bottle — here's why the cut matters for flavor."
+title: "What Are Heads, Hearts, and Tails in Bourbon?"
+description: "Heads, hearts, and tails are the three fractions of a distillation run. Only the hearts go in the bottle, and where the distiller makes the cut decides the flavor."
 tier: "detail"
 targetQuery: "what are heads hearts and tails in bourbon"
 relatedQueries:
@@ -110,20 +110,3 @@ Yes, and it's one of the reasons a detailed tasting journal pays off over time. 
 For collectors who track multiple expressions from the same distillery across different years or proof points, noting whether a bottle leans fruity-and-floral versus earthy-and-oily is genuinely useful provenance information. If you're using [Pour Picks](/bourbon-inventory-app) to log your collection, the free-text tasting notes field is the right place to capture these impressions, especially on distillery-exclusive picks or single barrels where house cut philosophy shows through more clearly than in a batched expression built for consistency. Over time, those notes become a personal map of which producers make the cuts that match your palate.
 
 ---
-
-## FAQs
-
-**What are the heads in bourbon distillation?**
-The heads are the first fraction to come off the still. They contain volatile compounds like acetaldehyde and acetone, the source of nail-polish-remover aromas, and small amounts of methanol. Distillers discard most of the heads before collecting the usable spirit.
-
-**What is the hearts cut and why does it matter for flavor?**
-The hearts are the clean, flavorful middle portion of the distillation run, the fraction that gets barreled and eventually bottled. A wider hearts cut means more congeners and complexity; a tighter cut produces a cleaner, lighter spirit. Where a distiller draws that line is one of the most closely guarded decisions in production.
-
-**What are the tails in bourbon and are they dangerous?**
-The tails are the final portion of the run. They contain heavier fusel alcohols and little ethanol, giving them an oily, bitter quality. They're not dangerous in normal quantities, but undesirable in large amounts. Some distillers recycle a small amount of tails back into the next run to add body and complexity.
-
-**How do distillation cuts affect the taste of bourbon?**
-Cuts determine which chemical compounds reach the barrel. A distiller who runs a wider hearts cut pulls in more congeners, producing a more full-bodied, complex spirit after aging. A narrow, precise cut yields a lighter, cleaner bourbon. The same mashbill distilled with different cut points can taste noticeably different in the finished bottle.
-
-**Do bourbon distilleries distill once or twice?**
-Most bourbon distilleries use a two-step process: a column still (beer still) strips alcohol from the fermented mash into a low wine, then a doubler or thumper makes a second pass to concentrate and refine the spirit. The practical heads-hearts-tails separation happens primarily in that second distillation stage.

@@ -1,5 +1,5 @@
 ---
-title: "Does Bourbon Have Terroir? A Collector's Guide to Grain Origin, Water, Climate, and What Place Actually Does to the Pour"
+title: "Does Bourbon Have Terroir?"
 seoTitle: "Does Bourbon Have Terroir? A Collector's Guide"
 description: "Bourbon terroir is real but works differently than wine. Learn how grain origin, limestone water, regional climate, and rickhouse location shape what's in your glass."
 tier: "detail"
@@ -122,20 +122,3 @@ That said, terroir becomes more audible at the extremes: in younger, lightly age
 Cask strength releases, increasingly prized by collectors for their authenticity and flavor concentration, also tend to amplify whatever place-based character the spirit carries, since nothing dilutes it.
 
 ---
-
-## FAQs
-
-**Does terroir in bourbon work the same way as terroir in wine?**
-No. Wine terroir is primarily driven by grape variety and the soil it grows in. Bourbon terroir is more diffuse, spread across grain origin, water chemistry, fermentation conditions, regional climate, and warehouse placement. The barrel exerts a stronger unifying influence than any single environmental factor, making bourbon terroir subtler but still real.
-
-**Does it matter where the corn in a bourbon mash bill comes from?**
-Research suggests it can. A peer-reviewed *PLOS One* study found that corn variety and growing location both influenced key flavor compounds, particularly esters and aldehydes, in new-make bourbon spirit, even before barrel aging began. Distillers who use single-farm or heirloom corn report detectable differences in the finished whiskey.
-
-**Why is Kentucky water important for bourbon flavor?**
-Kentucky's limestone aquifers filter out iron (which can cause off-flavors during fermentation) and add calcium and magnesium, which support healthy yeast activity. This mineral profile has shaped the character of Kentucky bourbon for two centuries and is one reason the state still dominates production.
-
-**What is 'farm-to-glass' bourbon?**
-Farm-to-glass (or grain-to-glass) bourbon is made by distilleries that grow or contract-grow their own grain on specific farms, then ferment, distill, and age on-site. It's the most direct expression of terroir in American whiskey, with every link in the flavor chain controlled and traceable to a named place.
-
-**Does the state where bourbon is distilled affect flavor?**
-Yes, meaningfully. Kentucky's hot summers and cold winters create aggressive heat cycling that pushes spirit in and out of the wood quickly, producing rich vanilla and caramel notes. Texas sees even more extreme temperature swings, compressing maturation timelines but creating bolder profiles. Colorado's altitude and arid climate produce yet another expression of time-in-wood.

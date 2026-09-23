@@ -1,6 +1,7 @@
 ---
-title: "How to Do a Bourbon Barrel Pick: A Collector's Guide"
-description: "A bourbon barrel pick lets you taste and select a single aging barrel bottled exclusively for you. Here's exactly how the process works, what it costs, and how to get access."
+title: "How to Do a Bourbon Barrel Pick"
+seoTitle: "How to Do a Bourbon Barrel Pick: A Collector's Guide"
+description: "A barrel pick lets you taste and choose a single aging barrel bottled just for your group. This walks through how the process works, what it costs, and how to get invited."
 tier: "detail"
 targetQuery: "how to do a bourbon barrel pick"
 relatedQueries:
@@ -21,7 +22,7 @@ faqs:
   - q: "Can an individual buy their own barrel of bourbon directly from a distillery?"
     a: "Not directly. U.S. federal law requires alcohol to move through the three-tier distribution system, producer, distributor, retailer. All private barrel purchases must be transacted through a licensed retailer, even when you select the barrel yourself at the distillery."
   - q: "How many bottles does a private barrel selection typically yield?"
-    a: "At standard 80, 100 proof bottling, a barrel aged 4 to 8 years typically yields between 200 and 240 finished 750ml bottles. Barrel-proof expressions yield fewer bottles because no water is added to extend the volume. Older barrels also yield fewer bottles due to greater angel's share evaporation."
+    a: "At standard 80 to 100 proof bottling, a barrel aged 4 to 8 years typically yields between 200 and 240 finished 750ml bottles. Barrel-proof expressions yield fewer bottles because no water is added to extend the volume. Older barrels also yield fewer bottles due to greater angel's share evaporation."
   - q: "How far in advance do you need to book a private barrel selection?"
     a: "Six months or more is the recommended planning window, especially for spring and fall dates. Programs at leading Kentucky distilleries book out quickly around bourbon tourism peaks like Derby season. Smaller craft distilleries may have shorter lead times."
   - q: "What is the difference between a 'barrel pick' and a 'store pick'?"
@@ -105,20 +106,3 @@ Once your bottles arrive, a barrel pick deserves thorough documentation. Barrel 
 Pour Picks lets you log all of that: custom barrel notes, proof, date acquired, your own tasting impressions, against each bottle in your cellar. If you picked up multiple bottles from the same barrel (common in group buys), you can tag them together and compare notes across pours over time. That's especially useful for watching how a barrel-proof expression changes after opening. If you're building toward a [vertical tasting](https://pourpicks.app/articles/what-is-a-bourbon-vertical-tasting), logging the barrel pick data now makes that project far easier later.
 
 ---
-
-## FAQs
-
-**Can an individual buy their own barrel of bourbon directly from a distillery?**
-Not directly. U.S. federal law requires alcohol to move through the three-tier distribution system: producer, distributor, retailer. All private barrel purchases must be transacted through a licensed retailer, even when you select the barrel yourself at the distillery.
-
-**How many bottles does a private barrel selection typically yield?**
-At standard 80-100 proof bottling, a barrel aged 4-8 years typically yields between 200 and 240 finished 750ml bottles. Barrel-proof expressions yield fewer bottles because no water is added to extend the volume. Older barrels also yield fewer bottles due to greater angel's share evaporation.
-
-**How far in advance do you need to book a private barrel selection?**
-Six months or more is the recommended planning window, especially for spring and fall dates. Programs at leading Kentucky distilleries book out quickly around bourbon tourism peaks like Derby season. Smaller craft distilleries may have shorter lead times.
-
-**What is the difference between a "barrel pick" and a "store pick"?**
-They are the same thing. "Store pick," "private barrel," and "barrel pick" all refer to a single barrel selected by a retailer, bar, restaurant, or group and bottled exclusively with a custom label. The terms are used interchangeably across the industry.
-
-**Does a private barrel pick guarantee a better bourbon than the standard release?**
-Not automatically. A barrel pick is unique, but quality depends heavily on the skill of the selector. If you're buying a store pick rather than selecting yourself, look for retailers with a strong track record, ask for tasting notes, or sample an open bottle if the store provides one.

@@ -1,7 +1,7 @@
 ---
-title: "How Does the Kentucky Bourbon Trail Work? A Collector's Guide to the Trails, the Digital Trip Builder, and Getting the Most Out of Every Stop"
+title: "How Does the Kentucky Bourbon Trail Work?"
 seoTitle: "How Does the Kentucky Bourbon Trail Work? (2026)"
-description: "The Kentucky Bourbon Trail now spans 68+ experiences across two tracks. Here's how the trails work, what replaced the passport, and how collectors plan smarter visits."
+description: "The Kentucky Bourbon Trail now covers 68+ experiences across two tracks. This explains how the trails work, what replaced the paper passport, and how to plan a smarter visit."
 tier: "detail"
 targetQuery: "how does the Kentucky Bourbon Trail work"
 relatedQueries:

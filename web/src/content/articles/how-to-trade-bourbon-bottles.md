@@ -1,7 +1,7 @@
 ---
-title: "How to Trade Bourbon Bottles: A Collector's Guide to Fair Deals, Safe Meetups, and Upgrade Trades"
+title: "How to Trade Bourbon Bottles"
 seoTitle: "How to Trade Bourbon Bottles: A Collector's Guide"
-description: "Learn how to trade bourbon bottles safely and fairly — from valuing your bottles and finding trade partners to structuring upgrade trades and avoiding common scams."
+description: "Trading bourbon safely comes down to a few habits: value your bottles honestly, vet your partner, structure the upgrade, and know the scams. This covers all four."
 tier: "detail"
 targetQuery: "how to trade bourbon bottles"
 relatedQueries:
@@ -22,7 +22,7 @@ faqs:
   - q: "Is trading bourbon bottles legal?"
     a: "The legality varies by state. Most states prohibit private individuals from selling alcohol without a license, but collector-to-collector trades occupy a legal gray area. Many communities frame trades as 'gifting' bottles with no money changing hands. Consult your state's alcohol beverage laws before trading, and never ship bottles across state lines without a licensed carrier."
   - q: "How do I know if a bourbon trade is fair value?"
-    a: "Check current secondary market data from resources like the Bourbon Blue Book, WhiskyFindr, or recent auction results on platforms like Aged in Oak. A fair trade means both bottles are within roughly 10, 15% of each other in real market value, not retail price, which rarely reflects actual demand for allocated releases."
+    a: "Check current secondary market data from resources like the Bourbon Blue Book, WhiskyFindr, or recent auction results on platforms like Aged in Oak. A fair trade means both bottles are within roughly 10 to 15% of each other in real market value, not retail price, which rarely reflects actual demand for allocated releases."
   - q: "Where do collectors find bourbon trade partners?"
     a: "The most active trading communities are Facebook groups dedicated to bourbon trading (many are state- or region-specific), Discord servers, Reddit's r/bourbon, and in-person bottle meets. Always spend time observing a community and checking member feedback before engaging in your first trade."
   - q: "What is an 'upgrade trade' in bourbon collecting?"
@@ -134,20 +134,3 @@ Not every trade is worth completing. Pass (or at minimum, pause) when:
 Keeping a detailed cellar log (what you own, what you paid, what each bottle is worth today) makes every trade decision sharper. Pour Picks tracks all of this in one place, so you're never negotiating blind about your own collection.
 
 ---
-
-## FAQs
-
-**Is trading bourbon bottles legal?**
-The legality varies by state. Most states prohibit private individuals from selling alcohol without a license, but collector-to-collector trades occupy a legal gray area. Many communities frame trades as gifting bottles with no money changing hands. Consult your state's alcohol beverage laws before trading, and never ship bottles across state lines without a licensed carrier.
-
-**How do I know if a bourbon trade is fair value?**
-Check current secondary market data from resources like the Bourbon Blue Book, WhiskyFindr, or recent auction results. A fair trade means both bottles are within roughly 10-15% of each other in real market value, not retail price, which rarely reflects actual demand for allocated releases.
-
-**Where do collectors find bourbon trade partners?**
-The most active trading communities are Facebook groups (many are state-specific), Discord servers, Reddit's r/bourbon, and in-person bottle meets. Always spend time observing a community and checking member feedback before engaging in your first trade.
-
-**What is an "upgrade trade" in bourbon collecting?**
-An upgrade trade is when you combine two or more lower-tier bottles to trade for one higher-tier bottle. It's a common and legitimate strategy for building a more focused cellar without spending additional cash, a two-for-one swap toward a bottle you couldn't find at retail.
-
-**How do I avoid scams when trading bourbon?**
-Start with low-value trades to build trust, meet in person whenever possible, inspect every bottle before completing the trade, and verify the other party's reputation in the community. Never ship bottles first to an unknown party, and be skeptical of any trader unwilling to share community references or meet publicly.

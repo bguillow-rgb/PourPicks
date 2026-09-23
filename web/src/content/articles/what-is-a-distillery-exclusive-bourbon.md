@@ -1,7 +1,7 @@
 ---
-title: "What Is a Distillery Exclusive Bourbon? A Collector's Guide to Gift-Shop-Only Releases"
+title: "What Is a Distillery Exclusive Bourbon?"
 seoTitle: "What Is a Distillery Exclusive Bourbon? (2026 Guide)"
-description: "Distillery exclusive bourbons are bottles sold only at a distillery's gift shop, bypassing normal retail. Here's what collectors need to know before they visit."
+description: "Distillery exclusive bottles are sold only at the gift shop, never through normal retail. This is what to know, and what to look for, before you make the drive."
 tier: "detail"
 targetQuery: "what is a distillery exclusive bourbon"
 relatedQueries:
@@ -139,20 +139,3 @@ According to data from whiskey auction platforms, distillery-exclusive single ba
 5. Log it the day you buy it. Memory fades. The barrel number, proof, and the specific rickhouse story the guide told you on the tour are details you'll want in your collection record years from now, especially if you're [writing tasting notes](/articles/how-to-write-bourbon-tasting-notes) or tracking how the bottle evolves in your cellar.
 
 ---
-
-## FAQs
-
-**Can I buy distillery exclusive bourbon online?**
-Generally no. By definition, distillery exclusives are sold only on-site at the distillery's gift shop or visitor center. A few Kentucky distilleries offer in-state online ordering for pickup, but most exclusives require a physical visit. Bottles that appear online are usually sold by secondary market resellers.
-
-**Are distillery exclusive bourbons better quality than regular releases?**
-Not automatically, but they are often more experimental or rare. Distilleries sometimes reserve unusual cask finishes, single barrels from exceptional rickhouse positions, or high-age expressions for exclusives. Quality varies; the value is in uniqueness and provenance, not a guaranteed quality floor.
-
-**Is there a bottle limit on distillery exclusives?**
-Yes, almost always. Most Kentucky distilleries impose per-person, per-day limits, commonly one to two bottles for high-demand exclusives. Buffalo Trace, for example, operates rotating daily offerings with strict per-visitor caps. Check each distillery's website before visiting, as limits change.
-
-**Do distillery exclusives hold their value on the secondary market?**
-Some do, particularly single-barrel releases from high-demand producers. However, the secondary market for distillery exclusives is less liquid than for annual allocated releases. Value depends on the distillery's reputation, proof, age, and how many bottles were produced. Reselling also carries legal risk in most states.
-
-**How do I track distillery exclusives I've purchased for my collection?**
-Because these bottles rarely appear in standard retail databases, they can be tricky to catalog. An app like Pour Picks lets you manually add any bottle to your cellar, including gift-shop exclusives, so you can log the proof, fill level, where you got it, and tasting notes in one place.

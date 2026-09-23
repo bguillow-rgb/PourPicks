@@ -1,8 +1,16 @@
 ---
-import { SITE } from '../consts';
+import { SITE, FOOTER_NAV } from '../consts';
 const year = new Date().getFullYear();
 ---
 <hr class="footer-rule" />
+<nav class="footer-nav" aria-label="Site">
+  {FOOTER_NAV.map((item, i) => (
+    <>
+      {i > 0 && <span aria-hidden="true"> &middot; </span>}
+      <a href={item.href}>{item.label}</a>
+    </>
+  ))}
+</nav>
 <p class="footer">
   Questions? <a href={`mailto:${SITE.supportEmail}`}>{SITE.supportEmail}</a>
 </p>
@@ -15,8 +23,3 @@ const year = new Date().getFullYear();
   ))}
 </p>
 <p class="footer">&copy; {year} {SITE.name}, a {SITE.legalEntity} product. All rights reserved.</p>
-<p class="footer">
-  <a href="https://findly.tools/pour-picks?utm_source=pour-picks" target="_blank" rel="noopener">
-    <img src="https://findly.tools/badges/findly-tools-badge-light.svg" alt="Featured on Findly.tools" width="150" height="52" loading="lazy" />
-  </a>
-</p>

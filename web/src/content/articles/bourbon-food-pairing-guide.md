@@ -1,7 +1,7 @@
 ---
-title: "Bourbon Food Pairing: A Collector's Guide to Matching Mash Bill, Proof, and Style to What's on the Table"
+title: "Bourbon Food Pairing"
 seoTitle: "Bourbon Food Pairing Guide: By Style, Proof & Mash Bill"
-description: "Learn how to pair bourbon with food by mash bill style and proof—wheated, high-rye, barrel proof, and more. A collector's practical guide to elevating every pour."
+description: "Pair bourbon with food by mash bill and proof: wheated, high-rye, barrel proof, and everything between. A collector's practical guide to making each pour go further."
 tier: "detail"
 targetQuery: "what foods pair well with bourbon"
 relatedQueries:
@@ -26,7 +26,7 @@ faqs:
   - q: "What do you eat with barrel-proof bourbon?"
     a: "High-fat foods are your best friend with barrel-proof pours, fat molecules literally bind to the alcohol and soften heat on the palate. Try full-fat aged cheese, country ham, foie gras, roasted pecans, or even a bite of dark chocolate. A small drop of water before food is also fair game; see our guide on whether to add water to bourbon."
   - q: "Does chocolate really pair well with bourbon?"
-    a: "Yes, and the chemistry explains it: both bourbon and dark chocolate are rich in vanillin and Maillard-reaction flavor compounds produced during the charring and roasting processes. Aim for 65, 75% cacao; milk chocolate is often too sweet and can clash with the oak. Bittersweet truffles or dark bark with a pinch of sea salt are reliable picks."
+    a: "Yes, and the chemistry explains it: both bourbon and dark chocolate are rich in vanillin and Maillard-reaction flavor compounds produced during the charring and roasting processes. Aim for 65 to 75% cacao; milk chocolate is often too sweet and can clash with the oak. Bittersweet truffles or dark bark with a pinch of sea salt are reliable picks."
   - q: "What foods should you avoid pairing with bourbon?"
     a: "Highly acidic foods (vinegary pickles, citrus-heavy ceviches) tend to amplify bourbon's alcohol sharpness rather than harmonize with it. Very light, delicate foods, sushi, mild white fish, fresh green salads, are often overwhelmed by bourbon's intensity. Save those pairings for lighter wines or lower-proof expressions if you must."
   - q: "How do I pair food at a bourbon tasting event?"
@@ -145,23 +145,3 @@ Bourbon pairs well with a variety of cheeses, blue cheese, cheddar, gouda, becau
 For [cask-finished bourbons](/articles/what-is-bourbon-cask-finishing), work backwards from the finishing barrel. A wine-cask finish often introduces fruit and tannin that pairs naturally with the cheese conventions of that wine region. It's one of the more elegant ways to use finish information that appears on the label.
 
 ---
-
-## FAQs
-
-**What food goes best with wheated bourbon?**
-Wheated bourbons like W.L. Weller or Larceny pair best with soft, buttery, or sweet foods: honey-glazed ham, brie, shortbread cookies, caramel desserts, or stone fruits like peaches and apricots. Their low-spice profile means you want food that echoes their gentle sweetness rather than fighting it.
-
-**What should I eat with a high-rye or spicy bourbon?**
-High-rye bourbons carry peppery, citrus-forward notes that stand up to bold, rich foods. Pair them with charcuterie, aged sharp cheddar, barbecue brisket, dark chocolate with sea salt, or spiced nuts. The rye's assertiveness holds its own against strong, savory flavors.
-
-**What do you eat with barrel-proof bourbon?**
-High-fat foods are your best friend with barrel-proof pours. Fat molecules bind to alcohol and soften heat on the palate. Try full-fat aged cheese, country ham, roasted pecans, or bittersweet chocolate. A small drop of water before food is also fair game.
-
-**Does chocolate really pair well with bourbon?**
-Yes, and the chemistry explains it: both bourbon and dark chocolate are rich in vanillin and Maillard-reaction flavor compounds from charring and roasting. Aim for 65-75% cacao; milk chocolate is often too sweet and can clash with the oak. Bittersweet truffles or dark bark with sea salt are reliable picks.
-
-**What foods should you avoid pairing with bourbon?**
-Highly acidic foods, vinegary pickles, citrus-heavy ceviches, tend to amplify bourbon's alcohol sharpness rather than harmonize with it. Very light, delicate foods like sushi or mild white fish are often overwhelmed by bourbon's intensity. Save those pairings for lighter wines or lower-proof expressions.
-
-**How do I pair food at a bourbon tasting event?**
-Anchor the table with neutral palate cleansers (plain crackers, still water, unsalted pretzels), then build out small bites that complement each pour in sequence. Start lighter-bodied bourbons with subtle pairings and save barrel-proof expressions for last alongside the richest food. See our guide on [how to build a bourbon flight](/articles/how-to-build-a-bourbon-flight) for sequencing logic that applies equally to food pairings.

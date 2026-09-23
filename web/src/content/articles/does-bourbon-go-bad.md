@@ -83,7 +83,3 @@ Marbles or glass beads to raise the liquid level are sometimes suggested, but th
 Here is the practical problem oxidation creates: you cannot fix it by storing better, only by *drinking on time*, and you cannot drink on time if you do not remember what is open and how low it is. By the time you notice a bottle tastes flat, it is already too late.
 
 This is exactly the gap a pour log closes. If you log the date you open each bottle and roughly how full it is, the "one to two years" window stops being trivia and becomes a short, actionable list: these three bottles are under a third full, finish them this month. [Pour Picks](https://apps.apple.com/us/app/pour-picks/id6764040132) builds this into its "Pour Tonight" pick, nudging you toward bottles that have been open a while rather than the shiny new arrival. If you are setting up tracking for the first time, [how to start a bourbon cellar](/articles/how-to-start-a-bourbon-cellar) covers the basics, and [the best bourbon cellar apps](/articles/best-bourbon-cellar-apps) compares the tools that do it.
-
----
-
-*Pour Picks is a free iOS app for bourbon collectors. Scan any bottle to add it to your cellar, log every pour, and let "Pour Tonight" tell you which open bottle to finish next. [Download on the App Store](https://apps.apple.com/us/app/pour-picks/id6764040132).*

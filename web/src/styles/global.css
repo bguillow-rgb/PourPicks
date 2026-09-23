@@ -8,20 +8,22 @@
    site and the iOS app feel like the same product. */
 
 :root {
-  --ink: #14100C;        /* espresso charcoal page */
-  --ink2: #1E1610;       /* raised charcoal panel */
-  --card: #1E1610;
+  /* Palette is the app's, value-for-value (src/constants/theme.ts): the site
+     and the iOS app share one design system, not an approximation of it. */
+  --ink: #0F0B09;        /* app bg: espresso black page */
+  --ink2: #241914;       /* app card: raised panel */
+  --card: #241914;
   --label: #E9DDC4;      /* aged label paper */
   --label2: #DFD0B0;     /* label paper, deeper */
   --label-ink: #2A1B10;  /* engraved ink on the label */
-  --text: #ECE3D2;       /* warm bone body on dark */
-  --muted: #A4937A;
-  --brass: #C0883B;
-  --brass-bright: #DDAE63;
+  --text: #EDE4D3;       /* app text: warm bone on dark */
+  --muted: #A89B82;      /* app muted */
+  --brass: #B08D57;      /* app accent */
+  --brass-bright: #C9A672;
   --oxblood: #8C2F26;
   --oxblood-bright: #C2604F;
-  --line: rgba(192, 136, 59, 0.22);
-  --line-strong: rgba(192, 136, 59, 0.45);
+  --line: rgba(176, 141, 87, 0.22);
+  --line-strong: rgba(176, 141, 87, 0.45);
 
   /* legacy token aliases, kept so any page still reading the old names works */
   --bg: var(--ink);
@@ -36,7 +38,7 @@ html, body {
   padding: 0;
   background: var(--ink);
   color: var(--text);
-  font-family: 'Spectral', Georgia, 'Times New Roman', serif;
+  font-family: 'Outfit', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
   font-size: 17px;
   line-height: 1.62;
 }
@@ -72,7 +74,7 @@ a:hover { border-bottom-color: var(--brass-bright); color: var(--brass-bright); 
   padding: 6px 0 14px;
 }
 .site-wordmark {
-  font-family: 'DM Serif Display', Georgia, serif;
+  font-family: 'Libre Baskerville', Georgia, 'Times New Roman', serif;
   font-size: 30px;
   letter-spacing: 0.5px;
   color: var(--text);
@@ -84,7 +86,7 @@ a:hover { border-bottom-color: var(--brass-bright); color: var(--brass-bright); 
   display: flex;
   flex-wrap: wrap;
   gap: 18px;
-  font-family: 'Saira Condensed', 'Arial Narrow', sans-serif;
+  font-family: 'Outfit', -apple-system, BlinkMacSystemFont, sans-serif;
   font-weight: 600;
   font-size: 13px;
   letter-spacing: 1.5px;
@@ -99,7 +101,7 @@ a:hover { border-bottom-color: var(--brass-bright); color: var(--brass-bright); 
 
 /* legacy centered nav (older pages may still emit <p class="nav">) */
 .nav {
-  font-family: 'Saira Condensed', 'Arial Narrow', sans-serif;
+  font-family: 'Outfit', -apple-system, BlinkMacSystemFont, sans-serif;
   text-transform: uppercase;
   letter-spacing: 1.5px;
   font-size: 13px;
@@ -118,45 +120,42 @@ a:hover { border-bottom-color: var(--brass-bright); color: var(--brass-bright); 
 
 /* ----- Headings ----------------------------------------------------------- */
 h1 {
-  font-family: 'DM Serif Display', Georgia, serif;
+  font-family: 'Libre Baskerville', Georgia, 'Times New Roman', serif;
   font-size: 54px;
-  font-weight: 400;
+  font-weight: 700;
   line-height: 1.02;
   color: var(--text);
   letter-spacing: -0.5px;
   margin: 0 0 18px;
 }
 h1 em {
+  font-family: 'EB Garamond', Georgia, serif;
   font-style: italic;
+  font-weight: 500;
   color: var(--brass-bright);
 }
 h2 {
-  font-family: 'DM Serif Display', Georgia, serif;
+  font-family: 'Libre Baskerville', Georgia, 'Times New Roman', serif;
   font-size: 30px;
-  font-weight: 400;
+  font-weight: 700;
   color: var(--text);
   margin: 48px 0 14px;
   letter-spacing: -0.2px;
 }
 h3 {
-  font-family: 'DM Serif Display', Georgia, serif;
+  font-family: 'Libre Baskerville', Georgia, 'Times New Roman', serif;
   font-size: 21px;
-  font-weight: 400;
+  font-weight: 700;
   color: var(--text);
   margin: 28px 0 10px;
 }
+/* Section openers sit left, on a brass masthead rule, like the rest of the
+   almanac. No centered title with a decorative underline tick. */
 .section-title {
-  text-align: center;
   font-size: 34px;
   margin-top: 64px;
-}
-.section-title::after {
-  content: '';
-  display: block;
-  width: 46px;
-  height: 2px;
-  background: var(--brass);
-  margin: 14px auto 0;
+  padding-top: 16px;
+  border-top: 2px solid var(--brass);
 }
 
 p { color: var(--muted); margin: 0 0 14px; }
@@ -165,7 +164,7 @@ li { margin-bottom: 6px; }
 strong { color: var(--text); font-weight: 600; }
 
 .eyebrow {
-  font-family: 'Saira Condensed', 'Arial Narrow', sans-serif;
+  font-family: 'Outfit', -apple-system, BlinkMacSystemFont, sans-serif;
   font-weight: 600;
   font-size: 13px;
   letter-spacing: 3px;
@@ -185,7 +184,7 @@ strong { color: var(--text); font-weight: 600; }
 .hero-copy { min-width: 0; }
 .hero-icon { display: none; }     /* the bottle label is the hero visual */
 .brand {                          /* legacy class, repurposed as a kicker */
-  font-family: 'Saira Condensed', 'Arial Narrow', sans-serif;
+  font-family: 'Outfit', -apple-system, BlinkMacSystemFont, sans-serif;
   font-weight: 600;
   font-size: 13px;
   letter-spacing: 3px;
@@ -202,7 +201,7 @@ strong { color: var(--text); font-weight: 600; }
 }
 .hero-cta {
   display: inline-block;
-  font-family: 'Saira Condensed', 'Arial Narrow', sans-serif;
+  font-family: 'Outfit', -apple-system, BlinkMacSystemFont, sans-serif;
   padding: 13px 26px;
   background: var(--brass);
   color: var(--ink);
@@ -221,7 +220,7 @@ strong { color: var(--text); font-weight: 600; }
   color: var(--ink);
 }
 .hero-trust {
-  font-family: 'Saira Condensed', 'Arial Narrow', sans-serif;
+  font-family: 'Outfit', -apple-system, BlinkMacSystemFont, sans-serif;
   font-size: 13px;
   letter-spacing: 1px;
   text-transform: uppercase;
@@ -250,7 +249,7 @@ strong { color: var(--text); font-weight: 600; }
   pointer-events: none;
 }
 .bottlelabel-house {
-  font-family: 'Saira Condensed', 'Arial Narrow', sans-serif;
+  font-family: 'Outfit', -apple-system, BlinkMacSystemFont, sans-serif;
   font-weight: 600;
   font-size: 12px;
   letter-spacing: 3px;
@@ -260,7 +259,7 @@ strong { color: var(--text); font-weight: 600; }
   margin: 0 0 6px;
 }
 .bottlelabel-name {
-  font-family: 'DM Serif Display', Georgia, serif;
+  font-family: 'Libre Baskerville', Georgia, 'Times New Roman', serif;
   font-size: 30px;
   line-height: 1.05;
   color: var(--label-ink);
@@ -292,7 +291,7 @@ strong { color: var(--text); font-weight: 600; }
   border-left: 1px solid rgba(140, 47, 38, 0.30);
 }
 .bottlelabel-stats dt {
-  font-family: 'Saira Condensed', 'Arial Narrow', sans-serif;
+  font-family: 'Outfit', -apple-system, BlinkMacSystemFont, sans-serif;
   font-weight: 600;
   font-size: 11px;
   letter-spacing: 2px;
@@ -301,14 +300,14 @@ strong { color: var(--text); font-weight: 600; }
   margin: 0 0 2px;
 }
 .bottlelabel-stats dd {
-  font-family: 'DM Serif Display', Georgia, serif;
+  font-family: 'Libre Baskerville', Georgia, 'Times New Roman', serif;
   font-size: 30px;
   line-height: 1;
   color: var(--label-ink);
   margin: 0;
 }
 .bottlelabel-stats dd span {
-  font-family: 'Saira Condensed', 'Arial Narrow', sans-serif;
+  font-family: 'Outfit', -apple-system, BlinkMacSystemFont, sans-serif;
   font-size: 12px;
   letter-spacing: 1px;
   color: #6A4A30;
@@ -316,7 +315,7 @@ strong { color: var(--text); font-weight: 600; }
   margin-top: 3px;
 }
 .bottlelabel-mash {
-  font-family: 'Saira Condensed', 'Arial Narrow', sans-serif;
+  font-family: 'Outfit', -apple-system, BlinkMacSystemFont, sans-serif;
   font-size: 12px;
   letter-spacing: 1.5px;
   text-transform: uppercase;
@@ -333,14 +332,14 @@ strong { color: var(--text); font-weight: 600; }
   justify-content: space-between;
 }
 .bottlelabel-foot span {
-  font-family: 'Saira Condensed', 'Arial Narrow', sans-serif;
+  font-family: 'Outfit', -apple-system, BlinkMacSystemFont, sans-serif;
   font-size: 12px;
   letter-spacing: 2px;
   text-transform: uppercase;
   color: var(--oxblood);
 }
 .bottlelabel-foot strong {
-  font-family: 'DM Serif Display', Georgia, serif;
+  font-family: 'Libre Baskerville', Georgia, 'Times New Roman', serif;
   font-size: 24px;
   color: var(--label-ink);
   font-weight: 400;
@@ -385,7 +384,7 @@ strong { color: var(--text); font-weight: 600; }
   background: var(--oxblood);
 }
 .feature-icon {
-  font-family: 'Saira Condensed', 'Arial Narrow', sans-serif;
+  font-family: 'Outfit', -apple-system, BlinkMacSystemFont, sans-serif;
   font-weight: 700;
   font-size: 13px;
   letter-spacing: 2px;
@@ -403,7 +402,7 @@ strong { color: var(--text); font-weight: 600; }
 .features-link {
   text-align: center;
   margin-top: 40px;
-  font-family: 'Saira Condensed', 'Arial Narrow', sans-serif;
+  font-family: 'Outfit', -apple-system, BlinkMacSystemFont, sans-serif;
   letter-spacing: 1px;
   text-transform: uppercase;
   font-size: 14px;
@@ -462,14 +461,14 @@ strong { color: var(--text); font-weight: 600; }
 
 .ledger-no {
   display: block;
-  font-family: 'DM Serif Display', Georgia, serif;
+  font-family: 'Libre Baskerville', Georgia, 'Times New Roman', serif;
   font-size: 42px;
   line-height: 0.9;
   color: var(--brass);
 }
 .ledger-dept {
   display: block;
-  font-family: 'Saira Condensed', 'Arial Narrow', sans-serif;
+  font-family: 'Outfit', -apple-system, BlinkMacSystemFont, sans-serif;
   font-weight: 700;
   font-size: 13px;
   letter-spacing: 2px;
@@ -479,7 +478,7 @@ strong { color: var(--text); font-weight: 600; }
 }
 .ledger-spec {
   display: block;
-  font-family: 'Saira Condensed', 'Arial Narrow', sans-serif;
+  font-family: 'Outfit', -apple-system, BlinkMacSystemFont, sans-serif;
   font-size: 12px;
   letter-spacing: 1px;
   text-transform: uppercase;
@@ -507,7 +506,7 @@ strong { color: var(--text); font-weight: 600; }
 .ledger-entry--feature .ledger-body { max-width: 44em; }
 .ledger-entry--feature .ledger-body h2 { font-size: 34px; }
 .ledger-stat {
-  font-family: 'DM Serif Display', Georgia, serif;
+  font-family: 'Libre Baskerville', Georgia, 'Times New Roman', serif;
   font-size: 23px;
   line-height: 1.3;
   color: var(--brass-bright);
@@ -544,6 +543,16 @@ strong { color: var(--text); font-weight: 600; }
 .is-isnt li::marker { color: var(--brass); }
 .isnt-col li::marker { color: var(--oxblood-bright); }
 
+/* About: a short first-person lede in the founder's own voice, set larger
+   than body copy so the human byline lands before the stance columns. */
+.about-lede {
+  font-size: 19px;
+  line-height: 1.55;
+  color: var(--text);
+  max-width: 34em;
+  margin: 24px 0 8px;
+}
+
 /* Front-matter colophon: small-caps labels in a left rail, tight entries.
    Deliberately lighter than the Features ledger (no big numerals). */
 .colophon { margin: 48px 0 0; padding: 0; }
@@ -557,7 +566,7 @@ strong { color: var(--text); font-weight: 600; }
 }
 .colophon-row:first-child { border-top: 1px solid var(--line); }
 .colophon dt {
-  font-family: 'Saira Condensed', 'Arial Narrow', sans-serif;
+  font-family: 'Outfit', -apple-system, BlinkMacSystemFont, sans-serif;
   font-weight: 700;
   font-size: 12px;
   letter-spacing: 2px;
@@ -590,7 +599,7 @@ strong { color: var(--text); font-weight: 600; }
 }
 .fact-row:first-child { border-top: none; }
 .factsheet dt {
-  font-family: 'Saira Condensed', 'Arial Narrow', sans-serif;
+  font-family: 'Outfit', -apple-system, BlinkMacSystemFont, sans-serif;
   font-weight: 700;
   font-size: 12px;
   letter-spacing: 1.5px;
@@ -607,7 +616,7 @@ strong { color: var(--text); font-weight: 600; }
 }
 .pressblock-label {
   display: block;
-  font-family: 'Saira Condensed', 'Arial Narrow', sans-serif;
+  font-family: 'Outfit', -apple-system, BlinkMacSystemFont, sans-serif;
   font-weight: 700;
   font-size: 11px;
   letter-spacing: 2px;
@@ -624,7 +633,7 @@ strong { color: var(--text); font-weight: 600; }
   padding-top: 24px;
 }
 .helpdesk-promise {
-  font-family: 'DM Serif Display', Georgia, serif;
+  font-family: 'Libre Baskerville', Georgia, 'Times New Roman', serif;
   font-size: 27px;
   line-height: 1.2;
   color: var(--text);
@@ -632,7 +641,7 @@ strong { color: var(--text); font-weight: 600; }
 }
 .helpdesk-email { margin: 0 0 16px; }
 .helpdesk-email a {
-  font-family: 'DM Serif Display', Georgia, serif;
+  font-family: 'Libre Baskerville', Georgia, 'Times New Roman', serif;
   font-size: 23px;
   color: var(--brass-bright);
   border-bottom: 1px solid var(--line-strong);
@@ -654,7 +663,7 @@ strong { color: var(--text); font-weight: 600; }
 }
 .quick-answer .label {
   display: block;
-  font-family: 'Saira Condensed', 'Arial Narrow', sans-serif;
+  font-family: 'Outfit', -apple-system, BlinkMacSystemFont, sans-serif;
   font-size: 12px;
   font-weight: 700;
   color: var(--muted);
@@ -694,7 +703,7 @@ strong { color: var(--text); font-weight: 600; }
 }
 .blog-list li:last-child { border-bottom: 1px solid var(--line); }
 .blog-list li a {
-  font-family: 'DM Serif Display', Georgia, serif;
+  font-family: 'Libre Baskerville', Georgia, 'Times New Roman', serif;
   font-size: 21px;
   color: var(--text);
   border-bottom: none;
@@ -704,12 +713,32 @@ strong { color: var(--text); font-weight: 600; }
 .blog-list li a:hover { color: var(--brass-bright); }
 .blog-list li p { margin: 0; font-size: 15px; }
 
+/* ----- Keep reading (related articles) ------------------------------------ */
+/* A ruled index of real headlines at the foot of an article, not a bullet
+   list of hyphenated slugs. Matches the blog index rhythm. */
+.keep-reading { margin: 56px 0 0; }
+.keep-reading h2 { margin: 0 0 8px; }
+.keep-reading ul { list-style: none; padding: 0; margin: 0; }
+.keep-reading li {
+  border-top: 1px solid var(--line);
+  padding: 16px 0;
+  margin: 0;
+}
+.keep-reading li:last-child { border-bottom: 1px solid var(--line); }
+.keep-reading li a {
+  font-family: 'Libre Baskerville', Georgia, 'Times New Roman', serif;
+  font-size: 19px;
+  color: var(--text);
+  border-bottom: none;
+}
+.keep-reading li a:hover { color: var(--brass-bright); }
+
 /* ----- FAQ ---------------------------------------------------------------- */
 .faq h2 { margin-top: 56px; }
 .faq-item { border-top: 1px solid var(--line); padding: 22px 0; }
 .faq-item:last-child { border-bottom: 1px solid var(--line); }
 .faq-q {
-  font-family: 'DM Serif Display', Georgia, serif;
+  font-family: 'Libre Baskerville', Georgia, 'Times New Roman', serif;
   font-size: 20px;
   font-weight: 400;
   color: var(--text);
@@ -726,7 +755,7 @@ strong { color: var(--text); font-weight: 600; }
   margin: 24px 0;
 }
 .warning-title {
-  font-family: 'Saira Condensed', 'Arial Narrow', sans-serif;
+  font-family: 'Outfit', -apple-system, BlinkMacSystemFont, sans-serif;
   color: var(--brass-bright);
   font-weight: 700;
   font-size: 13px;
@@ -745,7 +774,7 @@ th, td {
   color: var(--muted);
 }
 th {
-  font-family: 'Saira Condensed', 'Arial Narrow', sans-serif;
+  font-family: 'Outfit', -apple-system, BlinkMacSystemFont, sans-serif;
   color: var(--brass);
   font-weight: 700;
   text-transform: uppercase;
@@ -757,7 +786,7 @@ th {
 .cta-row { display: flex; gap: 12px; justify-content: center; margin: 36px 0; flex-wrap: wrap; }
 .cta {
   display: inline-block;
-  font-family: 'Saira Condensed', 'Arial Narrow', sans-serif;
+  font-family: 'Outfit', -apple-system, BlinkMacSystemFont, sans-serif;
   padding: 13px 26px;
   border: 1px solid var(--brass);
   color: var(--brass-bright);
@@ -777,7 +806,7 @@ th {
    not as another marketing page. */
 .article-head { margin: 6px 0 26px; }
 .article-kicker {
-  font-family: 'Saira Condensed', 'Arial Narrow', sans-serif;
+  font-family: 'Outfit', -apple-system, BlinkMacSystemFont, sans-serif;
   font-weight: 700;
   font-size: 13px;
   letter-spacing: 3px;
@@ -810,12 +839,25 @@ th {
 hr.footer-rule { border: 0; border-top: 2px solid var(--brass); margin: 56px 0 16px; }
 .footer {
   text-align: center;
-  font-family: 'Saira Condensed', 'Arial Narrow', sans-serif;
+  font-family: 'Outfit', -apple-system, BlinkMacSystemFont, sans-serif;
   letter-spacing: 1px;
   font-size: 12px;
   color: var(--muted);
   text-transform: uppercase;
 }
+.footer-nav {
+  text-align: center;
+  font-family: 'Outfit', -apple-system, BlinkMacSystemFont, sans-serif;
+  font-size: 12px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin: 0 0 18px;
+  line-height: 2;
+}
+.footer-nav a { color: var(--muted); border-bottom: none; }
+.footer-nav a:hover { color: var(--brass-bright); }
+.footer-nav span { color: var(--line-strong); }
 
 /* ----- Responsive --------------------------------------------------------- */
 @media (max-width: 760px) {

@@ -11,17 +11,36 @@ export async function getStaticPaths() {
   const all = await getCollection('articles', ({ data }) =>
     includeDrafts ? true : data.published
   );
-  return all.map((entry) => ({
-    params: { slug: entry.slug },
-    props: { entry },
-  }));
+  // Guard: the FAQ is rendered once, from frontmatter `faqs`, via FAQ.astro.
+  // A hand-authored "## FAQ" in the body duplicates it (and its schema).
+  // Fail the build rather than ship the duplicate.
+  for (const e of all) {
+    if (/^#{2,3}\s*(\d+\s*)?(quick\s*)?faq/im.test(e.body)) {
+      throw new Error(
+        `Article "${e.slug}" has an in-body FAQ heading. Remove it; the FAQ comes from the frontmatter "faqs" field.`
+      );
+    }
+  }
+  // Resolve related-article slugs to real titles at build time so the
+  // "Keep reading" list shows headlines, not hyphenated slugs.
+  const titleBySlug = new Map(all.map((e) => [e.slug, e.data.title]));
+  return all.map((entry) => {
+    const related = entry.data.relatedSlugs
+      .filter((slug) => titleBySlug.has(slug))
+      .map((slug) => ({ slug, title: titleBySlug.get(slug)! }));
+    return {
+      params: { slug: entry.slug },
+      props: { entry, related },
+    };
+  });
 }
 
 interface Props {
   entry: CollectionEntry<'articles'>;
+  related: { slug: string; title: string }[];
 }
 
-const { entry } = Astro.props;
+const { entry, related } = Astro.props;
 const { Content } = await entry.render();
 const data = entry.data;
 const path = `/articles/${entry.slug}`;
@@ -41,12 +60,12 @@ const path = `/articles/${entry.slug}`;
 >
   <Content />
 
-  {data.relatedSlugs.length > 0 && (
-    <section>
-      <h2>Related</h2>
+  {related.length > 0 && (
+    <section class="keep-reading">
+      <h2>Keep reading</h2>
       <ul>
-        {data.relatedSlugs.map((slug) => (
-          <li><a href={`/articles/${slug}`}>{slug.replace(/-/g, ' ')}</a></li>
+        {related.map((r) => (
+          <li><a href={`/articles/${r.slug}`}>{r.title}</a></li>
         ))}
       </ul>
     </section>

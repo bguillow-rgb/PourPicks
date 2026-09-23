@@ -78,7 +78,3 @@ Glassware and ice do real work here too. A single large cube melts slower and ke
 ## Final answer: which should you pour?
 
 If you are making one drink for someone who is not a hardcore whiskey person, use bourbon. If you are making one for yourself and you want structure and a cleaner finish, use rye. If you want a single bottle that handles the cocktail well every time without fuss, buy a high-rye bourbon and stop overthinking it. The deeper you go, the more you will keep all three around, and the [bourbon-vs-rye split](/articles/bourbon-vs-rye-difference) stops being a decision and starts being a mood.
-
----
-
-*Pour Picks is a free iOS app that tracks every bottle in your bourbon and rye cellar, logs your pours, and tells you which open bottle to finish next. [Download on the App Store](https://apps.apple.com/us/app/pour-picks/id6764040132).*

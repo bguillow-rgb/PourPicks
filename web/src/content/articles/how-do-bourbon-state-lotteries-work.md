@@ -1,7 +1,7 @@
 ---
-title: "How Do Bourbon State Lotteries Work? A Collector's Guide to Entering, Winning, and Picking Up Allocated Bottles"
+title: "How Do Bourbon State Lotteries Work?"
 seoTitle: "How Do Bourbon State Lotteries Work? A Collector's Guide"
-description: "Bourbon state lotteries let you buy allocated bottles at retail price. Here's exactly how to enter, what to expect, and how to maximize your odds."
+description: "State bourbon lotteries let you buy allocated bottles at retail instead of secondary prices. This covers how to enter, what to expect, and how to improve your odds."
 tier: "detail"
 targetQuery: "how do bourbon state lotteries work"
 relatedQueries:
@@ -28,7 +28,7 @@ faqs:
   - q: "Which states run official government lotteries for allocated bourbon?"
     a: "Several control states, including Virginia (through the VABS system), Pennsylvania (PLCB), and Ohio (OHLQ), run official lotteries through their state liquor authorities. Private retail lotteries are common in open states like Kentucky, Tennessee, and Texas."
   - q: "Is winning a bourbon lottery worth it compared to buying on the secondary market?"
-    a: "Almost always yes, if you actually want to drink the bottle. Retail lottery prices are typically 60, 90% lower than secondary market prices for the same bottle. If you're buying to flip, the math is less clear since secondary market premiums on mid-tier releases have compressed significantly in 2025, 2026."
+    a: "Almost always yes, if you actually want to drink the bottle. Retail lottery prices are typically 60 to 90% lower than secondary market prices for the same bottle. If you're buying to flip, the math is less clear since secondary market premiums on mid-tier releases have compressed significantly in 2025, 2026."
 published: true
 ---
 
@@ -121,20 +121,3 @@ Respond immediately to the winner notification. Don't wait to see if you win oth
 Once the bottle is home, log it. Record what you paid, the release year, the batch or barrel number if listed, and the lottery source. That information matters if you ever want to [value your collection](/articles/how-to-value-a-bourbon-collection), resell, trade, or file it with your [insurance coverage](/articles/how-to-insure-a-bourbon-collection). A bottle tracked from lottery entry to cellar shelf has a complete provenance record, which adds real credibility in any trade or sale conversation later.
 
 ---
-
-## FAQs
-
-**Do I have to pay to enter a bourbon lottery?**
-No. Legitimate bourbon lotteries, whether run by state liquor boards, retail chains, or independent stores, are free to enter. You never pay until you've won and are purchasing the bottle.
-
-**Can I enter multiple bourbon lotteries for the same bottle?**
-Yes, as long as you enter different retailers or systems. Many serious collectors enter every retailer lottery they can find for a given release, since each is an independent drawing. Just be prepared to pay for every bottle you win.
-
-**What happens if I win a bourbon lottery but can't pick up the bottle?**
-Most retailers give winners a short window (often 24 to 72 hours) to pay and collect. If you miss it, your spot is typically forfeited and the bottle moves to the next winner or goes back into inventory.
-
-**Which states run official government lotteries for allocated bourbon?**
-Several control states (including Virginia through the VABS system, Pennsylvania via PLCB, and Ohio through OHLQ) run official lotteries through their state liquor authorities. Private retail lotteries are common in open states like Kentucky, Tennessee, and Texas.
-
-**Is winning a bourbon lottery worth it compared to buying on the secondary market?**
-Almost always yes, if you actually want to drink the bottle. Retail lottery prices are typically 60%-90% lower than secondary market prices for the same bottle. If you're buying to flip, the math is less clear. The secondary-market bubble has effectively deflated, with one index recording an 11% slide in overall portfolio value at the beginning of 2025, stripping speculative premium from many highly sought-after releases.

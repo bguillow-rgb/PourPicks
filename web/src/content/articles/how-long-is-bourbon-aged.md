@@ -1,5 +1,5 @@
 ---
-title: "How Long Is Bourbon Aged? A Collector's Guide to Aging Rules, Label Tiers, and What Time in Wood Really Does to Flavor"
+title: "How Long Is Bourbon Aged?"
 seoTitle: "How Long Is Bourbon Aged? Rules, Labels & Flavor"
 description: "Bourbon has no maximum aging limit, but the rules get specific fast. Learn the legal tiers, what age statements mean, and how years in barrel shape flavor and value."
 tier: "detail"
@@ -50,7 +50,7 @@ The third major tier is Bottled-in-Bond. Four years is the minimum there, and th
 | Straight Bourbon Whiskey | 2 years | Yes, if under 4 years | Min. 80 proof at bottling |
 | Bottled-in-Bond | 4 years | No (age implied) | Exactly 100 proof |
 | Kentucky Bourbon | 1 year in-state | Same as above | Same as above |
-| Any Age-Stated Expression | N/A | Yes -- must reflect youngest barrel | Any legal proof |
+| Any Age-Stated Expression | N/A | Yes, must reflect youngest barrel | Any legal proof |
 
 ## Why does most bourbon skip the age statement entirely?
 
@@ -99,24 +99,3 @@ Age shapes secondary-market value, but it rarely acts alone. According to whiske
 What creates real value is the intersection of age, scarcity, and proof. An 18-year expression bottled at cask strength from a limited run carries a fundamentally different market position than an 18-year expression diluted to 80 proof and produced in volume. When you're building a cellar with an eye toward long-term value, understanding [how to value a bourbon collection](/articles/how-to-value-a-bourbon-collection) means treating age as one variable in a multi-factor equation, not the only one.
 
 One point worth making explicitly: a bottle of 12-year-old bourbon kept on a shelf for another decade does not become a 22-year-old bourbon. Aging stops at bottling. Anyone who thinks cellaring a bottle will improve it beyond its stated age is mistaken.
-
-## FAQs
-
-**Does bourbon have a minimum aging requirement?**
-Plain "bourbon" has no minimum aging period beyond the moment new charred oak contact occurs. "Straight bourbon" must age at least two years. Any straight bourbon under four years must display an age statement on the label.
-
-**What does it mean when a bourbon has no age statement?**
-A No Age Statement (NAS) bourbon is almost always at least four years old. Once a straight bourbon hits the four-year mark, displaying an age statement becomes optional, so most everyday bottles simply omit it rather than confirm a shorter age. For more on this topic, see our deep-dive on [bourbon age statements vs. NAS](/articles/bourbon-age-statement-vs-nas).
-
-**Does bourbon keep aging in the bottle?**
-No. Once bourbon leaves the barrel and is bottled, aging stops entirely. The flavor is locked in permanently, and a bottle kept on your shelf for a decade does not gain additional years of maturation.
-
-**What is the sweet spot age for bourbon flavor?**
-Most experienced collectors and distillers point to the 6-10 year range as a common sweet spot, where the spirit has enough oak influence for complexity without over-extraction. That said, mash bill, entry proof, and rickhouse position each matter as much as raw age.
-
-**Can bourbon age too long?**
-Yes. In Kentucky's climate, very long aging, typically beyond 15-20 years depending on warehouse position, can produce over-oaked spirit dominated by bitter tannins rather than balanced vanilla and caramel. This risk is lower in cooler climates, but it is real for Kentucky bourbon, which is why distillers monitor barrels closely as they approach advanced age.
-
-**Why do some young craft bourbons taste surprisingly complex?**
-
-Some young craft bourbons taste surprisingly complex because American craft distillers are working with different tools: small-format barrels, controlled heat cycling, and non-traditional grain sourcing. Smaller barrels expose more bourbon to oak surface area per unit of liquid, accelerating the extraction of flavor compounds. The tradeoff is a different flavor profile than what comes from years in a standard 53-gallon barrel.

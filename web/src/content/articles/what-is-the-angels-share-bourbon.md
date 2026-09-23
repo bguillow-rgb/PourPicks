@@ -1,6 +1,7 @@
 ---
-title: "What Is the Angel's Share? A Bourbon Collector's Guide"
-description: "The angel's share is bourbon lost to evaporation during barrel aging, typically 3–5% per year in Kentucky. Here's why it matters for rarity, price, and flavor."
+title: "What Is the Angel’s Share?"
+seoTitle: "What Is the Angel’s Share? A Bourbon Collector’s Guide"
+description: "The angel's share is the bourbon that evaporates from the barrel as it ages, roughly 3 to 5 percent a year in Kentucky, and it drives rarity, price, and taste."
 tier: "detail"
 targetQuery: "what is the angel's share bourbon"
 relatedQueries:
@@ -9,7 +10,7 @@ relatedQueries:
   - "angel's share vs devil's cut"
   - "why does barrel aging reduce bourbon volume"
   - "does angel's share affect bourbon price"
-quickAnswer: "The angel's share is the bourbon lost to evaporation while a barrel ages in a rickhouse, typically 3, 5% of volume per year in Kentucky's heat. Over a 10-year aging run, a barrel can lose 30, 40% of its original fill, which concentrates flavor and directly limits how many bottles a single barrel can yield."
+quickAnswer: "The angel's share is the bourbon lost to evaporation while a barrel ages in a rickhouse, typically 3 to 5% of volume per year in Kentucky's heat. Over a 10-year aging run, a barrel can lose 30 to 40% of its original fill, which concentrates flavor and directly limits how many bottles a single barrel can yield."
 publishedAt: "2026-07-13"
 author: "Pour Picks"
 relatedSlugs:
@@ -19,9 +20,9 @@ relatedSlugs:
   - "full-proof-vs-barrel-proof-vs-cask-strength-bourbon"
 faqs:
   - q: "What is the angel's share in bourbon?"
-    a: "The angel's share is the portion of bourbon that evaporates through the barrel staves into the surrounding air during aging. In Kentucky, distillers typically lose 3, 5% of a barrel's volume per year due to the state's warm summers and temperature swings."
+    a: "The angel's share is the portion of bourbon that evaporates through the barrel staves into the surrounding air during aging. In Kentucky, distillers typically lose 3 to 5% of a barrel's volume per year due to the state's warm summers and temperature swings."
   - q: "How much bourbon is lost to the angel's share over time?"
-    a: "A barrel losing ~4% per year for 10 years can shed 30, 40% of its original fill. Some long-aged releases (15+ years) have documented evaporation losses exceeding 50, 60%, which is a key reason they're rare and expensive."
+    a: "A barrel losing ~4% per year for 10 years can shed 30 to 40% of its original fill. Some long-aged releases (15+ years) have documented evaporation losses exceeding 50 to 60%, which is a key reason they're rare and expensive."
   - q: "What is the devil's cut?"
     a: "The devil's cut is the mirror image of the angel's share, it's the bourbon absorbed into the wood of the barrel staves themselves, which cannot be poured out when the barrel is emptied. Jim Beam trademarked the term and uses an extraction process to recover it."
   - q: "Does barrel position in a rickhouse affect the angel's share?"
@@ -93,23 +94,3 @@ This is also why allocated multi-year expressions carry price tags that can feel
 Yes, and this affects how you think about age statements from different regions. It's generally believed that if two identical barrels were filled and placed in Scotland and Kentucky simultaneously, the Scottish barrel would need roughly three years to match a single year of maturation in Kentucky. That's a good reason not to judge a whiskey purely by the number on its label: maturity and age aren't the same thing. A 6-year Kentucky bourbon has often spent as much effective time interacting with its barrel as a 10-year Scotch, which is one reason age statements (covered in our [bourbon age statement vs. NAS guide](/articles/bourbon-age-statement-vs-nas)) are a more nuanced signal than the number alone suggests.
 
 ---
-
-## FAQs
-
-**What is the angel's share in bourbon?**
-The angel's share is the portion of bourbon that evaporates through the barrel staves into the surrounding air during aging. In Kentucky, distillers typically lose 3-5% of a barrel's volume per year due to the state's warm summers and dramatic temperature swings.
-
-**How much bourbon is lost to the angel's share over time?**
-A barrel losing roughly 4% per year for 10 years can shed 30-40% of its original fill. Some long-aged releases at 15+ years have documented evaporation losses exceeding 50-60%, which is a key reason they're rare and expensive at retail and on the secondary market.
-
-**What is the devil's cut?**
-The devil's cut is the mirror image of the angel's share. It's the bourbon absorbed into the wood of the barrel staves themselves, which cannot be poured out when the barrel is emptied. Jim Beam trademarked the term and produces a whiskey using an extraction process to recover it.
-
-**Does barrel position in a rickhouse affect the angel's share?**
-Yes. Barrels on upper floors experience more heat and dryness, accelerating evaporation. In Kentucky's dry summers, more water escapes than alcohol at higher floors, which can actually *increase* proof over time rather than reduce it.
-
-**Why does the angel's share make older bourbon more expensive?**
-Fewer bottles come from a barrel that has aged longer, because more liquid has evaporated. A barrel that started with 53 gallons might yield only 25-30 gallons after 12 years. Less liquid from the same production investment, same wood, same warehouse space, same years of waiting, directly raises the per-bottle cost.
-
-**Is the angel's share the same for all barrels in a warehouse?**
-No. Barrel position, floor level, warehouse construction, local humidity, and even the specific microclimate of the site all affect how quickly bourbon evaporates. Two barrels filled from the same batch and aged side-by-side on different floors will lose different volumes and develop measurably different flavor profiles.

@@ -1,6 +1,6 @@
 ---
 title: "Best Glass for Bourbon: Glencairn, Rocks, NEAT & More"
-description: "The best glass for bourbon depends on what you're doing. Glencairn for tasting, rocks glass for sipping. Here's how to choose, and when to use each."
+description: "The right bourbon glass depends on what you're doing: a Glencairn concentrates aromas for tasting, a rocks glass suits an easy sipper. This covers when to use each."
 tier: "detail"
 targetQuery: "best glass for bourbon"
 relatedQueries:

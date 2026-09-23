@@ -1,7 +1,7 @@
 ---
-title: "What Is the Kentucky Bourbon Barrel Tax? A Collector's Guide to the Cost Hidden in Every Aged Bottle"
+title: "What Is the Kentucky Bourbon Barrel Tax?"
 seoTitle: "What Is the Kentucky Bourbon Barrel Tax? A Collector's Guide"
-description: "The Kentucky bourbon barrel tax is a property tax charged annually on every aging barrel in the state. Here's what it is, how it affects bottle prices, and what the 2023 phaseout means for collectors."
+description: "Kentucky charges a property tax on every aging barrel, every year. This explains the barrel tax, how it feeds into bottle prices, and what the 2023 phaseout changes."
 tier: "detail"
 targetQuery: "what is the Kentucky bourbon barrel tax"
 relatedQueries:
@@ -125,20 +125,3 @@ At bourbon auctions, this backdrop helps explain why well-documented older expre
 5. It affected where barrels were warehoused. The tax was one reason some producers explored aging outside Kentucky, which has implications for provenance and label claims.
 
 ---
-
-## FAQs
-
-**What is the Kentucky bourbon barrel tax?**
-It is an ad valorem property tax charged annually on every barrel of bourbon aging in a Kentucky warehouse. The tax is assessed on the barrel's market value, so older and more valuable barrels generate a higher tax bill each year.
-
-**How much do distillers pay in barrel taxes?**
-Kentucky set the state rate at $0.05 per $100 of assessed value, and local county rates layer on top. On average, distillers paid roughly $200 per barrel per year. In 2025, the industry's total bill hit $75 million, a 163% increase over five years.
-
-**Why does the barrel tax matter to bourbon collectors?**
-Every year a barrel sits in a Kentucky rickhouse, the distillery pays the tax again on a barrel that is simultaneously growing in value. That compounding cost is baked into the retail price of aged expressions, which is one core reason 10-, 12-, and 15-year bourbons carry significant price premiums over younger releases.
-
-**Is Kentucky the only state that taxes aging bourbon barrels?**
-Yes. Kentucky remains the only place in the world that imposes an annual property tax specifically on aging spirits. No other state or country charges a recurring levy on bourbon as it matures in the barrel.
-
-**What does the Kentucky barrel tax phaseout mean for bourbon prices?**
-The 20-year phaseout that began in January 2026 will gradually eliminate the tax by 2043. In theory, lower carrying costs should reduce one structural driver of high retail prices on aged bourbon, though market forces, tariffs, and individual distillery pricing decisions will all influence where prices actually land in practice.

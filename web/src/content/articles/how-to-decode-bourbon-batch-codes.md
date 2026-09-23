@@ -1,7 +1,7 @@
 ---
-title: "How to Decode Bourbon Batch Codes: A Collector's Guide to Reading Production Stamps"
+title: "How to Decode Bourbon Batch Codes"
 seoTitle: "How to Decode Bourbon Batch Codes (2026 Guide)"
-description: "Bourbon batch codes reveal when a bottle was distilled, barreled, and bottled. Learn how to read Heaven Hill, Wild Turkey, Buffalo Trace, and more — in plain English."
+description: "Batch codes tell you when a bottle was distilled, barreled, and filled. This is how to read Heaven Hill, Wild Turkey, and Buffalo Trace codes in plain English."
 tier: "detail"
 targetQuery: "how to decode bourbon batch codes"
 relatedQueries:
@@ -126,7 +126,7 @@ If you're cataloging your cellar digitally, recording the batch code alongside e
 
 ---
 
-## What about single-barrel expressions -- does the barrel number tell me anything?
+## What about single-barrel expressions, does the barrel number tell me anything?
 
 Yes, and this is where the data gets richest. If the label lists a barrel number or batch code, you're generally looking at a single barrel or small batch bourbon. These expressions are less consistent bottle to bottle, but often more interesting for exactly that reason. The barrel number is the distillery's way of saying: here's where this came from, trace it if you want.
 
@@ -135,20 +135,3 @@ Clear documentation also matters for collectibility. Bottles that list barrel nu
 Some programs go further. Accounts and bourbon groups are invited into programs like the Remus Distiller's Vault, where participants pick from aged barrels set aside as the most interesting in the warehouse. On those bottles, the barrel identifier on the label is effectively a certificate of provenance. The code becomes part of the bottle's story.
 
 ---
-
-## FAQs: Bourbon batch codes
-
-**Are bourbon batch codes a legal requirement?**
-Yes. The TTB requires all distilled spirits to carry a bottling code or lot number for recall traceability. How distilleries format that code is their own choice, which is why every house uses a different system.
-
-**What does an Elijah Craig Barrel Proof code like "A125" mean?**
-The letter (A, B, or C) denotes the first, second, or third release of the year. The next digit is the release month (1 = January, 5 = May, 9 = September). The final two digits are the last two numbers of the bottling year, so A125 means the first release, bottled in January 2025.
-
-**How do I read a Wild Turkey laser code?**
-Wild Turkey uses a laser-etched code where the first letter after "LL/" encodes the bottling year and the second letter encodes the bottling month by alphabetical position (A = January through L = December). Enthusiast communities have published year-letter conversion charts to handle the reference-year offset.
-
-**Can batch codes tell me which warehouse or floor a barrel came from?**
-Sometimes. Some distilleries embed a rick or warehouse identifier in the code, especially on single-barrel expressions. Standard batch codes for blended expressions typically omit warehouse-level detail, though barrel number and warehouse are often printed directly on store-pick and single-barrel labels.
-
-**Do batch codes affect secondary market value?**
-Yes, for certain releases. Specific Elijah Craig Barrel Proof batches, particularly those with notably high proof points, have commanded premiums based on batch reputation. Matching your code to community tasting records lets you gauge whether a specific batch is considered a standout before you buy or sell.

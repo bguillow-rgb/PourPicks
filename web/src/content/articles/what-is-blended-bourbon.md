@@ -1,7 +1,7 @@
 ---
-title: "What Is Blended Bourbon? A Collector's Guide to the Category"
+title: "What Is Blended Bourbon?"
 seoTitle: "What Is Blended Bourbon? A Collector's Guide"
-description: "Blended bourbon is a legally defined category that combines straight bourbons with neutral spirit or other whiskeys. Here's what every collector needs to know."
+description: "Blended bourbon is a legally defined category that mixes straight bourbon with neutral spirit or other whiskeys. This is what the label means for what's in the glass."
 tier: "detail"
 targetQuery: "what is blended bourbon"
 relatedQueries:
@@ -119,20 +119,3 @@ Batch or lot numbers are almost always present on limited blended expressions fr
 Finishing and blending approaches are getting more deliberate, with producers using novel cask types and disclosed component sourcing in ways that weren't common a decade ago. The ones worth following are the ones showing their work.
 
 ---
-
-## FAQs
-
-**Is blended bourbon lower quality than straight bourbon?**
-Not necessarily. "Blended bourbon" can legally include neutral grain spirit, which dilutes character, but a "blend of straight bourbons" contains only mature, aged whiskey and can be remarkably complex. Judge by what's actually in the bottle, not just the word "blended" on the label.
-
-**What is a "blend of straight bourbons"?**
-A legally distinct subcategory in which all components must be straight bourbons, aged at least two years in new charred oak with no neutral spirit added. Brands like Barrell Craft Spirits and High West release highly regarded expressions under this designation.
-
-**Does blended bourbon have to be aged?**
-The straight bourbon component(s) must meet straight bourbon aging requirements (minimum two years). The neutral grain spirit or other whiskey components blended in do not carry their own aging requirement under blended bourbon category rules.
-
-**How can I tell if a bottle is blended bourbon vs. straight bourbon?**
-Check the label's type designation. "Kentucky Straight Bourbon Whiskey" or "Straight Bourbon Whiskey" means no blending with neutral spirit. "Blended Bourbon Whiskey" or "Blend of Straight Bourbons" are separate designations that will appear on the front or back label as required by the TTB. Our [guide to reading a bourbon label](/articles/how-to-read-a-bourbon-label) walks through every line of that type statement.
-
-**Do blended bourbons hold their value on the secondary market?**
-Most mass-market blended bourbons do not appreciate significantly. Limited "blend of straight bourbons" releases from craft houses, especially single-batch, high-proof expressions with full transparency about component ages and sources, have shown real secondary market interest in recent years.

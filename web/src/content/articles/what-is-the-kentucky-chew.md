@@ -1,5 +1,5 @@
 ---
-title: "What Is the Kentucky Chew (and the Kentucky Hug)? A Collector's Guide to Bourbon's Most Famous Tasting Technique"
+title: "What Is the Kentucky Chew (and the Kentucky Hug)?"
 seoTitle: "What Is the Kentucky Chew? Bourbon Tasting Guide"
 description: "The Kentucky Chew is a 4-step bourbon tasting technique pioneered by Booker Noe. Learn how to do it, what the Kentucky Hug is, and why it unlocks more flavor."
 tier: "detail"
@@ -129,27 +129,3 @@ Professional distillers and blenders use structured sensory panels that go well 
 The Kentucky Chew sits between casual sipping and professional evaluation. It's accessible, requires no equipment beyond your glass, and produces genuinely better tasting data than passive drinking. Think of it as the collector's minimum viable tasting protocol: enough structure to be useful, none of the ceremony that makes formal panels feel like homework.
 
 ---
-
-## FAQs: The Kentucky Chew and Kentucky Hug
-
-**What is the Kentucky Chew?**
-The Kentucky Chew is a bourbon tasting technique pioneered by Booker Noe of Jim Beam. You take a sip, work the liquid around your entire mouth as if chewing it, and smack your lips after swallowing to introduce air and reveal the finish.
-
-**What is the Kentucky Hug?**
-The Kentucky Hug is the warm, spreading sensation in your throat and chest that follows a sip of bourbon, especially a high-proof one. The intensity of the Kentucky Hug is directly related to the bourbon's proof. Barrel-proof expressions tend to deliver the most assertive version.
-
-**Who invented the Kentucky Chew?**
-The term was coined by a whiskey writer, describing how Booker Noe would take a sip of bourbon, work it around his mouth and then smack his lips. The technique itself was all Booker's.
-
-**Does the Kentucky Chew actually improve tasting?**
-Yes. By moving the spirit across all taste-receptor zones and drawing in air through lip-smacking, you expose more aromatic compounds to your olfactory receptors and warm the liquid, which genuinely opens up flavors that a quick sip would miss.
-
-**Do I have to do the Kentucky Chew to enjoy bourbon?**
-No. The Chew is a tool for getting more out of a serious tasting session, not a rule for every pour. As Fred Noe puts it, drink bourbon any way you like.
-
-**Is the Kentucky Chew different from swirling wine?**
-Conceptually similar but mechanically different. Wine swirling aerates the glass before drinking; the Kentucky Chew aerates the spirit in-mouth after tasting, using lip-smacking to pull air across the residual liquid and intensify finish notes.
-
----
-
-*Want to make the Kentucky Chew more useful?* Log your session in [Pour Picks](/bourbon-inventory-app) right after you finish, the tasting journal captures nose, palate, and finish while they're fresh, turning one Chew into a permanent reference for every bottle in your cellar.

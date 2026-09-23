@@ -1,7 +1,7 @@
 ---
-title: "What to Expect on a Kentucky Bourbon Distillery Tour: A Collector's Complete Guide"
+title: "What to Expect on a Kentucky Bourbon Distillery Tour"
 seoTitle: "What to Expect on a Bourbon Distillery Tour (2026)"
-description: "Planning your first Kentucky distillery visit? Here's exactly what to expect: grain-to-glass tours, tastings, gift shop exclusives, and collector-smart tips."
+description: "Heading to Kentucky for your first distillery visit? This covers what actually happens: grain-to-glass tours, tastings, gift shop exclusives, and a few collector-smart tips."
 tier: "detail"
 targetQuery: "what to expect on a Kentucky bourbon distillery tour"
 relatedQueries:

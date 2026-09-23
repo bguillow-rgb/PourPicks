@@ -1,5 +1,5 @@
 ---
-title: "Pot Still vs. Column Still Bourbon: A Collector's Guide to How Distillation Shape Changes Your Pour"
+title: "Pot Still vs. Column Still Bourbon"
 seoTitle: "Pot Still vs Column Still Bourbon: What's the Difference?"
 description: "Pot still bourbon is richer and grain-forward; column still is cleaner and barrel-driven. Learn what each distillation method means for flavor, rarity, and your cellar."
 tier: "detail"
@@ -101,20 +101,3 @@ According to auction data tracked across platforms like Whiskybase and Unicorn A
 4. **Pour Picks**, when you log a bottle in your [bourbon cellar app](/bourbon-inventory-app), you can add production notes to any entry, so you can tag still type yourself and reference it later when building flights or tracking which expressions came from which method.
 
 If you're just starting to track your collection systematically, our guide to [how to organize a bourbon collection](/articles/how-to-organize-a-bourbon-collection) covers how to build a reference system that captures production details beyond what the label tells you.
-
-## FAQs
-
-**Is pot still bourbon better than column still bourbon?**
-Neither is objectively better. Column still bourbon excels at clean, consistent, barrel-driven flavors: the classic American style. Pot still bourbon delivers more grain-derived complexity and texture. The "better" bottle depends entirely on what you're tasting for.
-
-**Does U.S. law require bourbon to be made on a column still?**
-No. Federal Standards of Identity for bourbon specify a maximum distillation proof of 160 (80% ABV) but say nothing about still type. Both pot stills and column stills are legal for bourbon production.
-
-**What is a doubler or thumper, and how is it different from a pot still?**
-A doubler (or thumper) is a secondary pot-style vessel that gives column-distilled low wine a second pass, raising proof and smoothing the spirit. Most large Kentucky distilleries use a column still plus a doubler, a hybrid approach that adds a touch of pot-still character without sacrificing volume.
-
-**Which bourbon brands use pot stills?**
-True pot still bourbons are rare. Craft producers like Balcones (Texas), Tom's Foolery (Ohio), and Kings County (New York) are among the most notable. Willett Pot Still Reserve is named after the bottle shape, not the still type, a common point of confusion for collectors.
-
-**How do I know if a bourbon was made on a pot still vs. a column still?**
-The label rarely says. Your best sources are the distillery's own production notes, independent databases like Whiskybase or Distiller, and tasting: pot still bourbons tend toward oilier mouthfeel and more pronounced grain character, while column still expressions are typically cleaner with prominent barrel notes.

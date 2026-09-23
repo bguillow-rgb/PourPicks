@@ -1,7 +1,7 @@
 ---
-title: "What Is American Single Malt Whiskey? A Bourbon Collector's Guide to the Newest Official Category"
+title: "What Is American Single Malt Whiskey?"
 seoTitle: "What Is American Single Malt Whiskey? A Collector's Guide"
-description: "American single malt is 100% malted barley, distilled at one U.S. distillery, now federally recognized since Jan 2025. Here's what bourbon collectors need to know."
+description: "American single malt is 100% malted barley from a single U.S. distillery, a category federally recognized in January 2025. This is what bourbon collectors should know."
 tier: "detail"
 targetQuery: "what is American single malt whiskey"
 relatedQueries:
@@ -117,20 +117,3 @@ It doesn't, not really. The structure of a good cellar (pull dates, storage cond
 A practical starting approach: pick one well-regarded expression from a transparent craft producer, taste it alongside a wheated bourbon you know well, and take notes on both. The contrast usually clarifies more about each style than reading any number of descriptions. If you're already using Pour Picks to [build tasting notes](/articles/how-to-write-bourbon-tasting-notes) for your bourbon collection, the same format works for American single malt, and keeping both categories in one catalog makes comparative tasting much easier to organize over time.
 
 ---
-
-## FAQs: American single malt whiskey for bourbon collectors
-
-**Is American single malt whiskey the same as bourbon?**
-No. Bourbon requires a minimum 51% corn mash bill and new charred oak barrels. American single malt uses 100% malted barley and may be aged in used or uncharred oak. The TTB formalized them as separate categories. Both must be made in the U.S., but their production standards are meaningfully different.
-
-**When did American single malt become an official category?**
-The TTB issued its final rule establishing a new official standard and definition for the American single malt whiskey category on December 13, 2024, with the minimum two-year aging requirement taking effect January 19, 2025.
-
-**What barrels can American single malt be aged in?**
-It must be stored in oak barrels, either charred new, uncharred new, or used, with a maximum capacity of 700 liters. This gives producers significantly more barrel flexibility than bourbon allows.
-
-**How does American single malt taste compared to bourbon?**
-Expect cereal, biscuit, orchard fruit, and roasted malt notes rather than bourbon's corn-driven caramel and vanilla. The palate is often fuller and slightly more textured. Barrel choice, especially ex-bourbon or ex-wine casks, shapes the flavor dramatically from producer to producer.
-
-**Should bourbon collectors add American single malt to their cellar?**
-If you already appreciate the nuance of [single barrel vs. small batch](/articles/single-barrel-vs-small-batch-bourbon) and track your pours systematically, American single malt is a natural expansion. The category is young, the craft producers are transparent, and buying documented bottles early in a newly official category has historically been a sound collector's move.

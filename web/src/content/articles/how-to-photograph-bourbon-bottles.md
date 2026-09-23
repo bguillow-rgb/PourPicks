@@ -1,7 +1,7 @@
 ---
-title: "How to Photograph Bourbon Bottles: A Collector's Guide to Documenting Your Cellar"
+title: "How to Photograph Bourbon Bottles"
 seoTitle: "How to Photograph Bourbon Bottles (Collector's Guide)"
-description: "Sharp label, true color, readable fill line — here's how to photograph bourbon bottles for your cellar catalog, secondary listings, or social sharing."
+description: "Sharp label, true color, a readable fill line: this is how to photograph bourbon bottles for your cellar catalog, a secondary listing, or a post worth reposting."
 tier: "detail"
 targetQuery: "how to photograph bourbon bottles"
 relatedQueries:
@@ -134,20 +134,3 @@ Consistent file naming is the difference between a searchable archive and a fold
 If you're cataloging inside Pour Picks, photos attach directly to each bottle entry alongside your tasting notes, purchase price, and estimated current value, so the naming convention matters less since the app handles the metadata. For bottles stored in a general photo archive or a cloud folder as a backup, though, disciplined naming pays off quickly. Pair your photos with the [valuation data](/articles/how-to-value-a-bourbon-collection) you track so the record is complete: what you have, what it looks like, and what it's worth.
 
 ---
-
-## FAQs
-
-**What is the best background for photographing bourbon bottles?**
-A matte white or light-gray backdrop is the safest all-purpose choice, it reflects light softly, keeps the bottle's color accurate, and makes the label easy to read. Dark or textured backgrounds can work aesthetically but hide label details that matter for documentation.
-
-**Do I need a DSLR camera to photograph my bourbon collection?**
-No. A modern smartphone camera, especially the 2023-or-later generation with computational photography, produces images detailed enough for cellar cataloging, insurance records, and secondary-market listings. A tripod or ProRAW mode will close the remaining gap with a DSLR for low-light situations.
-
-**How do I avoid glare and reflections when photographing glass bourbon bottles?**
-Diffuse your light source. Place a sheet of parchment paper over a lamp, shoot near a north-facing window on an overcast day, or use a collapsible light tent. Direct flash or an undiffused speedlight aimed straight at the bottle will almost always produce an unflattering white hotspot across the label.
-
-**Which angles should I photograph for a secondary-market listing?**
-Capture at least six shots: full front label, full back label, neck capsule or wax top-down, fill level from the side, lot or batch code (if visible on the bottom or neck), and one 45-degree three-quarter view showing the bottle shape. Buyers on secondary platforms use fill level and capsule condition to assess authenticity and value.
-
-**How do I accurately photograph the fill level of a bourbon bottle?**
-Shoot straight on at shoulder height so the camera lens is level with the liquid surface. Any upward or downward angle distorts the apparent fill. Use consistent side lighting so the meniscus is clearly visible, and note the fill grading term in your caption, upper shoulder, mid shoulder, and so on.

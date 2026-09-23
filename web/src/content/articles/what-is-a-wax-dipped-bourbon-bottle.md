@@ -1,7 +1,7 @@
 ---
-title: "What Is a Wax-Dipped Bourbon Bottle? A Collector's Guide to the Seal, the Symbolism, and What It Means for Your Cellar"
+title: "What Is a Wax-Dipped Bourbon Bottle?"
 seoTitle: "What Is a Wax-Dipped Bourbon Bottle? A Collector's Guide"
-description: "Wax-dipped bourbon bottles signal handcraft and premium positioning — but the wax color, thickness, and brand tell a deeper story. Here's everything collectors need to know."
+description: "A wax dip signals handcraft and premium positioning, but the color, thickness, and brand behind it tell a fuller story. This is how collectors actually read a wax-dipped bottle."
 tier: "detail"
 targetQuery: "what is a wax dipped bourbon bottle"
 relatedQueries:
@@ -108,20 +108,3 @@ Where wax *does* matter to value is in bottle **condition grading**. A cracked, 
 When logging bottles in Pour Picks, the notes field is a natural place to record wax condition, full coverage, any chips, pull-tab intact, so you have documentation if the bottle ever moves to a new home.
 
 ---
-
-## FAQs
-
-**Does the wax on a bourbon bottle actually preserve the whiskey inside?**
-No, for sealed bottles, the wax is purely decorative. Modern closure systems (synthetic corks, threaded caps beneath the wax) handle the real sealing work. The wax does not affect how the bourbon ages or how long it stays shelf-stable once sealed.
-
-**Does wax color on a bourbon bottle mean anything?**
-Sometimes. At Maker's Mark, the signature red wax is trademarked and the brand actively uses alternative colors for special editions, holiday runs, and fundraisers. At Old Fitzgerald (Heaven Hill), label color, not wax, signals season: green for spring, black for fall. Always cross-reference the release notes rather than inferring meaning from wax color alone.
-
-**What is a Maker's Mark "slam dunk" or "oops" bottle?**
-A slam dunk (also called an oops bottle) is a Maker's Mark bottle where the hand-dipper applied excess wax that ran past the shoulder and onto the label. These anomalies are genuine collector items that frequently sell for roughly double their retail price on secondary markets.
-
-**How do you open a wax-sealed bourbon bottle without making a mess?**
-Most wax-sealed bourbons have a tear strip or perforated pull tab built into the wax, look for a small notch or tab at the base of the wax before reaching for any tool. If there's no tab, score around the cap edge with a sharp blade, pop the wax cap off, and then unscrew or pull the closure normally. Avoid striking the wax hard, which sends fragments flying.
-
-**Which bourbon brands currently use wax dipping?**
-Maker's Mark (and its premium sub-lines) is the most iconic. Other notable wax-dipped bourbons include Old Fitzgerald from Heaven Hill, Angel's Envy, and various limited single-barrel releases from craft distilleries and retailers that use custom wax colors as a brand mark for their picks.

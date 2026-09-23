@@ -1,7 +1,7 @@
 ---
-title: "How Many Bottles Are in a Barrel of Bourbon? A Collector's Guide to Yield, Scarcity, and Barrel Picks"
+title: "How Many Bottles Are in a Barrel of Bourbon?"
 seoTitle: "How Many Bottles in a Barrel of Bourbon?"
-description: "A standard 53-gallon bourbon barrel yields 150–240 bottles depending on age, proof, and angel's share. Learn what that means for scarcity and single-barrel picks."
+description: "A standard 53-gallon bourbon barrel yields 150 to 240 bottles depending on age, proof, and angel's share. Learn what that means for scarcity and single-barrel picks."
 tier: "detail"
 targetQuery: "how many bottles in a barrel of bourbon"
 relatedQueries:
@@ -22,9 +22,9 @@ faqs:
   - q: "How many 750ml bottles does a single barrel of bourbon produce?"
     a: "Most single barrels yield between 150 and 240 standard 750ml bottles after accounting for evaporation during aging and any proof dilution at bottling. The exact number depends on how long the bourbon aged and the proof at which it was dumped."
   - q: "Why does a barrel-proof bourbon produce fewer bottles than an 80-proof release?"
-    a: "At barrel proof, no water is added to dilute the spirit, so every ounce of liquid fills fewer bottles than a lower-proof release from the same barrel. A cask-strength bourbon at 120 proof fills roughly 20, 30% fewer bottles than the same barrel cut to 80 proof."
+    a: "At barrel proof, no water is added to dilute the spirit, so every ounce of liquid fills fewer bottles than a lower-proof release from the same barrel. A cask-strength bourbon at 120 proof fills roughly 20 to 30% fewer bottles than the same barrel cut to 80 proof."
   - q: "How does aging time affect how many bottles a barrel produces?"
-    a: "Every year in the rickhouse, evaporation (the angel's share) removes liquid from the barrel, typically 3, 7% per year in Kentucky's climate. A bourbon aged 12 years can lose 30, 50% of its original volume, dramatically reducing the final bottle count."
+    a: "Every year in the rickhouse, evaporation (the angel's share) removes liquid from the barrel, typically 3 to 7% per year in Kentucky's climate. A bourbon aged 12 years can lose 30 to 50% of its original volume, dramatically reducing the final bottle count."
   - q: "Does rickhouse floor position affect barrel yield?"
     a: "Yes. Upper-floor barrels experience more heat cycling, which speeds both extraction and evaporation, often producing fewer bottles but more concentrated flavor. Lower-floor barrels age more slowly and tend to retain slightly more liquid volume."
   - q: "What is a typical yield for a private barrel pick?"
@@ -105,20 +105,3 @@ A few practical applications:
 - **Cellar documentation**: Logging yield alongside batch code, proof, and barrel number in Pour Picks creates a reference you'll actually use when deciding what to open and what to hold.
 
 ---
-
-## FAQs
-
-**How many 750ml bottles does a single barrel of bourbon produce?**
-Most single barrels yield between 150 and 240 standard 750ml bottles after accounting for evaporation during aging and any proof dilution at bottling. The exact number depends on how long the bourbon aged and the proof at which it was dumped.
-
-**Why does a barrel-proof bourbon produce fewer bottles than an 80-proof release?**
-At barrel proof, no water is added to dilute the spirit, so every ounce of liquid fills fewer bottles than a lower-proof release from the same barrel. A cask-strength bourbon at 120 proof fills roughly 20-30% fewer bottles than the same barrel cut to 80 proof.
-
-**How does aging time affect how many bottles a barrel produces?**
-Every year in the rickhouse, evaporation (the angel's share) removes liquid from the barrel, typically 3-7% per year in Kentucky's climate. A bourbon aged 12 years can lose 30-50% of its original volume, dramatically reducing the final bottle count.
-
-**Does rickhouse floor position affect barrel yield?**
-Yes. Upper-floor barrels experience more heat cycling, which speeds both extraction and evaporation, often producing fewer bottles but more concentrated flavor. Lower-floor barrels age more slowly and tend to retain slightly more liquid volume.
-
-**What is a typical yield for a private barrel pick?**
-Most private barrel pick programs at major distilleries yield between 150 and 200 bottles of 750ml. Older or high-proof selections, common in enthusiast picks, often come in below 180 bottles, which is part of what makes them feel exclusive.

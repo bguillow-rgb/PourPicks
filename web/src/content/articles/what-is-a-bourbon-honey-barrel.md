@@ -1,5 +1,5 @@
 ---
-title: "What Is a Bourbon Honey Barrel? A Collector's Guide to the Most Coveted Casks"
+title: "What Is a Bourbon Honey Barrel?"
 seoTitle: "What Is a Bourbon Honey Barrel? A Collector's Guide"
 description: "A honey barrel is an exceptional single cask of bourbon that outperforms every barrel around it. Learn what makes one, why they're so rare, and how collectors find them."
 tier: "detail"
@@ -126,20 +126,3 @@ Look for three things. First, sourced tasting context: did the retailer or disti
 If you're building a cellar around high-quality single-barrel picks, having a systematic way to document which bottles delivered and which disappointed is worth the effort. That's exactly the kind of [bourbon collection tracking](/bourbon-inventory-app) that separates a thoughtful cellar from a closet full of bottles. Pour Picks lets you journal every pour, tag individual single-barrel bottles with their barrel number, and build a personal record of which picks performed over time, useful when you're deciding whether to crack a bottle or hold it.
 
 ---
-
-## FAQs
-
-**Is a honey barrel the same as a single barrel?**
-Not exactly. Every honey barrel is a single barrel, but not every single barrel is a honey barrel. Single barrel simply means the bourbon was bottled from one cask without blending. A honey barrel is a qualitative judgment: a single barrel that dramatically outperforms its neighbors in flavor, balance, and complexity.
-
-**Does "honey barrel" have a legal definition?**
-No. Unlike [bottled-in-bond](/articles/what-is-bottled-in-bond-bourbon) or "straight bourbon," honey barrel has no regulatory definition under TTB rules. Any distillery or retailer can use the phrase, which means it's occasionally applied as a marketing label rather than a genuine quality distinction. Source reputation matters.
-
-**What floor of the rickhouse produces the most honey barrels?**
-There's no universal rule. Wild Turkey has noted they tend to come from around the middle floors of their rickhouses, but the ideal floor depends on warehouse design, local climate, and how extreme the temperature swings are at that specific facility. Our piece on [how rickhouse floor position affects bourbon flavor](/articles/how-rickhouse-floor-position-affects-bourbon-flavor) breaks this down in detail.
-
-**Can you buy a honey barrel at retail?**
-Occasionally yes. Some [store picks](/articles/what-is-a-bourbon-store-pick) are selected precisely because the tasting panel deemed the barrel exceptional, and some retailers market their picks as honey barrels. Because the term is unregulated, read independent reviews before paying a premium for a bottle labeled this way.
-
-**How do I track honey barrel picks in my collection?**
-Log the barrel number, bottling date, warehouse location, and your own tasting notes at the time of purchase. [Pour Picks](/bourbon-inventory-app) lets you journal each pour and tag individual bottles so you can build a personal record of which single-barrel picks truly performed, and which ones didn't live up to the hype.

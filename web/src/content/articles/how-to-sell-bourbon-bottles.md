@@ -1,7 +1,7 @@
 ---
-title: "How to Sell Bourbon Bottles: A Collector's Guide to Auctions, Retailers, and the Legal Reality"
+title: "How to Sell Bourbon Bottles"
 seoTitle: "How to Sell Bourbon Bottles: Auctions, Retailers & the Law"
-description: "Want to sell bourbon bottles legally? Learn your four best options—licensed auctions, retailer buybacks, trades, and outright sales—plus what the law actually allows."
+description: "Selling bourbon legally comes down to four routes: licensed auctions, retailer buybacks, trades, and outright sales. This covers each one, plus what the law actually allows."
 tier: "detail"
 targetQuery: "how to sell bourbon bottles"
 relatedQueries:
@@ -128,20 +128,3 @@ Having your collection fully documented will also directly affect the offer you 
 Pour Picks lets you log all of these details at the bottle level: condition grade, fill level, notes. When an appraiser asks, you're ready in seconds rather than hunting through photos and old receipts.
 
 ---
-
-## FAQs: Selling bourbon bottles
-
-**Is it legal to sell bourbon bottles as a private individual?**
-It depends on how and where you sell. Selling to a licensed retailer is legal in several states, including Kentucky under KRS 243.232(1), and Washington D.C. Consigning through a licensed auction house is broadly legal across the U.S. Selling directly to another private citizen for cash, especially online, is illegal in every U.S. state without a liquor license.
-
-**What is the best auction site to sell bourbon in the U.S.?**
-US-based options include Unicorn Auctions, Good Bottle Auctions, and Whiskey Source. All three take physical possession of bottles before listing, authenticate them, and pay consignors after the sale. Commission structures vary: Unicorn charges a flat $5 per bottle plus 5% of the hammer price, with payout within 10 days of auction close.
-
-**How much will my bourbon sell for at auction?**
-It depends heavily on the bottle. Recent August 2026 auction data shows George T. Stagg at $650-$670, William Larue Weller (2022) at $980, and Colonel E.H. Taylor Warehouse C at $1,200. More common allocated bottles trade closer to secondary pricing. Condition, fill level, and label integrity all affect the final result.
-
-**Can I sell bourbon on Facebook or Craigslist?**
-No, not legally. Selling alcohol on Craigslist violates the platform's terms of service, and selling liquor without a license is illegal under state and federal law regardless of the platform. Facebook bourbon groups operate in a gray area, but the underlying transaction, a private citizen selling alcohol for cash, is unlicensed and therefore illegal.
-
-**Do I need to catalog my collection before selling it?**
-Yes, and it will get you a better offer. Auction houses and retailers ask for brand, age statement, batch number, proof, fill level, and label condition before providing a valuation. Having your collection cataloged in Pour Picks speeds up this process and means you arrive at any conversation ready to negotiate.

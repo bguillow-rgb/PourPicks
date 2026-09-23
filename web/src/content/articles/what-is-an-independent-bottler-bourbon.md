@@ -1,7 +1,7 @@
 ---
-title: "What Is an Independent Bottler? A Bourbon Collector's Guide to IB Releases"
+title: "What Is an Independent Bottler?"
 seoTitle: "What Is an Independent Bottler Bourbon? A Collector's Guide"
-description: "Independent bottlers buy single casks from distilleries and bottle them under their own label. Here's what collectors need to know about IB releases, provenance, and value."
+description: "Independent bottlers buy single casks and release them under their own label. This covers what to know about IB releases, how provenance works, and where the value sits."
 tier: "detail"
 targetQuery: "what is an independent bottler bourbon"
 relatedQueries:

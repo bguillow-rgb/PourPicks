@@ -1,7 +1,7 @@
 ---
-title: "What Is a Bourbon of the Month Club? A Collector's Guide to Subscriptions, VIP Programs, and Whether They're Worth It"
+title: "What Is a Bourbon of the Month Club?"
 seoTitle: "What Is a Bourbon of the Month Club? Collector's Guide"
-description: "A bourbon of the month club delivers curated bottles to your door on a schedule. Learn how subscriptions, distillery VIP programs, and group picks differ—and which is right for your cellar."
+description: "Bourbon of the month clubs ship a bottle or two on a set schedule. We break down retail boxes, distillery VIP programs, and group barrel picks, and who each one actually suits."
 tier: "detail"
 targetQuery: "what is a bourbon of the month club"
 relatedQueries:
@@ -96,24 +96,3 @@ Look for five things:
 5. Community and education value. The best clubs add something beyond the bottle: tasting events, distillery access, forum communities, or barrel pick participation. Priority access to limited-run barrel picks or rare releases can be genuinely useful for collectors building toward their first private barrel experience.
 
 If you're tracking multiple bottles arriving from different sources (subscriptions, distillery direct, secondary market pickups), keeping a [bourbon inventory app](/bourbon-inventory-app) current becomes more important, not less. A monthly delivery habit adds bottles faster than memory can track provenance, proof, and purchase price.
-
-## FAQs
-
-**Is a bourbon of the month club worth it for serious collectors?**
-It depends on your goals. Subscription boxes are best for discovery: finding bottles you'd never seek out on your own. Distillery VIP clubs are better for collectors who want early access to limited releases or barrel picks. Neither replaces targeted hunting, but both can fill gaps in a cellar and surface overlooked expressions.
-
-**Can bourbon be legally shipped to my home through a club?**
-It depends on your state. Direct-to-consumer alcohol shipping laws vary widely. Most subscription services fulfill orders through licensed third-party retailers and couriers, but some states prohibit or heavily restrict spirits shipments. Always confirm your state's rules before subscribing, and note that an adult 21+ must sign for delivery.
-
-**What is the difference between a bourbon subscription box and a distillery VIP club?**
-A subscription box (Flaviar, Taster's Club, PourMore) is run by a third-party retailer and curates bottles from multiple brands. A distillery VIP club (Remus Bottle Club, Buffalo Trace Single Barrel Select) is run by the distillery itself and offers direct access to its own limited releases, barrel picks, or experimental series. The two are complementary, not interchangeable.
-
-**How much does a typical bourbon subscription cost per month?**
-Entry-level retail subscription clubs typically run $40-$80 per shipment for one full-sized bottle. Premium or multi-bottle tiers can reach $100-$200+ per month. Distillery VIP programs vary widely: some are free to join with per-bottle pricing, others charge a quarterly membership fee plus the cost of allocated bottles.
-
-**What should a collector look for when evaluating a bourbon club?**
-Look for transparency about how bottles are selected (award criteria, proof minimums, or distillery relationships), a clear cancellation or pause policy, geographic shipping eligibility, and whether the club surfaces bottles you genuinely can't find locally. Clubs that duplicate your everyday shelf finds offer little value to an established collector.
-
----
-
-*Tracking a growing cellar? Pour Picks' [bourbon inventory app](/bourbon-inventory-app) lets you log every new arrival, subscription box or secondary score, with bottle condition, proof, purchase price, and tasting notes in one place, so your collection always reflects what you actually own.*

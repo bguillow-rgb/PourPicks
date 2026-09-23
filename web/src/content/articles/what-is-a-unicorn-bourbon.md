@@ -1,7 +1,7 @@
 ---
-title: "What Is a Unicorn Bourbon? A Collector's Guide to the Most Hunted Bottles"
+title: "What Is a Unicorn Bourbon?"
 seoTitle: "What Is a Unicorn Bourbon? A Collector's Guide"
-description: "A unicorn bourbon is an ultra-rare, nearly impossible-to-find bottle prized for scarcity, heritage, and secondary market value. Here's what makes one — and how collectors chase them."
+description: "A unicorn is the bottle you almost never find, prized for scarcity, heritage, and secondary value. This is what earns one the label, and how collectors run them down."
 tier: "detail"
 targetQuery: "what is a unicorn bourbon"
 relatedQueries:
@@ -112,20 +112,3 @@ That means logging fill level, bottle condition, purchase price, and storage loc
 Pair that habit with our guide to [grading bourbon bottle condition](/articles/how-to-grade-bourbon-bottle-condition) and you'll have the documentation a serious collector, or a future buyer, would actually want to see.
 
 ---
-
-## FAQs
-
-**What is considered a unicorn bourbon?**
-A unicorn bourbon is any bottle that is nearly impossible to find at retail due to extremely limited production, strong collector demand, or cult-like reputation. Classic examples include Pappy Van Winkle, the Buffalo Trace Antique Collection, and Michter's 20-Year.
-
-**Is unicorn bourbon the same as allocated bourbon?**
-Not exactly. All unicorns are allocated, but not all allocated bottles qualify as unicorns. Allocated means a distillery limits how much a retailer receives. Unicorn status requires the additional combination of extreme scarcity, secondary market demand, and legendary reputation that makes retail sightings genuinely rare.
-
-**Why is Pappy Van Winkle considered the ultimate unicorn?**
-Pappy Van Winkle combines extremely limited annual production, decades of critical acclaim, a compelling family backstory, and secondary market prices that can reach well over 2,000% of MSRP. Put those together and you get near-mythical collectible status.
-
-**Can a new bourbon become a unicorn?**
-Yes. Bottles earn unicorn status over time through a mix of strong reviews, strict production limits, and growing word-of-mouth. Early Willett Family Estate releases and Blanton's are examples of bottles that gradually crossed from allocated into true unicorn territory.
-
-**How do collectors track their unicorn bottles and collection value?**
-Serious collectors use dedicated apps to log bottles, note provenance and fill levels, and monitor secondary market values over time. Pour Picks lets you catalog your cellar, scan labels to identify bottles, and journal tasting notes, keeping your rarest bottles organized in one private reference.

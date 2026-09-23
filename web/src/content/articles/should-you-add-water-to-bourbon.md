@@ -1,5 +1,6 @@
 ---
-title: "Should You Add Water to Bourbon? A Collector's Guide"
+title: "Should You Add Water to Bourbon?"
+seoTitle: "Should You Add Water to Bourbon? A Collector's Guide"
 description: "Yes, a few drops of water can unlock hidden aromas in high-proof bourbon. Learn the science, how much to add, what type of water to use, and when to skip it."
 tier: "detail"
 targetQuery: "should you add water to bourbon"
@@ -129,20 +130,3 @@ There's also a case for restraint during formal tastings. At a group tasting or 
 One scenario where water is almost never appropriate: an older, lower-proof dusty bottle, say a 1970s or 1980s find at 86 proof, that has already experienced some oxidation. These bottles are often more fragile than a freshly opened modern release and typically don't benefit from additional dilution. Appreciate them at bottle strength.
 
 ---
-
-## FAQs
-
-**Does adding water ruin bourbon?**
-No. A few drops of room-temperature, neutral water will not ruin bourbon. It may temporarily change the aroma and flavor profile, usually for the better at higher proofs, but it does not damage the spirit. The risk is overdoing it: too much water flattens mouthfeel and mutes flavor compounds.
-
-**How many drops of water should I add to bourbon?**
-Start with two to three drops per 1-2 oz pour, then nose and taste before adding more. For barrel-proof expressions (115+ proof), up to a quarter teaspoon (roughly 20-25 drops) is reasonable. Add one drop at a time and stop when the heat subsides but the flavor is still vibrant.
-
-**What kind of water is best to add to bourbon?**
-Use filtered, distilled, or low-mineral spring water. Avoid tap water in areas with high chlorine or fluoride content, as those compounds can introduce off-flavors. The goal is neutral water that doesn't compete with the bourbon's own character.
-
-**Should you add water to all bourbons or just high-proof ones?**
-It's most beneficial for expressions above 100 proof (50% ABV), especially cask-strength and barrel-proof releases. Standard 80-90 proof bourbons are already diluted to a drinking-friendly level and may only need a single drop, if any. Always try neat first.
-
-**Is adding water to bourbon the same as putting ice in it?**
-No. Ice chills the liquid significantly, which can numb taste receptors and mute volatile aromatics. A few drops of room-temperature water dilutes without the temperature drop, making it a more useful tool for tasting and evaluation. If you prefer chilled bourbon, a single large ice cube melts more slowly and does less damage to the nose.

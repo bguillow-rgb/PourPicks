@@ -1,5 +1,5 @@
 ---
-title: "How to Date a Vintage Bourbon Bottle: A Collector's Field Guide to Glass Codes, Tax Strips, and UPC Clues"
+title: "How to Date a Vintage Bourbon Bottle: Glass Codes, Tax Strips, and UPC Clues"
 seoTitle: "How to Date a Vintage Bourbon Bottle (Collector's Guide)"
 description: "Learn exactly how to date a vintage bourbon bottle using glass codes, tax strips, UPC prefixes, metric markings, and dot-matrix date codes. A field guide for collectors."
 tier: "detail"
@@ -28,7 +28,7 @@ faqs:
   - q: "What does it mean if my bourbon bottle is measured in quarts or pints instead of milliliters?"
     a: "It means the bottle was filled before January 1, 1980, when all U.S. spirits bottles were required to switch to metric measurements. A bottle showing both imperial and metric is likely from the 1978, 1980 transition window. Pure imperial = pre-1979."
   - q: "Is a low fill level a red flag on a vintage bourbon bottle?"
-    a: "Not necessarily. Sealed bottles lose liquid slowly through cork evaporation at roughly 0.5, 2% per year over long periods, so a bottle sealed for 20+ years will often show a noticeably lower fill level than when it left the distillery. A shoulder-level fill on a legitimate 1970s bottle is normal, but dramatic fill loss on a supposedly young dusty warrants scrutiny."
+    a: "Not necessarily. Sealed bottles lose liquid slowly through cork evaporation at roughly 0.5 to 2% per year over long periods, so a bottle sealed for 20+ years will often show a noticeably lower fill level than when it left the distillery. A shoulder-level fill on a legitimate 1970s bottle is normal, but dramatic fill loss on a supposedly young dusty warrants scrutiny."
 published: true
 ---
 

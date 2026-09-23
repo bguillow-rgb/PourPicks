@@ -1,5 +1,5 @@
 ---
-title: "How to Buy Bourbon at Auction: A Collector's Guide to Bidding, Fees, and Finding the Right Bottles"
+title: "How to Buy Bourbon at Auction"
 seoTitle: "How to Buy Bourbon at Auction: A Collector's Guide"
 description: "Learn how bourbon auctions work, what buyer's premiums cost, how to set a max bid, and which platforms collectors actually use to find rare bottles."
 tier: "detail"
@@ -137,20 +137,3 @@ For domestic US auctions, confirm the platform's shipping policy before bidding.
 5. Neglecting to track your collection before buying more. Before adding auction wins, know exactly what you already own. A dedicated [cellar tracking tool](/bourbon-inventory-app) prevents duplicate buys and helps you identify the gaps worth filling.
 
 ---
-
-## FAQs
-
-**What is a buyer's premium at a bourbon auction?**
-A buyer's premium is the auction house's fee, a percentage added to your hammer price, typically 10%-20% depending on the platform. It goes to the auction house, not the seller. Always build it into your maximum bid calculation before the auction opens.
-
-**Is it legal to buy bourbon at auction in the US?**
-Legality varies by state. Licensed platforms like Unicorn Auctions operate within regulated frameworks, but your ability to receive a shipped bottle depends on your state's laws around private spirits transfers. Check your state's alcohol shipping rules before your first purchase.
-
-**How do I know if an auction bottle is authentic?**
-Stick to platforms that physically receive and authenticate every lot before listing. Read the condition notes carefully and look for detailed photos of the closure, label, and tax strip. Our guide to [dating vintage bottles](/articles/how-to-date-a-vintage-bourbon-bottle) and [grading condition](/articles/how-to-grade-bourbon-bottle-condition) can help you spot red flags in listing photos.
-
-**What is proxy bidding in a bourbon auction?**
-Proxy bidding lets you enter your true maximum, then step away. The system bids in minimum increments on your behalf, only as high as needed to stay in the lead, up to your ceiling. You never accidentally exceed your limit, and you don't need to monitor the auction live.
-
-**What is a "no reserve" bourbon auction?**
-No reserve means the seller set no minimum price, so the bottle sells to the highest bidder regardless of the final number. These auctions can produce genuine bargains, or drive prices above secondary market if multiple collectors want the same lot.

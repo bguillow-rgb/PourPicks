@@ -1,6 +1,7 @@
 ---
-title: "Wheated Bourbon vs High-Rye Bourbon: A Collector's Guide"
-description: "Wheated bourbon is soft and sweet; high-rye is spicy and structured. Here's how mash bill style shapes flavor, collectibility, and which bottles to seek out."
+title: "Wheated Bourbon vs High-Rye Bourbon"
+seoTitle: "Wheated Bourbon vs High-Rye Bourbon: A Collector's Guide"
+description: "Wheated bourbon drinks soft and sweet; high-rye drinks spicy and structured. This is how the secondary grain shapes flavor, collectibility, and which bottles to chase."
 tier: "detail"
 targetQuery: "wheated bourbon vs high rye bourbon"
 relatedQueries:
@@ -27,13 +28,13 @@ faqs:
   - q: "What are the best high-rye bourbons to start collecting?"
     a: "Widely available entry points include Bulleit Bourbon (28% rye), Four Roses Single Barrel, Old Grand-Dad Bottled-in-Bond, and Woodford Reserve. These give a strong reference point for the high-rye style before moving into rarer expressions."
   - q: "Does mash bill style affect secondary market value?"
-    a: "Indirectly, yes. Wheated bourbons dominate the top of the secondary market -- Pappy Van Winkle, William Larue Weller, and Old Fitzgerald are all wheated. However, that's driven by scarcity and brand prestige, not the wheat itself. High-rye releases like George T. Stagg also command strong premiums."
+    a: "Indirectly, yes. Wheated bourbons dominate the top of the secondary market, Pappy Van Winkle, William Larue Weller, and Old Fitzgerald are all wheated. However, that's driven by scarcity and brand prestige, not the wheat itself. High-rye releases like George T. Stagg also command strong premiums."
 published: true
 ---
 
 Every bourbon starts with a majority of corn. That's the law. But the second grain, the one that fills out the recipe, quietly shapes everything you smell, taste, and feel in the glass. That grain is either wheat or rye, and knowing which one you're holding is one of the most practically useful things a collector can learn.
 
-## Wait -- what exactly is the "secondary grain" and why does it matter so much?
+## Wait, what exactly is the "secondary grain" and why does it matter so much?
 
 One of the biggest reasons bourbons taste so different from one another is the mash bill, the mix of grains used to make the spirit. All bourbon must contain at least 51% corn, but what comes next makes a real difference in flavor. The secondary grain is usually either wheat or rye, and that single choice has an outsized effect on what ends up in the glass.
 
@@ -98,20 +99,3 @@ Start with widely available bottles on each side: Maker's Mark or Larceny for wh
 You don't need a hard-to-find bottle to understand either style. Many widely distributed wheated bourbons carry the signature bready sweetness and make solid daily sippers. The same goes for the rye side. Once you've tasted the baseline of each, picking your way through new releases gets a lot simpler.
 
 ---
-
-## FAQs
-
-**What makes a bourbon "wheated"?**
-A wheated bourbon replaces rye with wheat as the secondary flavoring grain after corn. Wheat is a gentler grain that amplifies perceived sweetness, producing notes of vanilla, honey, caramel, and soft bread rather than the pepper and spice of rye.
-
-**Is wheated bourbon always smoother than high-rye bourbon?**
-Not necessarily. Proof and barrel aging have at least as much influence on perceived smoothness as the mash bill. A barrel-proof wheated bourbon can be quite intense, while a low-proof high-rye can drink very gently. Mash bill sets the flavor character; proof and age set the intensity.
-
-**Are Pappy Van Winkle and W.L. Weller wheated bourbons?**
-Yes. Both the Van Winkle lineup and the entire Weller family from Buffalo Trace are wheated bourbons, sharing a similar wheat-based mash bill. This is a large part of why collectors who love Pappy's profile often chase Weller as a more accessible alternative.
-
-**What are the best high-rye bourbons to start collecting?**
-Widely available entry points include Bulleit Bourbon (28% rye), Four Roses Single Barrel, Old Grand-Dad Bottled-in-Bond, and Woodford Reserve. These give a strong reference point for the high-rye style before moving into rarer expressions.
-
-**Does mash bill style affect secondary market value?**
-Indirectly, yes. Wheated bourbons dominate the top of the secondary market -- Pappy Van Winkle, William Larue Weller, and Old Fitzgerald are all wheated. However, that's driven by scarcity and brand prestige, not the wheat itself. High-rye releases like George T. Stagg also command strong premiums.

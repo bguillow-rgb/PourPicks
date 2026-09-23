@@ -87,7 +87,3 @@ A few more terms you will run into:
 All of this is why reading the *physical label* matters more than scanning a barcode. Store picks, single barrels, and limited releases frequently have **no barcode at all**, or share one generic barcode across an entire product line, so a barcode-lookup app simply cannot tell them apart.
 
 This is the gap an AI label scan closes. [Pour Picks](https://apps.apple.com/us/app/pour-picks/id6764040132) reads the label itself with AI vision, distillery, expression, proof, age statement, and batch or bottle numbers when they are printed, the same spec sheet you just learned to read, captured automatically into your cellar. That means the weird single-barrel store pick with the hand-written batch number lands in your collection with its real details intact, instead of as an unrecognized barcode. If you want to see how that fits into managing a whole collection, [the best bourbon cellar apps](/articles/best-bourbon-cellar-apps) covers the field.
-
----
-
-*Pour Picks is a free iOS app for bourbon collectors. Scan any label to read its proof, age, and details into your cellar automatically, then log every pour. [Download on the App Store](https://apps.apple.com/us/app/pour-picks/id6764040132).*

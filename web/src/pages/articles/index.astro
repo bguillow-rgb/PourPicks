@@ -33,24 +33,25 @@ const collectionSchema = {
 };
 ---
 <BaseLayout
-  title="Blog"
-  description="The Pour Picks blog, guides and references for bourbon collectors covering storage, oxidation, valuation, identification, and more."
+  title="Journal"
+  description="The Pour Picks journal: field-tested references for bourbon collectors, covering storage, oxidation, valuation, identification, and the language of the hobby."
   path="/articles"
 >
   <Fragment slot="head">
     <script type="application/ld+json" set:html={JSON.stringify(collectionSchema)} />
-    <BreadcrumbSchema crumbs={[{ name: 'Blog', url: `${SITE.url}/articles` }]} />
+    <BreadcrumbSchema crumbs={[{ name: 'Journal', url: `${SITE.url}/articles` }]} />
   </Fragment>
 
-  <p class="brand">{SITE.name}</p>
-  <h1>Blog</h1>
-  <p class="effective">Field-tested references for bourbon collectors.</p>
-  <p class="effective">Looking for the app itself? Start with the <a href="/bourbon-inventory-app">bourbon inventory app</a> overview.</p>
+  <header class="article-head">
+    <p class="article-kicker">Journal</p>
+    <h1>The Pour Picks Journal</h1>
+    <p class="article-dek">Field-tested references for bourbon collectors: how to store it, how to value it, how to read a label, and what the words on it mean. Looking for the app itself? Start with the <a href="/bourbon-inventory-app">bourbon inventory app</a> overview.</p>
+  </header>
 
   {articles.length === 0 ? (
     <p>The first articles are being written now. Check back soon, or email <a href={`mailto:${SITE.supportEmail}`}>{SITE.supportEmail}</a> if there is a topic you want covered.</p>
   ) : (
-    <ul>
+    <ul class="blog-list">
       {articles.map((a) => (
         <li>
           <a href={`/articles/${a.slug}`}>{a.data.title}</a>

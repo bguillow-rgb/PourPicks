@@ -1,5 +1,5 @@
 ---
-title: "How to Spot a Fake Bourbon Bottle: A Collector's Guide to Authentication"
+title: "How to Spot a Fake Bourbon Bottle"
 seoTitle: "How to Spot a Fake Bourbon Bottle (Collector's Guide)"
 description: "Counterfeit bourbon is a real secondary-market risk. Learn the 7 authentication checks every collector should run before buying a rare bottle."
 tier: "detail"
@@ -158,24 +158,3 @@ Serious collectors take this seriously. Once you've finished a bottle, dispose o
 An intact, authenticated empty is raw material for a refill operation. A cracked or deliberately marred bottle is not. Keeping display empties is fine. Making it easy for someone to re-use them downstream is not.
 
 ---
-
-## FAQs
-
-**How common are fake bourbon bottles on the secondary market?**
-Counterfeits are concentrated in the highest-demand allocated expressions: Pappy Van Winkle, Weller, Buffalo Trace Antique Collection, and Colonel E.H. Taylor. Rare Whisky 101 has estimated that counterfeit bottles account for a significant share of premium whiskey resold through informal channels. Risk is near-zero at licensed retailers but meaningfully elevated in peer-to-peer trades and social-media groups.
-
-**What are the most commonly faked bourbon brands?**
-Pappy Van Winkle, the Weller lineup (especially Weller 12 and Weller Antique 107), Buffalo Trace Antique Collection expressions, Colonel E.H. Taylor, and Blanton's are the most frequently counterfeited bourbons because their secondary-market prices make the effort worthwhile for bad actors.
-
-**Can I verify a bourbon bottle's authenticity with the distillery?**
-Yes. Most major distilleries, including Buffalo Trace, Brown-Forman, and Heaven Hill, will verify bottles when contacted directly. Bring or photograph the lot code, DSP number, and any neck codes before reaching out. Some newer expressions also support NFC chip or QR-code verification through brand apps.
-
-**What does a re-topped or refilled bourbon bottle look like?**
-Look for a fill level that sits higher than the mid-neck standard for that release, sticky residue or discoloration where a capsule was removed, a cork that doesn't match the brand's hardware, and a tax strip with glue seepage or a faint ghost line where an older strip was removed and repositioned.
-
-**Is it safe to drink from a bottle I suspect might be fake?**
-No. A refilled bottle could contain anything from cheap commodity whiskey to genuinely unsafe liquids. If you have serious doubts about a bottle's contents, not just its label, do not consume it. Contact the distillery, a trusted auction house, or local authorities if you believe fraud occurred.
-
----
-
-The authentication skills in this guide compound over time. The first few times you inspect a suspicious bottle it feels slow and deliberate. After a dozen purchases it becomes instinct, a 60-second scan that either clears the bottle or sends up a flag worth investigating. Pair that instinct with a well-documented cellar and you're in a much stronger position than most buyers in the secondary market. Tracking your verified bottles (photos, lot codes, purchase provenance) in one place is exactly what a purpose-built tool like [Pour Picks](/bourbon-inventory-app) is designed to support.

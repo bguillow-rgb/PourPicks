@@ -1,7 +1,7 @@
 ---
-title: "What Is a DSP Number on a Bourbon Bottle? A Collector's Guide"
+title: "What Is a DSP Number on a Bourbon Bottle?"
 seoTitle: "What Is a DSP Number on Bourbon? A Collector's Guide"
-description: "A DSP number identifies exactly where a bourbon was distilled. Learn how to find it, read it, and use it to trace provenance — especially on vintage and dusty bottles."
+description: "A DSP number pins down exactly where a bourbon was distilled. This shows how to find it, read it, and use it to trace provenance, which matters most on vintage and dusty bottles."
 tier: "detail"
 targetQuery: "what is a DSP number bourbon"
 relatedQueries:
@@ -112,20 +112,3 @@ For vintage and dusty hunting, the DSP is often the single most important authen
 If you use Pour Picks to catalog your collection, logging the DSP number alongside each bottle's entry is a good habit, especially for bottles you're holding long-term. It becomes part of the provenance record if you ever sell, insure, or simply want to remember exactly what era and facility a pour came from.
 
 ---
-
-## FAQs
-
-**What does DSP stand for on a bourbon bottle?**
-DSP stands for Distilled Spirits Plant. It is a federally assigned permit number that identifies the specific facility where the spirit was produced. On bourbon labels you'll see it formatted as DSP-KY-[number] for Kentucky distilleries, or DSP-[STATE]-[number] for other states.
-
-**Where do I find the DSP number on a bourbon bottle?**
-On Bottled-in-Bond bourbons it is required by law and typically appears on the front or back label near the bottling statement. On non-bonded bottles it may appear in small print near the producer address or on the strip stamp. Vintage bottles often show it prominently on the tax strip.
-
-**Does a low DSP number mean a distillery is old or better quality?**
-Not necessarily. Low DSP numbers were assigned in order of registration, but distilleries change hands and permits transfer with sales. Kentucky Peerless, revived in 2014, holds DSP-50, while some modern craft operations inherited very low numbers from prior owners. A low number reflects registration history, not current quality.
-
-**What are some iconic DSP numbers collectors should know?**
-DSP-KY-16 is Stitzel-Weller, home of the original Pappy Van Winkle distillate. DSP-KY-1 is Heaven Hill's Bernheim distillery. DSP-KY-8 is Four Roses in Lawrenceburg. DSP-KY-14 was Old Grand-Dad under National Distillers. DSP-KY-354 is Buffalo Trace. Knowing these helps you verify the origin of vintage and Bottled-in-Bond finds.
-
-**Can the same bourbon brand have different DSP numbers across releases?**
-Yes. If a brand sources from multiple distilleries, or if distillery ownership changes, the DSP on the label can change between releases. This is one reason collectors cross-reference DSP numbers when building verticals -- different DSP numbers on the same brand label can indicate meaningfully different liquid inside.

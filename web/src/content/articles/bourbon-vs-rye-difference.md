@@ -191,7 +191,3 @@ A balanced 10-bottle American whiskey cellar usually looks something like:
 - 1 wild card (a craft distillery, an indie bottler, something seasonal)
 
 That set covers the spectrum, makes side-by-side comparisons easy, and gives you something to pour for any mood. Once a shelf reaches that size, remembering what you own, what you've opened, and what you actually thought of it becomes its own problem, which is where [a good bourbon cellar app](/articles/best-bourbon-cellar-apps) earns its keep.
-
----
-
-*Pour Picks is a free iOS app that helps you track every bottle in your bourbon and rye cellar, what you've opened, what you've poured, and what you actually thought. [Download on the App Store](https://apps.apple.com/us/app/pour-picks/id6764040132).*

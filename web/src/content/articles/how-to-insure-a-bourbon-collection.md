@@ -1,7 +1,7 @@
 ---
-title: "How to Insure a Bourbon Collection: A Collector's Guide"
+title: "How to Insure a Bourbon Collection"
 seoTitle: "How to Insure a Bourbon Collection (And What It Costs)"
-description: "Your homeowners policy likely won't cover a serious bourbon cellar. Here's exactly how to insure a bourbon collection: scheduling, blanket policies, and what to document."
+description: "Your homeowners policy probably won't cover a serious cellar. This is how to insure a bourbon collection: scheduling, blanket policies, and exactly what to document."
 tier: "detail"
 targetQuery: "how to insure a bourbon collection"
 relatedQueries:
@@ -107,9 +107,9 @@ This is where most collectors are underprepared. Insurers are not skeptical abou
 
 A defensible inventory for insurance purposes includes:
 
-- **Bottle-by-bottle listing** -- name, expression, distillery, bottling date or vintage, proof, and fill level for any older or opened bottles
-- **Valuation source** -- recent auction results, secondary market comps, or purchase receipts
-- **Photographs** -- a quick photo of every bottle's label and condition; [photographs are a quick and efficient way of documenting the bottle and its condition](index="26-22")
+- **Bottle-by-bottle listing**: name, expression, distillery, bottling date or vintage, proof, and fill level for any older or opened bottles
+- **Valuation source**: recent auction results, secondary market comps, or purchase receipts
+- **Photographs**: a quick photo of every bottle's label and condition; [photographs are a quick and efficient way of documenting the bottle and its condition](index="26-22")
 - **Purchase receipts** wherever available
 - **Professional appraisals** for bottles worth $500 or more
 
@@ -123,10 +123,10 @@ This is where a bourbon cellar app like Pour Picks earns its keep before a polic
 
 Yes, and they're worth understanding. Even comprehensive specialist policies exclude certain scenarios:
 
-- **Inherent vice** -- gradual evaporation, natural cork deterioration, or slow fill-level loss over time are not insurable events. These are considered normal characteristics of spirits, not external losses.
-- **Improper storage** -- [you have an inherent responsibility to look after your bottles and store them correctly](index="26-15"). If a claim arises from conditions you caused, extreme temperature swings or storage near chemicals that can permeate cork, coverage may be denied.
-- **Chemicals and odor contamination** -- [do not store chemicals, paint, or odor-producing materials near your collection, since these items can permeate through the cork and spoil the whiskey](index="21-18,21-19").
-- **Wear and tear** -- opened or partially consumed bottles are harder to insure at full replacement value.
+- **Inherent vice**: gradual evaporation, natural cork deterioration, or slow fill-level loss over time are not insurable events. These are considered normal characteristics of spirits, not external losses.
+- **Improper storage**: [you have an inherent responsibility to look after your bottles and store them correctly](index="26-15"). If a claim arises from conditions you caused, extreme temperature swings or storage near chemicals that can permeate cork, coverage may be denied.
+- **Chemicals and odor contamination**: [do not store chemicals, paint, or odor-producing materials near your collection, since these items can permeate through the cork and spoil the whiskey](index="21-18,21-19").
+- **Wear and tear**: opened or partially consumed bottles are harder to insure at full replacement value.
 
 One practical risk-reduction step: [have a backup plan for power outages, a generator that can keep climate control running for several days or weeks](index="21-20,21-21").
 

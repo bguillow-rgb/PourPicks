@@ -78,10 +78,21 @@ export const SITE = {
 // the JSON can never silently republish an off-category page.
 export const PAIRING_CATEGORIES = ['bourbon', 'tennessee'];
 
+// Primary masthead nav: four destinations. The wordmark handles Home; the
+// legal, support, and press pages live in the footer so the masthead stays a
+// short line of real sections, not a nine-item everything-drawer.
 export const NAV = [
+  { label: 'Features', href: '/features' },
+  { label: 'Journal', href: '/articles' },
+  { label: 'Pairings', href: '/pairings' },
+  { label: 'About', href: '/about' },
+];
+
+// Full sitemap, rendered in the footer.
+export const FOOTER_NAV = [
   { label: 'Home', href: '/' },
   { label: 'Features', href: '/features' },
-  { label: 'Blog', href: '/articles' },
+  { label: 'Journal', href: '/articles' },
   { label: 'Pairings', href: '/pairings' },
   { label: 'About', href: '/about' },
   { label: 'Press', href: '/press' },

@@ -157,7 +157,3 @@ Honest answer: around bottle 40. Below that, you're buying bottles to drink. Abo
 That's not a bad thing, many serious collectors love the inventory game, but it's a different hobby than drinking bourbon. If you find yourself opening fewer bottles per month as your shelf grows, you've crossed into collection mode. There's no rule that says you have to. Plenty of people stop at 25 bottles and rotate the same set forever, drinking everything they buy. That's a sustainable cellar.
 
 The collectors who burn out are the ones who don't make the choice deliberately. They keep buying, the bottles stack up, the open-bottle oxidation problem compounds, and eventually they pour the same three bottles every week while $5,000 worth of bourbon stares at them from the shelf. Don't be that person.
-
----
-
-*Pour Picks is a free iOS app for bourbon collectors. Scan any bottle to add it to your cellar, log every pour, and let "Pour Tonight" pick what to drink from what you actually own. [Download on the App Store](https://apps.apple.com/us/app/pour-picks/id6764040132).*

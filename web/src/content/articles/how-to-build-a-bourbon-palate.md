@@ -1,6 +1,7 @@
 ---
-title: "How to Build a Bourbon Palate: A Collector's Guide"
-description: "Learn how to build a bourbon palate through structured tasting, the flavor wheel, and deliberate practice—so every bottle in your cellar reveals more."
+title: "How to Build a Bourbon Palate"
+seoTitle: "How to Build a Bourbon Palate: A Collector's Guide"
+description: "You build a palate the way you build anything: structured tasting, the flavor wheel, and reps. This is the practice that makes every bottle in your cellar reveal more."
 tier: "detail"
 targetQuery: "how to build a bourbon palate"
 relatedQueries:

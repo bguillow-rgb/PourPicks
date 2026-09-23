@@ -1,6 +1,7 @@
 ---
-title: "What Is Bourbon Barrel Char Level? A Collector's Guide"
-description: "Char level determines the flavors in every bourbon you own. Learn what #1–#4 char means, how it shapes taste, and why it matters for your collection."
+title: "What Is Bourbon Barrel Char Level?"
+seoTitle: "What Is Bourbon Barrel Char Level? A Collector's Guide"
+description: "Char level determines the flavors in every bourbon you own. Learn what #1, #4 char means, how it shapes taste, and why it matters for your collection."
 tier: "detail"
 targetQuery: "what is bourbon barrel char level"
 relatedQueries:
@@ -39,7 +40,7 @@ Every bourbon in your cellar got its signature color, sweetness, and smoke from 
 
 Char level is a standardized rating for how long (and therefore how deeply) the interior of a new oak barrel is burned before it's filled with new-make spirit. Barrel char is typically categorized into four main levels, ranging from light to heavy, and each level plays a unique role in shaping the flavor profile of the whiskey or bourbon.
 
-The burning is measured in seconds of open-flame exposure: Char Level 1 involves 15 seconds of heat; Char Level 2, 30 seconds; Char Level 3, 35 seconds; and Char Level 4, also called "alligator char", requires 55 seconds of intense heat. Those few extra seconds are not trivial. The difference between a #2 and a #3 char is only five seconds of burn time, but there is only a five-second difference between levels two and three, yet it makes a significant difference, combine barrel char level three with a couple of years of aging, and you'll have a well-rounded bourbon with more spicy and earthy flavors.
+The burning is measured in seconds of open-flame exposure: Char Level 1 involves 15 seconds of heat; Char Level 2, 30 seconds; Char Level 3, 35 seconds; and Char Level 4, also called "alligator char", requires 55 seconds of intense heat. Those few extra seconds are not trivial. Only five seconds of burn time separate a #2 from a #3, yet the difference on the palate is real: pair a Char #3 barrel with a couple of years of aging and you get a well-rounded bourbon with more spicy, earthy flavors.
 
 Charring is also a legal requirement, not just a flavor choice. Charred oak barrels are essential to bourbon's aging process, and according to federal regulations, bourbon must be aged in new, charred oak barrels, a requirement that ensures the spirit gains a distinct character from the oak.
 
@@ -84,9 +85,9 @@ Climate compounds this further. Temperature variations cause whiskey to expand a
 
 For collectors tracking expressions across multiple years or warehouse locations, these interactions explain a lot of vintage-to-vintage variation that never shows up anywhere on the label.
 
-## What about toasting -- is that the same as charring?
+## What about toasting, is that the same as charring?
 
-Not quite, and the distinction is worth knowing because finishing expressions increasingly play in this space. Toasting involves heating the wood at lower temperatures to coax out additional flavors without burning it completely, this process creates rich layers of butterscotch, coconut, and fruit notes, making it a good complement to the more intense smoky and caramelized flavors from charring, and some distillers combine toasting and charring techniques to achieve complex flavor profiles.
+Not quite, and the distinction is worth knowing because finishing expressions increasingly play in this space. Toasting involves heating the wood at lower temperatures to coax out additional flavors without burning it completely. That process creates rich layers of butterscotch, coconut, and fruit notes, making it a good complement to the more intense smoky and caramelized flavors from charring, and some distillers combine toasting and charring techniques to achieve complex flavor profiles.
 
 A barrel that is toasted before charring gives the distiller access to a wider spectrum of wood compounds than charring alone provides. Many distilleries are opting to finish their whiskies and bourbons in toasted or lightly charred barrels to pull a variety of flavors from the wood, and a lower char depth means a distiller can access certain flavor compounds in less time when using a secondary finishing barrel. When you see a bourbon labeled as "toasted barrel finish" or "double oaked," toasting is often part of what's happening in that secondary cask.
 

@@ -1,7 +1,7 @@
 ---
-title: "What Is a Bourbon Decanter? A Collector's Guide to Figural Bottles, Display Pieces, and What They're Actually Worth"
+title: "What Is a Bourbon Decanter?"
 seoTitle: "What Is a Bourbon Decanter? A Collector's Guide"
-description: "A bourbon decanter is a decorative vessel — ceramic, crystal, or glass — used to bottle or display whiskey. Learn the history, collectible value, and what to do with one."
+description: "A bourbon decanter is a display vessel in ceramic, crystal, or glass. This covers its history, its collectible value, and whether you should actually pour whiskey into one."
 tier: "detail"
 targetQuery: "what is a bourbon decanter"
 relatedQueries:
@@ -109,20 +109,3 @@ Cross-reference the design against collector resources like the *Jim Beam Figura
 If you're building a broader bourbon collection alongside vintage finds, Pour Picks lets you photograph and catalog bottles with custom notes, useful for keeping a consistent record whether you're dealing with a 2026 single-barrel release or a 1974 Jim Beam Corvette ceramic. Pair that documentation habit with our guide to [how to grade bourbon bottle condition](https://pourpicks.app/articles/how-to-grade-bourbon-bottle-condition) for a full evaluation framework.
 
 ---
-
-## FAQs
-
-**Is it safe to store bourbon in a decanter long-term?**
-For short-term serving (a few days to weeks), a quality lead-free crystal or glass decanter is fine. Long-term storage is not recommended. Decanters typically lack airtight seals, accelerating oxidation. Some vintage crystal decanters also contain lead, which can leach into the spirit over time. For your cellar, keep bourbon in its original sealed bottle.
-
-**Are Jim Beam figural decanters worth a lot of money?**
-Most are not. The vast majority sell for under $30 at antique stores and flea markets because so many were produced. Ultra-rare examples like the 1964 First National Bank of Chicago decanter, of which only 117 were made, can fetch up to $3,500. Condition, whether the seal is intact, and true rarity drive value far more than age alone.
-
-**What's the difference between a bourbon decanter and a regular bourbon bottle?**
-A standard bourbon bottle is a functional, mass-produced glass container designed for retail sale. A bourbon decanter is a decorative vessel, often ceramic, crystal, or novelty glass shaped like a car, animal, or landmark, intended as much for display as for holding spirit. Some premium bourbons are also bottled in hand-blown crystal decanters as a prestige packaging choice.
-
-**How do I tell if a vintage bourbon decanter still has drinkable whiskey inside?**
-Check the fill level (low fill suggests evaporation or leakage), inspect the original wax or foil seal for integrity, and look for signs of cork failure such as dark staining below the closure. A professional spirits appraiser or auction house can authenticate drinkability on valuable finds. If the decanter may be antique lead crystal, do not consume any spirit that has sat in it for an extended period.
-
-**Do modern distilleries still release bourbon in collectible decanters?**
-Yes. Premium and ultra-premium releases routinely use decanter-style packaging. The key difference from the mid-century figural era is that today's decanter bottles almost always contain premium aged liquid, not surplus stock.

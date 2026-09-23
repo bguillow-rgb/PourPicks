@@ -1,5 +1,5 @@
 ---
-title: "What Is a Bourbon Tater? A Collector's Guide to the Community's Most Loaded Term"
+title: "What Is a Bourbon Tater?"
 seoTitle: "What Is a Bourbon Tater? The Collector's Guide"
 description: "A bourbon tater stockpiles rare bottles for clout rather than drinking them. Learn what the term means, where it came from, and how serious collectors navigate the label."
 tier: "detail"
@@ -133,20 +133,3 @@ The bourbon market in 2026 is materially different from the peak hype years of 2
 In that climate, the collector who can talk about what's in their glass, who understands [barrel char levels](/articles/what-is-bourbon-barrel-char-level), [rickhouse position](/articles/how-rickhouse-floor-position-affects-bourbon-flavor), and [cask finishing](/articles/what-is-bourbon-cask-finishing), carries more credibility than the one with the most photos of sealed bottles. The word "tater" will stick around. But the behavior it describes is increasingly out of step with where serious bourbon culture is going.
 
 ---
-
-## FAQs
-
-**Where did the term "bourbon tater" come from?**
-The term emerged organically in online bourbon communities, particularly on Facebook groups and Reddit, in the early-to-mid 2010s, as the bourbon boom drove a new wave of hype-focused buyers who treated bottles like trophies rather than spirits to be enjoyed.
-
-**Is being called a tater always an insult?**
-Not necessarily. In 2026 it's used with varying degrees of seriousness. Serious collectors sometimes apply it humorously to themselves when they overbuy a release. In more charged contexts, it specifically targets people who buy to flip or post unopened bottles for internet clout.
-
-**What is a bourbon flipper, and how is that different from a tater?**
-A flipper buys allocated bottles at retail with the explicit intention of reselling them on the secondary market above MSRP. A tater is a broader term that includes flippers but also covers collectors who hoard bottles for status without any intention to drink or share them.
-
-**Do distilleries do anything to stop tater behavior?**
-Yes. Distilleries like Buffalo Trace limit certain labels to one purchase per customer every 90 days. Woodford Reserve limits rare bottle purchases at its gift shop per day. Lotteries and verified customer programs have also spread as tools to favor genuine buyers over bulk purchasers.
-
-**How can I collect bourbon without being labeled a tater?**
-Open bottles intentionally, document tasting notes, trade fairly, and resist buying purely based on secondary market hype. Collectors who can articulate why they want a bottle, its mash bill, producer, age, or flavor profile, are engaging with bourbon as a craft rather than a commodity.

@@ -1,5 +1,6 @@
 ---
-title: "How to Write Bourbon Tasting Notes (A Collector's Guide)"
+title: "How to Write Bourbon Tasting Notes"
+seoTitle: "How to Write Bourbon Tasting Notes (Collector’s Guide)"
 description: "Learn how to write bourbon tasting notes that actually mean something. Covers the nose-palate-finish framework, flavor vocabulary, rating systems, and journaling tips for serious collectors."
 tier: "detail"
 targetQuery: "how to write bourbon tasting notes"

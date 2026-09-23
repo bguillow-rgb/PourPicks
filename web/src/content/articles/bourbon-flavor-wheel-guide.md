@@ -1,7 +1,7 @@
 ---
-title: "How to Use a Bourbon Flavor Wheel: A Collector's Guide to Tasting Language"
+title: "How to Use a Bourbon Flavor Wheel"
 seoTitle: "Bourbon Flavor Wheel: How to Use It (Collector's Guide)"
-description: "A bourbon flavor wheel maps 5 core flavor families into specific tasting notes. Learn how to use one to describe every pour like a pro — nose, palate, and finish."
+description: "A bourbon flavor wheel sorts five core flavor families into specific tasting notes. This shows how to use one to describe a pour's nose, palate, and finish like you mean it."
 tier: "detail"
 targetQuery: "bourbon flavor wheel"
 relatedQueries:
@@ -109,20 +109,3 @@ The more you use the wheel and identify flavors, the more your vocabulary grows,
 A technique that accelerates this: taste reference ingredients alongside the bourbon, a vanilla bean, a cinnamon stick, dried apricot. Woodford Reserve's master distillers use this approach to anchor sensory memory to concrete physical objects, so each note on the wheel has a real-world reference point rather than an abstract name.
 
 ---
-
-## FAQ
-
-**Who created the official bourbon flavor wheel?**
-The most widely cited bourbon flavor wheel was developed by the Council of Whiskey Masters. The American Bourbon Association also publishes its own version. Several distilleries, including Woodford Reserve, have proprietary wheels built around their specific flavor profiles.
-
-**How many flavor categories are on a bourbon flavor wheel?**
-Most wheels organize hundreds of potential notes into five main families, giving tasters a solid starting point for breaking down any bourbon. Each family then branches outward into progressively more specific descriptors.
-
-**Do I need a flavor wheel to taste bourbon?**
-No, but it dramatically accelerates vocabulary development. The wheel moves you past "smooth" or "strong" and gives you the language to describe what's actually in the glass.
-
-**Can I use the same flavor wheel for rye and bourbon?**
-You can use a general American whiskey wheel for both, but bourbon-specific wheels give you more resolution in the sweet and wood families that define great Kentucky straight bourbon. Rye-dominant whiskeys benefit from a wheel that weights the spice family more heavily.
-
-**Where should you start on the wheel, center or edge?**
-Always start at the center. Taste your bourbon, identify the broadest family first, then work outward toward increasingly specific descriptors. Starting at the edge forces you to choose between hyper-specific notes before you've formed a general impression, which leads to inaccurate, forced calls.

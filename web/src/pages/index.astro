@@ -76,16 +76,16 @@ const faqs = [
   <section class="hero">
     <div class="hero-copy">
       <p class="eyebrow">Bourbon cellar &middot; iOS</p>
-      <h1>The collector&rsquo;s <em>cellar.</em></h1>
-      <p class="hero-tagline">Catalog every bottle, scan a label to identify what you own, track your collection&rsquo;s value, and journal every pour in one private reference.</p>
+      <h1>Scan the label. <em>Know the bottle.</em></h1>
+      <p class="hero-tagline">Point your camera at a bottle and Pour Picks names the distillery, expression, and proof, then files it in your cellar. Track what it&rsquo;s worth and log every pour, all in one place that stays yours.</p>
 
       {/* Hero CTA, live on the App Store since 2026-05-09. */}
       <a class="hero-cta" href={SITE.appStoreUrl}>Download on iOS &rarr;</a>
       <p class="hero-trust">For adults 21+ &middot; No ads &middot; Your collection stays yours</p>
     </div>
 
-    <aside class="bottlelabel" aria-label="Example bottle in your cellar">
-      <p class="bottlelabel-house">Buffalo Trace Distillery</p>
+    <aside class="bottlelabel" aria-label="An example of how a bottle reads in your cellar">
+      <p class="bottlelabel-house">The way a bottle files</p>
       <p class="bottlelabel-name">Eagle Rare</p>
       <p class="bottlelabel-style">Kentucky Straight Bourbon Whiskey</p>
 
@@ -100,9 +100,9 @@ const faqs = [
         </div>
       </dl>
 
-      <p class="bottlelabel-mash">Corn 75 &middot; Rye 10 &middot; Malt 15</p>
+      <p class="bottlelabel-mash">Distillery &middot; Expression &middot; Proof, read from the label</p>
 
-      <p class="bottlelabel-foot"><span>Cellar value</span><strong>$489</strong></p>
+      <p class="bottlelabel-foot"><span>In your cellar</span><strong>Sealed</strong></p>
     </aside>
   </section>
 
@@ -126,8 +126,8 @@ const faqs = [
 
       <div class="feature">
         <div class="feature-icon" aria-hidden="true">No. 03 &middot; Value</div>
-        <h3>Collection value at a glance</h3>
-        <p>MSRP-aware pricing keeps a running total of what's resting in your cellar, with overrides for bottles you bought above or below shelf.</p>
+        <h3>What your cellar is worth</h3>
+        <p>MSRP-aware pricing keeps a running total of what's resting on your shelf, with overrides for the bottles you paid over or under for.</p>
       </div>
 
       <div class="feature">
@@ -156,11 +156,7 @@ const faqs = [
   </p>
 
   <div class="cta-row">
-    {SITE.appStoreUrl ? (
-      <a class="cta" href={SITE.appStoreUrl}>Download on iOS</a>
-    ) : (
-      <span class="cta cta--disabled">App Store (Coming Soon)</span>
-    )}
+    <a class="cta" href={SITE.appStoreUrl}>Download on iOS</a>
   </div>
 
   {latestArticles.length > 0 && (

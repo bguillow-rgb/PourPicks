@@ -1,7 +1,7 @@
 ---
-title: "Full Proof vs. Barrel Proof vs. Cask Strength Bourbon: A Collector's Guide to the Difference"
+title: "Full Proof vs. Barrel Proof vs. Cask Strength Bourbon"
 seoTitle: "Full Proof vs Barrel Proof vs Cask Strength Bourbon"
-description: "Full proof, barrel proof, and cask strength sound alike but mean different things. Here's exactly how they differ and what each means for your collection."
+description: "Full proof, barrel proof, and cask strength sound interchangeable but aren't. This lays out exactly how the three differ and what each one tells you about the bottle."
 tier: "detail"
 targetQuery: "full proof vs barrel proof bourbon"
 relatedQueries:
@@ -44,7 +44,7 @@ That's the key word: entry. Full proof references the beginning of the barrel's 
 
 In practice, most full proof bourbons land at 125 proof, but some distilleries enter barrels at lower figures, say 110 proof, and bottle at that lower entry mark. Always read the label rather than assuming 125.
 
-## And "barrel proof" -- is that different?
+## And "barrel proof": is that different?
 
 Yes, and the difference matters for collectors. Barrel proof bourbon is bottled straight from the barrel with little to no water added. The proof on the label reflects what the whiskey *became* during aging, not what it was when it went in.
 
@@ -52,7 +52,7 @@ Why do the numbers diverge? Barrels breathe. In a typical Kentucky rickhouse, wa
 
 One wrinkle worth knowing: unless the label says otherwise, a barrel proof bourbon did not necessarily come from a single barrel. A distillery can blend several barrels, bottle all of them without dilution, and still call the result barrel proof. Single-barrel origin is a separate designation entirely.
 
-## Where does "cask strength" fit in -- is it just a fancy synonym?
+## Where does "cask strength" fit in: is it just a fancy synonym?
 
 *This one comes up a lot:*
 
@@ -95,20 +95,3 @@ Neither is more authentic. They're snapshots of different moments in the whiskey
 Understanding the proof journey from entry to exit is a direct window into how a whiskey was made and why it tastes the way it does. According to Kentucky Bourbon Trail data, there are 12.6 million bourbon barrels aging across the state, which means more barrel proof and full proof expressions are hitting shelves than ever before. Knowing which term points to which moment in that process makes you a sharper buyer.
 
 ---
-
-## FAQs
-
-**Is barrel proof the same as cask strength?**
-Essentially yes. Both mean the whiskey was bottled without dilution at its post-aging proof. "Barrel proof" is the traditional American term; "cask strength" is borrowed from Scotch whisky but appears on some American labels too. For practical purposes they are interchangeable.
-
-**What proof does full proof bourbon come out at?**
-U.S. law caps barrel entry proof at 125 proof (62.5% ABV), so most full proof bourbons are bottled at 125 proof. Some distilleries enter barrels at lower proofs and bottle at that lower entry figure, so always read the label.
-
-**Can barrel proof bourbon be lower than full proof?**
-Yes. In humid, cooler warehouses, barrels can actually lose alcohol faster than they lose water, meaning the exit proof can fall below the entry proof. In those rare cases, the barrel proof bottling would be lower than the full proof figure.
-
-**Is full proof or barrel proof stronger?**
-It depends on aging conditions, but in most Kentucky warehouses, barrels gain proof over time due to evaporation, so barrel proof expressions are often higher than 125 proof and can be stronger than a full proof bottling.
-
-**Does "barrel proof" guarantee the bourbon came from a single barrel?**
-No. Barrel proof only tells you the whiskey was not diluted after aging. It can still be a blend of multiple barrels bottled at their combined natural proof. If single-barrel origin matters to you, look for "single barrel" explicitly on the label.

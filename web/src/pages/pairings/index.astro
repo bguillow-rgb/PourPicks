@@ -10,17 +10,17 @@ const sorted = [...bottles].sort((a, b) => a.display.localeCompare(b.display));
 const total = bottles.reduce((n, b) => n + (b.pairings_with_reasons || []).length, 0);
 ---
 <BaseLayout
-  title="Bourbon Food Pairings — With the Reason Each One Works"
-  description={`Curated food pairings for ${bottles.length} bourbons — ${total} pairings, each with the reason it works, plus full flavor profiles.`}
+  title="Bourbon Food Pairings: The Reason Each One Works"
+  description={`Food pairings for ${bottles.length} bourbons, ${total} in all, each with the reason it works, plus full flavor profiles.`}
   path="/pairings"
 >
   <main class="page">
     <h1>Bottle pairing guides</h1>
-    <p><strong>{total} curated pairings across {bottles.length} bourbons, each recorded with the reason it works.</strong></p>
+    <p><strong>{total} pairings across {bottles.length} bourbons, each recorded with the reason it works.</strong></p>
     <p>
       Most pairing advice stops at "bourbon goes with steak." These guides work the other
-      direction: start from one bottle's actual flavor profile, then name dishes that echo it —
-      including the deep cuts worth trying once you have the obvious ones covered.
+      direction: they start from one bottle's actual flavor profile, then name dishes that echo it,
+      down to the deep cuts worth trying once you have the obvious ones covered.
     </p>
     <p>
       For the principles behind these matches rather than one bottle at a time, start with the
@@ -35,15 +35,15 @@ const total = bottles.reduce((n, b) => n + (b.pairings_with_reasons || []).lengt
       {sorted.map((b) => (
         <li>
           <a href={`/pairings/${b.slug}`}>What food pairs with {b.display}?</a>
-          {' — '}{(b.flavors || []).slice(0, 3).map((f) => f.replace(/_/g, ' ')).join(', ')}, {b.proof} proof
+          {' · '}{(b.flavors || []).slice(0, 3).map((f) => f.replace(/_/g, ' ')).join(', ')}, {b.proof} proof
         </li>
       ))}
     </ul>
     <h2>How these are built</h2>
     <p>
-      Pairings are curated per bottle in the Pour Picks catalog rather than generated on request.
+      Pairings are written per bottle against the Pour Picks catalog rather than generated on request.
       AI assistants can query the same data through the <a href="/mcp">Pour Picks MCP server</a>,
-      and the full 4,700-bottle catalog with cellar tracking lives in the <a href="/">Pour Picks app</a>.
+      and the full catalog with cellar tracking lives in the <a href="/">Pour Picks app</a>.
     </p>
   </main>
   <Footer />

@@ -132,23 +132,3 @@ That system is not a talking point. It's the technical reason why a Four Roses S
 For collectors, the Four Roses catalog is genuinely a taxonomy project, not just a lineup of bottles. Once you internalize the two mash bills and five yeast strains, you have a predictive framework that tells you roughly what any bottle will taste like before you crack the wax. That's a rare thing in bourbon.
 
 ---
-
-## FAQs: Four Roses recipe code
-
-**What does OBSV mean on a Four Roses bottle?**
-OBSV breaks down as: O = Four Roses Distillery, B = high-rye mash bill (60% corn, 35% rye, 5% malted barley), S = straight bourbon, V = the "delicate fruit" yeast strain. It's the standard recipe used for the retail Single Barrel release and is rye-forward with notes of pear, apple, and vanilla.
-
-**What is the difference between mash bill B and mash bill E at Four Roses?**
-Mash bill B is the high-rye recipe: 60% corn, 35% rye, 5% malted barley, spicier and more assertive. Mash bill E is the lower-rye recipe: 75% corn, 20% rye, 5% malted barley, rounder, softer, and sweeter. Both are still considered high-rye by general industry standards.
-
-**How many recipes does Four Roses use, and why?**
-Four Roses uses 10 distinct bourbon recipes, created by combining 2 mash bills with 5 proprietary yeast strains. No other major Kentucky distillery does this systematically. The system lets the blending team assemble expressions with enormous flavor range, from the flagship Yellow Label (all 10 recipes) down to the barrel-strength Private Selection (any single one).
-
-**What does the last letter (V, K, O, Q, F) mean on a Four Roses label?**
-The final letter identifies the yeast strain: V = delicate fruit; K = slight spice; O = rich fruit; Q = floral essence; F = herbal/minty. Yeast is one of the most powerful flavor levers in bourbon production, and Four Roses' five proprietary strains are kept under lock and key at the distillery.
-
-**What is a Four Roses Private Selection, and how does it differ from the standard Single Barrel?**
-The standard Four Roses Single Barrel always uses the OBSV recipe, is bottled at 100 proof after chill filtration, and is aged roughly 7-9 years. A Private Selection can be any of the 10 recipes, is bottled at barrel proof without chill filtration, and is typically aged 9-12 years. Each Private Selection barrel yields only around 150-200 bottles before it's gone forever.
-
-**Which Four Roses recipe is best for someone who prefers sweeter, less spicy bourbon?**
-Look for the E mash bill (lower rye) paired with the O or V yeast strain, i.e., OESO or OESV. OESO delivers lush red fruit, maraschino cherry, and stone fruit with less rye bite; OESV is round and sweet with caramel, pear, and a creamy texture. Both are approachable entry points into the 10-recipe system.

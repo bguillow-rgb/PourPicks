@@ -1,7 +1,7 @@
 ---
 title: "How to Organize a Bourbon Collection: Systems, Shelf Logic, and What to Open First"
 seoTitle: "How to Organize a Bourbon Collection (A Collector's Guide)"
-description: "Learn the best systems for organizing a bourbon collection by distillery, flavor, tier, or release — plus shelf logic, what to open first, and how apps help."
+description: "Organize a collection by distillery, flavor, tier, or release date, whatever fits how you drink. This covers shelf logic, what to open first, and where an app earns its keep."
 tier: "detail"
 targetQuery: "how to organize a bourbon collection"
 relatedQueries:
@@ -129,20 +129,3 @@ The organizational rule for sub-collections: give them physical separation from 
 When using Pour Picks, you can tag or group bottles to mirror this exactly, so your digital catalog preserves the logic your shelf displays.
 
 ---
-
-## 5 quick FAQs
-
-**Should I organize my bourbon collection alphabetically?**
-Alphabetical works only if your collection is small and single-category. For 20+ bottles across multiple distilleries, flavor- or tier-based systems are far more practical because they support decision-making, what to pour tonight, what to save, not just locating a specific label you already know you own.
-
-**How do I decide which bottle to open first?**
-Open already-cracked bottles before sealed ones. Among sealed bottles, prioritize limited releases you bought to drink, bottles where you own multiples, and everyday expressions. Reserve allocated or appreciating bottles for last unless a meaningful occasion genuinely calls for them.
-
-**How many open bottles is too many?**
-Most collectors find 4-6 open bottles at once is the practical sweet spot. Beyond that, oxidation risk climbs. Each open bottle you don't finish within a few months can lose subtle complexity as headspace grows and the spirit interacts with more oxygen.
-
-**Can I store bourbon bottles on their side like wine?**
-No. Bourbon should be stored upright. High-proof spirits can degrade cork from the inside through sustained contact, and bourbon doesn't need the cork kept moist the way wine does.
-
-**What's the best app for organizing a bourbon collection?**
-Pour Picks lets you catalog your cellar, scan bottles to identify them, track collection value, and log tasting notes, all in one private reference designed specifically for bourbon and whiskey collectors. It turns whatever organizational system you choose into a searchable, living record.

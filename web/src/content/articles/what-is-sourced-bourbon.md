@@ -1,5 +1,6 @@
 ---
-title: "What Is Sourced Bourbon? A Collector's Guide to NDPs"
+title: "What Is Sourced Bourbon?"
+seoTitle: "What Is Sourced Bourbon? A Collector's Guide to NDPs"
 description: "Sourced bourbon is whiskey a brand sells but didn't distill. Learn what NDPs are, how to spot them on a label, and whether sourced bottles belong in your cellar."
 tier: "detail"
 targetQuery: "what is sourced bourbon"

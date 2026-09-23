@@ -1,5 +1,5 @@
 ---
-title: "What Is Bourbon Bottle Ullage? A Collector's Guide to Fill Level, Flavor Risk, and Resale Value"
+title: "What Is Bourbon Bottle Ullage?"
 seoTitle: "What Is Bourbon Bottle Ullage? A Collector's Guide"
 description: "Bourbon ullage is the empty headspace inside a bottle. Learn how fill level affects oxidation, flavor, secondary market value, and how to grade it."
 tier: "detail"
@@ -120,20 +120,3 @@ Once a bottle of bourbon is opened, the contents may begin to evaporate slowly a
 The same principle applies to sealed bottles with minor cork-related seepage over years. When in doubt on a dusty find or older retail bottle, factor any visible ullage into your price negotiation, and use that fill level as part of your [valuation when you add it to your collection](/articles/how-to-value-a-bourbon-collection).
 
 ---
-
-## FAQs
-
-What does ullage mean on a bourbon bottle?
-Ullage refers to the unfilled headspace inside a bourbon bottle, the gap between the liquid surface and the stopper or cap. More ullage means more trapped oxygen, which accelerates oxidation and gradual flavor change over time.
-
-Does a low fill level mean bourbon has gone bad?
-Not necessarily. A slightly low fill on a sealed bottle often indicates slow, natural evaporation through the cork over years of storage, especially common in older or vintage bottles. Whether the bourbon tastes off can only be determined by opening it, but low ullage does increase oxidation risk.
-
-How do auction houses grade bourbon fill levels?
-Most whiskey auction platforms use descriptive terms like "into the neck," "top shoulder," "upper shoulder," and "mid shoulder" to communicate fill level. Bottles rated "into the neck" or higher command the strongest prices; anything at mid-shoulder or below is considered a meaningful risk and is usually discounted accordingly.
-
-Can I slow oxidation in an opened bourbon bottle with high ullage?
-Yes. The most effective low-cost method is decanting into a smaller bottle that the bourbon fills nearly to the brim, minimizing headspace. Inert gas preservation sprays (argon or nitrogen) are a popular alternative that doesn't require transferring the liquid.
-
-Does ullage affect sealed, unopened bourbon bottles?
-Yes. Even factory-sealed bottles can develop ullage over decades as liquid slowly migrates through or around the cork. This is especially common in vintage bottles stored on their side, where the cork can allow slow seepage or evaporation. Storing bourbon upright is strongly recommended for long-term cellaring.

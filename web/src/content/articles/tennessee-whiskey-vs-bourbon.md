@@ -1,7 +1,7 @@
 ---
 title: "Tennessee Whiskey vs. Bourbon: What's Actually Different (and Why Collectors Should Care)"
 seoTitle: "Tennessee Whiskey vs Bourbon: Key Differences"
-description: "Tennessee whiskey meets all bourbon rules, then adds one extra step: charcoal filtering before aging. Here's what that means for flavor, collecting, and your cellar."
+description: "Tennessee whiskey follows every bourbon rule, then adds one: charcoal filtering before the barrel. This is what that step does to flavor, collecting, and your cellar."
 tier: "detail"
 targetQuery: "Tennessee whiskey vs bourbon"
 relatedQueries:
@@ -112,20 +112,3 @@ For understanding labels, because Tennessee whiskey meets federal bourbon standa
 The Kentucky Distillers' Association has reported that Kentucky now holds a record 16.1 million barrels of bourbon aging in its warehouses, with more than 125 licensed distilleries operating, the most since Prohibition's repeal. Tennessee's barrel inventory is smaller but growing, with the state's craft distillery count rising steadily through 2025 and 2026. More producers means more single-barrel releases, and more releases means more opportunities for collectors who pay attention early.
 
 ---
-
-## FAQs
-
-**Is Jack Daniel's a bourbon?**
-Technically, Jack Daniel's meets all the federal legal requirements to be called bourbon, but the brand actively avoids that label. Because it undergoes the Lincoln County Process and is produced in Tennessee, it is marketed and legally classified as Tennessee whiskey, not bourbon.
-
-**Does the Lincoln County Process add maple flavor to Tennessee whiskey?**
-No, this is a persistent myth. The charcoal mellowing step removes harsh grain compounds and vegetable oils; it does not impart maple or sweet flavors. Any sweetness you taste comes from the corn mash and barrel aging, the same sources as in bourbon.
-
-**Can bourbon be made in Tennessee?**
-Yes. Bourbon can legally be produced anywhere in the United States, including Tennessee. A Tennessee distillery could choose to make a straight bourbon without the Lincoln County Process, it simply couldn't call that product Tennessee whiskey under state law.
-
-**Which Tennessee whiskey brands skip the Lincoln County Process?**
-Benjamin Prichard's is the notable exception. It holds a grandfather provision under Tennessee's 2013 law that exempts it from the Lincoln County Process requirement while still legally labeling its product as Tennessee whiskey.
-
-**Does Tennessee whiskey belong in a bourbon collector's cellar?**
-Absolutely. Single-barrel and limited Tennessee whiskey releases, particularly George Dickel barrel selections and Uncle Nearest expressions, have real secondary-market traction and offer a flavor profile worth documenting alongside your bourbon bottles.

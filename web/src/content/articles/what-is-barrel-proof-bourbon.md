@@ -1,5 +1,6 @@
 ---
-title: "What Is Barrel Proof Bourbon? A Collector's Guide"
+title: "What Is Barrel Proof Bourbon?"
+seoTitle: "What Is Barrel Proof Bourbon? A Collector's Guide"
 description: "Barrel proof bourbon is bottled without dilution, straight from the cask. Learn what it means, how proof varies, and why collectors prize uncut expressions."
 tier: "detail"
 targetQuery: "what is barrel proof bourbon"
@@ -9,7 +10,7 @@ relatedQueries:
   - "how to drink barrel proof bourbon"
   - "why is barrel proof bourbon more expensive"
   - "full proof vs barrel proof bourbon"
-quickAnswer: "Barrel proof bourbon is bottled at (or within two proof points of) the strength it exits the aging barrel, no water added. The result is an uncut, undiluted expression that typically runs 110, 140 proof, preserving concentrated flavor and giving collectors the purest read on a distillery's craft."
+quickAnswer: "Barrel proof bourbon is bottled at (or within two proof points of) the strength it exits the aging barrel, no water added. The result is an uncut, undiluted expression that typically runs 110 to 140 proof, preserving concentrated flavor and giving collectors the purest read on a distillery's craft."
 publishedAt: "2026-06-22"
 author: "Pour Picks"
 relatedSlugs:
@@ -21,7 +22,7 @@ faqs:
   - q: "Is barrel proof the same as cask strength?"
     a: "Yes, for all practical purposes. 'Barrel proof' is the American bourbon term; 'cask strength' is the international (especially Scotch) equivalent. Both mean the whiskey was bottled at or within two proof points of its strength when it left the barrel, no significant dilution."
   - q: "What proof range should I expect from a barrel proof bourbon?"
-    a: "Most barrel proof bourbons land between 104 and 140 proof (52, 70% ABV), though outliers exist in both directions. The final proof depends on barrel entry proof, warehouse location, years aged, and the Kentucky climate's influence on evaporation."
+    a: "Most barrel proof bourbons land between 104 and 140 proof (52 to 70% ABV), though outliers exist in both directions. The final proof depends on barrel entry proof, warehouse location, years aged, and the Kentucky climate's influence on evaporation."
   - q: "Is full proof the same as barrel proof?"
     a: "No. Full proof (also called entry proof or original proof) refers to the strength of the spirit when it first enters the barrel, by law, no higher than 125 proof for bourbon. Barrel proof is the strength when it comes out after aging. Because Kentucky heat causes bourbon to gain proof during maturation, barrel proof is often higher than entry proof."
   - q: "Should I add water to barrel proof bourbon?"
@@ -58,7 +59,7 @@ Why does the distinction matter? Because American bourbon whiskey is produced us
 | **Barrel proof** | At barrel exit (bottling) | No (within 2° allowed) | American bourbon & rye |
 | **Cask strength** | At barrel exit (bottling) | No | Scotch & world whisky |
 | **Full proof / Entry proof** | When spirit enters barrel | No | American whiskey labels |
-| **Standard bottling** | After blending/cutting | Yes, to 80, 100 proof | Most shelf bourbon |
+| **Standard bottling** | After blending/cutting | Yes, to 80 to 100 proof | Most shelf bourbon |
 
 ## Why do barrel proof expressions taste so different?
 
@@ -94,7 +95,7 @@ If you're building a vertical of a specific release, tracking Elijah Craig Barre
 
 ## What proof range should I expect, and why does it vary so much?
 
-The typical level of alcohol-by-volume for a barrel proof whiskey is usually in the range of 52, 66% ABV (104, 132 proof), but can be higher. That's a wide spread, and the variation isn't random.
+The typical level of alcohol-by-volume for a barrel proof whiskey is usually in the range of 52 to 66% ABV (104 to 132 proof), but can be higher. That's a wide spread, and the variation isn't random.
 
 Four variables drive proof at barrel exit:
 
@@ -114,17 +115,3 @@ In 2026, the secondary market is characterized by a "flight to quality," where c
 For a collector tracking these numbers, a cellar-management tool like Pour Picks makes this easier, logging what you paid at retail against secondary data gives you a real-time picture of how your collection's value is moving, without relying on memory or scattered screenshots.
 
 ---
-
-## FAQs
-
-**Is barrel proof the same as cask strength?** Yes, for all practical purposes. "Barrel proof" is the American bourbon term; "cask strength" is the international (especially Scotch) equivalent. Both mean the whiskey was bottled at or within two proof points of its strength when it left the barrel, no significant dilution.
-
-**What proof range should I expect from a barrel proof bourbon?** Most barrel proof bourbons land between 104 and 140 proof (52, 70% ABV), though outliers exist in both directions. The final proof depends on barrel entry proof, warehouse location, years aged, and the Kentucky climate's influence on evaporation.
-
-**Is full proof the same as barrel proof?** No. Full proof (also called entry proof or original proof) refers to the strength of the spirit when it first enters the barrel, by law, no higher than 125 proof for bourbon. Barrel proof is the strength when it comes out after aging.
-
-**Should I add water to barrel proof bourbon?** It's entirely personal. Adding a few drops of water can open up aromas and reduce ethanol heat, revealing flavors that sit underneath the alcohol. Starting neat and adding water incrementally is the collector's standard approach for evaluating a new expression.
-
-**Does barrel proof bourbon cost more?** Usually, yes, but not always dramatically so. The premium reflects smaller batch sizes, more selective barrel picks, and stronger collector demand. Some accessible barrel proof releases retail under $80; rarer expressions can command several hundred dollars or more on the secondary market.
-
-**Can a barrel proof bourbon come from more than one barrel?** Yes. Barrel proof only means the whiskey was not diluted before bottling. It can be a blend of multiple barrels as long as their proofs match closely. "Single barrel" is a separate designation indicating the bottle came from exactly one cask.

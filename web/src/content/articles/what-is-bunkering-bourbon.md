@@ -1,5 +1,5 @@
 ---
-title: "What Is Bunkering Bourbon? A Collector's Guide to Buying Multiples, Managing Stock, and Knowing When to Stop"
+title: "What Is Bunkering Bourbon?"
 seoTitle: "What Is Bunkering Bourbon? A Collector's Guide"
 description: "Bunkering bourbon means buying multiple bottles of the same expression to ensure long-term supply. Learn when it makes sense, how many to buy, and how to track your bunker."
 tier: "detail"

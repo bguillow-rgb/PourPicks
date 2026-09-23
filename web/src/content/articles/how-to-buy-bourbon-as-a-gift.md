@@ -22,7 +22,7 @@ faqs:
   - q: "Is Pappy Van Winkle a good gift for a bourbon collector?"
     a: "Only if you can get it at or near retail price through a legitimate source. Paying secondary-market premiums (often 5, 10× retail) for a bottle the recipient may already own, or may prefer not to receive at that cost, is usually a poor use of money. A thoughtful single barrel or a bottle from a brand they've mentioned is almost always a better gift."
   - q: "What proof range makes the best bourbon gift?"
-    a: "For an established collector, aim for 95, 120 proof. That range tends to show the most flavor complexity and is where serious bourbon drinkers spend most of their attention. For someone newer to the hobby, 90, 100 proof is accessible without being timid."
+    a: "For an established collector, aim for 95 to 120 proof. That range tends to show the most flavor complexity and is where serious bourbon drinkers spend most of their attention. For someone newer to the hobby, 90 to 100 proof is accessible without being timid."
   - q: "Should I buy a single barrel or small batch bourbon as a gift?"
     a: "Single barrel is almost always the stronger gift for a collector. Each barrel produces a unique whiskey, no two are identical, which gives the bottle a story and provenance angle that a mass-produced small batch simply can't match. Store picks (single barrels selected by a specific retailer) are especially appreciated."
   - q: "How do I know if a bourbon collector already has the bottle I'm considering?"
@@ -105,20 +105,3 @@ The bourbon world in 2026 has no shortage of quality beyond the obvious names. B
 Practically: check their social media for bottle posts, ask a mutual friend who also drinks with them, or look for their wishlist if they use a tracking app. Many dedicated collectors keep running wishlists specifically because people ask them for gift ideas. If you genuinely can't find out what they own, default to a current limited release from a distillery you know they follow. Annual releases they might have missed are a much safer bet than everyday expressions they've almost certainly already bought.
 
 ---
-
-## FAQs
-
-**Is Pappy Van Winkle a good gift for a bourbon collector?**
-Only if you can get it at or near retail price through a legitimate source. Paying secondary-market premiums, often 5-10x retail, for a bottle the recipient may already own is usually a poor use of money. A thoughtful single barrel or a bottle from a brand they've mentioned is almost always a better gift.
-
-**What proof range makes the best bourbon gift?**
-For an established collector, aim for 95-120 proof. That range tends to show the most flavor complexity and is where serious bourbon drinkers spend most of their attention. For someone newer to the hobby, 90-100 proof is accessible without being timid.
-
-**Should I buy a single barrel or small batch bourbon as a gift?**
-Single barrel is almost always the stronger gift for a collector. Each barrel produces a unique whiskey, no two are identical, which gives the bottle a story and provenance angle that a mass-produced small batch simply can't match. Store picks are especially appreciated.
-
-**How do I know if a bourbon collector already has the bottle I'm considering?**
-The easiest move is to ask a mutual friend, check their social media for bottle posts, or ask if they use a cellar-tracking app like Pour Picks and have a wishlist. If you can't find out, choose from a limited annual release they may not have grabbed yet, rather than an everyday bottle they almost certainly own.
-
-**Is a bourbon accessory a good gift instead of a bottle?**
-For the right collector, yes. A quality Glencairn glass set, a proper tasting journal, or a cellar-organization tool can be more useful than another bottle on an already full shelf, and they sidestep the "they already have it" problem entirely.

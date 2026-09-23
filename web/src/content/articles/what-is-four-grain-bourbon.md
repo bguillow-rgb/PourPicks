@@ -1,6 +1,7 @@
 ---
-title: "What Is a Four Grain Bourbon? A Collector's Guide"
-description: "Four grain bourbon uses corn, rye, wheat, AND malted barley for flavor, not just the standard three. Here's what it tastes like and why collectors seek it out."
+title: "What Is a Four Grain Bourbon?"
+seoTitle: "What Is a Four Grain Bourbon? A Collector's Guide"
+description: "Four grain bourbon adds malted barley to the usual corn, rye, and wheat instead of stopping at three. This is what that extra grain tastes like and why collectors chase it."
 tier: "detail"
 targetQuery: "what is a four grain bourbon"
 relatedQueries:
@@ -21,7 +22,7 @@ faqs:
   - q: "Is four grain bourbon the same as wheated bourbon?"
     a: "No. Wheated bourbon replaces rye with wheat, using three grains total. Four grain bourbon keeps both rye and wheat alongside corn and malted barley, balancing spice and softness in the same bottle."
   - q: "Does malted barley count as a flavor grain in four grain bourbon?"
-    a: "Malted barley's primary role in any bourbon is enzymatic, it converts starches to fermentable sugars. But in elevated percentages (above the standard 5, 10%), it contributes subtle nutty, biscuity notes that become a genuine flavor component, which is the intent in four grain recipes."
+    a: "Malted barley's primary role in any bourbon is enzymatic, it converts starches to fermentable sugars. But in elevated percentages (above the standard 5 to 10%), it contributes subtle nutty, biscuity notes that become a genuine flavor component, which is the intent in four grain recipes."
   - q: "What are some well-known four grain bourbon bottles to try?"
     a: "E.H. Taylor Four Grain (Buffalo Trace), Laws Four Grain Straight Bourbon (Colorado), Penelope Four Grain, Old Elk Four Grain, and Few Bourbon (Illinois) are among the most widely cited examples in the collector community."
   - q: "Why is four grain bourbon less common from large Kentucky distilleries?"
@@ -91,20 +92,3 @@ Pour Picks lets you log all of this per bottle, including custom tasting notes f
 If you want more context on how secondary grain choices shape flavor across the whole spectrum, the guides on [what is a mash bill](/articles/what-is-mash-bill), [wheated bourbon](/articles/what-is-wheated-bourbon), and [wheated vs. high-rye bourbon](/articles/wheated-bourbon-vs-high-rye-bourbon) are natural companions to this one.
 
 ---
-
-## FAQs
-
-**Is four grain bourbon the same as wheated bourbon?**
-No. Wheated bourbon replaces rye with wheat, using three grains total. Four grain bourbon keeps both rye and wheat alongside corn and malted barley, balancing spice and softness in the same bottle.
-
-**Does malted barley count as a flavor grain in four grain bourbon?**
-Malted barley's primary role in any bourbon is enzymatic: it converts starches to fermentable sugars. But in elevated percentages above the standard 5%-10%, it contributes subtle nutty, biscuity notes that become a genuine flavor component, which is the intent in four grain recipes.
-
-**What are some well-known four grain bourbon bottles to try?**
-E.H. Taylor Four Grain (Buffalo Trace), Laws Four Grain Straight Bourbon (Colorado), Penelope Four Grain, Old Elk Four Grain, and Few Bourbon (Illinois) are among the most widely cited examples in the collector community.
-
-**Why is four grain bourbon less common from large Kentucky distilleries?**
-Major Kentucky distilleries built their reputations and aging programs around specific two- or three-grain mash bills optimized over decades. Using both rye and wheat adds production complexity and can blur a distillery's house style, so most stick with one secondary flavor grain.
-
-**How should I store four grain bourbon in my cellar?**
-Exactly like any other bourbon: upright, away from direct light and heat, with the cork or cap sealed tightly. The four grain mash bill doesn't change storage requirements, and the same oxidation risks apply once the bottle is opened.

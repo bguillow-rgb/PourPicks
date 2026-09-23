@@ -1,7 +1,7 @@
 ---
-title: "How to Build a Bourbon Rotation: A Collector's Guide to Daily Drinkers, Workhorses, and Shelf Pieces"
+title: "How to Build a Bourbon Rotation"
 seoTitle: "How to Build a Bourbon Rotation (A Collector's Guide)"
-description: "A bourbon rotation balances daily drinkers, workhorses, and shelf pieces so you always have the right bottle open. Here's how collectors structure one."
+description: "A good rotation balances daily drinkers, workhorses, and shelf pieces so there's always a right bottle open. This is how collectors actually structure one."
 tier: "detail"
 targetQuery: "how to build a bourbon rotation"
 relatedQueries:
@@ -102,20 +102,3 @@ Not having one is the obvious answer. But among collectors who do have a rotatio
 A secondary mistake is building a rotation where every tier features the same style. A great rotation has intentional contrast: if your daily drinker is a [wheated bourbon](/articles/what-is-wheated-bourbon), consider a [high-rye](/articles/what-is-high-rye-bourbon) workhorse so your palate is always comparing across styles rather than within a single lane. That contrast builds genuine tasting vocabulary faster than anything else.
 
 ---
-
-## FAQs
-
-**How many bourbon bottles should I have open at once?**
-Most collectors find three to five open bottles is the sweet spot, one daily drinker, one or two workhorses for regular sipping, and one shelf piece or special-occasion bottle. More than six open bottles at once risks oxidation on slower-moving pours.
-
-**What makes a good bourbon daily drinker?**
-A great daily drinker is widely available, consistently produced (so you can always replace it), priced under $40-$50, and enjoyable neat or with a splash of water. Consistency matters more than complexity at this tier.
-
-**Should I open allocated or rare bottles or keep them sealed?**
-That depends on your collecting goal. If you collect to drink, open one and keep a backup sealed. If your goal is resale or preservation, keep them sealed and track condition over time. Sealed bottles in documented condition hold the most resale value.
-
-**Does an open bourbon bottle change flavor over time?**
-Yes. Oxygen exposure gradually softens a bourbon's edges, pleasant at first, but as a bottle drops below one-third full, oxidation can mute bright top notes. Heavy-use bottles at the daily drinker tier should be finished within two to three months of opening.
-
-**How do I decide which bottle to open next from my collection?**
-Work from your inventory by tier, occasion, and fill level. Open the next workhorse when your current one drops below one-quarter full. Rotate shelf pieces on meaningful occasions, anniversaries, milestone pours, or tasting nights, so they get used intentionally rather than forgotten.

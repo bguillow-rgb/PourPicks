@@ -1,6 +1,7 @@
 ---
-title: "Is Bourbon a Good Investment? A Collector's Honest Guide"
-description: "Bourbon can appreciate in value, but the 2026 market is more nuanced than ever. Here's what collectors need to know before buying to invest."
+title: "Is Bourbon a Good Investment?"
+seoTitle: "Is Bourbon a Good Investment? A Collector’s Honest Guide"
+description: "Bourbon can appreciate, but the 2026 market is trickier than the hype suggests. This is what to weigh before you buy a bottle as an investment rather than a drink."
 tier: "detail"
 targetQuery: "is bourbon a good investment"
 relatedQueries:
@@ -109,20 +110,3 @@ Scarcity means a bottle is hard to find at retail. Value means there is genuine,
 The collectors who came through the 2022-2025 correction best were those who built cellars around flavor and provenance, buying bottles they'd be happy to open. Investment upside was a welcome bonus, not the premise. That's still the most durable approach in 2026: understand [what you're buying at a label level](https://pourpicks.app/articles/how-to-read-a-bourbon-label), track your collection's actual market value rather than guessing, and let quality, not allocation status, guide your acquisitions.
 
 ---
-
-## FAQs
-
-**Does bourbon increase in value over time?**
-Some bottles do, particularly ultra-aged, cask-strength, and genuinely limited expressions. But the broad secondary market has corrected roughly 9% from its 2021 peak, and mid-tier allocated bottles have lost most of their speculative premium.
-
-**Which bourbon bottles hold their value best?**
-Historically, bottles like Pappy Van Winkle, William Larue Weller, George T. Stagg, and Elijah Craig 23-Year have shown the strongest secondary market resilience. Age statement, proof, and documented scarcity are the key drivers.
-
-**Is it legal to resell bourbon?**
-Reselling sealed bottles of spirits is regulated at the state level and is illegal in most U.S. states without a liquor license. The secondary market operates in a legal gray area. Always check your local laws before buying or selling.
-
-**How do I know what my bourbon collection is worth?**
-Track recent *completed* sales on bourbon auction platforms and secondary market tools, not asking prices, which are often aspirational. Pour Picks helps you catalog your cellar and monitor collection value against real market benchmarks in one place.
-
-**Should I buy bourbon to drink or to hold?**
-Buy bottles you'd be happy to open. If a bottle appreciates, great, but banking on appreciation from mid-tier allocated releases has proven unreliable since 2022. The best collections are built around taste preference, provenance, and quality, not hype.

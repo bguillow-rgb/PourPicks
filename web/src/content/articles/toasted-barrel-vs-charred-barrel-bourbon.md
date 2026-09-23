@@ -1,5 +1,5 @@
 ---
-title: "Toasted Barrel vs. Charred Barrel Bourbon: A Collector's Guide to the Difference"
+title: "Toasted Barrel vs. Charred Barrel Bourbon"
 seoTitle: "Toasted Barrel vs Charred Barrel Bourbon Explained"
 description: "Charring is legally required; toasting is a finishing technique. Learn how each process works, how they differ in flavor, and which bottles in your cellar use each."
 tier: "detail"
@@ -123,20 +123,3 @@ No storage changes are needed. Toasted-finished bourbons follow the same best pr
 Where the distinction does matter for collectors is in [understanding oxidation after opening](/articles/does-bourbon-go-bad). Toasted-finish expressions that derive much of their complexity from delicate lactone-driven aromatics can be slightly more sensitive to oxygen than bolder charred expressions once the bottle is open. If you're drinking a lightly toasted-stave finished whiskey over many months, you may notice the nose evolves more noticeably than a heavily charred, full-proof expression would under the same conditions.
 
 ---
-
-## FAQ
-
-**Is toasting required to make bourbon?**
-No. By law, bourbon must be aged in a new charred oak barrel. Toasting carries no legal requirement and appears most commonly as a secondary finishing technique, applied via staves or a secondary vessel after primary maturation.
-
-**Can a bourbon be both toasted and charred?**
-Yes. Many cooperages toast a barrel before charring to activate deeper wood compounds before the burn. Finished bourbons like Maker's Mark 46 also add toasted staves to an already charred-and-aged bourbon, so both processes are present in the final whiskey.
-
-**What flavors does toasting add to bourbon?**
-Toasting activates lactones in the oak, producing more vanilla, coconut, and caramel. Because the wood isn't fully burned, toasted expressions also tend to carry eugenol-derived clove and spice notes alongside a subtly nutty, aromatic quality.
-
-**What flavors does charring add to bourbon?**
-The carbon layer created by charring acts as a filter for harsher elements in the spirit. Aging in charred barrels produces a smoother, mellower flavor layered with bold caramel, honey, and smoky oak from the caramelized hemicellulose.
-
-**Should collectors value toasted-barrel-finished bourbons differently?**
-Toasted finishes add genuine production complexity and are increasingly common in prestige releases. As a category, they're still less saturated than wine-cask finishes, which can create buying opportunities at retail. Whether they carry secondary market premium depends heavily on the specific distillery program and release scarcity; worth tracking in your [collection app](/bourbon-inventory-app) over time alongside purchase price.

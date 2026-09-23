@@ -1,6 +1,7 @@
 ---
-title: "What Is Wheated Bourbon? A Collector's Guide"
-description: "Wheated bourbon swaps rye for wheat as the secondary grain, producing a softer, sweeter pour. Here's what collectors need to know about flavor, value, and top bottles."
+title: "What Is Wheated Bourbon?"
+seoTitle: "What Is Wheated Bourbon? A Collector's Guide"
+description: "Wheated bourbon swaps rye for wheat as the second grain, giving a softer, sweeter pour. This covers how it tastes, how it holds value, and which bottles to start with."
 tier: "detail"
 targetQuery: "what is wheated bourbon"
 relatedQueries:

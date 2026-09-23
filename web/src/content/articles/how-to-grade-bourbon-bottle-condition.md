@@ -1,6 +1,7 @@
 ---
-title: "How to Grade Bourbon Bottle Condition (A Collector's Guide)"
-description: "Learn how to grade bourbon bottle condition like a pro: fill level, label, seal, wax, and packaging — and how each factor affects resale and collection value."
+title: "How to Grade Bourbon Bottle Condition"
+seoTitle: "How to Grade Bourbon Bottle Condition (Collector’s Guide)"
+description: "Grade a bottle the way a buyer would: fill level, label, seal, wax, and packaging. This shows how each factor moves resale and collection value, with a simple scale to use."
 tier: "detail"
 targetQuery: "how to grade bourbon bottle condition"
 relatedQueries:
@@ -55,7 +56,7 @@ The industry grades on five dimensions, and experienced collectors run through t
 
 Label condition carries real weight: minor age-related toning on an older bottle is expected and accepted, but active staining, tears, or missing labels reduce value. An intact capsule confirms the bottle has not been opened. Original box or tin adds to the price, often meaningfully so for limited releases.
 
-## "What do the actual letter grades mean -- A, B, C?"
+## "What do the actual letter grades mean: A, B, C?"
 
 *This one comes up a lot:* Unlike wine, bourbon doesn't have a single universal grading authority. But the letter-grade system used by specialty retailers and auction houses has become a practical standard most serious collectors recognize.
 
@@ -67,7 +68,7 @@ Grade C is what collectors generally call a "drinker." These bottles no longer c
 
 For collectors using Pour Picks to catalog their cellar, logging a condition grade alongside each bottle's photos and purchase date creates exactly the kind of provenance record that supports both insurance claims and resale conversations.
 
-## "How do I read fill level correctly -- and what's actually normal?"
+## "How do I read fill level correctly, and what's actually normal?"
 
 Fill level is the first thing auction specialists check, and it's also the most misunderstood factor among newer collectors. The goal is to understand what's *expected* given a bottle's age and closure type, not to assume any loss equals a problem.
 
@@ -83,7 +84,7 @@ For newer releases, damage to anything on the bottle doesn't affect the quality 
 
 Labels should be pristine without scratches, peeling, staining, or mold; any damage signals poor storage or mishandling to a prospective buyer. Minor toning or light foxing on a vintage bottle is a different story. The older the bottle, the more fading and other conditional factors not only should be considered, they should also be expected. The practical distinction is between *age-appropriate patina* (expected, accepted) and *active damage* (staining, tearing, missing sections). The latter suppresses value regardless of what's inside.
 
-## "What about the liquid itself -- can I assess condition without opening the bottle?"
+## "What about the liquid itself: can I assess condition without opening the bottle?"
 
 You can learn a surprising amount without cracking the seal. Two non-invasive checks give collectors useful signals.
 
@@ -100,20 +101,3 @@ Buyers are more cautious today than ever, and provenance is now a primary driver
 Good documentation removes doubt, and doubt lowers offers. Whether you're consigning a single trophy bottle or a full shelf, arriving at that conversation with a complete condition record (photos of fill level, label front and back, capsule, wax detail, and original packaging) is the single most reliable way to protect your return.
 
 ---
-
-## FAQs
-
-**What is the most important factor when grading a bourbon bottle's condition?**
-Fill level is typically the first and most critical check. A bottle that has lost liquid, whether through a slow leak, a compromised seal, or evaporation, raises red flags about storage integrity and directly reduces market value. After fill level, label condition is the next biggest driver of price.
-
-**Does a low fill level always mean a bourbon bottle is bad?**
-Not necessarily. Some natural evaporation through the closure is expected in older bottles, especially those sealed with cork. A minor drop in fill is normal for a 20-30-year-old dusty. The concern is a fill level below the shoulder, which suggests a more significant loss and potential flavor degradation.
-
-**Does cracked wax hurt a bourbon bottle's collectible value?**
-It depends on severity. Hairline cracks with no seepage or leakage typically earn a B+ condition grade and affect value minimally. Visible cracks combined with staining or seepage are a red flag and can push a bottle into "drinker" territory, where collectible value is largely gone.
-
-**Does the original box or tube matter for a bourbon bottle's value?**
-Yes, meaningfully so for limited releases. Original packaging signals careful stewardship and confirms authenticity context. Auction specialists consistently note that complete packaging can add a noticeable premium, especially on annual releases like Birthday Bourbon or BTAC bottles.
-
-**Can I document my bourbon collection's condition myself, or do I need a professional?**
-For most collections, self-documentation is perfectly acceptable. A detailed inventory with high-quality photos of each bottle from multiple angles, capturing label, fill level, seal, and any packaging, is sufficient for insurance and resale purposes on collections valued in the low tens of thousands. Higher-value collections benefit from a professional appraisal.

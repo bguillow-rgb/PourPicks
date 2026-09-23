@@ -1,7 +1,7 @@
 ---
-title: "Ideal Temperature and Humidity for Bourbon Storage: A Collector's Guide to the Numbers That Actually Matter"
+title: "Ideal Temperature and Humidity for Bourbon Storage"
 seoTitle: "Ideal Temperature & Humidity for Bourbon Storage"
-description: "The ideal bourbon storage temperature is 55–65°F with 45–65% relative humidity. Learn why stability beats perfection, and how to hit those numbers at home."
+description: "The ideal bourbon storage temperature is 55 to 65°F with 45 to 65% relative humidity. Learn why stability beats perfection, and how to hit those numbers at home."
 tier: "detail"
 targetQuery: "ideal temperature and humidity for bourbon storage"
 relatedQueries:
@@ -10,7 +10,7 @@ relatedQueries:
   - "best place to store bourbon collection at home"
   - "bourbon cellar temperature range"
   - "how to control humidity in bourbon storage"
-quickAnswer: "Store bourbon between 55, 65°F with 45, 65% relative humidity. Unlike wine, bourbon is sealed with synthetic or tight cork that tolerates drier air, so stability matters more than precision. Avoid UV light, temperature swings above 10°F, and direct heat sources. A cool interior closet or basement meets these targets in most homes."
+quickAnswer: "Store bourbon between 55, 65°F with 45 to 65% relative humidity. Unlike wine, bourbon is sealed with synthetic or tight cork that tolerates drier air, so stability matters more than precision. Avoid UV light, temperature swings above 10°F, and direct heat sources. A cool interior closet or basement meets these targets in most homes."
 publishedAt: "2026-09-10"
 author: "Pour Picks"
 relatedSlugs:
@@ -22,7 +22,7 @@ faqs:
   - q: "What is the ideal temperature for storing bourbon?"
     a: "Most collectors and storage specialists target 55, 65°F. Consistency is more important than hitting a specific number, a room that holds steady at 62°F is better for your collection than one that swings between 55°F and 75°F throughout the day or season."
   - q: "Does humidity matter for sealed bourbon bottles?"
-    a: "Yes, but less critically than for wine. Bourbon bottles are stored upright, so the cork rarely contacts liquid. Still, sustained humidity below 40% RH can dry out natural corks over time, and above 75% RH risks mold on labels. Target 45, 65% RH for peace of mind."
+    a: "Yes, but less critically than for wine. Bourbon bottles are stored upright, so the cork rarely contacts liquid. Still, sustained humidity below 40% RH can dry out natural corks over time, and above 75% RH risks mold on labels. Target 45 to 65% RH for peace of mind."
   - q: "Can I store bourbon in a regular basement?"
     a: "Often yes. Basements typically hold 55, 65°F year-round and maintain moderate humidity. Just verify with an inexpensive thermometer/hygrometer combo, keep bottles away from water heaters or furnaces, and ensure the space doesn't flood or spike above 75°F in summer."
   - q: "Is a wine fridge good for storing bourbon?"
@@ -70,12 +70,12 @@ The fix is monitoring both variables together, not just one. A combined thermome
 
 | Location | Typical Temp Range | Typical Humidity | Long-Term Suitability |
 |---|---|---|---|
-| Interior basement (conditioned) | 55, 65°F | 45, 60% RH | Excellent |
-| Interior closet, ground floor | 60, 68°F | 40, 55% RH | Good |
+| Interior basement (conditioned) | 55, 65°F | 45 to 60% RH | Excellent |
+| Interior closet, ground floor | 60, 68°F | 40 to 55% RH | Good |
 | Dedicated wine fridge (set to 58°F) | 55, 62°F | Variable | Good with monitoring |
-| Kitchen cabinet near stove/oven | 68, 80°F+ | 30, 60% RH | Risky |
-| Garage (unconditioned) | 40, 100°F+ seasonal | 20, 80% RH | Poor for long holds |
-| Above refrigerator | 72, 85°F | 30, 45% RH | Too warm and dry |
+| Kitchen cabinet near stove/oven | 68, 80°F+ | 30 to 60% RH | Risky |
+| Garage (unconditioned) | 40, 100°F+ seasonal | 20 to 80% RH | Poor for long holds |
+| Above refrigerator | 72, 85°F | 30 to 45% RH | Too warm and dry |
 | Attic | 50, 130°F+ seasonal | Highly variable | Avoid entirely |
 
 A whiskey cabinet in your living room or kitchen may keep bottles away from sunlight, but a temperature-controlled basement or cellar is the better bet for anything you plan to hold more than a year or two.
@@ -108,20 +108,3 @@ Once you crack the seal, the calculus shifts. An opened bottle now has headspace
 For opened bottles you're actively working through, standard room temperature (65, 72°F) is fine. The real enemies are wide temperature swings and leaving a half-empty bottle untouched for months. If you have an opened bottle you want to preserve longer, decant into a smaller bottle to reduce headspace, or use an inert gas (argon-based wine preservation spray works equally well for bourbon). Our article on [whether opened bourbon goes bad](/articles/does-bourbon-go-bad) covers oxidation timelines in full detail.
 
 ---
-
-## FAQs
-
-**What is the ideal temperature for storing bourbon?**
-Most collectors and storage specialists target 55, 65°F. Consistency is more important than hitting a specific number. A room that holds steady at 62°F is better for your collection than one that swings between 55°F and 75°F throughout the day or season.
-
-**Does humidity matter for sealed bourbon bottles?**
-Yes, but less critically than for wine. Bourbon bottles are stored upright, so the cork rarely contacts liquid. Still, sustained humidity below 40% RH can dry out natural corks over time, and above 75% RH risks mold on labels. Target 45, 65% RH for peace of mind.
-
-**Can I store bourbon in a regular basement?**
-Often yes. Basements typically hold 55, 65°F year-round and maintain moderate humidity. Just verify with an inexpensive thermometer/hygrometer combo, keep bottles away from water heaters or furnaces, and make sure the space doesn't flood or spike above 75°F in summer.
-
-**Is a wine fridge good for storing bourbon?**
-It works well for temperature control. Set it to 55, 60°F and make sure bottles rest upright (not on their sides as wine racks encourage). Check that the unit doesn't run so cold that it creates condensation issues, and that compressor vibration is minimal.
-
-**Does freezing or refrigerating bourbon hurt it?**
-Short-term refrigeration won't ruin bourbon, but storing a bottle long-term in a standard fridge (around 38°F) is colder than ideal. At freezer temperatures, certain fatty acids and esters can precipitate or congeal, dulling flavor compounds. The alcohol content itself is unaffected, but the sensory experience may suffer.

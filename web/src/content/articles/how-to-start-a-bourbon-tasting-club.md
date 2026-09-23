@@ -1,7 +1,7 @@
 ---
-title: "How to Start a Bourbon Tasting Club: A Collector's Guide to Running Great Group Sessions"
+title: "How to Start a Bourbon Tasting Club"
 seoTitle: "How to Start a Bourbon Tasting Club (2026 Guide)"
-description: "Learn how to start a bourbon tasting club from scratch — group size, blind vs. open formats, themed flights, scoring systems, and how to keep sessions consistent."
+description: "Starting a tasting club from scratch: group size, blind versus open formats, themed flights, scoring, and how to keep sessions consistent enough to compare notes honestly."
 tier: "detail"
 targetQuery: "how to start a bourbon tasting club"
 relatedQueries:
@@ -48,7 +48,7 @@ Mix experience levels on purpose. Scout participants from your social circles, w
 
 One practical rule: every member should own at least a handful of bottles at home. That gives the group a deep enough combined cellar to theme sessions around obscure categories, wheated bourbons, single barrel picks from one distillery, bottles within a specific age range, without anyone scrambling to the nearest liquor store at the last minute.
 
-## "Blind or open-label -- which format is actually better?"
+## "Blind or open-label: which format is actually better?"
 
 *This one comes up a lot.* Both have a legitimate place in a well-run club, and the answer depends on what you want out of a given session.
 
@@ -59,7 +59,7 @@ Open-label tastings shine when context adds value: a distillery rep joins, a rar
 | Format | Best For | Watch Out For |
 |---|---|---|
 | Fully blind | Honest palate calibration, breaking label bias | Need a neutral third party to pour and mask bottles |
-| Semi-blind (category revealed) | Comparing within a style -- e.g., "all wheated" | Members may still guess brands and anchor scores |
+| Semi-blind (category revealed) | Comparing within a style (e.g., "all wheated") | Members may still guess brands and anchor scores |
 | Open-label | Education, distillery guests, rare bottle context | Confirmation bias inflates scores for famous names |
 | Themed vertical | Tracking one brand across years or batches | Requires owning or sourcing multiple specific releases |
 

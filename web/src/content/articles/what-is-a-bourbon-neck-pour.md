@@ -125,20 +125,3 @@ Pour Picks lets you log multiple journal entries against the same bottle in your
 People are drinking less overall, but they're far more curious. Instead of asking only how old a whiskey is, they're increasingly interested in how it was matured and why it tastes the way it does. Neck pour documentation is a concrete expression of that curiosity: it turns every bottle opening into a small experiment with a repeatable result.
 
 ---
-
-## FAQs
-
-What is a bourbon neck pour?
-A neck pour is the first one or two drams poured from a freshly opened bottle of bourbon, literally the whiskey that was sitting in the narrow neck of the bottle. Collectors often notice it tastes sharper or different from pours later in the bottle.
-
-Why does the neck pour taste different?
-Several factors may contribute: volatile flavor compounds evaporate rapidly when the seal is first broken, the whiskey hasn't had time to interact with air and "open up," and your palate hasn't yet acclimated to the proof. Most experts say it's a combination of all three.
-
-Should I dump the neck pour?
-No. The liquid is chemically identical to the rest of the bottle. Even if it tastes different, it's not "bad." Give it 10-15 minutes in the glass, take a second sip, and reassess before writing off the bottle.
-
-Does the neck pour myth apply to all bourbons?
-It's most discussed with high-proof and barrel-proof releases where the first hit of alcohol is especially intense. Lower-proof, well-integrated bourbons show less of a perceptible difference between the neck and subsequent pours.
-
-How do I log a neck pour in my tasting notes?
-If you taste the neck pour, note it clearly. Label it "Pour 1 (neck)" and record a second tasting 15-30 minutes later or after a week of being opened. This gives you a meaningful before-and-after reference, especially useful for tracking how a bottle evolves over time.

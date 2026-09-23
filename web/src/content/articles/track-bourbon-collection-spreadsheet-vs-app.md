@@ -153,7 +153,3 @@ If you want a notebook for the ritual, keep it as a tasting journal alongside a 
 The app worth checking first is [Pour Picks](https://apps.apple.com/us/app/pour-picks/id6764040132). It scans bottles to add them to your cellar, logs every pour, tracks date opened and date finished, and the Pour Tonight feature picks one bottle from what you already own and tells you why. The free tier covers most collectors; the $2.99 per month Cask Club tier unlocks unlimited scans and journal export.
 
 Whatever method you pick, the more important thing is starting today. Future-you will thank present-you for a year of records you would otherwise not have.
-
----
-
-*Pour Picks is a free iOS app for bourbon collectors. Scan any bottle to add it to your cellar, log every pour, and let "Pour Tonight" pick what to drink from what you actually own. [Download on the App Store](https://apps.apple.com/us/app/pour-picks/id6764040132).*

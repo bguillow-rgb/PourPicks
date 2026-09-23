@@ -1,5 +1,6 @@
 ---
-title: "What Is Sour Mash Bourbon? A Collector's Guide"
+title: "What Is Sour Mash Bourbon?"
+seoTitle: "What Is Sour Mash Bourbon? A Collector's Guide"
 description: "Sour mash is a fermentation method, not a flavor. Learn what backset does, why nearly every Kentucky bourbon uses it, and what it means for your collection."
 tier: "detail"
 targetQuery: "what is sour mash bourbon"
@@ -116,20 +117,3 @@ No. Most bourbon distillers use the sour mash method, but it is an option, not a
 This is worth knowing when you encounter a "sweet mash" bourbon at a craft distillery tasting room. It isn't a shortcut or a deviation from tradition. It's a deliberate production choice that predates the sour mash era and is seeing a genuine craft revival.
 
 ---
-
-## FAQs
-
-**Does sour mash bourbon taste sour?**
-No. The word "sour" refers to the acidic pH of the backset, not to any flavor in the finished whiskey. A sour mash bourbon tastes like bourbon, sweet, oaky, and spiced, not vinegary or tart.
-
-**Is sour mash a legal requirement for bourbon?**
-No. Sour mash is an industry-standard practice but is not legally required to call a spirit bourbon. A bourbon can be made using the sweet mash method and still meet all TTB legal definitions.
-
-**What is backset in bourbon production?**
-Backset (also called stillage, setback, or spent beer) is the thin, acidic, non-alcoholic liquid that drains from the still after a batch of fermented mash has been distilled. Distillers add it to the next batch's fermenter to lower pH and stabilize fermentation.
-
-**What is the difference between sour mash and sweet mash bourbon?**
-Sour mash bourbon uses backset from a previous batch to acidify and stabilize fermentation, producing consistent batch-to-batch flavor. Sweet mash uses only fresh water and grain, giving each batch an independent character with potentially more variation, but also less predictability.
-
-**Which popular bourbons use the sour mash process?**
-The vast majority of major Kentucky and Tennessee whiskeys use sour mash, including Jim Beam, Wild Turkey, Woodford Reserve, Maker's Mark, Evan Williams, and Jack Daniel's (labeled "Tennessee Sour Mash Whiskey"). Notable sweet mash producers include Peerless and Wilderness Trail.
