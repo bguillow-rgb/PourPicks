@@ -243,15 +243,14 @@ strong { color: var(--text); font-weight: 600; }
 .hero-cta {
   display: inline-block;
   font-family: 'Outfit', -apple-system, BlinkMacSystemFont, sans-serif;
-  padding: 13px 26px;
+  padding: 14px 26px;
   background: var(--brass);
   color: var(--ink);
-  font-weight: 700;
-  font-size: 15px;
-  letter-spacing: 1.5px;
-  text-transform: uppercase;
+  font-weight: 600;
+  font-size: 16px;
+  letter-spacing: 0.2px;
   border: none;
-  border-radius: 2px;
+  border-radius: 3px;
   margin: 0 0 18px;
   transition: background 0.18s ease, transform 0.15s ease;
 }
@@ -262,10 +261,10 @@ strong { color: var(--text); font-weight: 600; }
 }
 .hero-trust {
   font-family: 'Outfit', -apple-system, BlinkMacSystemFont, sans-serif;
-  font-size: 13px;
-  letter-spacing: 1px;
-  text-transform: uppercase;
+  font-size: 14px;
+  line-height: 1.5;
   color: var(--muted);
+  max-width: 32em;
   margin: 0;
 }
 
