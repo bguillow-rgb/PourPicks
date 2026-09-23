@@ -41,6 +41,9 @@ html, body {
   font-family: 'Outfit', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
   font-size: 17px;
   line-height: 1.62;
+  /* Guard against a full-bleed band's 100vw exceeding the content width by the
+     scrollbar. clip (not hidden) keeps position:sticky working. */
+  overflow-x: clip;
 }
 
 /* subtle vertical aging on the page so it reads like stock, not flat black */
@@ -63,6 +66,44 @@ a:hover { border-bottom-color: var(--brass-bright); color: var(--brass-bright); 
   margin: 0 auto;
   padding: 28px 28px 96px;
 }
+
+/* ----- Full-bleed bands --------------------------------------------------- */
+/* Let a section escape the 940px reading column and run edge to edge, so the
+   page has a horizontal band with a focal point instead of an even stack of
+   same-width blocks. The inner wrapper re-centers content on the measure. */
+/* Full-bleed uses pure viewport math (no % — this engine resolves % margins
+   against the viewport, not the container, which breaks the usual trick).
+   442px = 940/2 - 28 (container half-width minus its gutter). Below the
+   940 max-width the container is full-width with a fixed gutter, handled in
+   the media queries. */
+.bleed {
+  /* Full-bleed via a relative offset, not negative margins: this engine
+     clamps a negative-margin calc() to 0 but honors a negative `left`.
+     442px = 940/2 - 28 (container half minus its gutter); below the 940
+     max-width the offset is the fixed gutter, set in the media queries. */
+  width: 100vw;
+  position: relative;
+  left: calc(442px - 50vw);
+}
+.bleed-inner {
+  max-width: 940px;
+  margin: 0 auto;
+  padding: 0 28px;
+}
+/* A raised panel band: the app's card color on the espresso page, framed top
+   and bottom with a brass hairline like a label plate. */
+.band {
+  background:
+    radial-gradient(120% 140% at 50% 0%, rgba(176, 141, 87, 0.07), transparent 60%),
+    var(--ink2);
+  border-top: 2px solid var(--brass);
+  border-bottom: 1px solid var(--line-strong);
+  margin: 76px 0;
+  padding: 4px 0 60px;
+}
+/* A section title that opens a band shouldn't also carry its own top rule
+   (the band already provides one). */
+.band .section-title { border-top: none; padding-top: 0; margin-top: 52px; }
 
 /* ----- Masthead ----------------------------------------------------------- */
 .site-header {
@@ -176,10 +217,10 @@ strong { color: var(--text); font-weight: 600; }
 /* ----- Hero --------------------------------------------------------------- */
 .hero {
   display: grid;
-  grid-template-columns: 1.04fr 0.96fr;
-  gap: 52px;
+  grid-template-columns: 1.18fr 0.82fr;
+  gap: 64px;
   align-items: center;
-  margin: 14px 0 64px;
+  margin: 20px 0 72px;
 }
 .hero-copy { min-width: 0; }
 .hero-icon { display: none; }     /* the bottle label is the hero visual */
@@ -237,8 +278,13 @@ strong { color: var(--text); font-weight: 600; }
   border: 2px solid var(--brass);
   border-radius: 3px;
   padding: 30px 30px 24px;
-  box-shadow: 0 26px 54px rgba(0, 0, 0, 0.5);
+  box-shadow: 0 30px 60px rgba(0, 0, 0, 0.55);
+  /* Set down at a slight angle, the way a label sits on a shelf, so the hero
+     reads as art-directed rather than a centered card in a box. */
+  transform: rotate(1.4deg);
+  transition: transform 0.3s ease;
 }
+.bottlelabel:hover { transform: rotate(0deg); }
 /* inner engraved frame, the double-rule you see on a real bottle label */
 .bottlelabel::before {
   content: '';
@@ -832,6 +878,17 @@ th {
 .article-byline a { color: var(--brass); }
 .article-body { max-width: 43em; }
 .article-body > :first-child { margin-top: 0; }
+/* Editorial drop cap on the opener: a large brass Libre Baskerville initial,
+   the kind of detail set by hand, not stamped by a template. */
+.article-body > p:first-of-type::first-letter {
+  float: left;
+  font-family: 'Libre Baskerville', Georgia, 'Times New Roman', serif;
+  font-weight: 700;
+  font-size: 4em;
+  line-height: 0.72;
+  margin: 6px 14px 0 0;
+  color: var(--brass);
+}
 
 /* ----- Byline + footer ---------------------------------------------------- */
 .byline { font-size: 14px; color: var(--muted); text-align: center; margin: 0 0 32px; }
@@ -860,11 +917,21 @@ hr.footer-rule { border: 0; border-top: 2px solid var(--brass); margin: 56px 0 1
 .footer-nav span { color: var(--line-strong); }
 
 /* ----- Responsive --------------------------------------------------------- */
+/* Below the 940 max-width the container is full-width with a fixed gutter, so
+   a bleed just needs to eat that gutter. */
+@media (max-width: 940px) {
+  .bleed { left: -28px; }
+}
+
 @media (max-width: 760px) {
   .hero {
     grid-template-columns: 1fr;
     gap: 36px;
   }
+  /* Straighten the tossed card when it goes full width so it can't nudge past
+     the viewport edge and cause a horizontal scroll. */
+  .bottlelabel { transform: none; }
+  .band { margin: 52px 0; padding: 4px 0 44px; }
   .feature-grid { grid-template-columns: 1fr; gap: 32px; }
   .feature-row,
   .feature-row--reverse { grid-template-columns: 1fr; gap: 20px; }
@@ -887,10 +954,13 @@ hr.footer-rule { border: 0; border-top: 2px solid var(--brass); margin: 56px 0 1
 
 @media (max-width: 560px) {
   .container { padding: 22px 18px 64px; }
+  .bleed { left: -18px; }
+  .bleed-inner { padding: 0 18px; }
   h1 { font-size: 40px; }
   .section-title { font-size: 27px; }
   h2 { font-size: 25px; }
   .quick-answer { padding: 14px 0 0; }
   .quick-answer p { font-size: 18px; }
   .site-wordmark { font-size: 25px; }
+  .article-body > p:first-of-type::first-letter { font-size: 3.4em; margin: 4px 10px 0 0; }
 }

@@ -1,7 +1,7 @@
 ---
 title: "What Is MGP Bourbon? The Indiana Distillery Behind Hundreds of Labels, Explained"
 seoTitle: "What Is MGP Bourbon? The Distillery Behind the Labels"
-description: "MGP (Midwestern Grain Products) is the Indiana distillery quietly producing bourbon and rye for hundreds of brands. Here's what collectors need to know."
+description: "MGP (Midwestern Grain Products) is the Indiana distillery quietly making bourbon and rye for hundreds of brands. This is how to spot its whiskey and why it matters to collectors."
 tier: "detail"
 targetQuery: "what is MGP bourbon"
 relatedQueries:
