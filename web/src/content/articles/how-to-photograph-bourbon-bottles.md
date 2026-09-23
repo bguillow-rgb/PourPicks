@@ -15,7 +15,7 @@ publishedAt: "2026-08-04"
 author: "Pour Picks"
 relatedSlugs:
   - "how-to-insure-a-bourbon-collection"
-  - "what-is-the-bourbon-glut"
+  - "how-to-value-a-bourbon-collection"
   - "what-is-the-bourbon-secondary-market"
   - "how-to-spot-a-fake-bourbon-bottle"
 faqs:

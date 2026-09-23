@@ -14,8 +14,8 @@ quickAnswer: "A unicorn bourbon is an ultra-rare, hard-to-find bottle, think Pap
 publishedAt: "2026-07-27"
 author: "Pour Picks"
 relatedSlugs:
-  - "what-is-a-bourbon-honey-barrel"
   - "how-to-trade-bourbon-bottles"
+  - "what-is-a-bourbon-honey-barrel"
   - "what-is-allocated-bourbon"
   - "how-annual-bourbon-releases-work"
 faqs:

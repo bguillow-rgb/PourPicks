@@ -15,8 +15,8 @@ publishedAt: "2026-08-11"
 author: "Pour Picks"
 relatedSlugs:
   - "how-to-decode-bourbon-batch-codes"
-  - "what-is-dusty-hunting-bourbon"
   - "how-to-read-four-roses-recipe-code"
+  - "what-is-dusty-hunting-bourbon"
   - "what-is-a-dsp-number-bourbon"
 faqs:
   - q: "What does the number molded into the bottom of a bourbon bottle mean?"

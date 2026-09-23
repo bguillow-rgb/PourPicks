@@ -15,8 +15,8 @@ publishedAt: "2026-07-05"
 author: "Pour Picks"
 relatedSlugs:
   - "how-to-build-a-bourbon-flight"
-  - "how-to-start-a-bourbon-tasting-club"
   - "how-to-build-a-bourbon-rotation"
+  - "how-to-start-a-bourbon-tasting-club"
   - "ideal-temperature-humidity-bourbon-storage"
 faqs:
   - q: "What is the difference between a vertical and a horizontal bourbon tasting?"

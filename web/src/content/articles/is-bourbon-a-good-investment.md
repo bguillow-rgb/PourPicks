@@ -14,9 +14,9 @@ quickAnswer: "Bourbon can be a good investment, but only for specific bottles un
 publishedAt: "2026-07-26"
 author: "Pour Picks"
 relatedSlugs:
+  - "how-to-value-a-bourbon-collection"
   - "how-to-photograph-bourbon-bottles"
   - "how-to-spot-a-fake-bourbon-bottle"
-  - "how-to-value-a-bourbon-collection"
   - "should-you-open-or-keep-bourbon-sealed"
 faqs:
   - q: "Does bourbon increase in value over time?"

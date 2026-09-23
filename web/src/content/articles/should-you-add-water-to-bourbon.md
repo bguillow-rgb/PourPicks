@@ -14,8 +14,8 @@ quickAnswer: "Yes, adding a few drops of room-temperature water to bourbon, espe
 publishedAt: "2026-07-17"
 author: "Pour Picks"
 relatedSlugs:
-  - "how-to-choose-bourbon-proof"
   - "what-is-bourbon-and-branch"
+  - "how-to-choose-bourbon-proof"
   - "full-proof-vs-barrel-proof-vs-cask-strength-bourbon"
   - "how-many-bottles-in-a-barrel-of-bourbon"
 faqs:

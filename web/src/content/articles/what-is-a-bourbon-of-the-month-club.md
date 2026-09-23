@@ -14,8 +14,8 @@ quickAnswer: "A bourbon of the month club is a subscription service that deliver
 publishedAt: "2026-09-04"
 author: "Pour Picks"
 relatedSlugs:
-  - "what-is-a-bourbon-private-barrel-program"
   - "how-does-the-kentucky-bourbon-trail-work"
+  - "what-is-a-bourbon-private-barrel-program"
   - "what-is-a-distillery-exclusive-bourbon"
   - "bourbon-age-statement-vs-nas"
 faqs:

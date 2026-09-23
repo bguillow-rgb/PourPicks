@@ -16,8 +16,8 @@ author: "Pour Picks"
 relatedSlugs:
   - "how-does-the-kentucky-bourbon-trail-work"
   - "what-is-dusty-hunting-bourbon"
-  - "bourbon-age-statement-vs-nas"
   - "how-do-bourbon-state-lotteries-work"
+  - "how-many-bottles-in-a-barrel-of-bourbon"
 faqs:
   - q: "What does 'bunkering' mean in bourbon collecting?"
     a: "Bunkering means deliberately purchasing multiple bottles of the same expression to guarantee your future supply. The term comes from the idea of stocking a personal reserve, a bunker, of bottles you'd hate to run out of."

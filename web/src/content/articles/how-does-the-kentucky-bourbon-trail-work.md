@@ -17,7 +17,7 @@ relatedSlugs:
   - "what-to-expect-on-a-bourbon-distillery-tour"
   - "what-is-a-bourbon-of-the-month-club"
   - "what-is-a-bourbon-private-barrel-program"
-  - "what-is-bunkering-bourbon"
+  - "how-do-bourbon-state-lotteries-work"
 faqs:
   - q: "Is the Kentucky Bourbon Trail passport still available in 2026?"
     a: "No. The physical Kentucky Bourbon Trail Passport & Field Guide retired after July 1, 2025. It was replaced by a free digital 'Build Your Own Bourbon Trail' trip-builder at trip-builder.kybourbontrail.com that lets you plan itineraries with drive times, dining, and lodging."

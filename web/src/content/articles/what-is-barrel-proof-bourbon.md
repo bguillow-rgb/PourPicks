@@ -16,7 +16,7 @@ author: "Pour Picks"
 relatedSlugs:
   - "full-proof-vs-barrel-proof-vs-cask-strength-bourbon"
   - "what-is-bourbon-proof"
-  - "how-to-choose-bourbon-proof"
+  - "best-glass-for-bourbon"
   - "how-many-bottles-in-a-barrel-of-bourbon"
 faqs:
   - q: "Is barrel proof the same as cask strength?"

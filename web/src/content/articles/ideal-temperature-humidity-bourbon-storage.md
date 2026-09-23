@@ -14,8 +14,8 @@ quickAnswer: "Store bourbon between 55, 65°F with 45 to 65% relative humidity. 
 publishedAt: "2026-09-10"
 author: "Pour Picks"
 relatedSlugs:
-  - "does-bourbon-have-terroir"
-  - "how-rickhouse-floor-position-affects-bourbon-flavor"
+  - "how-to-start-a-bourbon-cellar"
+  - "how-to-store-bourbon"
   - "how-to-build-a-bourbon-rotation"
   - "how-to-choose-bourbon-proof"
 faqs:

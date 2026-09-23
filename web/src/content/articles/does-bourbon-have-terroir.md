@@ -15,9 +15,9 @@ publishedAt: "2026-09-12"
 author: "Pour Picks"
 relatedSlugs:
   - "what-is-heirloom-grain-bourbon"
+  - "what-is-bourbon-and-branch"
   - "how-long-is-bourbon-aged"
   - "how-rickhouse-floor-position-affects-bourbon-flavor"
-  - "ideal-temperature-humidity-bourbon-storage"
 faqs:
   - q: "Does terroir in bourbon work the same way as terroir in wine?"
     a: "No. Wine terroir is primarily driven by grape variety and the soil it grows in. Bourbon terroir is more diffuse, spread across grain origin, water chemistry, fermentation conditions, regional climate, and warehouse placement. The barrel exerts a stronger unifying influence than any single environmental factor, making bourbon terroir subtler but still real."

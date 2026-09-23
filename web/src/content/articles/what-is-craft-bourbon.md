@@ -14,8 +14,8 @@ quickAnswer: "Craft bourbon has no legal definition from the TTB, any distillery
 publishedAt: "2026-09-09"
 author: "Pour Picks"
 relatedSlugs:
-  - "what-is-a-wax-dipped-bourbon-bottle"
-  - "does-bourbon-have-terroir"
+  - "how-to-read-a-bourbon-label"
+  - "single-barrel-vs-small-batch-bourbon"
   - "how-does-the-kentucky-bourbon-trail-work"
   - "how-long-is-bourbon-aged"
 faqs:

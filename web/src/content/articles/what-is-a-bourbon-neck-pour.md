@@ -17,7 +17,7 @@ relatedSlugs:
   - "tennessee-whiskey-vs-bourbon"
   - "what-is-bourbon-and-branch"
   - "does-bourbon-go-bad"
-  - "does-bourbon-have-terroir"
+  - "how-does-the-kentucky-bourbon-trail-work"
 faqs:
   - q: "What is a bourbon neck pour?"
     a: "A neck pour is the first one or two drams poured from a freshly opened bottle of bourbon, literally the whiskey that was sitting in the narrow neck of the bottle. Collectors often notice it tastes sharper or different from pours later in the bottle."

@@ -15,8 +15,8 @@ publishedAt: "2026-08-29"
 author: "Pour Picks"
 relatedSlugs:
   - "what-is-straight-bourbon-whiskey"
-  - "does-bourbon-have-terroir"
   - "bourbon-age-statement-vs-nas"
+  - "does-bourbon-have-terroir"
   - "how-to-read-a-bourbon-label"
 faqs:
   - q: "Does bourbon have a minimum aging requirement?"

@@ -15,8 +15,8 @@ publishedAt: "2026-07-04"
 author: "Pour Picks"
 relatedSlugs:
   - "full-proof-vs-barrel-proof-vs-cask-strength-bourbon"
+  - "how-to-read-four-roses-recipe-code"
   - "does-bourbon-have-terroir"
-  - "how-long-is-bourbon-aged"
   - "how-rickhouse-floor-position-affects-bourbon-flavor"
 faqs:
   - q: "What are the four bourbon barrel char levels?"

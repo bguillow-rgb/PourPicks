@@ -14,9 +14,9 @@ quickAnswer: "\"Straight\" is a federally regulated legal designation, not a mar
 publishedAt: "2026-09-07"
 author: "Pour Picks"
 relatedSlugs:
-  - "how-long-is-bourbon-aged"
   - "bourbon-age-statement-vs-nas"
   - "full-proof-vs-barrel-proof-vs-cask-strength-bourbon"
+  - "how-long-is-bourbon-aged"
   - "how-to-read-a-bourbon-label"
 faqs:
   - q: "What is the minimum age for straight bourbon whiskey?"

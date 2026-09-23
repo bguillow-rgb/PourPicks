@@ -14,9 +14,9 @@ quickAnswer: "A whiskey thief is a long, slender tube (traditionally copper, now
 publishedAt: "2026-08-31"
 author: "Pour Picks"
 relatedSlugs:
-  - "what-is-a-bourbon-bottle-split"
   - "what-is-a-bourbon-private-barrel-program"
   - "how-to-do-a-bourbon-barrel-pick"
+  - "what-is-a-bourbon-bottle-split"
   - "what-is-a-bourbon-store-pick"
 faqs:
   - q: "What is a whiskey thief used for?"

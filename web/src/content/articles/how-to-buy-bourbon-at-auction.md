@@ -14,9 +14,9 @@ quickAnswer: "To buy bourbon at auction, register on a platform like Unicorn Auc
 publishedAt: "2026-09-11"
 author: "Pour Picks"
 relatedSlugs:
-  - "how-to-sell-bourbon-bottles"
   - "what-is-a-bourbon-bottle-split"
   - "how-to-grade-bourbon-bottle-condition"
+  - "how-to-sell-bourbon-bottles"
   - "what-is-a-bourbon-of-the-month-club"
 faqs:
   - q: "What is a buyer's premium at a bourbon auction?"

@@ -16,8 +16,8 @@ author: "Pour Picks"
 relatedSlugs:
   - "what-is-a-bourbon-private-barrel-program"
   - "what-is-a-bourbon-store-pick"
+  - "how-to-read-four-roses-recipe-code"
   - "how-to-buy-bourbon-as-a-gift"
-  - "how-to-choose-bourbon-proof"
 faqs:
   - q: "Can an individual buy their own barrel of bourbon directly from a distillery?"
     a: "Not directly. U.S. federal law requires alcohol to move through the three-tier distribution system, producer, distributor, retailer. All private barrel purchases must be transacted through a licensed retailer, even when you select the barrel yourself at the distillery."

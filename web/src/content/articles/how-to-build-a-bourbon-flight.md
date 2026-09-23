@@ -16,8 +16,8 @@ author: "Pour Picks"
 relatedSlugs:
   - "how-to-start-a-bourbon-tasting-club"
   - "what-is-a-bourbon-vertical-tasting"
+  - "how-many-pours-in-a-bottle-of-bourbon"
   - "how-to-build-a-bourbon-palate"
-  - "how-to-build-a-bourbon-rotation"
 faqs:
   - q: "How many bourbons should be in a flight?"
     a: "Three to five expressions is the sweet spot. Fewer than three doesn't give you enough contrast to learn anything; more than five fatigues the palate and makes it hard to remember which pour was which. Four is the collector's standard, enough variety, easy to manage."

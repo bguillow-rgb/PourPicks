@@ -16,8 +16,8 @@ author: "Pour Picks"
 relatedSlugs:
   - "full-proof-vs-barrel-proof-vs-cask-strength-bourbon"
   - "how-rickhouse-floor-position-affects-bourbon-flavor"
-  - "what-is-a-unicorn-bourbon"
-  - "what-is-straight-bourbon-whiskey"
+  - "how-to-read-a-bourbon-label"
+  - "single-barrel-vs-small-batch-bourbon"
 faqs:
   - q: "Is a honey barrel the same as a single barrel?"
     a: "Not exactly. Every honey barrel is a single barrel, but not every single barrel is a honey barrel. Single barrel simply means the bourbon was bottled from one cask without blending. A honey barrel is a qualitative judgment, it's a single barrel that dramatically outperforms its neighbors in flavor, balance, and complexity."

@@ -14,8 +14,8 @@ quickAnswer: "Heat cycling is a production technique where a warehouse is artifi
 publishedAt: "2026-07-22"
 author: "Pour Picks"
 relatedSlugs:
-  - "how-rickhouse-floor-position-affects-bourbon-flavor"
   - "what-is-a-rickhouse"
+  - "how-rickhouse-floor-position-affects-bourbon-flavor"
   - "does-bourbon-have-terroir"
   - "what-is-bourbon-barrel-char-level"
 faqs:

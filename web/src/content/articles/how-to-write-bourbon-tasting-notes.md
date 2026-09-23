@@ -16,8 +16,8 @@ author: "Pour Picks"
 relatedSlugs:
   - "bourbon-flavor-wheel-guide"
   - "how-to-build-a-bourbon-palate"
+  - "how-to-read-four-roses-recipe-code"
   - "toasted-barrel-vs-charred-barrel-bourbon"
-  - "what-are-heads-hearts-tails-bourbon"
 faqs:
   - q: "What is the standard format for bourbon tasting notes?"
     a: "Most collectors use a three-part structure: nose (aroma), palate (taste and mouthfeel), and finish (length and lingering flavors). A complete entry also logs the bottle name, distiller, proof, age statement or NAS designation, date tasted, and a personal numeric rating."

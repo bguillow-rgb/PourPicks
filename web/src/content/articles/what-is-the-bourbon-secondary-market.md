@@ -14,8 +14,8 @@ quickAnswer: "The bourbon secondary market is the informal resale scene where co
 publishedAt: "2026-07-06"
 author: "Pour Picks"
 relatedSlugs:
-  - "how-to-photograph-bourbon-bottles"
   - "how-to-value-a-bourbon-collection"
+  - "how-to-photograph-bourbon-bottles"
   - "what-is-allocated-bourbon"
   - "what-is-the-bourbon-glut"
 faqs:

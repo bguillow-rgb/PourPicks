@@ -14,10 +14,10 @@ quickAnswer: "Non-chill filtered bourbon skips the industry-standard cold-filter
 publishedAt: "2026-07-19"
 author: "Pour Picks"
 relatedSlugs:
+  - "how-to-read-four-roses-recipe-code"
   - "what-is-bourbon-barrel-char-level"
   - "what-is-sour-mash-bourbon"
   - "does-bourbon-have-terroir"
-  - "full-proof-vs-barrel-proof-vs-cask-strength-bourbon"
 faqs:
   - q: "Does non-chill filtered bourbon taste better than chill filtered?"
     a: "Not automatically. Non-chill filtered bourbon retains more fatty acids and esters, which many drinkers associate with a fuller mouthfeel and slightly more complex flavor. But formal blind tastings have shown even experts struggle to distinguish the two consistently. It's a production philosophy, not a universal quality marker."

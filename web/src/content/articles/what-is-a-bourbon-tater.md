@@ -14,10 +14,10 @@ quickAnswer: "A bourbon tater is community slang for an enthusiast who hoards al
 publishedAt: "2026-09-15"
 author: "Pour Picks"
 relatedSlugs:
-  - "full-proof-vs-barrel-proof-vs-cask-strength-bourbon"
   - "how-to-decode-bourbon-batch-codes"
-  - "what-is-a-bourbon-honey-barrel"
-  - "what-is-bottled-in-bond-bourbon"
+  - "full-proof-vs-barrel-proof-vs-cask-strength-bourbon"
+  - "how-to-read-a-bourbon-label"
+  - "what-is-blended-bourbon"
 faqs:
   - q: "Where did the term 'bourbon tater' come from?"
     a: "The term emerged organically in online bourbon communities, particularly on Facebook groups and Reddit, in the early-to-mid 2010s, as the bourbon boom drove a new wave of hype-focused buyers who treated bottles like trophies rather than spirits to be enjoyed."

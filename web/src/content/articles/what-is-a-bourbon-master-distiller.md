@@ -15,9 +15,9 @@ publishedAt: "2026-09-19"
 author: "Pour Picks"
 relatedSlugs:
   - "full-proof-vs-barrel-proof-vs-cask-strength-bourbon"
+  - "how-to-read-four-roses-recipe-code"
   - "what-is-bourbon-barrel-char-level"
   - "what-is-bourbon-cask-finishing"
-  - "what-is-bourbon-proof"
 faqs:
   - q: "Is 'master distiller' a legally protected title in bourbon?"
     a: "No. Unlike Bottled-in-Bond or Straight Bourbon, 'master distiller' has no legal definition under TTB regulations. Any distillery can confer the title on anyone. What it means in practice varies widely from one producer to the next."

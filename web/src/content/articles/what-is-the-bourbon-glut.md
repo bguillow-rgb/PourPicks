@@ -14,10 +14,10 @@ quickAnswer: "The bourbon glut is an industry-wide oversupply caused by aggressi
 publishedAt: "2026-08-25"
 author: "Pour Picks"
 relatedSlugs:
-  - "how-to-photograph-bourbon-bottles"
-  - "what-is-a-wax-dipped-bourbon-bottle"
+  - "how-to-value-a-bourbon-collection"
   - "what-is-the-bourbon-secondary-market"
   - "what-is-the-kentucky-bourbon-barrel-tax"
+  - "how-to-photograph-bourbon-bottles"
 faqs:
   - q: "What caused the bourbon glut in 2026?"
     a: "Distilleries massively expanded production during the bourbon boom years (roughly 2018-2022), laying down barrels to meet projected demand that never fully materialized. A post-pandemic pullback in spending, rising inflation, and collapsing exports due to retaliatory tariffs left warehouses overstocked with aging spirit."
