@@ -19,3 +19,8 @@ Thumbs.db
 # Editor
 .vscode/
 .idea/
+
+# Agent worktree/session state. Never commit this: a StickPicks service_role
+# key reached the public PerfumePicks history in May 2026 through a committed
+# .claude/worktrees/ script and sat there until the August audit rotated it.
+.claude/
