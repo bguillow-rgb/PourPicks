@@ -14,10 +14,10 @@ quickAnswer: "A honey barrel is an exceptional single cask of bourbon that drama
 publishedAt: "2026-08-20"
 author: "Pour Picks"
 relatedSlugs:
+  - "what-is-a-bourbon-dump-date"
   - "full-proof-vs-barrel-proof-vs-cask-strength-bourbon"
   - "how-rickhouse-floor-position-affects-bourbon-flavor"
   - "how-to-read-a-bourbon-label"
-  - "single-barrel-vs-small-batch-bourbon"
 faqs:
   - q: "Is a honey barrel the same as a single barrel?"
     a: "Not exactly. Every honey barrel is a single barrel, but not every single barrel is a honey barrel. Single barrel simply means the bourbon was bottled from one cask without blending. A honey barrel is a qualitative judgment, it's a single barrel that dramatically outperforms its neighbors in flavor, balance, and complexity."

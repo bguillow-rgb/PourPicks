@@ -16,8 +16,8 @@ author: "Pour Picks"
 relatedSlugs:
   - "bourbon-age-statement-vs-nas"
   - "how-do-bourbon-state-lotteries-work"
+  - "what-is-a-bourbon-dump-date"
   - "what-is-a-unicorn-bourbon"
-  - "what-is-allocated-bourbon"
 faqs:
   - q: "Is trading bourbon bottles legal?"
     a: "The legality varies by state. Most states prohibit private individuals from selling alcohol without a license, but collector-to-collector trades occupy a legal gray area. Many communities frame trades as 'gifting' bottles with no money changing hands. Consult your state's alcohol beverage laws before trading, and never ship bottles across state lines without a licensed carrier."

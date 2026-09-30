@@ -17,7 +17,7 @@ relatedSlugs:
   - "bourbon-age-statement-vs-nas"
   - "full-proof-vs-barrel-proof-vs-cask-strength-bourbon"
   - "should-you-open-or-keep-bourbon-sealed"
-  - "what-is-bourbon-and-branch"
+  - "what-is-a-bourbon-dump-date"
 faqs:
   - q: "Does the wax on a bourbon bottle actually preserve the whiskey inside?"
     a: "No, for sealed bottles, the wax is purely decorative. Modern closure systems (synthetic corks, threaded caps beneath the wax) handle the real sealing work. The wax does not affect how the bourbon ages or how long it stays shelf-stable once sealed."

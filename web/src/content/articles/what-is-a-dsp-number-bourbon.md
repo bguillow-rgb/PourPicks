@@ -15,9 +15,9 @@ publishedAt: "2026-08-05"
 author: "Pour Picks"
 relatedSlugs:
   - "how-to-read-four-roses-recipe-code"
+  - "what-is-a-bourbon-dump-date"
   - "what-is-mgp-bourbon"
   - "what-is-straight-bourbon-whiskey"
-  - "bourbon-age-statement-vs-nas"
 faqs:
   - q: "What does DSP stand for on a bourbon bottle?"
     a: "DSP stands for Distilled Spirits Plant. It is a federally assigned permit number that identifies the specific facility where the spirit was produced. On bourbon labels you'll see it formatted as DSP-KY-[number] for Kentucky distilleries, or DSP-[STATE]-[number] for other states."

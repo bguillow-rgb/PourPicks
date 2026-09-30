@@ -17,7 +17,7 @@ relatedSlugs:
   - "what-is-barrel-proof-bourbon"
   - "what-is-bourbon-proof"
   - "how-to-read-a-bourbon-label"
-  - "how-to-read-four-roses-recipe-code"
+  - "what-is-a-bourbon-dump-date"
 faqs:
   - q: "Is barrel proof the same as cask strength?"
     a: "Essentially yes, both mean the whiskey was bottled without dilution at its post-aging proof. 'Barrel proof' is the traditional American term; 'cask strength' is borrowed from Scotch whisky but appears on some American labels too. For practical purposes they are interchangeable."

@@ -14,10 +14,10 @@ quickAnswer: "An independent bottler (IB) is a company that purchases individual
 publishedAt: "2026-08-24"
 author: "Pour Picks"
 relatedSlugs:
+  - "what-is-a-bourbon-dump-date"
   - "what-is-bourbon-cask-finishing"
   - "full-proof-vs-barrel-proof-vs-cask-strength-bourbon"
   - "how-to-read-a-bourbon-label"
-  - "how-to-read-four-roses-recipe-code"
 faqs:
   - q: "What is the difference between an independent bottler and an NDP?"
     a: "An NDP (non-distiller producer) sources bulk whiskey and sells it under its own brand name, often obscuring the origin. An independent bottler identifies the source cask (distillery, vintage, barrel number) and releases it with full transparency, the IB's brand supplements rather than replaces the distillery's identity."

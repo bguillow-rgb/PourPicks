@@ -17,7 +17,7 @@ relatedSlugs:
   - "how-to-decode-bourbon-batch-codes"
   - "how-to-read-four-roses-recipe-code"
   - "what-is-dusty-hunting-bourbon"
-  - "what-is-a-dsp-number-bourbon"
+  - "what-is-a-bourbon-dump-date"
 faqs:
   - q: "What does the number molded into the bottom of a bourbon bottle mean?"
     a: "It's typically a 2-digit year indicating when the bottle itself was manufactured, placing the bottling date within roughly a year or two of that number. If two sets of digits appear separated by a space or dash, the first set is usually a liquor bottle permit number (identifying the glass factory) and the second set is the year."
