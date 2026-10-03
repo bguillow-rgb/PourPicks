@@ -15,4 +15,33 @@
 <link rel="stylesheet" href="/_astro/_slug_.D8tWKI07.css"></head> <body> <div class="container"> <header class="site-header"> <a href="/" class="site-wordmark">Pour Picks</a> <nav class="site-nav" aria-label="Main navigation"> <a href="/features">Features</a><a href="/articles">Journal</a><a href="/pairings">Pairings</a><a href="/about">About</a> </nav> </header> <div class="label-rule" aria-hidden="true"></div>  <p class="brand" data-astro-cid-holfbhea>Pour Picks</p> <h1 data-astro-cid-holfbhea>Open in Pour Picks</h1> <p class="effective" id="share-line" data-astro-cid-holfbhea>Opening the app&hellip;</p> <p data-astro-cid-holfbhea> <a id="open-app-cta" href="https://apps.apple.com/us/app/pour-picks/id6764040132" class="hero-cta" rel="noopener" data-astro-cid-holfbhea>Get Pour Picks on the App Store</a> </p> <p class="hint" data-astro-cid-holfbhea>
 Already have the app? <a href="#" id="open-app-again" data-astro-cid-holfbhea>Open it</a>.
 </p> <hr class="footer-rule"> <nav class="footer-nav" aria-label="Site"> <a href="/">Home</a> <span aria-hidden="true"> &middot; </span><a href="/features">Features</a> <span aria-hidden="true"> &middot; </span><a href="/articles">Journal</a> <span aria-hidden="true"> &middot; </span><a href="/pairings">Pairings</a> <span aria-hidden="true"> &middot; </span><a href="/about">About</a> <span aria-hidden="true"> &middot; </span><a href="/press">Press</a> <span aria-hidden="true"> &middot; </span><a href="/support">Support</a> <span aria-hidden="true"> &middot; </span><a href="/privacy">Privacy</a> <span aria-hidden="true"> &middot; </span><a href="/terms">Terms</a>  </nav> <p class="footer">
-Questions? <a href="mailto:support@pourpicks.app">support@pourpicks.app</a> </p> <p class="footer"> <a href="https://x.com/pourpicks" rel="me noopener" target="_blank">X: @pourpicks</a> <span> &middot; </span><a href="https://www.instagram.com/pourpicksapp" rel="me noopener" target="_blank">Instagram: @pourpicksapp</a>  </p> <p class="footer">&copy; 2026 Pour Picks, a Timberline Ventures LLC product. All rights reserved.</p>  </div> </body></html>  <script type="module">const l=new URLSearchParams(window.location.search),i=l.get("bottle"),r=l.get("quiz")==="1";let e=null,n="";i?(e=`pourpicks://bottle/${encodeURIComponent(i)}`,n="bottle"):r&&(e="pourpicks://quiz",n="quiz");const t=document.getElementById("share-line");if(!e)t&&(t.textContent="Get Pour Picks for iPhone to start your bourbon cellar.");else{t&&(t.textContent=n==="bottle"?"Opening this bottle in Pour Picks…":"Opening the quiz in Pour Picks…"),setTimeout(()=>{window.location.href=e},100);const o=document.getElementById("open-app-again");o&&o.addEventListener("click",c=>{c.preventDefault(),window.location.href=e})}</script>
+Questions? <a href="mailto:support@pourpicks.app">support@pourpicks.app</a> </p> <p class="footer"> <a href="https://x.com/pourpicks" rel="me noopener" target="_blank">X: @pourpicks</a> <span> &middot; </span><a href="https://www.instagram.com/pourpicksapp" rel="me noopener" target="_blank">Instagram: @pourpicksapp</a>  </p> <p class="footer">&copy; 2026 Pour Picks, a Timberline Ventures LLC product. All rights reserved.</p>  </div> <!-- AI plugin attribution (2026-10-03): a visitor who arrives from one of our
+         MCP servers' links (utm_medium=ai_plugin) keeps that source for the session,
+         and App Store links on the site carry Apple campaign tags so App Store
+         Connect credits the install to the assistant (pt = Timberline provider token). --> <script>
+      (function () {
+        try {
+          var key = "tv_ai_src";
+          var q = new URLSearchParams(location.search);
+          if (q.get("utm_medium") === "ai_plugin") {
+            sessionStorage.setItem(key, (q.get("utm_source") || "other").replace(/[^a-z0-9_-]/gi, "").slice(0, 20));
+          }
+          var src = sessionStorage.getItem(key);
+          if (!src) return;
+          var tag = function () {
+            document.querySelectorAll('a[href*="apps.apple.com"]').forEach(function (a) {
+              try {
+                var u = new URL(a.href);
+                if (u.searchParams.get("ct")) return;
+                u.searchParams.set("pt", "128774733");
+                u.searchParams.set("ct", ("ai-" + src + "-site").slice(0, 40));
+                u.searchParams.set("mt", "8");
+                a.href = u.toString();
+              } catch (e) {}
+            });
+          };
+          if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", tag);
+          else tag();
+        } catch (e) {}
+      })();
+    </script> </body> </html>  <script type="module">const l=new URLSearchParams(window.location.search),i=l.get("bottle"),r=l.get("quiz")==="1";let e=null,n="";i?(e=`pourpicks://bottle/${encodeURIComponent(i)}`,n="bottle"):r&&(e="pourpicks://quiz",n="quiz");const t=document.getElementById("share-line");if(!e)t&&(t.textContent="Get Pour Picks for iPhone to start your bourbon cellar.");else{t&&(t.textContent=n==="bottle"?"Opening this bottle in Pour Picks…":"Opening the quiz in Pour Picks…"),setTimeout(()=>{window.location.href=e},100);const o=document.getElementById("open-app-again");o&&o.addEventListener("click",c=>{c.preventDefault(),window.location.href=e})}</script>
