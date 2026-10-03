@@ -148,20 +148,3 @@ The market has started to correct as demand has faded, resulting in a significan
 For collectors who track their bottles carefully, logging distilleries, vintages, and cask details, IB releases reward that rigor more than almost any other category. Tools like [Pour Picks](/bourbon-inventory-app) make documenting that provenance straightforward, so the story behind each barrel doesn't get lost as your cellar grows.
 
 ---
-
-## Frequently asked questions
-
-**What is the difference between an independent bottler and an NDP?**
-An NDP sources bulk whiskey and sells it under its own brand, often without disclosing the origin. An independent bottler identifies the source cask, distillery, vintage, barrel number, and releases it transparently, with the IB brand supplementing rather than replacing the distillery's identity.
-
-**Are independent bottler bourbons cask strength?**
-Most IB releases are bottled at cask strength with no dilution, though some IBs add minimal water to hit a target proof. Because they typically bottle single barrels without chill-filtration, IB releases tend to preserve the most unaltered expression of the original distillate.
-
-**How do I know if a bourbon is an independent bottler release?**
-Look for "selected and bottled by" language, a named distillery of origin, a cask or barrel number, and a bottling date. If the label says "bottled by" without a "distilled by" and shows no cask details, you're more likely looking at an NDP release.
-
-**Do independent bottler bourbons hold their value?**
-Single-cask IB releases from well-regarded distilleries can appreciate, especially when the source distillery is closed, the whiskey is older, or the bottler has a strong track record. Full provenance documentation makes IB bottles easier to research at resale than generic NDP brands.
-
-**Which independent bottlers release American bourbon or rye?**
-Cadenhead's, Gordon & MacPhail, and Single Cask Nation regularly release American whiskey. U.S.-based IBs active in the space include Cask Thief and various regional single-barrel selectors. The category is expanding as surplus mature stock from the 2014-2020 bourbon boom becomes available.

@@ -113,20 +113,3 @@ You need one rule above all others: agree on a per-bottle cost ceiling before th
 Beyond budget, establish a few basic norms: arrive on time because poured glasses oxidize, score before you speak, and no revealing guesses out loud during the blind phase. Simple etiquette prevents the one vocal member from anchoring everyone else's notes before they've had a chance to form their own.
 
 ---
-
-## Frequently asked questions
-
-**How many people is ideal for a bourbon tasting club?**
-Five to ten members is the sweet spot. With fewer than five you lose meaningful score variation; above ten you need multiple bottles of each expression and conversation fragments. Six or seven lets one 750 ml bottle cover everyone at a 0.5 oz pour with margin to revisit.
-
-**Should a bourbon tasting club be blind or open-label?**
-Both formats have real value. Blind tastings strip out label bias and surface what you actually prefer; open tastings let context and distillery backstory enrich the discussion. Many clubs alternate: blind sessions for honest scoring, open sessions when a guest or rare bottle is the centerpiece.
-
-**How often should a bourbon tasting club meet?**
-Monthly is the most sustainable cadence. It gives members time to source bottles, rotate hosting without burnout, and keeps enthusiasm high. Quarterly works for clubs that invest in larger, more elaborate themed sessions.
-
-**How do you keep proof consistent in a blind tasting?**
-Build your flight within a 10-proof-point window. A high-proof barrel-strength pour tasted before an 80-proof expression will flatten the lighter bottle's subtleties and skew everyone's scores.
-
-**How do you track tasting notes across multiple sessions?**
-Standardize your scoring sheet from day one, nose, palate, finish, overall on a consistent scale, and keep a shared log. Pour Picks lets every member journal individual pours privately; you compare notes after the reveal so no one's comments anchor the group's scoring before it happens.

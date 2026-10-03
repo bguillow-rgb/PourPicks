@@ -43,6 +43,7 @@ MANDATORY article structure:
 - At least one comparison table (GitHub-flavored markdown)${pillar ? ' (pillars should have 2-3 tables)' : ''}.
 - A concrete stat, number, or cited fact roughly every 150-200 words. Attribute sources in prose (e.g. "according to whiskey auction data").
 - ${pillar ? '8+' : '5+'} FAQs (these become the faqs field for FAQPage schema).
+- Do NOT write an FAQ section in the body. No "## FAQ", no "## Frequently Asked Questions", no closing Q&A roundup. The page renders the FAQ once from the faqs field above; a body copy duplicates it on the page and in the structured data.
 - ${pillar ? '3000-5000 words for a comprehensive PILLAR overview that links down to every subtopic' : '1000-1600 words total for a detail/cluster article'}. Original wording only — never copy phrasing from sources.
 - Where it fits naturally, mention how ${site.name} (the bourbon-cellar app) helps with the task — but keep it light and never salesy; the article must stand on its own as useful content.
 - Internal-link naturally in prose to relevant existing pages on this site when it makes sense.

@@ -109,20 +109,3 @@ The Kentucky Bourbon Trail drew 2.8 million visitors last year and generates $9.
 Go with a plan, book early, wear good shoes, and give yourself permission to linger. The best distillery visits aren't the ones where you rush through the most stops. They're the ones where you slow down enough to actually taste what's in the glass.
 
 ---
-
-## Frequently Asked Questions
-
-**Do I need to book distillery tours in advance?**
-Yes. Almost every Kentucky distillery now requires advance reservations, and popular stops like Buffalo Trace, Woodford Reserve, and Maker's Mark can sell out weeks ahead. Book at least a month before your visit, especially in spring or fall.
-
-**How many distilleries should I visit in one day?**
-Two to three is the practical maximum. Most tours run 60-90 minutes, and many distilleries are 30-60 minutes apart by car. Packing in four or five stops leaves little time to actually absorb what you're tasting.
-
-**Can I buy exclusive bottles at distillery gift shops?**
-Often, yes. Many distilleries stock single-barrel picks, distillery-exclusive expressions, and allocated releases that never reach retail shelves. Arriving at opening maximizes your selection before popular bottles sell out.
-
-**What should I wear to a bourbon distillery tour?**
-Closed-toe, comfortable shoes are non-negotiable. Distillery floors, barrel warehouses, and outdoor walkways between buildings are uneven. Dress in layers; rickhouses are dramatically cooler inside than the Kentucky summer outside.
-
-**Are distillery tours worth it for experienced collectors?**
-Yes. Beyond the standard grain-to-glass walk, many distilleries offer private barrel selections, blending labs, master distiller tastings, and access to bottles unavailable anywhere else. These are often bookable as add-ons to the standard tour.

@@ -29,6 +29,8 @@ faqs:
     a: "The American Craft Spirits Association reported more than 2,300 craft distilleries operating in the U.S. as of 2024, up from fewer than 100 in 2010. Not all produce bourbon, but the segment has grown dramatically."
   - q: "Is craft bourbon worth collecting?"
     a: "Some craft bourbons are genuinely distinctive and collectible, especially single-barrel releases, limited runs using heirloom grains, or bottles from distilleries with a strong regional identity. Others are undistinguished or simply sourced stock in premium packaging. Research the producer before you buy."
+  - q: "What does 'distilled by' vs. 'produced by' mean on a craft label?"
+    a: "'Distilled by' means that named company actually made the whiskey. 'Produced by,' 'bottled by,' or 'manufactured by' are softer terms that often indicate the liquid came from a different distillery. For any bottle claiming craft credentials, 'distilled by' followed by the brand's own name is the standard you want to see."
 published: true
 ---
 
@@ -110,23 +112,3 @@ The best-run cellars treat craft as its own segment, a way to support regional p
 When [valuing your collection](/articles/how-to-value-a-bourbon-collection) for insurance or resale purposes, craft bottles require more research than allocated staples. There's often no robust secondary market price history. Apps like [Pour Picks](/bourbon-inventory-app) let you log production notes, distillery details, and purchase price alongside your other bottles, so the provenance research you did at acquisition is still attached to the bottle five years later when you're deciding whether to open it or trade it.
 
 ---
-
-## Frequently asked questions
-
-**Is there a legal definition of craft bourbon?**
-No. The TTB's standards of identity for bourbon make no distinction between craft and non-craft production. Any distillery, large or small, can legally print "craft" on a label without meeting any specific requirement.
-
-**How is craft bourbon different from regular bourbon?**
-The difference is usually scale and ownership: craft distilleries are smaller, often independently owned, and may use locally sourced grains, open-top fermenters, or pot stills. But since the term is unregulated, some "craft" brands are actually sourced from large contract distillers like MGP.
-
-**Can a craft distillery make sourced bourbon?**
-Yes, and many do, especially in their early years before their own aged stock is ready. A brand can legally call itself a craft distillery while bottling bourbon distilled elsewhere. Look for "distilled by" vs. "produced by" on the label to tell the difference.
-
-**How many craft distilleries are in the United States?**
-The American Craft Spirits Association has reported more than 2,300 craft distilleries operating in the U.S., up from fewer than 100 in 2010. Not all produce bourbon, but the segment has grown dramatically over the past fifteen years.
-
-**Is craft bourbon worth collecting?**
-Some craft bourbons are genuinely distinctive and collectible, especially single-barrel releases, limited runs using heirloom grains, or bottles from distilleries with a strong regional identity. Others are undistinguished or simply sourced stock in premium packaging. Research the producer before you buy.
-
-**What does "distilled by" vs. "produced by" mean on a craft label?**
-"Distilled by" means that named company actually made the whiskey. "Produced by," "bottled by," or "manufactured by" are softer terms that often indicate the liquid came from a different distillery. For any bottle claiming craft credentials, "distilled by" followed by the brand's own name is the standard you want to see.

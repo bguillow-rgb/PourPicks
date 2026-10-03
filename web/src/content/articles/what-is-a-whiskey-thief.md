@@ -115,20 +115,3 @@ These two tools are often confused because they perform similar jobs. A whiskey 
 In practice, American bourbon distilleries almost exclusively use the vertical thief format because standard bourbon barrels are stored upright on their heads in rickhouses. You'll encounter valinch terminology more often if you're exploring Scotch whisky or brandy production, where horizontal cask storage is the norm. For your bourbon barrel-pick experience, "whiskey thief" is the right term, and the right tool.
 
 ---
-
-## Frequently Asked Questions
-
-**What is a whiskey thief used for?**
-A whiskey thief is used to draw small samples of whiskey directly from an aging barrel for tasting or testing. Distillers use one to monitor maturation progress; retailers and enthusiast groups use one during barrel pick events to evaluate and select individual barrels.
-
-**Why is it called a whiskey thief?**
-The name is a historical nod to distillery workers who would sneak a taste of maturing spirit from the barrel using a long tube, stealing a sip before the whiskey was officially ready. The term has stuck as both the tool's formal name and a bit of romantic industry lore.
-
-**What material is a whiskey thief made from?**
-Traditional whiskey thieves are made from copper, which was both readily available and easy to sanitize in early distilleries. Modern versions also come in borosilicate glass (which lets you see the sample's color clearly) and food-grade stainless steel. Each material is inert and won't affect flavor.
-
-**Can I buy a whiskey thief for home use?**
-Yes. Glass and stainless whiskey thieves are widely available from homebrew suppliers and spirits equipment retailers, typically for $15-$60. Home barrel-aging kits (small 1-5 liter oak barrels) are popular among enthusiasts, and a thief is the right way to pull samples without disturbing the barrel.
-
-**What does a barrel sample taste like compared to the finished bottled bourbon?**
-A barrel sample is almost always higher proof than the finished bottle, often 110-130+ proof, and hasn't been cut with water or filtered. Expect a more concentrated, raw-wood intensity. Some notes that shine at barrel strength may soften or open up after dilution at bottling, which is why experienced pickers evaluate samples both neat and with a few drops of water.

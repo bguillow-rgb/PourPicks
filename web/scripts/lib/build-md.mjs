@@ -4,6 +4,8 @@
 // kept immediately before faqs (setRelatedSlugs in articles.mjs relies on it).
 // Generated articles do not use the optional howToSteps field.
 
+import { stripInBodyFaq } from './faq-heading.mjs';
+
 // Strip web-search citation markup the model can leave behind (<cite ...>text
 // </cite>) while keeping the inner text. Also collapse the stray [n] artifacts.
 export const stripCites = (s) =>
@@ -36,7 +38,12 @@ export function buildMarkdown(a) {
     `published: ${a.published === false ? 'false' : 'true'}`,
     '---',
     '',
-    stripCites(a.bodyMarkdown).trim(),
+    // The FAQ renders from frontmatter `faqs`. A body FAQ would duplicate it on
+    // the page and in the schema, and the article route fails the build over it,
+    // which costs the whole day's run. Drop it here, the way an over-long
+    // seoTitle is dropped in publish.mjs: a missing body section is a far
+    // cheaper problem than a red build.
+    stripInBodyFaq(stripCites(a.bodyMarkdown)).trim(),
     '',
   ].join('\n');
 }

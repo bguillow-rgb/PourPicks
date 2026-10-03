@@ -106,20 +106,3 @@ For a deeper look at related provenance signals, see our guide to [what is sourc
 There's a useful parallel in the [dusty hunting](/articles/what-is-dusty-hunting-bourbon) world: older bottles from transitional brand eras often carry a premium because the whiskey inside simply can't be replicated. If a brand released MGP-distilled bourbon in 2017 that was genuinely excellent, sealed bottles from that production run may be worth more to flavor-forward collectors than the same brand's current self-distilled 2026 release, regardless of which sourcing model sounds more prestigious. The market for these transitional-era bottles is small but real, and understanding the MGP backstory is what lets you spot the opportunity.
 
 ---
-
-## Frequently asked questions
-
-**What does "Distilled in Indiana" mean on a bourbon label?**
-It almost always means the whiskey was produced at MGP Ingredients' distillery in Lawrenceburg, Indiana. Federal law requires bourbon labels to disclose a state of distillation when it differs from the state on the label, which is how MGP often surfaces on bottles marketed as Kentucky or Tennessee brands.
-
-**Is MGP bourbon actually good?**
-Yes. MGP's distillate is considered high quality by industry insiders. Many well-regarded bottles are MGP-sourced, and the distillery's 95/5 rye mash bill in particular has earned a strong reputation. The source distillery doesn't determine quality alone; barrel selection, aging location, and proof decisions by the bottling brand all shape the final product.
-
-**What is the MGP 95/5 mash bill?**
-It's MGP's flagship rye whiskey recipe: 95% rye grain and 5% malted barley. It produces a bold, spicy, dry rye character and has become one of the most widely bottled rye mash bills in the United States, appearing in dozens of brands including Bulleit Rye, Templeton Rye, and many others.
-
-**Does MGP make bourbon, or just rye?**
-Both. MGP distills multiple bourbon mash bills in addition to the famous 95/5 rye. Their bourbon output includes high-rye recipes and wheated styles, and brands purchase both aged inventory and fresh distillate depending on their business model. MGP even released its first bourbon under its own name, MGP Chapter One, in fall 2026.
-
-**Should I avoid MGP-sourced bourbon as a collector?**
-Not necessarily. Provenance matters, but so does what a brand does with the sourced spirit. Barrel selection, aging duration, proof, and blending all differentiate one MGP-sourced bottle from another. Many collectors actively seek well-curated MGP expressions. Knowing where your whiskey comes from helps you evaluate it fairly.

@@ -107,20 +107,3 @@ Not accounting for taste drift. Palates evolve. A bourbon you love at 2 years in
 For collectors actively managing a cellar, tracking what's open, what's bunkered, and what's purely display, pairing your physical organization with a tool that lets you [catalog your collection and track bottle quantities](/bourbon-inventory-app) closes the gap between what you think you own and what's actually on the shelf.
 
 ---
-
-## Frequently asked questions
-
-**What does "bunkering" mean in bourbon collecting?**
-Bunkering means deliberately purchasing multiple bottles of the same expression to guarantee your future supply. The term comes from the idea of stocking a personal reserve, a bunker, of bottles you'd hate to run out of.
-
-**How many bottles should I bunker of a single expression?**
-Most collectors aim for 2-6 bottles depending on how frequently they drink it and how hard the bottle is to find. A daily drinker of an allocated bottle might bunker 4-6; a workhorse that's widely available needs 1-2 at most.
-
-**Is bunkering bourbon the same as hoarding?**
-The community distinguishes them by intent. Bunkering is buying for personal consumption at a reasonable pace. Hoarding implies buying far more than you could ever drink, often to control access or resell, which most collector communities frown on.
-
-**Does bourbon improve in a sealed bottle over time if I bunker it?**
-No. Unlike wine, sealed bourbon does not meaningfully evolve in the bottle. Bunkering preserves what's in the bottle at purchase; it does not improve it. Store bottles upright, away from light and heat, to prevent seal degradation.
-
-**What bottles are worth bunkering in 2026?**
-Bottles worth bunkering are those you drink regularly, genuinely enjoy, and fear losing access to, whether from discontinuation, allocation changes, or price hikes. Discontinued expressions, annual limited releases you love, and shelf staples that are quietly going allocated are classic bunker targets.

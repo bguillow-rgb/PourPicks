@@ -2,6 +2,7 @@
 import { getCollection, type CollectionEntry } from 'astro:content';
 import ArticleLayout from '../../layouts/ArticleLayout.astro';
 import { SITE } from '../../consts';
+import { FAQ_HEADING_RE } from '../../../scripts/lib/faq-heading.mjs';
 
 export async function getStaticPaths() {
   // In dev mode, include drafts so you can preview unpublished article
@@ -15,7 +16,7 @@ export async function getStaticPaths() {
   // A hand-authored "## FAQ" in the body duplicates it (and its schema).
   // Fail the build rather than ship the duplicate.
   for (const e of all) {
-    if (/^#{2,3}\s*(\d+\s*)?(quick\s*)?faq/im.test(e.body)) {
+    if (FAQ_HEADING_RE.test(e.body)) {
       throw new Error(
         `Article "${e.slug}" has an in-body FAQ heading. Remove it; the FAQ comes from the frontmatter "faqs" field.`
       );

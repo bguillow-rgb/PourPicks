@@ -105,20 +105,3 @@ That context matters practically for trail visitors. In 2026, inflation is cooli
 James B. Beam Distilling Co. in Clermont, KY, for example, offers a 75-minute grain-to-glass tour and tasting with five pours, hands-on barrel work, and rare-bottle access, all on one campus, and experiences like that are easier to book right now than they were at the height of the bourbon boom.
 
 ---
-
-## Frequently asked questions
-
-**Is the Kentucky Bourbon Trail passport still available in 2026?**
-No. The physical passport retired after July 1, 2025, and was replaced by a free digital "Build Your Own Bourbon Trail" trip builder at trip-builder.kybourbontrail.com.
-
-**What is the difference between the Kentucky Bourbon Trail and the Craft Tour?**
-The main Trail features 18 flagship distillery experiences from large, established producers. The Craft Tour covers a broader roster of smaller, independent distilleries across Kentucky. Both are administered by the Kentucky Distillers' Association.
-
-**Do I have to drink bourbon to visit distilleries on the trail?**
-No. Many distilleries offer historical tours, architecture walks, and gift shop visits that don't require tasting. Most are family-friendly in their general operations, though tasting experiences are reserved for adults 21+.
-
-**What is the Urban Bourbon Trail in Louisville?**
-Created by Louisville Tourism, the Urban Bourbon Trail is a collection of bars, restaurants, and hotels across Louisville, each committed to offering a serious bourbon experience. Every participating establishment stocks a minimum of 50 different bourbons.
-
-**How far in advance should I book Kentucky Bourbon Trail tours?**
-Buffalo Trace's Hard Hat Tour should be booked three or more weeks in advance. Flagship distilleries fill quickly from September through November. Book everything before you leave home and prioritize weekday slots for a less crowded, more in-depth experience.

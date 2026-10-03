@@ -123,20 +123,3 @@ Three or four of these clues pointing to the same decade gives you a well-founde
 If you're cataloging vintage finds in your cellar, Pour Picks lets you attach photos and custom notes to each bottle entry, so you can document every clue, the glass code, the strip condition, the fill level, right alongside your tasting journal rather than losing those details to a paper scrap.
 
 ---
-
-## Frequently asked questions
-
-**What does the number molded into the bottom of a bourbon bottle mean?**
-It's typically a 2-digit year indicating when the bottle itself was manufactured, placing the bottling date within roughly a year or two of that number. If two sets of digits appear separated by a space or dash, the first set is usually a liquor bottle permit number (identifying the glass factory) and the second set is the year.
-
-**When did U.S. bourbon bottles stop having tax strips?**
-Federal tax strip stamps were mandatory until 1985. After that, some brands continued using unofficial "faux" strips that looked similar to government strips but carried no regulatory weight. If a bottle has no tax strip at all, it was almost certainly bottled post-1985.
-
-**How do I use a UPC code to figure out who distilled my bourbon?**
-Check the first five digits of the barcode on the back label. Each major bottler has a unique prefix, for example, 80686 is Jim Beam, 83924 is Heaven Hill, 88508 is Stitzel-Weller, and 86259 is National Distillers (pre-1987). This is especially useful when brands changed hands but kept the same label design.
-
-**What does it mean if my bourbon bottle is measured in quarts or pints instead of milliliters?**
-It means the bottle was filled before January 1, 1980, when all U.S. spirits bottles were required to switch to metric measurements. A bottle showing both imperial and metric is likely from the 1978-1980 transition window. Pure imperial = pre-1979.
-
-**Is a low fill level a red flag on a vintage bourbon bottle?**
-Not necessarily. Sealed bottles lose liquid slowly through cork evaporation at roughly 0.5-2% per year over long periods, so a bottle sealed for 20+ years will often show a noticeably lower fill level than when it left the distillery. A shoulder-level fill on a legitimate 1970s bottle is normal, but dramatic fill loss on a supposedly young dusty warrants scrutiny.

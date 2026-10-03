@@ -119,23 +119,3 @@ Think about why a bottle belongs in your cellar: Is it a distillery or style you
 Once bottles are in hand, logging them properly matters just as much as landing them. Tracking what you paid, when you acquired it, and what the market is doing over time transforms a shelf of bottles into an actual collection with a documented story. That's the practical core of what Pour Picks was built to do: give collectors one private, organized record of every bottle they own, what it cost, and what it's worth now, without requiring a spreadsheet or a subscription to a price-guide service.
 
 ---
-
-## Frequently Asked Questions
-
-**What makes a bourbon 'allocated'?**
-A bourbon becomes allocated when structural demand permanently outpaces supply. The distillery produces a fixed run, distributors divide it among retailers, and those retailers receive far fewer bottles than customers want, often just a case or two per release.
-
-**Is allocated bourbon always higher quality than regular bourbon?**
-Not necessarily. Blind tastings frequently reveal little correlation between rarity and drinking quality. Scarcity is shaped by production volume and brand prestige as much as by liquid quality, though the most iconic allocated expressions do tend to be exceptionally well-crafted.
-
-**What is the difference between MSRP and secondary market price?**
-MSRP is what a licensed retailer is supposed to charge. Secondary market price is what private buyers pay outside of retail, often in Facebook groups or at auction. For the most coveted bottles, the gap is enormous: Pappy Van Winkle 15 Year retails near $130 at lottery but has traded at auction above $1,800.
-
-**What are the most common ways retailers distribute allocated bourbon?**
-Four main methods: first-come-first-served shelf sales, loyalty-program rewards for consistent customers, formal lotteries or raffles, and discretionary call-list sales to trusted regulars. State-run stores most commonly use lotteries.
-
-**Is buying or selling allocated bourbon on the secondary market legal?**
-It depends on the state. Reselling alcohol without a license is illegal in many U.S. states, which is why secondary transactions often happen in informal channels. Always verify your local laws before buying or selling outside of licensed retail.
-
-**How do I track the value of allocated bottles in my collection?**
-Apps built for bourbon collectors, like Pour Picks, let you catalog every bottle you own and reference secondary market pricing over time, so you know what your cellar is worth without manually cross-referencing auction sites or price guides.

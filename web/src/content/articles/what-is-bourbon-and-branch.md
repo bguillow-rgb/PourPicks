@@ -125,20 +125,3 @@ The standards of identity for bourbon reference only pure water. Limestone water
 The concept of terroir, where geography, geology, and climate come together to shape a product, still applies here. Whether limestone water adds measurable flavor or mainly adds mystique is, in some ways, beside the point: the connection between Kentucky's geology and its whiskey identity is real, even if the chemistry isn't magic. For a collector, understanding that context enriches every pour.
 
 ---
-
-## Frequently Asked Questions
-
-**What does "branch" mean in bourbon and branch?**
-"Branch" is an old Southern American term for a natural stream or creek, specifically the iron-free, limestone-filtered water that flowed near Kentucky distilleries. Ordering "bourbon and branch" originally meant your whiskey would be cut with the same pure water used to make it.
-
-**Is bourbon and branch just bourbon with tap water?**
-Technically yes in most modern bars, but the original intent was limestone-filtered spring water, naturally free of iron and sulfur, which can introduce off-flavors. For a true branch experience at home, use a low-mineral still water or a dedicated limestone mixing water rather than straight tap water.
-
-**How much water do you add for a bourbon and branch?**
-There's no fixed ratio. Most collectors add just a few drops to a teaspoon per two-ounce pour and taste as they go. The classic Ian Fleming / James Bond recipe called for equal parts bourbon and branch water over ice, but that's far more diluted than most modern enthusiasts prefer.
-
-**Does the type of water you add to bourbon actually matter?**
-Yes, meaningfully. Iron in tap water can mute flavor compounds and add a metallic note. High-chlorine municipal water can introduce off-aromas. Low-mineral still water or true limestone spring water lets the bourbon's own character come through the dilution.
-
-**Is bourbon and branch the same as adding a water drop to bourbon?**
-They're related but distinct. "Bourbon and branch" is a named serve with historical and cultural identity, typically a modest pour of water alongside or in the glass. "Adding a drop" is more of a tasting technique used at barrel proof. Both achieve dilution; bourbon and branch is more of a drinking ritual than a technical tasting step.

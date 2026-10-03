@@ -122,23 +122,3 @@ Yes, and the difference is more significant during training than it will be late
 Pour about an ounce to an ounce and a half for evaluation. Arrange samples in ascending proof order so a high-proof pour doesn't bulldoze the flavors of whatever comes next. And if you're comparing multiple bottles, keep neutral-flavored water on hand. A sip between pours gives your palate a reset so the previous bourbon doesn't bleed into the next one.
 
 ---
-
-## Frequently Asked Questions
-
-**How long does it take to build a bourbon palate?**
-Most collectors notice meaningful improvement within 3-6 months of intentional, structured tasting, meaning a focused session at least once a week with written notes. Rushing through bottles without recording impressions slows progress significantly.
-
-**Should I start with expensive or cheap bourbons when training my palate?**
-Start with approachable, well-documented bottles under $50. Familiar flavor benchmarks (caramel, vanilla, oak) are easier to identify in mid-range bottles. Reserve expensive or rare pours for when you have enough vocabulary to actually appreciate the nuance.
-
-**What is the bourbon flavor wheel and do I need one?**
-The bourbon flavor wheel is a visual reference, originally developed for professional certification programs, that organizes tasting notes from broad categories (sweet, spice, wood, fruit/floral, grain) down to specific descriptors. You don't need to memorize it, but having one open during a tasting meaningfully speeds up vocabulary acquisition.
-
-**Why does bourbon taste like alcohol burn and nothing else when I first try it?**
-Ethanol temporarily overwhelms olfactory receptors. Usually the first sip, sometimes even the second, won't tell you much about how a bourbon actually tastes. It typically takes about three sips for your tongue to adjust to the heat before you can start detecting notes. Slightly parting your lips while nosing helps ethanol escape so you can smell the underlying compounds.
-
-**Does adding water help with palate training?**
-Yes. Adding a few drops of water can shift the flavor profile noticeably, sometimes dramatically. Some bourbons taste completely different with a small addition. It's a useful training technique, not a sign of inexperience. Our deeper guide on [when and why to add water to bourbon](/articles/should-you-add-water-to-bourbon) covers the science in full.
-
-**How does keeping tasting notes help build a palate?**
-Written notes create a personal flavor memory bank. Revisiting past entries reveals how your detection range expands over time and shows which flavor families you reliably spot versus consistently miss, giving you a roadmap for focused improvement. If you want to refine *how* you phrase what you find, our guide on [how to write bourbon tasting notes](/articles/how-to-write-bourbon-tasting-notes) walks through the full process.
