@@ -17,7 +17,7 @@ relatedSlugs:
   - "what-is-wheated-bourbon"
   - "wheated-bourbon-vs-high-rye-bourbon"
   - "how-rickhouse-floor-position-affects-bourbon-flavor"
-  - "what-is-bourbon-barrel-entry-proof"
+  - "what-does-bourbon-taste-like"
 faqs:
   - q: "Is wheat whiskey the same as wheated bourbon?"
     a: "No. Wheated bourbon still has at least 51% corn, wheat just replaces rye as the secondary flavoring grain. Wheat whiskey flips that hierarchy: it must be made from at least 51% wheat, so corn is optional or minor. They are legally separate TTB categories with different flavor profiles."

@@ -17,7 +17,7 @@ relatedSlugs:
   - "full-proof-vs-barrel-proof-vs-cask-strength-bourbon"
   - "how-to-read-a-bourbon-label"
   - "should-you-add-water-to-bourbon"
-  - "what-is-bourbon-barrel-entry-proof"
+  - "what-does-bourbon-taste-like"
 faqs:
   - q: "What is the best proof for sipping bourbon neat?"
     a: "Most experienced collectors land on 90 to 110 proof for neat sipping. This range delivers full flavor without overwhelming heat. Barrel-proof expressions (110, 140+ proof) also work neat for those who prefer intensity, or with a few drops of water to open them up."

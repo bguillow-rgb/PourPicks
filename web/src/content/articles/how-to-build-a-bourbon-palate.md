@@ -14,10 +14,10 @@ quickAnswer: "Build a bourbon palate by tasting deliberately in four stages, col
 publishedAt: "2026-07-24"
 author: "Pour Picks"
 relatedSlugs:
+  - "what-does-bourbon-taste-like"
   - "how-to-write-bourbon-tasting-notes"
   - "bourbon-flavor-wheel-guide"
   - "what-is-bourbon-barrel-char-level"
-  - "what-is-the-kentucky-chew"
 faqs:
   - q: "How long does it take to build a bourbon palate?"
     a: "Most collectors notice meaningful improvement within 3, 6 months of intentional, structured tasting, meaning a focused session at least once a week with written notes. Rushing through bottles without recording impressions slows progress significantly."

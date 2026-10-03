@@ -17,7 +17,7 @@ relatedSlugs:
   - "how-rickhouse-floor-position-affects-bourbon-flavor"
   - "what-is-heat-cycling-bourbon"
   - "does-bourbon-have-terroir"
-  - "what-is-bourbon-barrel-char-level"
+  - "what-does-bourbon-taste-like"
 faqs:
   - q: "What is the difference between a rickhouse and a rackhouse?"
     a: "The terms are used interchangeably in the industry. Both refer to the multi-story, open-air warehouses where bourbon barrels age on wooden racks or ricks. Some distilleries prefer one term over the other, but there is no meaningful functional difference."
