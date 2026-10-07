@@ -15,9 +15,9 @@ publishedAt: "2026-09-08"
 author: "Pour Picks"
 relatedSlugs:
   - "what-is-bourbon-barrel-char-level"
+  - "what-is-bourbon-solera-aging"
   - "what-is-double-oaked-bourbon"
   - "what-is-the-bourbon-glut"
-  - "does-bourbon-have-terroir"
 faqs:
   - q: "What is the Kentucky bourbon barrel tax?"
     a: "It is an ad valorem property tax charged annually on every barrel of bourbon aging in a Kentucky warehouse. The tax is assessed on the barrel's market value, so older and more valuable barrels cost more each year."

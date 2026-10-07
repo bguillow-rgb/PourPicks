@@ -14,10 +14,10 @@ quickAnswer: "Bourbon has no minimum aging requirement, technically, a few secon
 publishedAt: "2026-08-29"
 author: "Pour Picks"
 relatedSlugs:
+  - "what-is-bourbon-solera-aging"
   - "what-is-straight-bourbon-whiskey"
   - "bourbon-age-statement-vs-nas"
   - "does-bourbon-have-terroir"
-  - "how-to-read-a-bourbon-label"
 faqs:
   - q: "Does bourbon have a minimum aging requirement?"
     a: "Plain \"bourbon\" has no minimum aging period beyond the moment new charred oak contact occurs. \"Straight bourbon,\" however, must age for at least two years. Any straight bourbon under four years must display an age statement on the label."
