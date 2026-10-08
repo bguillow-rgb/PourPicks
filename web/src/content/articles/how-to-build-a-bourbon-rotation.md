@@ -14,10 +14,10 @@ quickAnswer: "A bourbon rotation divides your open bottles into tiers, a daily d
 publishedAt: "2026-09-13"
 author: "Pour Picks"
 relatedSlugs:
+  - "what-is-a-bourbon-library"
   - "how-to-organize-a-bourbon-collection"
   - "should-you-open-or-keep-bourbon-sealed"
   - "what-is-a-bourbon-vertical-tasting"
-  - "how-does-the-kentucky-bourbon-trail-work"
 faqs:
   - q: "How many bourbon bottles should I have open at once?"
     a: "Most collectors find three to five open bottles is the sweet spot, one daily drinker, one or two workhorses for regular sipping, and one shelf piece or special-occasion bottle. More than six open bottles at once risks oxidation on slower-moving pours."
