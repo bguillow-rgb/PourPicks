@@ -94,7 +94,24 @@ const formattedDate = (updatedAt ?? publishedAt).toLocaleDateString('en-US', {
     <slot />
   </div>
 
+  <aside class="article-app-cta">
+    <p class="article-app-lead">Pour Picks keeps your cellar, your pours, and what to open next in one place. Free on iPhone.</p>
+    <a class="cta" href={SITE.appStoreUrl}>Download on the App Store</a>
+  </aside>
+
   <FAQ faqs={faqs} />
 
   <Footer />
 </BaseLayout>
+
+<style>
+  .article-app-cta {
+    margin: 38px 0 6px;
+    padding-top: 28px;
+    border-top: 1px solid var(--line);
+  }
+  .article-app-lead {
+    margin: 0 0 16px;
+    max-width: 44em;
+  }
+</style>
