@@ -17,7 +17,7 @@ relatedSlugs:
   - "how-to-photograph-bourbon-bottles"
   - "best-bourbon-cellar-apps"
   - "how-to-build-a-bourbon-rotation"
-  - "how-to-organize-a-bourbon-collection"
+  - "how-to-display-a-bourbon-collection"
 faqs:
   - q: "Does homeowners insurance cover a bourbon collection?"
     a: "Only partially, and often inadequately. Most standard homeowners policies will cover some personal property loss, but they cap payouts on high-value bottles, may exclude breakage, and won't replace a rare allocated bottle at true market value. Any bottle worth more than a few hundred dollars is at risk of being underinsured under a standard policy."

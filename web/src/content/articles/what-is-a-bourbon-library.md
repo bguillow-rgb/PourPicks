@@ -17,7 +17,7 @@ relatedSlugs:
   - "how-to-build-a-bourbon-rotation"
   - "what-is-a-bourbon-vertical-tasting"
   - "how-to-build-a-bourbon-flight"
-  - "ideal-temperature-humidity-bourbon-storage"
+  - "how-to-display-a-bourbon-collection"
 faqs:
   - q: "How is a bourbon library different from a bourbon cellar?"
     a: "A cellar is any stored collection, allocated bottles, backstock, trade fodder. A library is curated for reference: every bottle has a reason to be there, whether as a benchmark expression, a style anchor, or a historical data point. Library thinking is about selection quality over quantity."
