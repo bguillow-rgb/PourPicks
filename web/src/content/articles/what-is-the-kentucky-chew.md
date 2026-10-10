@@ -16,8 +16,8 @@ author: "Pour Picks"
 relatedSlugs:
   - "how-to-build-a-bourbon-palate"
   - "what-does-bourbon-taste-like"
+  - "what-is-sweet-mash-bourbon"
   - "best-glass-for-bourbon"
-  - "bourbon-flavor-wheel-guide"
 faqs:
   - q: "What is the Kentucky Chew?"
     a: "The Kentucky Chew is a bourbon tasting technique pioneered by Booker Noe of Jim Beam. You take a sip, work the liquid around your entire mouth as if chewing it, and smack your lips after swallowing to introduce air and reveal the finish."
