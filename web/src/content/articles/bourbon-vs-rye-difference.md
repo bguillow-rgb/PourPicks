@@ -12,10 +12,10 @@ quickAnswer: "Bourbon is at least 51% corn (sweet, round, vanilla-caramel notes)
 publishedAt: "2026-05-19"
 author: "Pour Picks"
 relatedSlugs:
+  - "how-to-choose-a-bourbon-by-mash-bill"
   - "single-barrel-vs-small-batch-bourbon"
   - "wheated-bourbon-vs-high-rye-bourbon"
   - "full-proof-vs-barrel-proof-vs-cask-strength-bourbon"
-  - "how-rickhouse-floor-position-affects-bourbon-flavor"
 faqs:
   - q: "Is bourbon sweeter than rye whiskey?"
     a: "Yes, generally. Bourbon's minimum 51% corn delivers natural sugars that read as sweet on the palate, vanilla, caramel, honey, baked apple. Rye whiskey's minimum 51% rye grain produces spicy, peppery, slightly bitter notes. Wheated bourbons sit somewhere in between, but standard bourbon vs. standard rye is a sweet-vs-spicy axis."

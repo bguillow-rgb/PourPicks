@@ -17,7 +17,7 @@ relatedSlugs:
   - "how-to-grade-bourbon-bottle-condition"
   - "bourbon-age-statement-vs-nas"
   - "does-bourbon-go-bad"
-  - "how-to-trade-bourbon-bottles"
+  - "how-to-choose-a-bourbon-by-mash-bill"
 faqs:
   - q: "What does ullage mean on a bourbon bottle?"
     a: "Ullage refers to the unfilled headspace inside a bourbon bottle, the gap between the liquid surface and the stopper or cap. More ullage means more trapped oxygen, which accelerates oxidation and gradual flavor change over time."

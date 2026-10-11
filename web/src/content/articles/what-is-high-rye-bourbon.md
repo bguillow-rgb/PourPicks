@@ -14,10 +14,10 @@ quickAnswer: "A high-rye bourbon uses a mash bill with roughly 18 to 35% rye as 
 publishedAt: "2026-08-17"
 author: "Pour Picks"
 relatedSlugs:
+  - "how-to-choose-a-bourbon-by-mash-bill"
   - "what-is-mash-bill"
   - "bourbon-food-pairing-guide"
   - "how-to-read-a-bourbon-label"
-  - "what-does-bourbon-taste-like"
 faqs:
   - q: "Is there an official minimum rye percentage for a bourbon to be called 'high-rye'?"
     a: "No. 'High-rye' is a marketing and collector term, not a legal TTB designation. Most industry insiders apply it to bourbons with 18% or more rye in the mash bill, though some place the threshold as high as 25%. Always read or research the actual mash bill rather than relying on label language."
