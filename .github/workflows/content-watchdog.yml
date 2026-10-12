@@ -2,11 +2,15 @@ name: Daily content watchdog
 
 # Opens a GitHub issue when today's "Daily SEO content" run did not succeed.
 #
+# Timing: the publish job is scheduled for 12:00 UTC but GitHub's cron queue
+# starts it late, observed between 15:52 and 20:01 UTC over 30 runs. The
+# watchdog runs at 23:30 UTC so a late-but-healthy run is never flagged.
+#
 # Why a separate workflow instead of an `if: failure()` step: on 2026-10-05 the
 # daily job was never picked up by a runner ("The job was not acquired by Runner
 # of type hosted"). A job that never starts runs none of its own steps, so a
-# failure step inside it would have stayed silent too. This watchdog runs three
-# hours later on its own schedule and checks the outcome from the outside,
+# failure step inside it would have stayed silent too. This watchdog runs late
+# in the UTC day on its own schedule and checks the outcome from the outside,
 # which catches failed, cancelled AND never-started runs.
 #
 # GitHub emails the repo owner about new issues and comments, so this is the
@@ -14,7 +18,7 @@ name: Daily content watchdog
 # outage does not spam.
 on:
   schedule:
-    - cron: '0 15 * * *' # 15:00 UTC, three hours after the 12:00 UTC publish
+    - cron: '30 23 * * *' # 23:30 UTC, after the late-starting 12:00 UTC publish
   workflow_dispatch:
 
 permissions:
