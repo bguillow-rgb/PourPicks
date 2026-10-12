@@ -1,0 +1,61 @@
+name: Daily content watchdog
+
+# Opens a GitHub issue when today's "Daily SEO content" run did not succeed.
+#
+# Why a separate workflow instead of an `if: failure()` step: on 2026-10-05 the
+# daily job was never picked up by a runner ("The job was not acquired by Runner
+# of type hosted"). A job that never starts runs none of its own steps, so a
+# failure step inside it would have stayed silent too. This watchdog runs three
+# hours later on its own schedule and checks the outcome from the outside,
+# which catches failed, cancelled AND never-started runs.
+#
+# GitHub emails the repo owner about new issues and comments, so this is the
+# notification. One open issue is reused (comments are added) so a multi-day
+# outage does not spam.
+on:
+  schedule:
+    - cron: '0 15 * * *' # 15:00 UTC, three hours after the 12:00 UTC publish
+  workflow_dispatch:
+
+permissions:
+  actions: read
+  issues: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      GH_REPO: ${{ github.repository }}
+      WORKFLOW: Daily SEO content
+      LABEL: content-pipeline-failure
+    steps:
+      - name: Check today's publish run
+        run: |
+          today=$(date -u +%F)
+          runs=$(gh run list --workflow "$WORKFLOW" --created ">=$today" -L 20 \
+            --json conclusion,status,url,createdAt)
+          echo "Runs today: $runs"
+
+          if echo "$runs" | jq -e 'any(.[]; .conclusion == "success")' >/dev/null; then
+            echo "Today's article published. Nothing to report."
+            exit 0
+          fi
+
+          if [ "$(echo "$runs" | jq 'length')" -eq 0 ]; then
+            detail="No \"$WORKFLOW\" run exists for $today (UTC). The scheduled job never started, so no article was published."
+          else
+            detail=$(echo "$runs" | jq -r '"Runs today did not succeed:\n" + (map("- " + .status + " / " + (.conclusion // "none") + " " + .url) | join("\n"))')
+          fi
+          rerun="Rerun it: Actions > $WORKFLOW > Run workflow. Deploy and IndexNow follow automatically once it succeeds."
+          body=$(printf '%s\n\n%s' "$detail" "$rerun")
+
+          gh label create "$LABEL" --color B60205 --description "Daily article did not publish" 2>/dev/null || true
+          open=$(gh issue list --label "$LABEL" --state open --json number -q '.[0].number')
+          if [ -n "$open" ]; then
+            gh issue comment "$open" --body "$(printf '**%s**: %s' "$today" "$body")"
+          else
+            gh issue create --label "$LABEL" \
+              --title "Daily article did not publish ($today)" \
+              --body "$(printf '%s\n\nClose this issue once the pipeline is green again. The watchdog comments here for every further missed day.' "$body")"
+          fi
