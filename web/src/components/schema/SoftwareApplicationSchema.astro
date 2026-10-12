@@ -13,9 +13,12 @@ import { SITE } from '../../consts';
 interface Props {
   // Optional feature list to surface on pages that describe the app in detail.
   featureList?: string;
+  // Optional real price list (free tier + Cask Club plans). When omitted the
+  // schema falls back to a single free Offer.
+  offers?: Record<string, unknown>[];
 }
 
-const { featureList } = Astro.props;
+const { featureList, offers } = Astro.props;
 
 const base: Record<string, unknown> = {
   '@context': 'https://schema.org',
@@ -42,6 +45,10 @@ const base: Record<string, unknown> = {
 if (SITE.appStoreUrl) {
   base.downloadUrl = SITE.appStoreUrl;
   base.installUrl = SITE.appStoreUrl;
+}
+
+if (offers && offers.length > 0) {
+  base.offers = offers;
 }
 
 if (featureList) {

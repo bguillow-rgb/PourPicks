@@ -1,4 +1,11 @@
 ---
+// Install-intent landing page. Targets the queries this URL already ranks on
+// page 1 for with no clicks (bourbon app, bourbon tracking app, bourbon
+// inventory app, bourbon collection app, bourbon finder app, bourbon price
+// app) plus the long AI-Mode prompts about barcode scanning and "under $5 a
+// month". Product facts verified against the app code 2026-10-07; competitor
+// facts from each app's live App Store listing and site, fetched 2026-10-12.
+// Pour Picks has NO barcode scanner and NO export: never add either claim.
 import BaseLayout from '../layouts/BaseLayout.astro';
 import QuickAnswer from '../components/QuickAnswer.astro';
 import FAQ from '../components/FAQ.astro';
@@ -7,146 +14,338 @@ import BreadcrumbSchema from '../components/schema/BreadcrumbSchema.astro';
 import SoftwareApplicationSchema from '../components/schema/SoftwareApplicationSchema.astro';
 import { SITE } from '../consts';
 
+const pageUrl = `${SITE.url}/bourbon-inventory-app`;
+const checkedOn = 'October 12, 2026';
+
 const quickAnswer =
-  'A bourbon inventory app is a phone app that catalogs every bottle in your ' +
-  'collection, distillery, expression, proof, fill level, and value, so you ' +
-  'always know what you own. Pour Picks does this on iOS: scan a label to add ' +
-  'a bottle, track collection value, and log every pour in one private cellar.';
+  'Pour Picks is an iPhone app for tracking a bourbon collection. Take a ' +
+  'photo of the front label and it identifies the bottle and adds it to your ' +
+  'shelf with a price. The free version gives you 5 scans and 5 owned ' +
+  'bottles. Cask Club is $2.99 a month or $24.99 a year and lifts both limits.';
+
+const offers = [
+  {
+    '@type': 'Offer',
+    name: 'Free',
+    price: '0',
+    priceCurrency: 'USD',
+    description: '5 label scans total, up to 5 bottles on the Owned shelf, reviews, pairings, Bourbon DNA, Bourbon Concierge.',
+  },
+  {
+    '@type': 'Offer',
+    name: 'Cask Club (monthly)',
+    price: '2.99',
+    priceCurrency: 'USD',
+    priceSpecification: {
+      '@type': 'UnitPriceSpecification',
+      price: '2.99',
+      priceCurrency: 'USD',
+      billingDuration: 'P1M',
+      unitCode: 'MON',
+    },
+  },
+  {
+    '@type': 'Offer',
+    name: 'Cask Club (yearly)',
+    price: '24.99',
+    priceCurrency: 'USD',
+    priceSpecification: {
+      '@type': 'UnitPriceSpecification',
+      price: '24.99',
+      priceCurrency: 'USD',
+      billingDuration: 'P1Y',
+      unitCode: 'ANN',
+    },
+  },
+];
+
+const webPageSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'WebPage',
+  '@id': pageUrl,
+  url: pageUrl,
+  name: 'Bourbon Inventory App: Track Your Collection',
+  inLanguage: 'en-US',
+  dateModified: '2026-10-12',
+  speakable: {
+    '@type': 'SpeakableSpecification',
+    cssSelector: ['#quick-answer', '#pricing-answer', '#barcode-answer'],
+  },
+  about: { '@type': 'MobileApplication', name: `${SITE.name}: Bourbon & Whiskey`, url: SITE.appStoreUrl },
+};
+
+const sources = [
+  { name: 'OnlyDrams', listing: 'https://apps.apple.com/us/app/onlydrams/id6446233656', site: 'https://onlydrams.app' },
+  { name: 'BarrelBook', listing: 'https://apps.apple.com/us/app/id6751058765', site: 'https://barrelbookapp.com' },
+  { name: 'Bourboneur', listing: 'https://apps.apple.com/us/app/bourboneur/id6503428230', site: '' },
+];
 
 const faqs = [
   {
-    q: 'What is the best bourbon inventory app?',
-    a: 'The best bourbon inventory app is the one that makes adding bottles fast and keeps your data private. Pour Picks adds bottles by scanning the front label with your iPhone camera, tracks live collection value against MSRP, and logs tasting notes per pour. It is free to download, with an optional Cask Club subscription ($2.99/month) for unlimited scans and advanced cellar tools. Your collection is never sold or used for advertising.',
+    q: 'Is there a free app to track a bourbon collection?',
+    a: 'Pour Picks is free to download and the free version has no time limit. It includes 5 label scans in total and up to 5 bottles on the Owned shelf, plus reviews, food pairings, Bourbon DNA and the Bourbon Concierge. BarrelBook also has a free tier, which its listing caps at 5 bottles and 2 tastings.',
   },
   {
-    q: 'Is there a free app to track my bourbon collection?',
-    a: 'Yes. Pour Picks is free to download and use for cataloging your cellar, taking the palate quiz, and basic bottle tracking. A Cask Club subscription adds unlimited AI label scans, full journaling, and collection value tracking, but you can build and browse a cellar without paying. Subscriptions are billed through Apple, so payment details never touch Pour Picks servers.',
+    q: 'Does Pour Picks scan barcodes?',
+    a: 'No. You take a photo of the front label and the app identifies the bottle from that. OnlyDrams is the one to look at if a barcode scanner is a must.',
   },
   {
-    q: 'How do I scan a bourbon bottle to add it to my collection?',
-    a: 'Open Pour Picks, tap to add a bottle, and point your iPhone camera at the front label. The Pour Concierge scanner uses Claude Vision to read the distillery, expression, and proof, then matches it against a catalog of thousands of American whiskeys, usually in under a second. If the read is not right, you can describe the bottle in text, search manually, or suggest a new bottle for the catalog.',
+    q: 'Is there a whiskey inventory app under $5 a month?',
+    a: 'Yes. Cask Club, the paid tier of Pour Picks, is $2.99 a month or $24.99 a year. Both are billed through the App Store, and the yearly plan works out to about $2.08 a month.',
   },
   {
-    q: 'Can a bourbon inventory app track how much my collection is worth?',
-    a: 'Yes. Pour Picks keeps a running value of your cellar using catalog MSRP as the default price, with an override for what you actually paid. It shows per-bottle and per-line totals, with quantity steppers for bottles you own multiples of, so the total reflects your real collection, not a guess.',
+    q: 'What do I get with Cask Club?',
+    a: 'Unlimited label scans and Precision Match, a 10-question quiz that gives you your top 10 bottles with a reason for each. Cask Club also opens the Wishlist and Finished shelves and removes the 5-bottle cap on Owned. Everything else in the app is in the free version.',
   },
   {
-    q: 'Does Pour Picks work on Android?',
-    a: 'Pour Picks launched on iOS first and is available now on the App Store. An Android release is on the roadmap but not yet scheduled. If you want a heads-up when Android ships, email support@pourpicks.app.',
+    q: 'Can Pour Picks tell me what my bourbon collection is worth?',
+    a: 'It keeps a running total at the top of your cellar. Each bottle starts at its catalog list price, and you can swap in what you paid. It does not track auction or secondary-market prices.',
+  },
+  {
+    q: 'Does Pour Picks work on Android or iPad?',
+    a: 'Pour Picks is an iPhone app. There is no Android version, and the App Store does not list it for iPad.',
+  },
+  {
+    q: 'How do I cancel Cask Club?',
+    a: 'Cask Club is an App Store subscription, so you cancel it on your iPhone in Settings, under your name, then Subscriptions. It stays active until the end of the period you already paid for.',
   },
 ];
 ---
 <BaseLayout
-  title="Bourbon Inventory App, Catalog & Value Your Cellar"
-  description="Pour Picks is a free bourbon inventory app for iOS. Scan a label to add a bottle, track your collection's value, and log every pour in one private cellar."
+  title="Bourbon Inventory App: Track Your Collection"
+  description="Pour Picks is a bourbon inventory app for iPhone. Photograph a label to add the bottle, see what your shelf is worth, and log reviews. Free, or $2.99 a month."
   path="/bourbon-inventory-app"
 >
   <Fragment slot="head">
-    <SoftwareApplicationSchema featureList="Bourbon inventory tracker, AI label scanner, collection value tracking, tasting journal, palate quiz, cellar catalog" />
-    <BreadcrumbSchema crumbs={[{ name: 'Bourbon Inventory App', url: `${SITE.url}/bourbon-inventory-app` }]} />
+    <SoftwareApplicationSchema
+      featureList="Label photo scanning, bourbon collection tracking, cellar value total, tasting reviews, food pairings, Bourbon DNA palate profile, Bourbon Concierge matches, Precision Match quiz"
+      offers={offers}
+    />
+    <BreadcrumbSchema crumbs={[{ name: 'Bourbon Inventory App', url: pageUrl }]} />
+    <script type="application/ld+json" set:html={JSON.stringify(webPageSchema)} />
     <link rel="apple-touch-icon" href="/icon.png" />
   </Fragment>
 
-  <p class="brand">{SITE.name}</p>
-  <h1>The bourbon inventory app for serious collectors</h1>
-  <p class="effective">Scan a label, add the bottle, and always know what's in your cellar, and what it's worth.</p>
+  <p class="brand">Bourbon inventory app for iPhone</p>
+  <h1>The bourbon app I built to keep track of my own shelf</h1>
 
   <QuickAnswer text={quickAnswer} />
 
   <a class="hero-cta" href={SITE.appStoreUrl}>
-    Download on the App Store
+    Get it free on the App Store
     <span aria-hidden="true">&nbsp;&rarr;</span>
   </a>
-  <p class="hero-trust">For adults 21+ &middot; No ads &middot; Your collection stays yours</p>
+  <p class="hero-trust">iPhone &middot; Free to start &middot; Cask Club $2.99/month or $24.99/year &middot; 21+</p>
 
-  <section class="qa">
-    <div class="feature-row-copy">
-      <h2>Why use an app to track your bourbon collection?</h2>
-      <p>A growing bourbon collection quickly outgrows a spreadsheet or a notes file. You forget which bottles are open, buy a duplicate you already own, or lose track of what a rare pour is now worth. A dedicated bourbon inventory app keeps every bottle in one place, searchable, valued, and backed up to your account.</p>
-      <p>Pour Picks was built for exactly this. Instead of typing out each bottle, you scan the label and the app fills in the distillery, expression, and proof for you. It is the difference between a chore you stop doing and a cellar you actually keep current.</p>
+  <section class="inv-section">
+    <h2>How much does Pour Picks cost?</h2>
+    <div id="pricing-answer">
+      <p>Pour Picks is free to download, and the free version doesn't expire. Cask Club is the paid tier: $2.99 a month or $24.99 a year, billed and renewed through the App Store. The yearly plan comes to about $2.08 a month, so if you searched for a whiskey inventory app under $5 a month, either plan fits.</p>
+      <p>Cask Club adds unlimited scans and Precision Match. It also opens the Wishlist and Finished shelves and takes the cap off Owned, and that's the whole list. Reviews and pairings are free, and so are Bourbon DNA and the Concierge.</p>
     </div>
-  </section>
-
-  <section class="qa">
-    <div class="feature-row-copy">
-      <h2>How do you add bottles to your cellar?</h2>
-      <p>Point your iPhone camera at the front label. The Pour Concierge scanner uses Claude Vision to identify the distillery, expression, and proof, then matches against a catalog of thousands of American whiskeys, usually in under a second. No manual data entry for the common case.</p>
-      <p>When a bottle is missing or the scan isn't right, you can describe it in words for a second pass, search the catalog by name, or suggest a new bottle to be added. An undo snackbar gives you 4.5 seconds to reverse any add, so mistakes never stick.</p>
-    </div>
-  </section>
-
-  <section class="qa">
-    <div class="feature-row-copy">
-      <h2>Can it track how much my collection is worth?</h2>
-      <p>Yes, collection value updates with every bottle you add. Pour Picks uses catalog MSRP as the default price and lets you override it with what you actually paid. You get per-bottle and per-line totals, plus quantity steppers for the bottles you own in multiples.</p>
-      <p>Mark each bottle Owned, Wishlist, or Finished, and the running total reflects only what's actually resting in your cellar. It's a real number for insurance, resale decisions, or just knowing where your hobby budget went.</p>
-    </div>
-  </section>
-
-  <section class="qa">
-    <div class="feature-row-copy">
-      <h2>Does it remember your tasting notes?</h2>
-      <p>Every pour can be logged with an overall rating, separate nose, palate, and finish ratings, how you served it (neat, rocks, water, or cocktail), pour size, and freeform notes. Edit and revisit any entry later, so your tasting history grows alongside your inventory.</p>
-      <p>A "Pour Tonight" feature reads your actual cellar and suggests a specific bottle to open tonight, based on what you've poured recently, your ratings, and the season, a recommendation from what you already own, not a prompt to buy more.</p>
-    </div>
-  </section>
-
-  <section class="qa">
-    <div class="feature-row-copy">
-      <h2>Pour Picks vs. a spreadsheet</h2>
-      <table class="compare">
+    <div class="table-scroll" role="region" aria-label="Free and Cask Club compared" tabindex="0">
+      <table class="tiers">
         <thead>
-          <tr><th>Task</th><th>Spreadsheet</th><th>Pour Picks</th></tr>
+          <tr><th scope="col">Feature</th><th scope="col">Free</th><th scope="col">Cask Club</th></tr>
         </thead>
         <tbody>
-          <tr><td>Add a bottle</td><td>Type every field by hand</td><td>Scan the label, done in ~1 second</td></tr>
-          <tr><td>Collection value</td><td>Manual formulas, stale prices</td><td>Live MSRP with paid-price override</td></tr>
-          <tr><td>Tasting notes</td><td>Separate doc, rarely updated</td><td>Per-pour journal tied to each bottle</td></tr>
-          <tr><td>What to pour tonight</td><td>You decide from memory</td><td>"Pour Tonight" picks from your cellar</td></tr>
-          <tr><td>On your phone</td><td>Clunky on mobile</td><td>Native iOS, camera-first</td></tr>
+          <tr><th scope="row">Label scans</th><td>5 total</td><td>Unlimited</td></tr>
+          <tr><th scope="row">Owned shelf</th><td>Up to 5 bottles</td><td>No limit</td></tr>
+          <tr><th scope="row">Wishlist and Finished shelves</th><td>No</td><td>Yes</td></tr>
+          <tr><th scope="row">Reviews (nose, palate, finish, rating)</th><td>Yes</td><td>Yes</td></tr>
+          <tr><th scope="row">Food pairings on bottle pages</th><td>Yes</td><td>Yes</td></tr>
+          <tr><th scope="row">Bourbon DNA palate profile</th><td>Yes</td><td>Yes</td></tr>
+          <tr><th scope="row">Bourbon Concierge (10 closest matches)</th><td>Yes</td><td>Yes</td></tr>
+          <tr><th scope="row">Precision Match quiz</th><td>No</td><td>Yes</td></tr>
+          <tr><th scope="row">Price</th><td>$0</td><td>$2.99/month or $24.99/year</td></tr>
         </tbody>
       </table>
     </div>
   </section>
 
+  <section class="inv-section">
+    <h2>Can I scan a barcode to add a bottle?</h2>
+    <div id="barcode-answer">
+      <p>No. Pour Picks has no barcode scanner. You point your iPhone at the front label and take a photo. The app reads the label and matches it to a bottle in the catalog, then it goes on your shelf. Free accounts get 5 scans in total and Cask Club scans are unlimited, and you never have to turn a bottle around to hunt for a barcode.</p>
+    </div>
+    <p>If a barcode scanner is the one thing you need, OnlyDrams has one. Its listing says it shows you what you should be paying while you're standing in the store.</p>
+  </section>
+
+  <section class="inv-section">
+    <h2>What does Pour Picks keep track of?</h2>
+    <p>Bottles go on shelves. Everyone gets the Owned shelf, which holds 5 bottles on the free version and as many as you like on Cask Club. Cask Club also adds Wishlist (the bottles you're hunting) and Finished (the ones you've emptied).</p>
+    <p>Every bottle in your cellar has a price. It starts at the catalog's list price, and you can type in what you actually paid. If you own two of something it counts twice, and the total sits at the top of the cellar. The app doesn't pull auction or secondary-market prices. For that, Bourboneur and OnlyDrams both do a lot more.</p>
+    <p>Reviews are free. Each one has notes on the nose, palate and finish plus an overall rating. It stays with the bottle so you can find it the next time you pour.</p>
+  </section>
+
+  <section class="inv-section">
+    <h2>Can it help me find a bourbon I'll like?</h2>
+    <p>There are three ways in. Bourbon DNA gives you a palate profile. The Bourbon Concierge takes one bottle you love and returns its 10 closest matches. Both are free. Precision Match is part of Cask Club: a 10-question quiz that gives you your top 10 bottles with a reason next to each one.</p>
+    <p>You can also browse by distillery or by char level, and every bottle page lists food pairings.</p>
+  </section>
+
+  <section class="inv-section">
+    <h2>How does Pour Picks compare with OnlyDrams, BarrelBook and Bourboneur?</h2>
+    <p>I read each app's App Store listing and website on {checkedOn}. Prices and features change, so check the listing before you pay for anything. Where a cell says "not listed", I looked for that detail on the app's listing and its own site and couldn't find it.</p>
+    <div class="table-scroll" role="region" aria-label="Bourbon collection apps compared" tabindex="0">
+      <table class="compare">
+        <thead>
+          <tr>
+            <th scope="col"></th>
+            <th scope="col" class="is-us">Pour Picks</th>
+            <th scope="col">OnlyDrams</th>
+            <th scope="col">BarrelBook</th>
+            <th scope="col">Bourboneur</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <th scope="row">Runs on</th>
+            <td class="is-us">iPhone</td>
+            <td>iPhone, iPad, Android</td>
+            <td>iPhone, iPad</td>
+            <td>iPhone, iPad, Apple silicon Mac</td>
+          </tr>
+          <tr>
+            <th scope="row">Price</th>
+            <td class="is-us">Free, or $2.99/month or $24.99/year</td>
+            <td>Free; Elite in-app purchase listed at $4.99 and $49.90 (billing period not listed)</td>
+            <td>Free tier, then a one-time $7.99</td>
+            <td>Free, or $2.99/month or $24.99/year</td>
+          </tr>
+          <tr>
+            <th scope="row">Free tier limits</th>
+            <td class="is-us">5 scans, 5 owned bottles</td>
+            <td>Not listed</td>
+            <td>5 bottles, 2 tastings</td>
+            <td>Not listed</td>
+          </tr>
+          <tr>
+            <th scope="row">Barcode scanning</th>
+            <td class="is-us">No</td>
+            <td>Yes</td>
+            <td>Not listed</td>
+            <td>Not listed</td>
+          </tr>
+          <tr>
+            <th scope="row">Label photo scanning</th>
+            <td class="is-us">Yes</td>
+            <td>Not listed</td>
+            <td>Yes (beta)</td>
+            <td>Not listed</td>
+          </tr>
+          <tr>
+            <th scope="row">Tasting notes</th>
+            <td class="is-us">Nose, palate, finish, rating</td>
+            <td>Share what you're drinking with the community</td>
+            <td>Nose, palate, finish, 1-10 rating, flavor wheel</td>
+            <td>Pours and tasting notes</td>
+          </tr>
+          <tr>
+            <th scope="row">Prices</th>
+            <td class="is-us">List price or what you paid, cellar total</td>
+            <td>Real-time pricing from many sources</td>
+            <td>Collection value, optional secondary-market value</td>
+            <td>Bourbon Blue Book fair-market prices, secondary market index</td>
+          </tr>
+          <tr>
+            <th scope="row">Recommendations</th>
+            <td class="is-us">Bourbon DNA, Concierge, Precision Match</td>
+            <td>Pour picker from your collection</td>
+            <td>Replacements for finished bottles</td>
+            <td>Wheel of Destiny, Flavor Explorer</td>
+          </tr>
+          <tr>
+            <th scope="row">App Store rating</th>
+            <td class="is-us">5.0 (13 ratings)</td>
+            <td>4.9 (10K ratings)</td>
+            <td>5.0 (2 ratings)</td>
+            <td>2.0 (121 ratings)</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <p class="sources">Sources, read {checkedOn}: <a href={SITE.appStoreUrl}>Pour Picks listing</a>
+      {sources.map((s) => (
+        <>; <a href={s.listing} rel="nofollow">{s.name} listing</a>{s.site && <>, <a href={s.site} rel="nofollow">{s.name} site</a></>}</>
+      ))}.
+    </p>
+    <p>Each of the other three does something better. OnlyDrams has by far the most ratings and runs on Android, and its barcode scanner and live pricing are made for checking a bottle in a store. BarrelBook costs a one-time $7.99 and works on iPad with iCloud sync. It also tracks infinity bottles. Bourboneur is built around what bottles sell for on the secondary market.</p>
+    <p>Pour Picks is the one built around the label photo and around matching: Bourbon DNA, the Concierge and Precision Match all point you at bottles you haven't tried yet.</p>
+  </section>
+
+  <section class="inv-section">
+    <h2>Who makes Pour Picks?</h2>
+    <p>I'm Bob Guillow. I built Pour Picks because my shelf outgrew the spreadsheet I kept it in, and it's still just me. If something in the app is wrong, email <a href={`mailto:${SITE.supportEmail}`}>{SITE.supportEmail}</a>. More on the <a href="/about">about page</a>, and every feature is on the <a href="/features">features page</a>.</p>
+  </section>
+
   <div class="cta-row">
-    <a class="cta" href={SITE.appStoreUrl}>Download on iOS</a>
+    <a class="cta" href={SITE.appStoreUrl}>Download Pour Picks for iPhone</a>
   </div>
 
-  <p class="features-link"><a href="/features">See every feature &rarr;</a></p>
-
-  <FAQ faqs={faqs} heading="Bourbon inventory app: common questions" />
+  <FAQ faqs={faqs} heading="Questions people ask before installing" />
 
   <Footer />
 </BaseLayout>
 
 <style>
+  .inv-section { margin: 56px 0 0; }
+  .inv-section h2 { margin: 0 0 14px; }
+  .inv-section p { max-width: 40em; }
+  .sources { font-size: 14px; color: var(--muted); }
+  .sources a { overflow-wrap: anywhere; }
+
+  /* Tables scroll inside their own box on narrow screens so the page itself
+     never scrolls sideways at 375px. */
+  .table-scroll {
+    width: 100%;
+    max-width: 100%;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    margin: 20px 0 16px;
+  }
+  .tiers,
   .compare {
     width: 100%;
     border-collapse: collapse;
-    margin-top: 1.25rem;
-    font-size: 0.95rem;
+    font-size: 15px;
+    line-height: 1.45;
   }
+  .compare { min-width: 680px; }
+  .tiers th,
+  .tiers td,
   .compare th,
   .compare td {
     text-align: left;
-    padding: 0.65rem 0.85rem;
+    padding: 10px 12px;
     border-bottom: 1px solid var(--line);
     vertical-align: top;
   }
+  .tiers thead th,
   .compare thead th {
     border-bottom: 2px solid var(--line-strong);
-    font-family: 'Saira Condensed', 'Arial Narrow', sans-serif;
+    font-family: 'Outfit', -apple-system, BlinkMacSystemFont, sans-serif;
     font-weight: 700;
-    font-size: 0.82rem;
-    letter-spacing: 1px;
+    font-size: 12px;
+    letter-spacing: 1.5px;
     text-transform: uppercase;
     color: var(--muted);
   }
-  /* The Pour Picks column is the answer: brass header, bone-bright cells; the
-     spreadsheet column reads muted so the contrast does the arguing. */
-  .compare thead th:last-child { color: var(--brass-bright); }
-  .compare td:first-child { font-weight: 600; color: var(--text); }
-  .compare tbody td:nth-child(2) { color: var(--muted); }
-  .compare tbody td:last-child { color: var(--text); }
+  .tiers tbody th,
+  .compare tbody th {
+    font-weight: 600;
+    color: var(--text);
+  }
+  .tiers td,
+  .compare td { color: var(--muted); }
+  .compare .is-us { color: var(--text); }
+  .compare thead .is-us,
+  .tiers thead th:last-child { color: var(--brass-bright); }
+
+  @media (max-width: 560px) {
+    .tiers,
+    .compare { font-size: 14px; }
+    .tiers th,
+    .tiers td { padding: 9px 8px; }
+  }
 </style>

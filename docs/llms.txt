@@ -9,6 +9,7 @@
 
 ## Site
 - [Home](https://pourpicks.app/): app overview, features, FAQ
+- [Bourbon Inventory App](https://pourpicks.app/bourbon-inventory-app): what the iPhone app does, pricing (free, or Cask Club at $2.99/month or $24.99/year), how label-photo scanning works (no barcode scanner), and a comparison with OnlyDrams, BarrelBook and Bourboneur
 - [About](https://pourpicks.app/about): who runs Pour Picks, editorial standards, what the app is and is not
 - [Articles](https://pourpicks.app/articles): guides for bourbon collectors (storage, oxidation, valuation, identification)
 - [Support](https://pourpicks.app/support): account deletion, subscription cancellation, scanner tips
