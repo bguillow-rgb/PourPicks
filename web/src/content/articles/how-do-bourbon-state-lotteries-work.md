@@ -14,10 +14,10 @@ quickAnswer: "Bourbon state lotteries are retailer- or state-run drawings that g
 publishedAt: "2026-09-16"
 author: "Pour Picks"
 relatedSlugs:
+  - "how-to-get-on-a-bourbon-allocation-list"
   - "how-to-spot-a-fake-bourbon-bottle"
   - "how-annual-bourbon-releases-work"
   - "how-does-the-kentucky-bourbon-trail-work"
-  - "how-to-trade-bourbon-bottles"
 faqs:
   - q: "Do I have to pay to enter a bourbon lottery?"
     a: "No. Legitimate bourbon lotteries, whether run by state liquor boards, retail chains, or independent stores, are free to enter. You never pay until you've won and are purchasing the bottle."
