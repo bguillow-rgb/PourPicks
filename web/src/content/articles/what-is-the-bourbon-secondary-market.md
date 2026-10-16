@@ -14,10 +14,10 @@ quickAnswer: "The bourbon secondary market is the informal resale scene where co
 publishedAt: "2026-07-06"
 author: "Pour Picks"
 relatedSlugs:
+  - "how-do-bourbon-tariffs-affect-collectors"
   - "how-to-value-a-bourbon-collection"
   - "how-to-photograph-bourbon-bottles"
   - "what-is-allocated-bourbon"
-  - "what-is-the-bourbon-glut"
 faqs:
   - q: "Is buying bourbon on the secondary market legal?"
     a: "It depends on your state. Selling spirits without a license is illegal in most of the U.S., which puts many peer-to-peer secondary trades in a legal gray area. Licensed auction platforms operating in compliant states are the safest route. Always check your local regulations before buying or selling."

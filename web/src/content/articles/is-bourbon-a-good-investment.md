@@ -15,9 +15,9 @@ publishedAt: "2026-07-26"
 author: "Pour Picks"
 relatedSlugs:
   - "how-to-value-a-bourbon-collection"
+  - "how-do-bourbon-tariffs-affect-collectors"
   - "how-to-photograph-bourbon-bottles"
   - "how-to-spot-a-fake-bourbon-bottle"
-  - "should-you-open-or-keep-bourbon-sealed"
 faqs:
   - q: "Does bourbon increase in value over time?"
     a: "Some bottles do, particularly ultra-aged, cask-strength, and genuinely limited expressions. But the broad secondary market has corrected roughly 9% from its 2021 peak, and mid-tier allocated bottles have lost most of their speculative premium."

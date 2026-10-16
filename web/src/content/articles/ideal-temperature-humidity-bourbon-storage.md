@@ -17,7 +17,7 @@ relatedSlugs:
   - "how-to-start-a-bourbon-cellar"
   - "how-to-store-bourbon"
   - "what-is-a-bourbon-library"
-  - "how-to-build-a-bourbon-rotation"
+  - "how-do-bourbon-tariffs-affect-collectors"
 faqs:
   - q: "What is the ideal temperature for storing bourbon?"
     a: "Most collectors and storage specialists target 55, 65°F. Consistency is more important than hitting a specific number, a room that holds steady at 62°F is better for your collection than one that swings between 55°F and 75°F throughout the day or season."
