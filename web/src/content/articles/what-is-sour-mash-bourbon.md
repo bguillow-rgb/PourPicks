@@ -17,7 +17,7 @@ relatedSlugs:
   - "what-is-sweet-mash-bourbon"
   - "how-to-choose-a-bourbon-by-mash-bill"
   - "what-does-bourbon-taste-like"
-  - "what-is-bourbon-barrel-char-level"
+  - "what-is-a-high-corn-bourbon"
 faqs:
   - q: "Does sour mash bourbon taste sour?"
     a: "No. The word 'sour' refers to the acidic pH of the backset, not to any flavor in the finished whiskey. A sour mash bourbon tastes like bourbon, sweet, oaky, and spiced, not vinegary or tart."

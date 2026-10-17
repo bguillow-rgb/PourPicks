@@ -15,9 +15,9 @@ publishedAt: "2026-08-27"
 author: "Pour Picks"
 relatedSlugs:
   - "does-bourbon-have-terroir"
+  - "what-is-a-high-corn-bourbon"
   - "how-to-choose-a-bourbon-by-mash-bill"
   - "how-to-read-a-bourbon-label"
-  - "what-does-bourbon-taste-like"
 faqs:
   - q: "Does heirloom grain bourbon taste noticeably different from standard bourbon?"
     a: "Yes, though the degree depends on the grain and where it sits in the mash bill. Heritage grains preserved more complex secondary compounds, oils, proteins, sugars, that modern monoculture bred out in favor of yield. The result can be nuttier, creamier, or more floral than a commodity-grain equivalent aged identically."

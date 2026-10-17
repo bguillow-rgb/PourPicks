@@ -14,10 +14,10 @@ quickAnswer: "Your mash bill choice determines bourbon's flavor foundation befor
 publishedAt: "2026-10-11"
 author: "Pour Picks"
 relatedSlugs:
+  - "what-is-a-high-corn-bourbon"
   - "what-does-bourbon-taste-like"
   - "what-is-mash-bill"
   - "wheated-bourbon-vs-high-rye-bourbon"
-  - "what-is-bourbon-barrel-char-level"
 faqs:
   - q: "Does mash bill matter more than age when choosing a bourbon?"
     a: "Both matter, but mash bill sets the flavor direction that aging then amplifies. A wheated mash bill stays soft and sweet even at 12+ years; a high-rye mash bill grows spicier and more complex with age. If you consistently dislike a flavor profile, too spicy, too round, mash bill is the faster fix than chasing a different age statement."
