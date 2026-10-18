@@ -16,8 +16,8 @@ author: "Pour Picks"
 relatedSlugs:
   - "what-is-mizunara-oak-bourbon"
   - "what-is-stave-finished-bourbon"
+  - "what-is-tequila-barrel-finished-bourbon"
   - "how-to-read-four-roses-recipe-code"
-  - "single-barrel-vs-small-batch-bourbon"
 faqs:
   - q: "Does double oaking a bourbon change its legal classification?"
     a: "No. As long as the second barrel is a new, charred oak container, the spirit retains its bourbon designation under TTB regulations. Using a used barrel (port, sherry, wine) would reclassify it as a 'finished' whiskey and strip the bourbon label."

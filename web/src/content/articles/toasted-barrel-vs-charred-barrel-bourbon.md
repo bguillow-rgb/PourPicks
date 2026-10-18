@@ -17,7 +17,7 @@ relatedSlugs:
   - "what-is-stave-finished-bourbon"
   - "what-is-double-oaked-bourbon"
   - "what-is-mizunara-oak-bourbon"
-  - "how-to-read-four-roses-recipe-code"
+  - "what-is-tequila-barrel-finished-bourbon"
 faqs:
   - q: "Is toasting required to make bourbon?"
     a: "No. By law, bourbon must be aged in a new charred oak barrel. Toasting is not a legal requirement. It appears most commonly as a secondary finishing technique, applied via staves or a secondary vessel after primary maturation."
