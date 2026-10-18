@@ -36,7 +36,7 @@ faqs:
   - q: "Why not just use a spreadsheet?"
     a: "A spreadsheet works for the first 10 to 15 bottles. After that, the effort of opening it, finding the row and typing notes is high enough that most people stop. Once it's months out of date it can't answer the only question that matters, which is what you actually have open. Apps survive past that point because they cut the typing."
   - q: "Are bourbon apps worth paying for?"
-    a: "Only if you hit the free tier's limit in a way that bothers you. For Pour Picks, that's a sixth owned bottle or a sixth scan; the Cask Club membership is $2.99 a month or $24.99 a year. If your shelf is small and you don't mind typing entries in, a free app with no bottle cap will do."
+    a: "Only if you hit the free tier's limit in a way that bothers you. For Pour Picks, that's a sixth owned bottle or a sixth scan; the Cask Club membership is $5.99 a month or $49.99 a year. If your shelf is small and you don't mind typing entries in, a free app with no bottle cap will do."
 published: true
 ---
 
@@ -128,7 +128,7 @@ You add bottles by pointing the camera at the label. The AI reads it and you fix
 
 **Not the right answer for:** reading community reviews before you buy (there's no review feed), Android users, or a big collection on a free plan.
 
-**Where the free tier stops, plainly:** free accounts hold five owned bottles and get five label scans. Viewing your wishlist and finished bottles is part of the paid tier too. Cask Club, the paid membership, removes those limits. It also adds the advanced quiz and food pairings on every bottle, plus a tasting journal you can export to CSV. It costs $2.99 a month or $24.99 a year. If your shelf has more than five bottles, and it probably does if you're reading this, you'll hit the cap quickly.
+**Where the free tier stops, plainly:** free accounts hold five owned bottles and get five label scans. Viewing your wishlist and finished bottles is part of the paid tier too. Cask Club, the paid membership, removes those limits. It also adds the advanced quiz and food pairings on every bottle, plus a tasting journal you can export to CSV. It costs $5.99 a month or $49.99 a year. If your shelf has more than five bottles, and it probably does if you're reading this, you'll hit the cap quickly.
 
 ## What about the spreadsheet?
 

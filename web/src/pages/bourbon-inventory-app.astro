@@ -21,7 +21,7 @@ const quickAnswer =
   'Pour Picks is an iPhone app for tracking a bourbon collection. Take a ' +
   'photo of the front label and it identifies the bottle and adds it to your ' +
   'shelf with a price. The free version gives you 5 scans and 5 owned ' +
-  'bottles. Cask Club is $2.99 a month or $24.99 a year and lifts both limits.';
+  'bottles. Cask Club is $5.99 a month or $49.99 a year and lifts both limits.';
 
 const offers = [
   {
@@ -34,11 +34,11 @@ const offers = [
   {
     '@type': 'Offer',
     name: 'Cask Club (monthly)',
-    price: '2.99',
+    price: '5.99',
     priceCurrency: 'USD',
     priceSpecification: {
       '@type': 'UnitPriceSpecification',
-      price: '2.99',
+      price: '5.99',
       priceCurrency: 'USD',
       billingDuration: 'P1M',
       unitCode: 'MON',
@@ -47,11 +47,11 @@ const offers = [
   {
     '@type': 'Offer',
     name: 'Cask Club (yearly)',
-    price: '24.99',
+    price: '49.99',
     priceCurrency: 'USD',
     priceSpecification: {
       '@type': 'UnitPriceSpecification',
-      price: '24.99',
+      price: '49.99',
       priceCurrency: 'USD',
       billingDuration: 'P1Y',
       unitCode: 'ANN',
@@ -91,7 +91,7 @@ const faqs = [
   },
   {
     q: 'Is there a whiskey inventory app under $5 a month?',
-    a: 'Yes. Cask Club, the paid tier of Pour Picks, is $2.99 a month or $24.99 a year. Both are billed through the App Store, and the yearly plan works out to about $2.08 a month.',
+    a: 'Yes. Cask Club, the paid tier of Pour Picks, is $5.99 a month or $49.99 a year. Both are billed through the App Store, and the yearly plan works out to about $4.17 a month.',
   },
   {
     q: 'What do I get with Cask Club?',
@@ -113,7 +113,7 @@ const faqs = [
 ---
 <BaseLayout
   title="Bourbon Inventory App: Track Your Collection"
-  description="Pour Picks is a bourbon inventory app for iPhone. Photograph a label to add the bottle, see what your shelf is worth, and log reviews. Free, or $2.99 a month."
+  description="Pour Picks is a bourbon inventory app for iPhone. Photograph a label to add the bottle, see what your shelf is worth, and log reviews. Free, or $49.99 a year."
   path="/bourbon-inventory-app"
 >
   <Fragment slot="head">
@@ -135,12 +135,12 @@ const faqs = [
     Get it free on the App Store
     <span aria-hidden="true">&nbsp;&rarr;</span>
   </a>
-  <p class="hero-trust">iPhone &middot; Free to start &middot; Cask Club $2.99/month or $24.99/year &middot; 21+</p>
+  <p class="hero-trust">iPhone &middot; Free to start &middot; Cask Club $5.99/month or $49.99/year &middot; 21+</p>
 
   <section class="inv-section">
     <h2>How much does Pour Picks cost?</h2>
     <div id="pricing-answer">
-      <p>Pour Picks is free to download, and the free version doesn't expire. Cask Club is the paid tier: $2.99 a month or $24.99 a year, billed and renewed through the App Store. The yearly plan comes to about $2.08 a month, so if you searched for a whiskey inventory app under $5 a month, either plan fits.</p>
+      <p>Pour Picks is free to download, and the free version doesn't expire. Cask Club is the paid tier: $5.99 a month or $49.99 a year, billed and renewed through the App Store. The yearly plan comes to about $4.17 a month, so if you searched for a whiskey inventory app under $5 a month, the yearly plan fits.</p>
       <p>Cask Club adds unlimited scans and Precision Match. It also opens the Wishlist and Finished shelves and takes the cap off Owned, and that's the whole list. Reviews and pairings are free, and so are Bourbon DNA and the Concierge.</p>
     </div>
     <div class="table-scroll" role="region" aria-label="Free and Cask Club compared" tabindex="0">
@@ -157,7 +157,7 @@ const faqs = [
           <tr><th scope="row">Bourbon DNA palate profile</th><td>Yes</td><td>Yes</td></tr>
           <tr><th scope="row">Bourbon Concierge (10 closest matches)</th><td>Yes</td><td>Yes</td></tr>
           <tr><th scope="row">Precision Match quiz</th><td>No</td><td>Yes</td></tr>
-          <tr><th scope="row">Price</th><td>$0</td><td>$2.99/month or $24.99/year</td></tr>
+          <tr><th scope="row">Price</th><td>$0</td><td>$5.99/month or $49.99/year</td></tr>
         </tbody>
       </table>
     </div>
@@ -208,7 +208,7 @@ const faqs = [
           </tr>
           <tr>
             <th scope="row">Price</th>
-            <td class="is-us">Free, or $2.99/month or $24.99/year</td>
+            <td class="is-us">Free, or $5.99/month or $49.99/year</td>
             <td>Free; Elite in-app purchase listed at $4.99 and $49.90 (billing period not listed)</td>
             <td>Free tier, then a one-time $7.99</td>
             <td>Free, or $2.99/month or $24.99/year</td>
