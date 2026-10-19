@@ -18,8 +18,8 @@ import { SITE } from '../consts';
 // this page only ever shows for people without the app installed.
 ---
 <BaseLayout
-  title="Page Not Found"
-  description="That page does not exist on pourpicks.app."
+  title="Pour Picks"
+  description="Pour Picks is a bourbon cellar app for iPhone. Scan your bottles, find your next pour, and run blind tastings with friends."
   path="/404"
   noindex={true}
 >
@@ -41,7 +41,7 @@ import { SITE } from '../consts';
     <p class="brand">{SITE.name}</p>
     <p class="eyebrow">YOU'RE INVITED</p>
     <h1>Join the tasting</h1>
-    <p class="effective" id="invite-line">Opening Pour Picks&hellip;</p>
+    <p class="effective" id="invite-line">Tastings run in the free Pour Picks app for iPhone.</p>
 
     <p>
       <a
@@ -53,9 +53,10 @@ import { SITE } from '../consts';
     </p>
 
     <p class="hint">
-      Already have the app? <a href="#" id="open-app-again">Open it</a>.<br />
-      Or open Pour Picks, tap <strong>Join a tasting</strong>, and enter code
-      <strong id="invite-code"></strong>.
+      Once it's installed, come back to your invite message and tap the link
+      again. It opens straight to the tasting.<br />
+      Already have the app? <a href="#" id="open-app-again">Open the tasting</a>.<br />
+      Invite code: <strong id="invite-code"></strong>
     </p>
   </div>
 
@@ -93,11 +94,11 @@ import { SITE } from '../consts';
 
     const deepLink = `pourpicks://t/${encodeURIComponent(code)}`;
 
-    // Try to open the app. The scheme handler succeeds silently when the app
-    // is installed; otherwise the browser does nothing and the CTA remains.
-    setTimeout(() => {
-      window.location.href = deepLink;
-    }, 100);
+    // No automatic scheme redirect: without the app installed, Safari answers
+    // pourpicks:// with an "address is invalid" alert over this page. People
+    // with the app never land here (universal links open it directly), so the
+    // explicit link below covers the rest. The page title stays brand-only
+    // because it's what iMessage shows in the invite's link preview.
 
     const retry = document.getElementById('open-app-again');
     if (retry) {
