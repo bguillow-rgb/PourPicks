@@ -126,7 +126,7 @@ It depends heavily on which bottles you hold. Heritage and limited-release BiB e
 
 According to auction data tracked by Bottle Blue Book, a Michter's Bourbon 10-Year Single Barrel sold for $260 and an Elmer T. Lee Commemorative Edition sold for $710 at auction in mid-June 2026, illustrating the premium that clearly provenanced, age-stated American whiskey commands. For BiB specifically, the defined production record (single season, single distillery, bonded warehouse) gives appraisers and auction platforms a reliable paper trail.
 
-The key factor is rarity within the category. Everyday BiB bottles like Evan Williams stay near retail because they are widely distributed. Limited-release BiB decanters and bonded expressions from shuttered or low-output distilleries are a different story. If you are actively [tracking your bourbon collection's value](https://pourpicks.app/how-to-value-a-bourbon-collection), logging the distilling season and DSP (Distilled Spirits Plant) number from a BiB label gives you stronger provenance documentation than a standard commercial release provides.
+The key factor is rarity within the category. Everyday BiB bottles like Evan Williams stay near retail because they are widely distributed. Limited-release BiB decanters and bonded expressions from shuttered or low-output distilleries are a different story. If you are actively [tracking your bourbon collection's value](https://pourpicks.app/articles/how-to-value-a-bourbon-collection), logging the distilling season and DSP (Distilled Spirits Plant) number from a BiB label gives you stronger provenance documentation than a standard commercial release provides.
 
 ---
 
