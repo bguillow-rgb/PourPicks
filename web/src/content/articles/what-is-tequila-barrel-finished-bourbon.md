@@ -14,10 +14,10 @@ quickAnswer: "Tequila barrel finished bourbon is a fully matured bourbon that ha
 publishedAt: "2026-10-18"
 author: "Pour Picks"
 relatedSlugs:
+  - "what-is-port-barrel-finished-bourbon"
   - "what-is-double-oaked-bourbon"
   - "what-is-mizunara-oak-bourbon"
   - "full-proof-vs-barrel-proof-vs-cask-strength-bourbon"
-  - "how-to-read-four-roses-recipe-code"
 faqs:
   - q: "Is tequila barrel finished bourbon still technically bourbon?"
     a: "Not in the strictest legal sense. Once a fully matured bourbon is moved into a secondary cask, including a used tequila barrel, the TTB requires the label to reflect that change. The result is typically designated 'bourbon finished in tequila barrels' or 'whiskey specialty,' not straight bourbon. The base spirit started as bourbon; the finish triggers a reclassification."

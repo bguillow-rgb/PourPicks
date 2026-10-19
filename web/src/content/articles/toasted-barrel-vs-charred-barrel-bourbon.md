@@ -14,10 +14,10 @@ quickAnswer: "Charring is legally required for bourbon, it exposes the barrel's 
 publishedAt: "2026-08-28"
 author: "Pour Picks"
 relatedSlugs:
+  - "what-is-port-barrel-finished-bourbon"
   - "what-is-stave-finished-bourbon"
   - "what-is-double-oaked-bourbon"
   - "what-is-mizunara-oak-bourbon"
-  - "what-is-tequila-barrel-finished-bourbon"
 faqs:
   - q: "Is toasting required to make bourbon?"
     a: "No. By law, bourbon must be aged in a new charred oak barrel. Toasting is not a legal requirement. It appears most commonly as a secondary finishing technique, applied via staves or a secondary vessel after primary maturation."

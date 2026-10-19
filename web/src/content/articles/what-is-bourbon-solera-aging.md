@@ -15,9 +15,9 @@ publishedAt: "2026-10-07"
 author: "Pour Picks"
 relatedSlugs:
   - "how-long-is-bourbon-aged"
+  - "what-is-port-barrel-finished-bourbon"
   - "how-to-read-a-bourbon-label"
   - "what-is-stave-finished-bourbon"
-  - "what-is-the-kentucky-bourbon-barrel-tax"
 faqs:
   - q: "Is solera-aged bourbon older than its stated age?"
     a: "Not necessarily older, it's a blend of ages. Because the barrel is never fully emptied, some molecules of early-fill spirit remain indefinitely. However, TTB regulations require age statements to reflect the youngest whiskey in the blend, so a solera bourbon's label age can significantly understate the average age of liquid in the barrel."

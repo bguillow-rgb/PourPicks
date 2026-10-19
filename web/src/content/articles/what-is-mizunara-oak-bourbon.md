@@ -15,9 +15,9 @@ publishedAt: "2026-10-13"
 author: "Pour Picks"
 relatedSlugs:
   - "what-is-double-oaked-bourbon"
+  - "what-is-port-barrel-finished-bourbon"
   - "what-is-stave-finished-bourbon"
   - "what-is-tequila-barrel-finished-bourbon"
-  - "toasted-barrel-vs-charred-barrel-bourbon"
 faqs:
   - q: "Is mizunara-finished bourbon still legally bourbon?"
     a: "Yes. The bourbon is first aged in new charred oak as required by law. The secondary mizunara finish happens after that legal requirement is met. The resulting bottle is labeled as straight bourbon with a finish designation, it meets all federal standards of identity for bourbon."
