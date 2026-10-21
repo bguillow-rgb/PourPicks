@@ -14,10 +14,10 @@ quickAnswer: "The angel's share is the bourbon lost to evaporation while a barre
 publishedAt: "2026-07-13"
 author: "Pour Picks"
 relatedSlugs:
+  - "what-is-the-devils-cut-bourbon"
   - "does-bourbon-have-terroir"
   - "how-rickhouse-floor-position-affects-bourbon-flavor"
   - "what-is-bourbon-barrel-char-level"
-  - "what-is-port-barrel-finished-bourbon"
 faqs:
   - q: "What is the angel's share in bourbon?"
     a: "The angel's share is the portion of bourbon that evaporates through the barrel staves into the surrounding air during aging. In Kentucky, distillers typically lose 3 to 5% of a barrel's volume per year due to the state's warm summers and temperature swings."
