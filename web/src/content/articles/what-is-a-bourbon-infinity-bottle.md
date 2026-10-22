@@ -14,10 +14,10 @@ quickAnswer: "A bourbon infinity bottle is a personal home-blended bottle you bu
 publishedAt: "2026-10-20"
 author: "Pour Picks"
 relatedSlugs:
+  - "what-is-white-dog-whiskey"
   - "how-to-get-on-a-bourbon-allocation-list"
   - "how-to-start-a-bourbon-tasting-club"
   - "how-to-trade-bourbon-bottles"
-  - "should-you-open-or-keep-bourbon-sealed"
 faqs:
   - q: "Can I mix different whiskey styles in one infinity bottle?"
     a: "You can, but most collectors keep one style per bottle, all bourbon, all rye, or all Scotch, so dominant flavors (peat, heavy spice) don't hijack the blend. If you want to experiment with mixed styles, start a separate test bottle first."
