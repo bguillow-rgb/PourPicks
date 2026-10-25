@@ -14,10 +14,10 @@ quickAnswer: "The safest bourbon gift for a collector is a bottle they want but 
 publishedAt: "2026-08-06"
 author: "Pour Picks"
 relatedSlugs:
+  - "how-to-buy-bourbon-direct-from-a-distillery"
   - "how-to-do-a-bourbon-barrel-pick"
   - "bourbon-age-statement-vs-nas"
   - "how-do-bourbon-tariffs-affect-collectors"
-  - "how-to-build-a-bourbon-flight"
 faqs:
   - q: "Is Pappy Van Winkle a good gift for a bourbon collector?"
     a: "Only if you can get it at or near retail price through a legitimate source. Paying secondary-market premiums (often 5, 10× retail) for a bottle the recipient may already own, or may prefer not to receive at that cost, is usually a poor use of money. A thoughtful single barrel or a bottle from a brand they've mentioned is almost always a better gift."

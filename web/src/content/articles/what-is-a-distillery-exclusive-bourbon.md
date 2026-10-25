@@ -14,10 +14,10 @@ quickAnswer: "A distillery exclusive bourbon is a bottle released only at a spec
 publishedAt: "2026-09-21"
 author: "Pour Picks"
 relatedSlugs:
+  - "how-to-buy-bourbon-direct-from-a-distillery"
   - "what-to-expect-on-a-bourbon-distillery-tour"
   - "what-is-a-bourbon-of-the-month-club"
   - "bourbon-age-statement-vs-nas"
-  - "how-does-the-kentucky-bourbon-trail-work"
 faqs:
   - q: "Can I buy distillery exclusive bourbon online?"
     a: "Generally no. By definition, distillery exclusives are sold only on-site at the distillery's gift shop or visitor center. A few Kentucky distilleries offer in-state online ordering for pickup, but most exclusives require a physical visit. Bottles that appear online are usually sold by secondary market resellers."
