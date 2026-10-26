@@ -17,7 +17,7 @@ relatedSlugs:
   - "how-annual-bourbon-releases-work"
   - "how-to-get-on-a-bourbon-allocation-list"
   - "what-is-bourbon-cask-finishing"
-  - "what-is-the-bourbon-secondary-market"
+  - "what-is-pappy-van-winkle"
 faqs:
   - q: "What makes a bourbon 'allocated'?"
     a: "A bourbon becomes allocated when structural demand permanently outpaces supply. The distillery produces a fixed run, distributors divide it among retailers, and those retailers get far fewer bottles than customers want, often just a case or two per release."

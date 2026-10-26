@@ -17,7 +17,7 @@ relatedSlugs:
   - "how-do-bourbon-state-lotteries-work"
   - "how-to-spot-a-fake-bourbon-bottle"
   - "how-to-trade-bourbon-bottles"
-  - "what-is-a-unicorn-bourbon"
+  - "what-is-pappy-van-winkle"
 faqs:
   - q: "Do all liquor stores have a bourbon allocation list?"
     a: "No. Chain stores often use lotteries or first-come queues rather than formal lists. Independent specialty retailers are far more likely to maintain a points-based or relationship-based allocation list. Call or visit to ask directly, most are transparent about their system."

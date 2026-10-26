@@ -13,10 +13,10 @@ quickAnswer: "Value a bourbon collection by pricing each bottle at its current r
 publishedAt: "2026-06-01"
 author: "Pour Picks"
 relatedSlugs:
+  - "what-is-pappy-van-winkle"
   - "what-is-the-bourbon-secondary-market"
   - "how-do-bourbon-tariffs-affect-collectors"
   - "how-to-photograph-bourbon-bottles"
-  - "is-bourbon-a-good-investment"
 faqs:
   - q: "What makes a bourbon bottle valuable?"
     a: "Scarcity and demand, in that order. A bottle is worth more than its shelf price when it is allocated, discontinued, a limited annual release, or an age-stated bottling that is hard to find. Everyday bourbons that sit on shelves stay at retail no matter how good they taste, because anyone can buy another one. Condition, fill level, the presence of the original box, and an intact label also affect what a collector will pay."

@@ -16,8 +16,8 @@ author: "Pour Picks"
 relatedSlugs:
   - "how-do-bourbon-tariffs-affect-collectors"
   - "how-to-value-a-bourbon-collection"
+  - "what-is-pappy-van-winkle"
   - "what-is-the-bourbon-secondary-market"
-  - "what-is-the-kentucky-bourbon-barrel-tax"
 faqs:
   - q: "What caused the bourbon glut in 2026?"
     a: "Distilleries massively expanded production during the bourbon boom years (roughly 2018-2022), laying down barrels to meet projected demand that never fully materialized. A post-pandemic pullback in spending, rising inflation, and collapsing exports due to retaliatory tariffs left warehouses overstocked with aging spirit."
