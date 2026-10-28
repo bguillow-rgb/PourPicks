@@ -14,10 +14,10 @@ quickAnswer: "To start a bourbon tasting club, recruit 5, 10 adult members, deci
 publishedAt: "2026-08-15"
 author: "Pour Picks"
 relatedSlugs:
+  - "how-to-do-a-bourbon-blind-tasting"
   - "how-to-build-a-bourbon-flight"
   - "how-to-host-a-bourbon-bottle-share"
   - "what-is-a-bourbon-vertical-tasting"
-  - "how-to-display-a-bourbon-collection"
 faqs:
   - q: "How many people is ideal for a bourbon tasting club?"
     a: "Five to ten members hits the sweet spot. With fewer than five you lose meaningful score variation; above ten you need multiple bottles of each pour and the conversation fragments. A group of six or seven lets one bottle (750 ml) cover everyone at a standard 0.5 oz tasting pour with margin to spare."
