@@ -14,10 +14,10 @@ quickAnswer: "A master distiller is the senior production leader responsible for
 publishedAt: "2026-09-19"
 author: "Pour Picks"
 relatedSlugs:
+  - "distilled-by-vs-produced-by-bourbon-label"
   - "full-proof-vs-barrel-proof-vs-cask-strength-bourbon"
   - "how-to-read-four-roses-recipe-code"
   - "what-is-a-bourbon-dump-date"
-  - "what-is-bourbon-barrel-char-level"
 faqs:
   - q: "Is 'master distiller' a legally protected title in bourbon?"
     a: "No. Unlike Bottled-in-Bond or Straight Bourbon, 'master distiller' has no legal definition under TTB regulations. Any distillery can confer the title on anyone. What it means in practice varies widely from one producer to the next."

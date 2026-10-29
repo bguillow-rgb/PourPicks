@@ -16,8 +16,8 @@ author: "Pour Picks"
 relatedSlugs:
   - "what-is-sourced-bourbon"
   - "what-is-an-independent-bottler-bourbon"
+  - "distilled-by-vs-produced-by-bourbon-label"
   - "how-to-date-a-vintage-bourbon-bottle"
-  - "how-to-read-a-bourbon-label"
 faqs:
   - q: "What does NDP stand for in bourbon?"
     a: "NDP stands for Non-Distiller Producer, a company that sources finished or aging whiskey from a separate distillery rather than operating its own still, then bottles and markets it under its own brand name."

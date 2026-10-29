@@ -14,10 +14,10 @@ quickAnswer: "MGP (Midwestern Grain Products) is a large distillery in Lawrenceb
 publishedAt: "2026-09-23"
 author: "Pour Picks"
 relatedSlugs:
+  - "distilled-by-vs-produced-by-bourbon-label"
   - "what-is-sourced-bourbon"
   - "how-to-read-a-bourbon-label"
   - "what-does-bourbon-taste-like"
-  - "what-is-a-dsp-number-bourbon"
 faqs:
   - q: "What does 'Distilled in Indiana' mean on a bourbon label?"
     a: "It almost always means the whiskey was produced at MGP Ingredients' distillery in Lawrenceburg, Indiana. Federal law requires bourbon labels to disclose a state of distillation when it differs from the state on the label, which is how MGP often surfaces on bottles marketed as Kentucky or Tennessee brands."
