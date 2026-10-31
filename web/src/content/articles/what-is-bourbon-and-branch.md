@@ -17,7 +17,7 @@ relatedSlugs:
   - "does-bourbon-have-terroir"
   - "should-you-add-water-to-bourbon"
   - "how-to-choose-a-bourbon-by-mash-bill"
-  - "what-is-a-bourbon-neck-pour"
+  - "what-do-bourbon-competition-medals-mean"
 faqs:
   - q: "What does 'branch' mean in bourbon and branch?"
     a: "'Branch' is an old Southern American term for a natural stream or creek, specifically the iron-free, limestone-filtered water that flowed near Kentucky distilleries. Ordering 'bourbon and branch' originally meant your whiskey would be cut with the same pure water used to make it."

@@ -15,9 +15,9 @@ publishedAt: "2026-10-22"
 author: "Pour Picks"
 relatedSlugs:
   - "how-to-choose-a-bourbon-by-mash-bill"
+  - "what-do-bourbon-competition-medals-mean"
   - "what-does-bourbon-taste-like"
   - "what-is-a-bourbon-infinity-bottle"
-  - "what-is-a-bourbon-library"
 faqs:
   - q: "Is white dog the same as moonshine?"
     a: "They're similar but not identical. Moonshine is a cultural term for illicitly (or informally) produced unaged corn spirit. White dog is a commercial product made under TTB oversight at a licensed distillery using the same mash bill destined for bourbon. The production standards, cuts, and entry proof are all regulated, the main shared trait is that neither has seen a barrel."

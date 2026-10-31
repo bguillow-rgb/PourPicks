@@ -16,8 +16,8 @@ author: "Pour Picks"
 relatedSlugs:
   - "tennessee-whiskey-vs-bourbon"
   - "what-is-a-high-corn-bourbon"
+  - "what-do-bourbon-competition-medals-mean"
   - "what-does-bourbon-taste-like"
-  - "what-is-a-bourbon-library"
 faqs:
   - q: "Does the Lincoln County Process make Tennessee whiskey taste sweeter?"
     a: "No. Sugar maple charcoal does not impart sweetness or flavor. It's a subtractive process, it strips out oils and sulfur compounds that create rough, grainy edges, allowing barrel-derived flavors to come forward more cleanly."
