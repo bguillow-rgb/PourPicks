@@ -16,8 +16,8 @@ author: "Pour Picks"
 relatedSlugs:
   - "what-is-a-distillery-exclusive-bourbon"
   - "what-to-expect-on-a-bourbon-distillery-tour"
+  - "how-to-ship-bourbon"
   - "how-does-the-kentucky-bourbon-trail-work"
-  - "how-to-buy-bourbon-at-auction"
 faqs:
   - q: "Can a Kentucky distillery ship bourbon to my home?"
     a: "Yes, but only to states with spirits DTC reciprocity. As of 2026, that list is roughly a dozen states. Visit the Kentucky Distillers' Association's Spirits 360 portal or ShipMySpirits.com to confirm your state before ordering."
