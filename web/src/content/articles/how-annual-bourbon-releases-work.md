@@ -15,9 +15,9 @@ publishedAt: "2026-08-30"
 author: "Pour Picks"
 relatedSlugs:
   - "what-is-allocated-bourbon"
+  - "what-is-a-limited-edition-bourbon"
   - "how-do-bourbon-state-lotteries-work"
   - "how-to-get-on-a-bourbon-allocation-list"
-  - "what-is-an-independent-bottler-bourbon"
 faqs:
   - q: "When do most allocated bourbons come out each year?"
     a: "The heaviest window is September through December. Flagship releases like the Buffalo Trace Antique Collection typically ship to distributors in October, while Pappy Van Winkle usually reaches retail in November. Spring and summer see far fewer major drops."
