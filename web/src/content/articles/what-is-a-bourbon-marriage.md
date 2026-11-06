@@ -17,7 +17,7 @@ relatedSlugs:
   - "how-bourbon-is-made"
   - "how-to-decode-bourbon-batch-codes"
   - "how-to-read-a-bourbon-label"
-  - "what-is-the-devils-cut-bourbon"
+  - "what-is-a-bourbon-distillery-house-style"
 faqs:
   - q: "Is a bourbon marriage the same as blending?"
     a: "Not exactly. Blending is the act of combining barrels; marrying is the deliberate rest period that follows, during which the combined whiskeys integrate in a vat or tank before bottling. Some producers skip the rest entirely and bottle immediately after blending."

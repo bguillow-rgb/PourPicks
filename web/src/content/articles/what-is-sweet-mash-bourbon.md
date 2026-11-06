@@ -14,10 +14,10 @@ quickAnswer: "Sweet mash bourbon is made by fermenting each batch with only fres
 publishedAt: "2026-10-10"
 author: "Pour Picks"
 relatedSlugs:
+  - "what-is-a-bourbon-distillery-house-style"
   - "what-is-sour-mash-bourbon"
   - "tennessee-whiskey-vs-bourbon"
   - "what-does-bourbon-taste-like"
-  - "what-is-mgp-bourbon"
 faqs:
   - q: "Is sweet mash bourbon actually sweeter tasting?"
     a: "Not necessarily in a sugary sense. The name refers to the fresh, unacidified grain mash used at the start of fermentation, not added sweetness. Sweet mash bourbons often taste brighter and more fruit-forward than sour mash expressions, but the difference comes from fermentation chemistry, not sugar."

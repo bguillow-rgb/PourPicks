@@ -17,7 +17,7 @@ relatedSlugs:
   - "what-is-the-lincoln-county-process"
   - "what-is-a-bourbon-neck-pour"
   - "how-to-choose-a-bourbon-by-mash-bill"
-  - "what-is-sweet-mash-bourbon"
+  - "what-is-a-bourbon-distillery-house-style"
 faqs:
   - q: "Is Jack Daniel's a bourbon?"
     a: "Technically, Jack Daniel's meets all the federal legal requirements to be called bourbon, but the brand actively avoids that label. Because it undergoes the Lincoln County Process (charcoal filtering before aging) and is produced in Tennessee, it is marketed and legally classified as Tennessee whiskey, not bourbon."

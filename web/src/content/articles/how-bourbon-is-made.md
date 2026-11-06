@@ -15,9 +15,9 @@ publishedAt: "2026-11-03"
 author: "Pour Picks"
 relatedSlugs:
   - "what-is-the-devils-cut-bourbon"
+  - "what-is-a-bourbon-distillery-house-style"
   - "what-is-the-lincoln-county-process"
   - "how-to-clean-bourbon-glasses"
-  - "how-to-decode-bourbon-batch-codes"
 faqs:
   - q: "What grains are used to make bourbon?"
     a: "Bourbon must contain at least 51% corn. The remaining grains, typically rye, wheat, or malted barley, make up the mash bill. High-rye bourbons are spicier; wheated bourbons are softer and sweeter. Malted barley, usually 5, 15% of the bill, provides the enzymes needed to convert starch into fermentable sugar."
