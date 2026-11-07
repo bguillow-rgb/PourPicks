@@ -17,7 +17,7 @@ relatedSlugs:
   - "what-is-an-independent-bottler-bourbon"
   - "single-barrel-vs-small-batch-bourbon"
   - "what-is-a-limited-edition-bourbon"
-  - "bourbon-age-statement-vs-nas"
+  - "what-is-a-proof-gallon-bourbon"
 faqs:
   - q: "Is American single malt whiskey the same as bourbon?"
     a: "No. Bourbon requires a grain bill of at least 51% corn, new charred oak barrels, and specific proof limits at distillation and bottling. American single malt uses 100% malted barley, allows used and uncharred oak, and was codified as its own federal category in January 2025."

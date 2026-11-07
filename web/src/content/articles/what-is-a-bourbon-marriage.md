@@ -14,10 +14,10 @@ quickAnswer: "A bourbon marriage is the practice of combining multiple barrels i
 publishedAt: "2026-10-30"
 author: "Pour Picks"
 relatedSlugs:
+  - "what-is-a-proof-gallon-bourbon"
   - "how-bourbon-is-made"
   - "how-to-decode-bourbon-batch-codes"
   - "how-to-read-a-bourbon-label"
-  - "what-is-a-bourbon-distillery-house-style"
 faqs:
   - q: "Is a bourbon marriage the same as blending?"
     a: "Not exactly. Blending is the act of combining barrels; marrying is the deliberate rest period that follows, during which the combined whiskeys integrate in a vat or tank before bottling. Some producers skip the rest entirely and bottle immediately after blending."
