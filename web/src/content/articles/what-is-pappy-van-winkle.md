@@ -17,7 +17,7 @@ relatedSlugs:
   - "how-to-spot-a-fake-bourbon-bottle"
   - "how-to-get-on-a-bourbon-allocation-list"
   - "how-to-value-a-bourbon-collection"
-  - "how-do-bourbon-state-lotteries-work"
+  - "what-is-a-bourbon-flipper"
 faqs:
   - q: "Who makes Pappy Van Winkle?"
     a: "Pappy Van Winkle is produced at Buffalo Trace Distillery in Frankfort, Kentucky, under a partnership between the Van Winkle family and Buffalo Trace's parent company, Sazerac. The wheated bourbon is distilled, aged, and bottled at Buffalo Trace using the same mash bill as the Weller line."
