@@ -16,8 +16,8 @@ author: "Pour Picks"
 relatedSlugs:
   - "how-to-build-a-bourbon-rotation"
   - "how-to-display-a-bourbon-collection"
+  - "how-to-build-a-bourbon-wish-list"
   - "how-to-start-a-bourbon-cellar"
-  - "track-bourbon-collection-spreadsheet-vs-app"
 faqs:
   - q: "Should I organize my bourbon collection alphabetically?"
     a: "Alphabetical works only if your collection is small and single-category. For 20+ bottles across multiple distilleries, flavor- or tier-based systems are far more practical because they help you make decisions, what to pour tonight, what to save, not just find a specific label you already know you have."
