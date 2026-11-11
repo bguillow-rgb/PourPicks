@@ -15,7 +15,7 @@ relatedSlugs:
   - "how-to-choose-a-bourbon-by-mash-bill"
   - "single-barrel-vs-small-batch-bourbon"
   - "wheated-bourbon-vs-high-rye-bourbon"
-  - "full-proof-vs-barrel-proof-vs-cask-strength-bourbon"
+  - "best-palate-cleanser-for-bourbon-tasting"
 faqs:
   - q: "Is bourbon sweeter than rye whiskey?"
     a: "Yes, generally. Bourbon's minimum 51% corn delivers natural sugars that read as sweet on the palate, vanilla, caramel, honey, baked apple. Rye whiskey's minimum 51% rye grain produces spicy, peppery, slightly bitter notes. Wheated bourbons sit somewhere in between, but standard bourbon vs. standard rye is a sweet-vs-spicy axis."

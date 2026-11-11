@@ -17,7 +17,7 @@ relatedSlugs:
   - "how-to-start-a-bourbon-tasting-club"
   - "how-many-pours-in-a-bottle-of-bourbon"
   - "how-to-do-a-bourbon-blind-tasting"
-  - "how-annual-bourbon-releases-work"
+  - "best-palate-cleanser-for-bourbon-tasting"
 faqs:
   - q: "How many bottles should each person bring to a bourbon bottle share?"
     a: "One to two bottles per person is the standard. With 8, 10 guests, that gives the group 8, 20 bottles to work through, plenty for a 3, 4 hour event without overwhelming palates. If a guest only has one truly special bottle and the group is large, they can split the pour thinner or bring a backup everyday bottle as well."

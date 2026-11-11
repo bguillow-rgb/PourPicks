@@ -17,7 +17,7 @@ relatedSlugs:
   - "how-to-start-a-bourbon-tasting-club"
   - "how-to-build-a-bourbon-flight"
   - "what-is-a-bourbon-vertical-tasting"
-  - "how-to-host-a-bourbon-bottle-share"
+  - "best-palate-cleanser-for-bourbon-tasting"
 faqs:
   - q: "How many bourbons should I include in a blind tasting?"
     a: "Three to five is the practical sweet spot. Fewer than three gives you too little contrast; more than five risks palate fatigue, especially above 100 proof. For a focused single-variable comparison, same distillery, different ages, three samples works perfectly."
