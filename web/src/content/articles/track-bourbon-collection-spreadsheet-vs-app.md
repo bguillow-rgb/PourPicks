@@ -13,10 +13,10 @@ quickAnswer: "Spreadsheets work for the first 10 to 15 bottles, notebooks for th
 publishedAt: "2026-05-21"
 author: "Pour Picks"
 relatedSlugs:
+  - "what-is-a-bourbon-tasting-journal"
   - "best-bourbon-cellar-apps"
   - "how-to-build-a-bourbon-wish-list"
   - "how-to-clean-bourbon-glasses"
-  - "how-to-organize-a-bourbon-collection"
 faqs:
   - q: "What's the best way to keep track of a bourbon collection?"
     a: "The best method depends on collection size. For a collection under 10 bottles, a spreadsheet or notebook works fine. From 10 to 25 bottles, a spreadsheet is on borrowed time. Past 25 bottles, a dedicated cellar app is the practical answer because it removes the friction of logging at the moment of pouring, which is where every other system fails."
