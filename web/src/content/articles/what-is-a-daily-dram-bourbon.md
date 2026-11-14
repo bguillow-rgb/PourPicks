@@ -17,7 +17,7 @@ relatedSlugs:
   - "how-to-build-a-bourbon-rotation"
   - "should-you-open-or-keep-bourbon-sealed"
   - "what-is-bourbon-and-branch"
-  - "how-to-choose-a-bourbon-by-mash-bill"
+  - "bourbon-neat-vs-on-the-rocks-vs-with-water"
 faqs:
   - q: "What does 'daily dram' mean in bourbon collecting?"
     a: "A daily dram is a collector's designated everyday sipper, a bottle opened freely and regularly, not saved for special occasions. The term comes from Scots/Irish whisky culture, where a 'dram' is a small measure of whisky. In the bourbon world it describes any bottle you pour without ceremony."

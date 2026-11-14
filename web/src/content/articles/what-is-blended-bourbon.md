@@ -16,8 +16,8 @@ author: "Pour Picks"
 relatedSlugs:
   - "bourbon-age-statement-vs-nas"
   - "what-is-bottled-in-bond-bourbon"
+  - "bourbon-neat-vs-on-the-rocks-vs-with-water"
   - "how-long-is-bourbon-aged"
-  - "how-to-decode-bourbon-batch-codes"
 faqs:
   - q: "Is blended bourbon lower quality than straight bourbon?"
     a: "Not necessarily. 'Blended bourbon' can legally include neutral grain spirit, which dilutes character, but a 'blend of straight bourbons' contains only mature, aged whiskey and can be remarkably complex. Judge by what's actually in the bottle, not just the word 'blended' on the label."

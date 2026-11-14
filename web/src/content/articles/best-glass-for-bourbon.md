@@ -14,9 +14,9 @@ publishedAt: "2026-07-10"
 author: "Pour Picks"
 relatedSlugs:
   - "how-to-clean-bourbon-glasses"
+  - "bourbon-neat-vs-on-the-rocks-vs-with-water"
   - "bourbon-flavor-wheel-guide"
   - "how-bourbon-is-made"
-  - "what-does-bourbon-taste-like"
 faqs:
   - q: "Does the glass you use actually affect how bourbon tastes?"
     a: "Yes, meaningfully so. Glass shape controls how ethanol vapor disperses and how aroma concentrates near the rim. A tapered tulip shape like the Glencairn pushes aromatics toward your nose; a wide-open rocks glass disperses them. The difference is most noticeable when nosing high-proof or barrel-proof bourbons, where ethanol management matters most."

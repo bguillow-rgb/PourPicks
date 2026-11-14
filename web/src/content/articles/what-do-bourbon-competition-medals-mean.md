@@ -14,10 +14,10 @@ quickAnswer: "Bourbon competition medals, Gold, Double Gold, Platinum, are award
 publishedAt: "2026-10-31"
 author: "Pour Picks"
 relatedSlugs:
+  - "bourbon-neat-vs-on-the-rocks-vs-with-water"
   - "what-is-hazmat-bourbon"
   - "how-to-choose-a-bourbon-by-mash-bill"
   - "what-is-a-bourbon-dump-date"
-  - "what-is-a-bourbon-library"
 faqs:
   - q: "Does a Gold medal on a bourbon mean it won first place?"
     a: "Not usually. Most competitions award Gold to any bourbon that scores within a set points range, often 90, 94 out of 100. Multiple bourbons in the same category can all receive Gold at the same event. Only competitions that use an Olympic-style podium model (like the International Whisky Competition) reserve Gold for a single first-place finisher per category."

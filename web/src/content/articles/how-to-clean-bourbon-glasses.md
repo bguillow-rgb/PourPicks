@@ -15,9 +15,9 @@ publishedAt: "2026-10-24"
 author: "Pour Picks"
 relatedSlugs:
   - "best-glass-for-bourbon"
+  - "bourbon-neat-vs-on-the-rocks-vs-with-water"
   - "does-bourbon-have-terroir"
   - "how-bourbon-is-made"
-  - "ideal-temperature-humidity-bourbon-storage"
 faqs:
   - q: "Can you put Glencairn glasses in the dishwasher?"
     a: "The Glencairn is rated dishwasher-safe on the top rack, but many serious tasters hand wash instead. Dishwasher detergents and high heat can leave a residue inside the narrow bowl that mutes aroma on the next pour. If you do use the dishwasher, skip the heated dry cycle and rinse by hand before use."
