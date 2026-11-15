@@ -14,9 +14,9 @@ publishedAt: "2026-07-25"
 author: "Pour Picks"
 relatedSlugs:
   - "how-many-bottles-in-a-barrel-of-bourbon"
+  - "how-many-bottles-should-be-in-a-bourbon-collection"
   - "how-to-build-a-bourbon-flight"
   - "how-to-host-a-bourbon-bottle-share"
-  - "best-glass-for-bourbon"
 faqs:
   - q: "How many 2 oz pours are in a 750ml bottle of bourbon?"
     a: "A 750ml bottle holds 25.4 fluid ounces, so at 2 oz per pour you get approximately 12, 13 pours. This is typical for a premium neat serving at home or a whiskey bar."
