@@ -16,8 +16,8 @@ author: "Pour Picks"
 relatedSlugs:
   - "how-to-buy-bourbon-direct-from-a-distillery"
   - "what-to-expect-on-a-bourbon-distillery-tour"
+  - "does-bourbon-age-in-the-bottle"
   - "how-do-bourbon-state-lotteries-work"
-  - "how-do-bourbon-tariffs-affect-collectors"
 faqs:
   - q: "Can I ship bourbon to a friend through USPS?"
     a: "No. Federal law (18 U.S.C. § 1716) explicitly prohibits mailing any alcoholic beverage through USPS, with no exceptions for personal use, gifts, or small quantities. Doing so is a federal offense regardless of intent."

@@ -14,10 +14,10 @@ quickAnswer: "Bourbon gets its color entirely from the charred new oak barrel it
 publishedAt: "2026-10-06"
 author: "Pour Picks"
 relatedSlugs:
+  - "does-bourbon-age-in-the-bottle"
   - "tennessee-whiskey-vs-bourbon"
   - "what-is-a-bourbon-neck-pour"
   - "what-is-bourbon-and-branch"
-  - "what-is-bourbon-solera-aging"
 faqs:
   - q: "Is caramel coloring allowed in bourbon?"
     a: "No. The TTB (Alcohol and Tobacco Tax and Trade Bureau) explicitly prohibits adding caramel coloring or any artificial coloring to bourbon. Every drop of color in your bottle came solely from the charred new oak barrel. This rule applies to all bourbon, including standard and straight expressions."
