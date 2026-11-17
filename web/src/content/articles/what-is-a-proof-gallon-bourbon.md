@@ -16,8 +16,8 @@ author: "Pour Picks"
 relatedSlugs:
   - "how-to-read-a-bourbon-label"
   - "what-is-a-bourbon-marriage"
+  - "what-is-a-bourbon-cooperage"
   - "what-is-a-bourbon-distillery-house-style"
-  - "what-is-hazmat-bourbon"
 faqs:
   - q: "What is a proof gallon in bourbon?"
     a: "A proof gallon is one U.S. gallon of spirit at 100 proof (50% ABV). It's the standardized unit the TTB uses to calculate federal excise tax and that distilleries use to report how much bourbon they've produced, regardless of the actual bottling proof."

@@ -17,7 +17,7 @@ relatedSlugs:
   - "what-is-double-oaked-bourbon"
   - "what-is-port-barrel-finished-bourbon"
   - "toasted-barrel-vs-charred-barrel-bourbon"
-  - "what-is-mizunara-oak-bourbon"
+  - "what-is-a-bourbon-cooperage"
 faqs:
   - q: "Is stave finished bourbon still considered straight bourbon?"
     a: "It depends on timing. If staves are added during the aging period in the original new-charred oak barrel, the spirit can still qualify as straight bourbon. If staves are added after the spirit has left the primary barrel, the TTB may require a different label designation, such as 'whiskey with added flavoring' or a 'finished' qualifier, depending on what the stave was previously used for."

@@ -16,8 +16,8 @@ author: "Pour Picks"
 relatedSlugs:
   - "what-is-port-barrel-finished-bourbon"
   - "how-do-bourbon-tariffs-affect-collectors"
+  - "what-is-a-bourbon-cooperage"
   - "what-is-bourbon-barrel-char-level"
-  - "what-is-bourbon-solera-aging"
 faqs:
   - q: "What is the Kentucky bourbon barrel tax?"
     a: "It is an ad valorem property tax charged annually on every barrel of bourbon aging in a Kentucky warehouse. The tax is assessed on the barrel's market value, so older and more valuable barrels cost more each year."

@@ -17,7 +17,7 @@ relatedSlugs:
   - "what-is-sweet-mash-bourbon"
   - "how-bourbon-is-made"
   - "what-does-bourbon-taste-like"
-  - "how-does-the-kentucky-bourbon-trail-work"
+  - "what-is-a-bourbon-cooperage"
 faqs:
   - q: "What creates a bourbon distillery's house style?"
     a: "House style emerges from the interaction of several production variables: yeast strain, fermentation conditions, still type and cut points, barrel entry proof, char level, and rickhouse placement. No single factor dominates, it's the cumulative effect of all of them acting together across every batch."
