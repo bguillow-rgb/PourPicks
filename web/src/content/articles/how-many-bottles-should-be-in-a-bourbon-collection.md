@@ -17,7 +17,7 @@ relatedSlugs:
   - "what-is-a-bourbon-library"
   - "how-to-build-a-bourbon-rotation"
   - "ideal-temperature-humidity-bourbon-storage"
-  - "bourbon-neat-vs-on-the-rocks-vs-with-water"
+  - "bourbon-bottle-sizes"
 faqs:
   - q: "How many bourbon bottles is too many?"
     a: "If more than 80% of your cellar has no specific plan, no occasion attached, no secondary value, no tasting intention, that's a signal you've accumulated more than you can meaningfully engage with. Quality of engagement matters more than quantity on the shelf."

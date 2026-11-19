@@ -17,7 +17,7 @@ relatedSlugs:
   - "what-is-a-bourbon-flipper"
   - "how-to-decode-bourbon-batch-codes"
   - "what-is-a-bourbon-dump-date"
-  - "distilled-by-vs-produced-by-bourbon-label"
+  - "bourbon-bottle-sizes"
 faqs:
   - q: "Where did the term 'bourbon tater' come from?"
     a: "The term emerged organically in online bourbon communities, particularly on Facebook groups and Reddit, in the early-to-mid 2010s, as the bourbon boom drove a new wave of hype-focused buyers who treated bottles like trophies rather than spirits to be enjoyed."
