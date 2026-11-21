@@ -15,9 +15,9 @@ publishedAt: "2026-11-05"
 author: "Pour Picks"
 relatedSlugs:
   - "what-is-an-independent-bottler-bourbon"
+  - "what-is-finished-bourbon"
   - "how-annual-bourbon-releases-work"
   - "what-is-a-bourbon-decanter"
-  - "what-is-a-bourbon-library"
 faqs:
   - q: "What makes a bourbon 'limited edition' versus just 'allocated'?"
     a: "Allocated bourbons are annual releases where demand outruns supply through the distribution chain, the bottle may return next year. A true limited edition is produced in a deliberately finite quantity and usually never repeated: a commemorative bottling, a one-time age statement, or a single-cask run with a fixed yield."

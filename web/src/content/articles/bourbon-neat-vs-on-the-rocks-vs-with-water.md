@@ -17,7 +17,7 @@ relatedSlugs:
   - "what-is-bourbon-and-branch"
   - "what-is-a-high-corn-bourbon"
   - "what-do-bourbon-competition-medals-mean"
-  - "best-glass-for-bourbon"
+  - "what-is-finished-bourbon"
 faqs:
   - q: "What does 'neat' mean when ordering bourbon?"
     a: "Neat means your bourbon is poured at room temperature into a glass with no ice, no water, and no mixer. It's the standard for evaluating a bourbon's true flavor profile as the distiller intended."

@@ -16,8 +16,8 @@ author: "Pour Picks"
 relatedSlugs:
   - "what-is-tequila-barrel-finished-bourbon"
   - "what-is-double-oaked-bourbon"
+  - "what-is-finished-bourbon"
   - "what-is-mizunara-oak-bourbon"
-  - "what-is-stave-finished-bourbon"
 faqs:
   - q: "Does port barrel finishing make bourbon sweeter?"
     a: "Generally yes, but subtly. Port residue adds dark fruit sweetness (cherry, plum, raisin) without masking bourbon's core caramel and oak character. A shorter finish keeps it balanced; longer time in port wood can push the profile toward dessert-like richness."
