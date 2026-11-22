@@ -15,8 +15,8 @@ author: "Pour Picks"
 relatedSlugs:
   - "what-is-a-bourbon-distillation-cut-point"
   - "pot-still-vs-column-still-bourbon"
+  - "what-is-a-bourbon-doubler"
   - "bourbon-flavor-wheel-guide"
-  - "distilled-by-vs-produced-by-bourbon-label"
 faqs:
   - q: "What are the heads in bourbon distillation?"
     a: "The heads are the first fraction to come off the still. They contain volatile compounds like acetaldehyde and acetone, the source of nail-polish-remover aromas, and small amounts of methanol. Distillers discard most of the heads before collecting the usable spirit."

@@ -16,8 +16,8 @@ author: "Pour Picks"
 relatedSlugs:
   - "what-is-stave-finished-bourbon"
   - "what-is-a-bourbon-distillery-house-style"
+  - "what-is-a-bourbon-doubler"
   - "what-is-port-barrel-finished-bourbon"
-  - "what-is-tequila-barrel-finished-bourbon"
 faqs:
   - q: "What does a cooperage do?"
     a: "A cooperage selects, dries, shapes, and assembles white oak staves into barrels, then applies a toast layer and a char to the inside. The char level, rated #1 through #4, has a direct impact on how much vanilla, caramel, and oak a bourbon develops during aging."
