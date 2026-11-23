@@ -14,10 +14,10 @@ quickAnswer: "The Buffalo Trace Antique Collection (BTAC) is an annual fall rele
 publishedAt: "2026-10-23"
 author: "Pour Picks"
 relatedSlugs:
+  - "what-is-a-low-rye-bourbon"
   - "bourbon-bottle-sizes"
   - "how-bourbon-is-made"
   - "what-is-a-bourbon-dump-date"
-  - "what-is-a-bourbon-library"
 faqs:
   - q: "How many bottles are in the Buffalo Trace Antique Collection?"
     a: "BTAC traditionally includes five expressions: George T. Stagg, William Larue Weller, Eagle Rare 17 Year Old, Thomas H. Handy Sazerac Rye, and Sazerac 18 Year Old Rye. For the 2025 anniversary release, Buffalo Trace added a sixth: Colonel E.H. Taylor 15 Year."

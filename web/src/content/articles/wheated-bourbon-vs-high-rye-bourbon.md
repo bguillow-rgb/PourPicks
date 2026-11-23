@@ -16,8 +16,8 @@ author: "Pour Picks"
 relatedSlugs:
   - "how-to-choose-a-bourbon-by-mash-bill"
   - "what-is-a-high-corn-bourbon"
+  - "what-is-a-low-rye-bourbon"
   - "how-rickhouse-floor-position-affects-bourbon-flavor"
-  - "what-is-mash-bill"
 faqs:
   - q: "What makes a bourbon 'wheated'?"
     a: "A wheated bourbon replaces rye with wheat as the secondary flavoring grain after corn. Wheat is a gentler grain that amplifies perceived sweetness, producing notes of vanilla, honey, caramel, and soft bread rather than the pepper and spice of rye."

@@ -15,9 +15,9 @@ publishedAt: "2026-11-02"
 author: "Pour Picks"
 relatedSlugs:
   - "what-do-bourbon-competition-medals-mean"
+  - "what-is-a-low-rye-bourbon"
   - "what-is-the-devils-cut-bourbon"
   - "bourbon-neat-vs-on-the-rocks-vs-with-water"
-  - "how-to-choose-bourbon-proof"
 faqs:
   - q: "What proof is considered hazmat bourbon?"
     a: "Any bourbon bottled at 140 proof (70% ABV) or above is considered hazmat. Below that threshold, bourbon can be carried in checked luggage (within volume limits); at 140 proof and higher, it is banned from both carry-on and checked bags on commercial flights under FAA rules."

@@ -16,8 +16,8 @@ author: "Pour Picks"
 relatedSlugs:
   - "what-is-the-angels-share-bourbon"
   - "how-bourbon-is-made"
+  - "what-is-a-low-rye-bourbon"
   - "what-is-a-bourbon-cooperage"
-  - "what-is-a-high-corn-bourbon"
 faqs:
   - q: "What is the devil's cut in bourbon?"
     a: "The devil's cut is the whiskey that gets absorbed into the charred oak wood of the barrel during aging. When the barrel is dumped at the end of maturation, this liquid stays trapped inside the staves and is typically lost, unless a distillery uses a specific extraction process to recover it."

@@ -14,10 +14,10 @@ quickAnswer: "A high-corn bourbon is one where corn makes up roughly 80% or more
 publishedAt: "2026-10-17"
 author: "Pour Picks"
 relatedSlugs:
+  - "what-is-a-low-rye-bourbon"
   - "how-to-choose-a-bourbon-by-mash-bill"
   - "bourbon-neat-vs-on-the-rocks-vs-with-water"
   - "what-does-bourbon-taste-like"
-  - "what-is-high-rye-bourbon"
 faqs:
   - q: "What percentage of corn makes a bourbon 'high-corn'?"
     a: "There's no legal definition, but the industry generally treats a mash bill with 80% or more corn as 'high-corn.' The legal minimum is 51%. Standard traditional bourbons run 70-79% corn; once you push past 80%, the sweet, creamy corn character becomes the dominant flavor driver."

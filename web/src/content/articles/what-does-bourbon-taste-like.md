@@ -17,7 +17,7 @@ relatedSlugs:
   - "how-to-build-a-bourbon-palate"
   - "how-to-choose-a-bourbon-by-mash-bill"
   - "what-is-a-high-corn-bourbon"
-  - "bourbon-flavor-wheel-guide"
+  - "what-is-a-low-rye-bourbon"
 faqs:
   - q: "Why does bourbon taste sweeter than Scotch?"
     a: "Bourbon must use a mash bill of at least 51% corn, and it ages in brand-new charred oak barrels. Corn is naturally high in fermentable sugars, and the fresh char extracts caramelized wood sugars during aging. Scotch typically uses malted barley and re-used casks, both of which produce a drier, smokier profile."
