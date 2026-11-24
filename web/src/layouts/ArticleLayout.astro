@@ -25,6 +25,7 @@ interface Props {
   // Section label shown in breadcrumb between Home and the article (e.g.
   // \u201CGuides\u201D, \u201CHumidor\u201D). Optional.
   section?: { name: string; url: string };
+  headings?: { slug: string; text: string }[];
 }
 
 const {
@@ -39,6 +40,7 @@ const {
   faqs,
   howToSteps,
   section,
+  headings = [],
 } = Astro.props;
 
 const fullUrl = `${SITE.url}${path}`;
@@ -58,6 +60,7 @@ const formattedDate = (updatedAt ?? publishedAt).toLocaleDateString('en-US', {
   description={description}
   path={path}
   appendBrand={false}
+  full
 >
   <Fragment slot="head">
     <ArticleSchema
@@ -79,39 +82,35 @@ const formattedDate = (updatedAt ?? publishedAt).toLocaleDateString('en-US', {
     <BreadcrumbSchema crumbs={crumbs} />
   </Fragment>
 
-  <header class="article-head">
-    <p class="article-kicker">{section?.name ?? 'Journal'}</p>
-    <h1>{title}</h1>
-    <p class="article-dek">{description}</p>
-    <p class="article-byline">
-      By <a href="/about">{author}</a> &middot; {updatedAt ? 'Updated' : 'Published'} {formattedDate}
-    </p>
-  </header>
-
-  <QuickAnswer text={quickAnswer} />
-
-  <div class="article-body">
-    <slot />
-  </div>
-
-  <aside class="article-app-cta">
-    <p class="article-app-lead">Pour Picks keeps your cellar, your pours, and what to open next in one place. Free on iPhone.</p>
-    <a class="cta" href={SITE.appStoreUrl}>Download on the App Store</a>
-  </aside>
-
-  <FAQ faqs={faqs} />
-
+  <section class="hero-wrap tuck">
+    <div class="hero hero-sm">
+      <img class="cover" src="/photos/hero-glass-dark-wood.jpg" alt="" />
+      <div class="dots" aria-hidden="true"></div>
+      <div class="shade shade--heavy" aria-hidden="true"></div>
+      <div class="hero-body">
+        <p class="eyebrow"><a href="/articles">Journal</a></p>
+        <h1 class="t-headline">{title}</h1>
+        <p class="byline">By <a href="/about">{author}</a> &middot; {updatedAt ? 'Updated' : 'Published'} {formattedDate}</p>
+      </div>
+    </div>
+  </section>
+  <section class="contained sticky-section article-section">
+    <aside class="sticky-copy toc">
+      {headings.length > 0 && (
+        <nav aria-label="On this page">
+          <p class="upper-tag">On this page</p>
+          {headings.map((h) => <a href={`#${h.slug}`}>{h.text}</a>)}
+        </nav>
+      )}
+    </aside>
+    <div class="article-main">
+      <QuickAnswer text={quickAnswer} />
+      <div class="article-body">
+        <slot />
+      </div>
+      <FAQ faqs={faqs} />
+    </div>
+  </section>
   <Footer />
 </BaseLayout>
 
-<style>
-  .article-app-cta {
-    margin: 38px 0 6px;
-    padding-top: 28px;
-    border-top: 1px solid var(--line);
-  }
-  .article-app-lead {
-    margin: 0 0 16px;
-    max-width: 44em;
-  }
-</style>

@@ -8,6 +8,7 @@ import Footer from '../components/Footer.astro';
 import SoftwareApplicationSchema from '../components/schema/SoftwareApplicationSchema.astro';
 import VideoObjectSchema from '../components/schema/VideoObjectSchema.astro';
 import { SITE } from '../consts';
+import { splitTitle } from '../lib/title';
 
 // Latest 3 published articles for the homepage "From the Blog" teaser.
 // Drafts are excluded automatically because they have published:false.
@@ -65,6 +66,7 @@ const faqs = [
   title={SITE.name}
   description={SITE.description}
   path="/"
+  full
 >
   <Fragment slot="head">
     <SoftwareApplicationSchema />
@@ -73,111 +75,112 @@ const faqs = [
     <meta property="og:image" content={`${SITE.url}/icon.png`} />
   </Fragment>
 
-  <section class="hero">
-    <div class="hero-copy">
-      <h1>My shelf outgrew the spreadsheet.</h1>
-      <p class="hero-tagline">So I built Pour Picks. Point your phone at a bottle and it reads the label, figures out what it is, and files it in your cellar. From there it tracks what the collection is worth and remembers how each pour tasted.</p>
-
-      {/* Hero CTA, live on the App Store since 2026-05-09. */}
-      <a class="hero-cta" href={SITE.appStoreUrl}>Download on the App Store</a>
-      <p class="hero-trust">iPhone only. No ads, nothing you log leaves your account, and you have to be 21.</p>
-    </div>
-
-    <aside class="bottlelabel" aria-label="An example of how a bottle reads in your cellar">
-      <p class="bottlelabel-house">Example bottle</p>
-      <p class="bottlelabel-name">Eagle Rare</p>
-      <p class="bottlelabel-style">Kentucky Straight Bourbon Whiskey</p>
-
-      <dl class="bottlelabel-stats">
-        <div>
-          <dt>Age</dt>
-          <dd>10<span>Years</span></dd>
+  <section class="hero-wrap tuck">
+    <div class="hero hero-lg hero-fade">
+      <img class="cover" src="/photos/hero-rickhouse-aisle.jpg" alt="A rickhouse aisle lined with bourbon barrels" width="1600" height="1200" fetchpriority="high" />
+      <div class="dots" aria-hidden="true"></div>
+      <div class="shade" aria-hidden="true"></div>
+      <div class="hero-body">
+        <p class="eyebrow">{SITE.tagline}</p>
+        <h1 class="t-welcome">My shelf outgrew the spreadsheet.</h1>
+        <p class="intro">So I built Pour Picks. Point your phone at a bottle and it <b>reads the label</b>, figures out what it is, and files it in your cellar. From there it <b>tracks what the collection is worth</b> and <b>remembers how each pour tasted</b>.</p>
+        <div class="actions">
+          <a class="btn" href={SITE.appStoreUrl}>Download on the App Store</a>
         </div>
-        <div>
-          <dt>Proof</dt>
-          <dd>90<span>45% ABV</span></dd>
-        </div>
-      </dl>
-
-      <p class="bottlelabel-mash">Distillery &middot; Expression &middot; Proof, read from the label</p>
-
-      <p class="bottlelabel-foot"><span>In your cellar</span><strong>Sealed</strong></p>
-    </aside>
-  </section>
-
-  <QuickAnswer text={quickAnswer} />
-
-  <div class="bleed band">
-   <div class="bleed-inner">
-    <section class="features">
-    <h2 class="section-title">Built for collectors</h2>
-
-    <div class="feature feature--lead">
-      <div class="feature-icon" aria-hidden="true">No. 01 &middot; Cellar</div>
-      <h3>Your cellar, organized</h3>
-      <p>Every bottle by distillery, expression, proof, age, and fill level. Snap the label and the Pour Concierge does the rest, so the shelf in the app matches the shelf in the room.</p>
-    </div>
-
-    <div class="feature-grid feature-grid--three">
-      <div class="feature">
-        <div class="feature-icon" aria-hidden="true">No. 02 &middot; Journal</div>
-        <h3>A journal that remembers</h3>
-        <p>Log each pour with nose, palate, finish, served-with, and pour size. Your tasting history, searchable.</p>
+        <p class="fine">iPhone only. No ads, nothing you log leaves your account, and you have to be 21.</p>
       </div>
-
-      <div class="feature">
-        <div class="feature-icon" aria-hidden="true">No. 03 &middot; Value</div>
-        <h3>What your cellar is worth</h3>
-        <p>MSRP-aware pricing keeps a running total of what's resting on your shelf, with overrides for the bottles you paid over or under for.</p>
-      </div>
-
-      <div class="feature">
-        <div class="feature-icon" aria-hidden="true">No. 04 &middot; Palate</div>
-        <h3>Matched to your palate</h3>
-        <p>A three-question quiz learns what you reach for, then points you at bottles in the catalog worth chasing next. The same flavor data drives the <a href="/pairings">bottle pairing guides</a>, one per bourbon, each with the reason the match works.</p>
-      </div>
-    </div>
-
-    <p class="features-link"><a href="/features">See every feature &rarr;</a> &middot; <a href="/bourbon-inventory-app">The bourbon inventory app &rarr;</a> &middot; <a href="/pairings">Bottle pairing guides &rarr;</a></p>
-    </section>
-   </div>
-  </div>
-
-  <section class="demo">
-    <h2 class="section-title">See it in action</h2>
-    <p class="demo-sub">A quick look at scanning a bottle and logging a pour.</p>
-    <div class="demo-video">
-      <YouTube id="29Ot-QKrZgs" title="Pour Picks in action" />
     </div>
   </section>
 
-  <h2>How does Pour Picks make money?</h2>
-  <p>
-    Pour Picks is free to download and use. Cask Club, the paid tier, adds
-    unlimited scans, full journaling, and collection value tracking. No ads,
-    no data selling, no alcohol promotion. The app does not sell alcohol.
-  </p>
+  <section class="contained gallery">
+    <div class="intro-block">
+      <p class="upper-tag">Features</p>
+      <h2>Built for collectors</h2>
+      <div class="intro-copy">
+        <QuickAnswer text={quickAnswer} label="" />
+      </div>
+    </div>
+    <div class="scroller" id="tiles">
+      <article class="tile">
+        <div class="media media--wood"><img src="/app/3_cellar.jpg" alt="The myCellar tab in Pour Picks" loading="lazy" /></div>
+        <p class="caption"><b>Your cellar, organized.</b> Every bottle by distillery, expression, proof, age, and fill level. Snap the label and the Pour Concierge does the rest.</p>
+      </article>
+      <article class="tile">
+        <div class="media media--aisle"><img src="/app/1_home.jpg" alt="The Pour Picks home screen with Build your Bourbon DNA" loading="lazy" /></div>
+        <p class="caption"><b>Matched to your palate.</b> A three-question quiz learns what you reach for, then points you at bottles in the catalog worth chasing next.</p>
+      </article>
+      <article class="tile">
+        <div class="media media--linen"><img src="/app/4_reviews.jpg" alt="The Reviews tab in Pour Picks" loading="lazy" /></div>
+        <p class="caption"><b>A journal that remembers.</b> Log each pour with nose, palate, finish, served-with, and pour size. Your tasting history, searchable.</p>
+      </article>
+      <article class="tile">
+        <div class="media media--wood"><img src="/app/2_browse.jpg" alt="Browse Bottles in Pour Picks, by distillery and char" loading="lazy" /></div>
+        <p class="caption"><b>The whole American shelf.</b> Browse the full American-whiskey catalog. Filter by distillery, age, proof, or price.</p>
+      </article>
+    </div>
+    <div class="paddles">
+      <button type="button" aria-label="Previous" onclick="document.getElementById('tiles').scrollBy({left:-480,behavior:'smooth'})">&#8249;</button>
+      <button type="button" aria-label="Next" onclick="document.getElementById('tiles').scrollBy({left:480,behavior:'smooth'})">&#8250;</button>
+    </div>
+  </section>
 
-  <div class="cta-row">
-    <a class="cta" href={SITE.appStoreUrl}>Download on iOS</a>
-  </div>
+  <hr class="section-rule" />
 
-  {latestArticles.length > 0 && (
-    <section class="blog-teaser">
-      <h2 class="section-title">From the Blog</h2>
-      <ul class="blog-list">
-        {latestArticles.map((a) => (
-          <li>
-            <a href={`/articles/${a.slug}`}>{a.data.title}</a>
-            <p>{a.data.description}</p>
-          </li>
-        ))}
-      </ul>
-      <p class="features-link"><a href="/articles">All articles &rarr;</a></p>
-    </section>
-  )}
+  <section class="contained split">
+    <div class="split-copy">
+      <p class="upper-tag">Cask Club</p>
+      <h2>How does Pour Picks make money?</h2>
+      <p class="intro">Pour Picks is <b>free to download and use</b>. Cask Club, the paid tier, adds unlimited scans, full journaling, and collection value tracking.</p>
+      <p class="intro">MSRP-aware pricing keeps a running total of what's resting on your shelf, with overrides for the bottles you paid over or under for. <b>No ads, no data selling, no alcohol promotion.</b> The app does not sell alcohol.</p>
+      <a class="btn" href={SITE.appStoreUrl}>Download on iOS</a>
+    </div>
+    <div class="bento">
+      <img class="tall" src="/photos/hero-glass-dark-wood.jpg" alt="A pour of bourbon in a rocks glass on a dark wood table" loading="lazy" />
+      <div class="shot"><img src="/app/6_paywall.jpg" alt="The Cask Club membership screen in Pour Picks" loading="lazy" /></div>
+      <div class="shot"><img src="/app/5_profile.jpg" alt="The Profile tab in Pour Picks" loading="lazy" /></div>
+    </div>
+  </section>
 
-  <FAQ faqs={faqs} />
+  <hr class="section-rule" />
+
+  <section class="contained sticky-section">
+    <div class="sticky-copy">
+      <p class="upper-tag">From the Journal</p>
+      <h2>From the Blog</h2>
+      <p>Field-tested references for bourbon collectors.</p>
+      <a class="more" href="/articles">All articles &#8250;</a>
+    </div>
+    <div class="post-grid">
+      {latestArticles.map((a) => {
+        const [head, rest] = splitTitle(a.data.title);
+        return (
+          <a class="post-tile" href={`/articles/${a.slug}`}>
+            <time>{a.data.publishedAt.toLocaleDateString('en-US', { month: 'long', day: 'numeric', timeZone: 'UTC' })}</time>
+            <span class="post-title">{head}</span>
+            {rest && <span class="post-sub">{rest}</span>}
+            <span class="more">Read it &#8250;</span>
+          </a>
+        );
+      })}
+      <div class="post-tile post-tile--video">
+        <div class="demo-video"><YouTube id="29Ot-QKrZgs" title="Pour Picks in action" /></div>
+        <div>
+          <span class="post-title">See it in action</span>
+          <span class="post-sub">A quick look at scanning a bottle and logging a pour.</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <hr class="section-rule" />
+
+  <section class="contained sticky-section faq-section">
+    <div class="sticky-copy">
+      <p class="upper-tag">FAQ</p>
+      <h2>Frequently Asked Questions</h2>
+    </div>
+    <FAQ faqs={faqs} heading="" />
+  </section>
 
   <Footer />
 </BaseLayout>

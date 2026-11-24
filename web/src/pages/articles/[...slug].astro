@@ -42,7 +42,7 @@ interface Props {
 }
 
 const { entry, related } = Astro.props;
-const { Content } = await entry.render();
+const { Content, headings } = await entry.render();
 const data = entry.data;
 const path = `/articles/${entry.slug}`;
 ---
@@ -58,6 +58,7 @@ const path = `/articles/${entry.slug}`;
   faqs={data.faqs}
   howToSteps={data.howToSteps}
   section={{ name: 'Articles', url: `${SITE.url}/articles` }}
+  headings={headings.filter((h) => h.depth === 2)}
 >
   <Content />
 

@@ -4,6 +4,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import Footer from '../../components/Footer.astro';
 import BreadcrumbSchema from '../../components/schema/BreadcrumbSchema.astro';
 import { SITE } from '../../consts';
+import { splitTitle } from '../../lib/title';
 
 // In dev mode, include drafts. In production, only published articles
 // surface in the index.
@@ -13,6 +14,13 @@ const articles = (
     includeDrafts ? true : data.published
   )
 ).sort((a, b) => b.data.publishedAt.valueOf() - a.data.publishedAt.valueOf());
+
+const months: { label: string; items: typeof articles }[] = [];
+for (const a of articles) {
+  const label = a.data.publishedAt.toLocaleDateString('en-US', { month: 'long', year: 'numeric', timeZone: 'UTC' });
+  const last = months[months.length - 1];
+  if (last && last.label === label) last.items.push(a); else months.push({ label, items: [a] });
+}
 
 const collectionSchema = {
   '@context': 'https://schema.org',
@@ -36,30 +44,43 @@ const collectionSchema = {
   title="Journal"
   description="The Pour Picks journal: field-tested references for bourbon collectors, covering storage, oxidation, valuation, identification, and the language of the hobby."
   path="/articles"
+  full
 >
   <Fragment slot="head">
     <script type="application/ld+json" set:html={JSON.stringify(collectionSchema)} />
     <BreadcrumbSchema crumbs={[{ name: 'Journal', url: `${SITE.url}/articles` }]} />
   </Fragment>
 
-  <header class="article-head">
-    <p class="article-kicker">Journal</p>
-    <h1>The Pour Picks Journal</h1>
-    <p class="article-dek">Field-tested references for bourbon collectors: how to store it, how to value it, how to read a label, and what the words on it mean. Looking for the app itself? Start with the <a href="/bourbon-inventory-app">bourbon inventory app</a> overview.</p>
-  </header>
-
-  {articles.length === 0 ? (
-    <p>The first articles are being written now. Check back soon, or email <a href={`mailto:${SITE.supportEmail}`}>{SITE.supportEmail}</a> if there is a topic you want covered.</p>
-  ) : (
-    <ul class="blog-list">
-      {articles.map((a) => (
-        <li>
-          <a href={`/articles/${a.slug}`}>{a.data.title}</a>
-          <p>{a.data.description}</p>
-        </li>
-      ))}
-    </ul>
-  )}
-
+  <section class="hero-wrap tuck">
+    <div class="hero hero-md">
+      <img class="cover" src="/photos/hero-glass-linen.jpg" alt="A pour of bourbon in a rocks glass beside a linen cloth" />
+      <div class="dots" aria-hidden="true"></div>
+      <div class="shade" aria-hidden="true"></div>
+      <div class="hero-body">
+        <p class="eyebrow">Journal</p>
+        <h1 class="t-elevated">The Pour Picks Journal</h1>
+        <p class="intro">Field-tested references for bourbon collectors: <b>how to store it, how to value it, how to read a label</b>, and what the words on it mean. Looking for the app itself? Start with the <a href="/bourbon-inventory-app">bourbon inventory app</a> overview.</p>
+      </div>
+    </div>
+  </section>
+  {months.map((m) => (
+    <section class="contained sticky-section month">
+      <div class="sticky-copy">
+        <p class="upper-tag">{m.items.length} {m.items.length === 1 ? 'article' : 'articles'}</p>
+        <h2>{m.label}</h2>
+      </div>
+      <ol class="post-list">
+        {m.items.map((a) => {
+          const [head, rest] = splitTitle(a.data.title);
+          return (
+            <li><a href={`/articles/${a.slug}`}>
+              <time>{a.data.publishedAt.toLocaleDateString('en-US', { month: 'short', day: 'numeric', timeZone: 'UTC' })}</time>
+              <span><b>{head}</b>{rest && <span class="sub">{rest}</span>}</span>
+            </a></li>
+          );
+        })}
+      </ol>
+    </section>
+  ))}
   <Footer />
 </BaseLayout>

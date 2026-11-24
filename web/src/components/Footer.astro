@@ -1,25 +1,42 @@
 ---
-import { SITE, FOOTER_NAV } from '../consts';
+import { SITE } from '../consts';
+interface Props { band?: boolean }
+const { band = true } = Astro.props;
 const year = new Date().getFullYear();
+const cols = [
+  [['Features', '/features'], ['Pairings', '/pairings'], ['Inventory app', '/bourbon-inventory-app']],
+  [['Journal', '/articles'], ['About', '/about'], ['Press', '/press']],
+  [['Support', '/support'], ['Privacy', '/privacy'], ['Terms', '/terms']],
+];
 ---
-<hr class="footer-rule" />
-<nav class="footer-nav" aria-label="Site">
-  {FOOTER_NAV.map((item, i) => (
-    <>
-      {i > 0 && <span aria-hidden="true"> &middot; </span>}
-      <a href={item.href}>{item.label}</a>
-    </>
-  ))}
-</nav>
-<p class="footer">
-  Questions? <a href={`mailto:${SITE.supportEmail}`}>{SITE.supportEmail}</a>
-</p>
-<p class="footer">
-  {SITE.socials.map((s, i) => (
-    <>
-      {i > 0 && <span> &middot; </span>}
-      <a href={s.url} rel="me noopener" target="_blank">{s.platform}: {s.label}</a>
-    </>
-  ))}
-</p>
-<p class="footer">&copy; {year} {SITE.name}, a {SITE.legalEntity} product. All rights reserved.</p>
+{band && (
+  <section class="cta-wrap" aria-labelledby="cta-band-title">
+    <div class="cta-band">
+      <img class="cover" src="/photos/hero-glass-linen.jpg" alt="" loading="lazy" decoding="async" />
+      <div class="dots" aria-hidden="true"></div>
+      <div class="shade shade--side" aria-hidden="true"></div>
+      <div class="cta-body">
+        <p class="upper-tag">Free on iPhone</p>
+        <h2 id="cta-band-title">Start your cellar</h2>
+        <p class="intro">Pour Picks is on the App Store now, free to download. <b>Scan your first bottle tonight.</b></p>
+        <a class="btn" href={SITE.appStoreUrl}>Download on the App Store</a>
+      </div>
+    </div>
+  </section>
+)}
+<footer class="site-footer">
+  <div class="contained foot-grid">
+    <div class="foot-brand">
+      <a href="/" class="brand-mark">{SITE.name}</a>
+      <p>{SITE.tagline}. Questions go to <a href={`mailto:${SITE.supportEmail}`}>{SITE.supportEmail}</a>.</p>
+    </div>
+    {cols.map((c) => (
+      <ul>{c.map(([l, h]) => <li><a href={h}>{l}</a></li>)}</ul>
+    ))}
+    <div class="foot-cta"><a class="btn btn-sm" href={SITE.appStoreUrl}>Download on iOS</a></div>
+  </div>
+  <div class="contained foot-fine">
+    <p>&copy; {year} {SITE.name}, a {SITE.legalEntity} product. All rights reserved.</p>
+    <p>{SITE.socials.map((s) => <a href={s.url} rel="me noopener" target="_blank">{s.platform} {s.label}</a>)}</p>
+  </div>
+</footer>

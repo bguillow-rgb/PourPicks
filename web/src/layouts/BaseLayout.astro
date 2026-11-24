@@ -4,6 +4,7 @@ import OrganizationSchema from '../components/schema/OrganizationSchema.astro';
 import WebSiteSchema from '../components/schema/WebSiteSchema.astro';
 import Analytics from '../components/Analytics.astro';
 import '../styles/global.css';
+import '../styles/kurt.css';
 
 interface Props {
   title: string;
@@ -24,6 +25,7 @@ interface Props {
   // informational queries. og:title and twitter:title keep the brand either
   // way, since social cards have no length pressure.
   appendBrand?: boolean;
+  full?: boolean;
 }
 
 const {
@@ -33,6 +35,7 @@ const {
   noindex = false,
   suppressGlobalSchema = false,
   appendBrand = true,
+  full = false,
 } = Astro.props;
 
 const canonical = `${SITE.url}${path}`;
@@ -69,7 +72,7 @@ const fullTitle = appendBrand ? brandedTitle : title;
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
-      href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=EB+Garamond:ital,wght@0,400;0,500;1,400&family=Outfit:wght@300;400;500;600;700&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@700&family=Outfit:wght@400;500;600;700;800&display=swap"
       rel="stylesheet"
     />
 
@@ -81,21 +84,26 @@ const fullTitle = appendBrand ? brandedTitle : title;
     <slot name="head" />
   </head>
   <body>
-    <div class="container">
-      <header class="site-header">
-        <a href="/" class="site-wordmark">{SITE.name}</a>
-        <nav class="site-nav" aria-label="Main navigation">
+    <script is:inline>if (/mark=serif/.test(location.search)) document.documentElement.classList.add('mark-serif');</script>
+    <header class="site-header">
+      <nav class="bar" aria-label="Main navigation">
+        <a href="/" class="brand-mark">{SITE.name}</a>
+        <div class="bar-links">
           {NAV.map((item) => (
-            <a
-              href={item.href}
-              aria-current={path === item.href ? 'page' : undefined}
-            >{item.label}</a>
+            <a href={item.href} aria-current={path === item.href ? 'page' : undefined}>{item.label}</a>
           ))}
-        </nav>
-      </header>
-      <div class="label-rule" aria-hidden="true"></div>
-      <slot />
-    </div>
+        </div>
+        <a class="btn btn-sm" href={SITE.appStoreUrl}>Download on iOS</a>
+        <details class="bar-menu">
+          <summary aria-label="Open menu"><span></span><span></span><span></span></summary>
+          <div class="bar-drawer">
+            {NAV.map((item) => <a href={item.href}>{item.label}</a>)}
+            <a class="btn" href={SITE.appStoreUrl}>Download on the App Store</a>
+          </div>
+        </details>
+      </nav>
+    </header>
+    {full ? <main class="page-full"><slot /></main> : <main class="container"><slot /></main>}
     <!-- AI plugin attribution (2026-10-03): a visitor who arrives from one of our
          MCP servers' links (utm_medium=ai_plugin) keeps that source for the session,
          and App Store links on the site carry Apple campaign tags so App Store
