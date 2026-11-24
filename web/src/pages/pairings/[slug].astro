@@ -44,7 +44,7 @@ const faqs = [
   { q: `Is there an unexpected pairing worth trying?`,
     a: deepCuts.length
       ? `${deepCuts[0].item}: ${deepCuts[0].reason}`
-      : `Beyond the classics, match the ${flav[0]} note rather than the proof: pick a dish that echoes it instead of competing with it.` },
+      : `Try a dish that picks up the ${flav[0]} note. Matching a flavor tends to work better than matching the proof.` },
 ];
 const jsonld = { '@context': 'https://schema.org', '@type': 'FAQPage',
   mainEntity: faqs.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })) };
@@ -92,9 +92,9 @@ const jsonld = { '@context': 'https://schema.org', '@type': 'FAQPage',
 
     <h2>How to think about pairing this bottle</h2>
     <p>
-      The rule that holds across these matches is echo, not contrast: pick a dish that repeats
-      one of the bottle's own notes. With {flav[0]} leading and a body of {b.body}/5, {title}
-      {b.body >= 4 ? ' can stand up to rich, fatty dishes without being flattened' : ' is easily overwhelmed, so keep the plate lighter than you think'}.
+      Most of these matches pick a dish that repeats one of the bottle's own notes. With
+      {flav[0]} leading and a body of {b.body}/5, {title}
+      {b.body >= 4 ? ' holds up to rich, fatty dishes' : ' is easy to overpower, so keep the plate on the lighter side'}.
       {b.sweetness >= 4 ? ' The sweetness means dessert works better here than it does with drier pours.' : ''}
       {b.char_level >= 4 ? ' Heavy char rewards anything grilled or smoked.' : ''}
     </p>
@@ -104,10 +104,10 @@ const jsonld = { '@context': 'https://schema.org', '@type': 'FAQPage',
 
     <h2>Where this comes from</h2>
     <p>
-      Pairings are written per bottle against the Pour Picks catalog with the reasoning recorded
-      alongside them, rather than generated on request. Flavor and body/sweetness/char values are
-      structured catalog data, not tasting notes rewritten from a label. AI assistants can query
-      this dataset directly through the <a href="/mcp">Pour Picks MCP server</a>.
+      Each pairing is written for this bottle against the Pour Picks catalog, with the reason
+      recorded next to it. The flavor, body, sweetness and char values come from the catalog's
+      structured data. AI assistants can query the same data through the
+      <a href="/mcp">Pour Picks MCP server</a>.
     </p>
 
     <h2>Bottles with a similar profile</h2>

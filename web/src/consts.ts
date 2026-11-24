@@ -8,7 +8,7 @@ export const SITE = {
   // Organization schema (legalName) for brand-entity consistency, and mirrors
   // the App Store developer display name.
   legalEntity: 'Timberline Ventures LLC',
-  tagline: 'The Bourbon Collector\u2019s Cellar',
+  tagline: "The Bourbon Collector's Cellar",
   description:
     'Pour Picks is a hobby and lifestyle iOS app for adult bourbon collectors. Catalog your cellar, scan bottles to identify what you own, track collection value, and journal every pour in one private reference.',
   url: 'https://pourpicks.app',
@@ -83,7 +83,7 @@ export const PAIRING_CATEGORIES = ['bourbon', 'tennessee'];
 // short line of real sections, not a nine-item everything-drawer.
 export const NAV = [
   { label: 'Features', href: '/features' },
-  { label: 'Journal', href: '/articles' },
+  { label: 'Articles', href: '/articles' },
   { label: 'Pairings', href: '/pairings' },
   { label: 'About', href: '/about' },
 ];
@@ -92,7 +92,7 @@ export const NAV = [
 export const FOOTER_NAV = [
   { label: 'Home', href: '/' },
   { label: 'Features', href: '/features' },
-  { label: 'Journal', href: '/articles' },
+  { label: 'Articles', href: '/articles' },
   { label: 'Pairings', href: '/pairings' },
   { label: 'About', href: '/about' },
   { label: 'Press', href: '/press' },

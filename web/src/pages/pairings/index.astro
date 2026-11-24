@@ -16,16 +16,15 @@ const total = bottles.reduce((n, b) => n + (b.pairings_with_reasons || []).lengt
 >
   <main class="page">
     <h1>Bottle pairing guides</h1>
-    <p><strong>{total} pairings across {bottles.length} bourbons, each recorded with the reason it works.</strong></p>
+    <p><strong>{total} pairings across {bottles.length} bourbons, each with the reason it works.</strong></p>
     <p>
-      Most pairing advice stops at "bourbon goes with steak." These guides work the other
-      direction: they start from one bottle's actual flavor profile, then name dishes that echo it,
-      down to the deep cuts worth trying once you have the obvious ones covered.
+      Each guide starts from one bottle's flavor profile and names dishes that echo it, plus a few
+      deep cuts to try once you've had the obvious ones.
     </p>
     <p>
-      For the principles behind these matches rather than one bottle at a time, start with the
-      <a href="/articles/bourbon-food-pairing-guide">bourbon food pairing guide</a>. If you are
-      working out what a bottle tastes like in the first place, the
+      For the general principles, start with the
+      <a href="/articles/bourbon-food-pairing-guide">bourbon food pairing guide</a>. If you're
+      still working out what a bottle tastes like, the
       <a href="/articles/bourbon-flavor-wheel-guide">bourbon flavor wheel</a> and
       <a href="/articles/how-to-write-bourbon-tasting-notes">how to write tasting notes</a> cover
       the vocabulary these pages use.
@@ -41,9 +40,9 @@ const total = bottles.reduce((n, b) => n + (b.pairings_with_reasons || []).lengt
     </ul>
     <h2>How these are built</h2>
     <p>
-      Pairings are written per bottle against the Pour Picks catalog rather than generated on request.
-      AI assistants can query the same data through the <a href="/mcp">Pour Picks MCP server</a>,
-      and the full catalog with cellar tracking lives in the <a href="/">Pour Picks app</a>.
+      Each pairing is written from one bottle's flavor profile in the Pour Picks catalog.
+      AI assistants like Claude can look up the same data through the <a href="/mcp">Pour Picks MCP server</a>,
+      and the full catalog with cellar tracking is in the <a href="/">Pour Picks app</a>.
     </p>
   </main>
   <Footer />

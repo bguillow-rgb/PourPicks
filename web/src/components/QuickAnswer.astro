@@ -1,6 +1,6 @@
 ---
 interface Props { text: string; label?: string }
-const { text, label = 'In brief' } = Astro.props;
+const { text, label = 'Short answer' } = Astro.props;
 ---
 <section class="quick-answer" id="quick-answer">
   {label && <span class="label">{label}</span>}

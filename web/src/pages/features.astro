@@ -9,25 +9,25 @@ import { SITE } from '../consts';
 const featuresFaqs = [
   {
     q: 'Does Pour Picks work with all bourbon bottles?',
-    a: 'Pour Picks covers thousands of American whiskeys, bourbon, rye, Tennessee whiskey, wheat whiskey, and single-malt American. The AI label scanner handles most commercially available bottles. If a bottle is missing or the scan doesn\'t match, users can describe the bottle in text for a second pass, search manually, or suggest an addition to the catalog.',
+    a: 'Pour Picks covers American whiskey: bourbon, rye, Tennessee whiskey, wheat whiskey and American single malt. The label scanner works on store picks and bottles with no barcode. If a bottle isn\'t in the catalog or the scan doesn\'t match, you can search by hand or save the bottle as your own.',
   },
   {
     q: 'Is Pour Picks free to use?',
-    a: 'Yes. The core app is free: unlimited browsing, the palate quiz, and basic cellar tracking. A Cask Club subscription ($5.99/month or $49.99/year) adds unlimited AI scans, full journaling, advanced cellar tools, and collection value tracking. Subscriptions are billed through Apple, payment information never touches Pour Picks servers.',
+    a: 'Yes. The free version holds 5 owned bottles and 5 label scans, and you can browse the catalog, take the Bourbon DNA quiz and write reviews. Cask Club is $5.99 a month or $49.99 a year. It removes both limits and adds Wishlist and Finished shelves, Precision Match, food pairings on every bottle, and a tasting journal you can export to CSV. Apple handles billing, so your payment details never reach my servers.',
   },
   {
     q: 'What is the AI label scanner?',
-    a: 'The AI label scanner, called Pour Concierge, uses Claude Vision to read a bottle\'s front label through your iPhone camera. It identifies the distillery, expression, and proof, then matches the result against the catalog, usually in under a second. If the read isn\'t right, you can correct it or search manually.',
+    a: 'Point your iPhone camera at the front label and the AI reads the distillery, expression and proof, then matches it to a bottle in the catalog. You can correct anything it got wrong before the bottle goes in your cellar, or search by hand instead.',
   },
   {
     q: 'How does Pour Picks recommend bourbon?',
-    a: 'Pour Picks has two recommendation modes. The palate quiz (3 questions basic, 9 questions advanced) matches your flavor preferences to catalog entries. The "Pour Tonight" feature reads your actual cellar and picks a specific bottle to pour tonight based on what you\'ve poured recently, your personal ratings, and the season, it recommends from what you already own, not purchases.',
+    a: 'Bourbon DNA is a short quiz that learns whether you lean sweet or spicy, easy sipper or cask strength, then names the bottle to buy next with the reasons. Bourbon Concierge takes a bottle you love and finds the closest matches. Pour Tonight picks a bottle to open from your own cellar, weighted to your palate. Cask Club adds Precision Match: 10 questions, your top 10 bottles, and why each one fits.',
   },
 ];
 ---
 <BaseLayout
   title="Features"
-  description="A closer look at Pour Picks: cellar catalog, tasting journal, AI bottle identification, palate-matching quiz, and a browsable American-whiskey catalog."
+  description="What Pour Picks does: AI label scanning, Bourbon DNA, Pour Tonight, Bourbon Concierge, reviews, cellar value, and what Cask Club adds."
   path="/features"
 >
   <Fragment slot="head">
@@ -40,7 +40,7 @@ const featuresFaqs = [
   <header class="dept-masthead">
     <p class="brand">{SITE.name}</p>
     <h1>Inside the app</h1>
-    <p class="dept-lede">Six things it does, and the specific way it does each one. Laid out in the order you would actually use them, from your first scanned bottle to what the shelf is worth.</p>
+    <p class="dept-lede">Six parts of the app, in about the order you'd use them, from your first scan to what your shelf is worth.</p>
   </header>
 
   <ol class="ledger">
@@ -51,8 +51,8 @@ const featuresFaqs = [
         <span class="ledger-spec">Owned &middot; Wishlist &middot; Finished</span>
       </div>
       <div class="ledger-body">
-        <h2>Your cellar, organized</h2>
-        <p>Every bottle by distillery, expression, proof, age, and fill level. Flag each one Owned, Wishlist, or Finished, and log your rating the moment you set the glass down. Filter and search to see what is open, what is still sealed, and what is on the chase list.</p>
+        <h2>Your cellar</h2>
+        <p>Every bottle is filed by distillery, expression, proof, age and fill level. The free version holds 5 owned bottles. Cask Club removes that limit and adds Wishlist and Finished shelves for what you're hunting and what you've emptied. When you can't decide what to open, Pour Tonight picks a bottle from your cellar, weighted to your palate.</p>
       </div>
     </li>
 
@@ -64,19 +64,19 @@ const featuresFaqs = [
       </div>
       <div class="ledger-body">
         <h2>The whole American shelf</h2>
-        <p>Browse the full American-whiskey catalog. Filter by distillery, age, proof, or price, or widen to world spirits when you want to look past Kentucky. Every entry carries its mash bill, flavor tags, and food and drink pairings, with a path straight back to your cellar. A sample of that pairing data is published as <a href="/pairings">bottle pairing guides</a>, one per bourbon.</p>
+        <p>Browse American whiskey by distillery, age, proof or price, or open it up to world spirits. Bottles list the mash bill and flavor tags, and you can add one to your cellar from there. Cask Club adds food pairings on every bottle. I publish some of the pairing data on the site as <a href="/pairings">bottle pairing guides</a>.</p>
       </div>
     </li>
 
     <li class="ledger-entry ledger-entry--feature">
       <div class="ledger-index">
         <span class="ledger-no">03</span>
-        <span class="ledger-dept">Pour Concierge</span>
+        <span class="ledger-dept">Label scan</span>
       </div>
       <div class="ledger-body">
-        <h2>Scan the label, get the bottle</h2>
-        <p class="ledger-stat">Named and matched, usually in under a second.</p>
-        <p>Point your camera at the front label. Pour Concierge reads it with Claude Vision, names the distillery, expression, and proof, and matches it to the catalog. If it misses, describe the bottle in words, search by hand, or add it yourself. Every add carries a 4.5-second undo, so nothing lands in your cellar by accident.</p>
+        <h2>Scan the label</h2>
+        <p class="ledger-stat">Works on store picks and bottles with no barcode.</p>
+        <p>Point your camera at the front label and the AI reads the distillery, expression and proof, then finds the bottle in the catalog. You can fix anything it got wrong before it goes in your cellar. If the bottle isn't in the catalog, save it as your own. The free version includes 5 scans, and every add has a 4.5-second undo.</p>
       </div>
     </li>
 
@@ -84,23 +84,23 @@ const featuresFaqs = [
       <div class="ledger-index">
         <span class="ledger-no">04</span>
         <span class="ledger-dept">Palate</span>
-        <span class="ledger-spec">3 questions, or 9</span>
+        <span class="ledger-spec">Bourbon DNA &middot; Concierge &middot; Precision Match</span>
       </div>
       <div class="ledger-body">
-        <h2>Find your next pour</h2>
-        <p>Answer three quick questions, or nine if you want to go deep. The quiz maps what you already like to bottles you have not tried yet. Stick to Classics leans on the icons; Surprise Me pushes the deep cuts forward.</p>
+        <h2>What to buy next</h2>
+        <p>Bourbon DNA is a short quiz that learns whether you lean sweet or spicy, easy sipper or cask strength. Then it names the bottle to buy next and gives you the reasons. Bourbon Concierge starts from a bottle you already love and finds the closest matches. Cask Club adds Precision Match, which asks 10 questions and gives you your top 10 bottles and why each one fits.</p>
       </div>
     </li>
 
     <li class="ledger-entry">
       <div class="ledger-index">
         <span class="ledger-no">05</span>
-        <span class="ledger-dept">Journal</span>
+        <span class="ledger-dept">Reviews</span>
         <span class="ledger-spec">Nose &middot; Palate &middot; Finish</span>
       </div>
       <div class="ledger-body">
-        <h2>A journal that remembers</h2>
-        <p>Log every pour with one overall rating plus separate marks for nose, palate, and finish. Note how you took it (neat, rocks, water, cocktail), the pour size, and whatever you want to say in your own words. Your aggregate rating shows on the bottle so other collectors know whether to chase it.</p>
+        <h2>Rate every pour</h2>
+        <p>Give each pour an overall rating plus separate marks for nose, palate and finish. You can note how you took it (neat, rocks, water, cocktail), the pour size, and anything else in your own words. Reviews are free for everyone, and your rating counts toward the average other collectors see on that bottle. Cask Club adds a tasting journal you can export to CSV.</p>
       </div>
     </li>
 
@@ -112,17 +112,16 @@ const featuresFaqs = [
       </div>
       <div class="ledger-body">
         <h2>What the shelf is worth</h2>
-        <p>Cellar value updates with every bottle. MSRP is the default; override it with what you actually paid. Per-bottle and per-line totals, with steppers for the ones you own more than one of.</p>
+        <p>Your cellar total updates with every bottle you add. Each bottle starts at MSRP, and you can change it to what you paid. If you own more than one of something, you can set the count and the total includes each one.</p>
       </div>
     </li>
   </ol>
 
   <section class="closing">
-    <h2 class="section-title">Start your cellar</h2>
+    <h2 class="section-title">Something off?</h2>
     <p class="cta-body">
-      Pour Picks is on the App Store now, free to download. Scan your first bottle
-      tonight. If something is off, email
-      <a href={`mailto:${SITE.supportEmail}`}>{SITE.supportEmail}</a> and a real person reads it.
+      If something in the app looks wrong, email
+      <a href={`mailto:${SITE.supportEmail}`}>{SITE.supportEmail}</a> and I'll take a look.
     </p>
     <div class="cta-row">
       <a class="cta" href={SITE.appStoreUrl}>Download on iOS</a>
