@@ -14,10 +14,10 @@ quickAnswer: "The most effective palate cleansers for bourbon tasting are plain 
 publishedAt: "2026-11-11"
 author: "Pour Picks"
 relatedSlugs:
+  - "how-to-host-a-bourbon-tasting-at-home"
   - "how-to-build-a-bourbon-palate"
   - "bourbon-food-pairing-guide"
   - "how-to-do-a-bourbon-blind-tasting"
-  - "how-to-write-bourbon-tasting-notes"
 faqs:
   - q: "What is the best palate cleanser for bourbon tasting?"
     a: "Plain water is the universal baseline. Pair it with unsalted crackers (saltines, oyster crackers, or plain corn chips) to mechanically reset your taste buds. For longer sessions, plain bread or neutral popcorn (unbuttered) also work well."

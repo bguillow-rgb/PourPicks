@@ -14,10 +14,10 @@ quickAnswer: "A bourbon bottle share is an informal gathering where each guest b
 publishedAt: "2026-10-03"
 author: "Pour Picks"
 relatedSlugs:
+  - "how-to-host-a-bourbon-tasting-at-home"
   - "how-to-start-a-bourbon-tasting-club"
   - "how-many-pours-in-a-bottle-of-bourbon"
   - "how-to-do-a-bourbon-blind-tasting"
-  - "best-palate-cleanser-for-bourbon-tasting"
 faqs:
   - q: "How many bottles should each person bring to a bourbon bottle share?"
     a: "One to two bottles per person is the standard. With 8-10 guests, that gives the group 8-20 bottles to work through, plenty for a 3-4 hour event without overwhelming palates. If a guest only has one truly special bottle and the group is large, they can split the pour thinner or bring a backup everyday bottle as well."

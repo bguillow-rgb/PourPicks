@@ -20,8 +20,8 @@ author: "Pour Picks"
 relatedSlugs:
   - "distiller-vs-whiskeybase"
   - "track-bourbon-collection-spreadsheet-vs-app"
+  - "best-glass-for-bourbon"
   - "how-many-bottles-should-be-in-a-bourbon-collection"
-  - "how-to-build-a-bourbon-rotation"
 faqs:
   - q: "What is the best bourbon app?"
     a: "I'd pick Pour Picks for most collectors, and I built it, so weigh that. It's the one that learns your palate and tells you what to buy next and what to open tonight. Distiller is the best reference for reading reviews before you buy, and OnlyDrams has the biggest community, with 10,783 ratings in November 2026."
