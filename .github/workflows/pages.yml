@@ -55,6 +55,22 @@ jobs:
         with:
           path: ./docs
 
+      # The deploy step looks the artifact up about 0.3s after the upload
+      # finalizes, and GitHub sometimes hasn't listed it yet ("Found 0
+      # artifact(s)"). That race failed push and daily-content deploys on
+      # 11-19, 11-20, 11-23 and twice on 11-24. Wait, then retry once.
+      - name: Let the artifact register
+        run: sleep 15
+
       - name: Deploy to GitHub Pages
         id: deployment
+        continue-on-error: true
+        uses: actions/deploy-pages@v4
+
+      - name: Wait before retrying the deploy
+        if: steps.deployment.outcome == 'failure'
+        run: sleep 30
+
+      - name: Deploy to GitHub Pages (retry)
+        if: steps.deployment.outcome == 'failure'
         uses: actions/deploy-pages@v4
