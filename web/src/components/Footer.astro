@@ -5,7 +5,7 @@ const { band = true } = Astro.props;
 const year = new Date().getFullYear();
 const cols = [
   [['Features', '/features'], ['Pairings', '/pairings'], ['Inventory app', '/bourbon-inventory-app']],
-  [['Journal', '/articles'], ['About', '/about'], ['Press', '/press']],
+  [['Articles', '/articles'], ['About', '/about'], ['Press', '/press']],
   [['Support', '/support'], ['Privacy', '/privacy'], ['Terms', '/terms']],
 ];
 ---
@@ -18,7 +18,7 @@ const cols = [
       <div class="cta-body">
         <p class="upper-tag">Free on iPhone</p>
         <h2 id="cta-band-title">Start your cellar</h2>
-        <p class="intro">Pour Picks is on the App Store now, free to download. <b>Scan your first bottle tonight.</b></p>
+        <p class="intro">Pour Picks is free to download on iPhone. <b>The free version holds 5 bottles and 5 label scans.</b></p>
         <a class="btn" href={SITE.appStoreUrl}>Download on the App Store</a>
       </div>
     </div>
@@ -28,7 +28,7 @@ const cols = [
   <div class="contained foot-grid">
     <div class="foot-brand">
       <a href="/" class="brand-mark">{SITE.name}</a>
-      <p>{SITE.tagline}. Questions go to <a href={`mailto:${SITE.supportEmail}`}>{SITE.supportEmail}</a>.</p>
+      <p>{SITE.tagline}. Email me at <a href={`mailto:${SITE.supportEmail}`}>{SITE.supportEmail}</a>.</p>
     </div>
     {cols.map((c) => (
       <ul>{c.map(([l, h]) => <li><a href={h}>{l}</a></li>)}</ul>

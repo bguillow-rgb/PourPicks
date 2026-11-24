@@ -11,27 +11,25 @@ import { SITE } from '../consts';
 const aboutFaqs = [
   {
     q: 'Who built Pour Picks?',
-    a: 'Pour Picks was built and is operated by Bob Guillow, an independent solo developer. There is no outside investor, no advertising network, and no parent company behind the app. All product and privacy decisions are made by one person.',
+    a: 'I did. I\'m Bob Guillow, and I build and run Pour Picks on my own. There\'s no outside investor, ad network or parent company, so I make the product and privacy decisions myself.',
   },
   {
     q: 'What is Timberline Ventures LLC?',
-    a: 'Timberline Ventures LLC is the legal business entity that owns and operates Pour Picks. It is a single-member LLC founded by Bob Guillow. The LLC name appears on the App Store developer page and in the app\'s legal agreements.',
+    a: 'Timberline Ventures LLC is my single-member LLC, and it owns and runs Pour Picks. That name is on the App Store developer page and in the app\'s legal agreements.',
   },
   {
     q: 'How can I contact the Pour Picks team?',
-    a: `Email is the canonical contact channel: ${SITE.supportEmail}. There is no DM channel, no social inbox, and no support chat. Press, partnership, product feedback, and review inquiries all go to that address. Replies typically arrive within a day.`,
+    a: `Email me at ${SITE.supportEmail}. Press, partnerships, feedback and review requests all go there, and I usually reply within a day. I don\'t answer DMs and there\'s no support chat.`,
   },
 ];
 
 const quickAnswer =
-  'Pour Picks is an iOS journal and cellar catalog for adult bourbon collectors, ' +
-  'built and operated by an independent developer. The app does not sell alcohol, ' +
-  'show alcohol ads, or encourage consumption. It is a private reference for tracking ' +
-  'what you own, what you pour, and what your collection is worth.';
+  'Pour Picks is an iPhone app for bourbon collectors. It keeps track of what ' +
+  'you own, what you\'ve poured and what your shelf is worth.';
 ---
 <BaseLayout
   title="About"
-  description="About Pour Picks, who runs it, what it is, what it isn't, and how it makes money."
+  description="I'm Bob Guillow, and I build Pour Picks on my own. It's an iPhone app for keeping track of a bourbon collection."
   path="/about"
 >
   <Fragment slot="head">
@@ -46,26 +44,26 @@ const quickAnswer =
 
   <QuickAnswer text={quickAnswer} />
 
-  <p class="about-lede">I'm Bob. I built Pour Picks because my own shelf had outgrown the spreadsheet I was keeping it in, and nothing on the App Store did the three things I actually wanted: catalog what I own, tell me what it's worth, and remember what each pour tasted like. So I built it. It is still just me.</p>
+  <p class="about-lede">I'm Bob. My shelf outgrew the spreadsheet I kept it in, and I wanted one app that would catalog what I own, tell me what it's worth, and remember how each pour tasted. So I built Pour Picks. It's still just me.</p>
 
   <section class="is-isnt">
     <div class="is-col">
       <h2>What it is</h2>
       <ul>
-        <li>A cellar catalog for what you own, by distillery, expression, proof, age, and fill level.</li>
-        <li>An AI label scanner that names a bottle from its front label.</li>
-        <li>A running value for the collection, MSRP or the price you actually paid.</li>
-        <li>A private journal for every pour, with separate nose, palate, and finish.</li>
+        <li>It catalogs what you own by distillery, expression, proof, age and fill level.</li>
+        <li>The AI reads a bottle's front label, and you can correct it before the bottle goes in your cellar.</li>
+        <li>It keeps a running value of the collection, using MSRP or what you paid.</li>
+        <li>You can rate every pour on nose, palate and finish.</li>
       </ul>
     </div>
     <div class="isnt-col">
       <h2>What it is not</h2>
       <ul>
-        <li>Not a retailer. It does not sell, distribute, or deliver alcohol.</li>
-        <li>Not a marketplace. No listings, no buy or sell, no auctions, no allocation tools.</li>
-        <li>No ads of any kind, alcohol or otherwise.</li>
-        <li>Not a nudge to drink more. It is for people who already collect.</li>
-        <li>No health, location, or financial data. See the <a href="/privacy">privacy policy</a>.</li>
+        <li>It doesn't sell, ship or deliver alcohol.</li>
+        <li>It isn't a marketplace, so there are no listings, auctions or allocation tools.</li>
+        <li>There are no ads in the app.</li>
+        <li>It isn't a social network, so there's no feed or leaderboard.</li>
+        <li>It doesn't collect health, location or financial data. The <a href="/privacy">privacy policy</a> has the details.</li>
       </ul>
     </div>
   </section>
@@ -73,23 +71,23 @@ const quickAnswer =
   <dl class="colophon">
     <div class="colophon-row">
       <dt>Who runs it</dt>
-      <dd>I build and run Pour Picks on my own, published under {SITE.legalEntity}. No investor, no ad network. I make the calls, and I'm the one who answers <a href={`mailto:${SITE.supportEmail}`}>{SITE.supportEmail}</a>.</dd>
+      <dd>Pour Picks is published under {SITE.legalEntity}, with no outside investor, and I'm the one who answers <a href={`mailto:${SITE.supportEmail}`}>{SITE.supportEmail}</a>.</dd>
     </div>
     <div class="colophon-row">
       <dt>How it makes money</dt>
-      <dd>The core app is free. Cask Club, the paid tier, adds advanced tracking and full journaling. That is the whole model, billed through Apple, so payment information never touches Pour Picks' servers.</dd>
+      <dd>Pour Picks is free to download. Cask Club, the paid membership, is $5.99 a month or $49.99 a year, and it's how the app makes money. Apple handles billing, so payment details never reach my servers.</dd>
     </div>
     <div class="colophon-row">
       <dt>Editorial standards</dt>
-      <dd>Articles are written in-house from first-hand collecting and cited primary sources: distillery technical sheets, TTB filings, and reference books. Facts are linked, opinions are labeled, and a date changes only when the content does.</dd>
+      <dd>Articles are written from first-hand collecting and primary sources like distillery tech sheets, TTB filings and reference books. Facts link to their sources and opinions are labeled. The updated date only changes when an article does.</dd>
     </div>
     <div class="colophon-row">
       <dt>Responsible use</dt>
-      <dd>Pour Picks does not promote drinking. Excess is harmful to health, and impaired driving is illegal everywhere we operate. The full disclaimer lives in the <a href="/terms">Terms of Use</a>.</dd>
+      <dd>Pour Picks doesn't promote drinking. Drinking too much is harmful to your health, and impaired driving is illegal everywhere the app is available. The full disclaimer is in the <a href="/terms">Terms of Use</a>.</dd>
     </div>
     <div class="colophon-row">
       <dt>Contact</dt>
-      <dd>Press, partnership, or product feedback all go to <a href={`mailto:${SITE.supportEmail}`}>{SITE.supportEmail}</a>. No DM channel, no chat. Replies usually land within a day.</dd>
+      <dd>Press, partnerships and feedback all go to <a href={`mailto:${SITE.supportEmail}`}>{SITE.supportEmail}</a>. I usually reply within a day.</dd>
     </div>
   </dl>
 
