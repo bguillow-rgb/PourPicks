@@ -10,7 +10,7 @@ relatedQueries:
   - "Kentucky chew bourbon technique"
   - "Booker Noe tasting method"
   - "how to do the Kentucky chew"
-quickAnswer: "The Kentucky Chew is a four-step bourbon tasting method originated by master distiller Booker Noe: observe the color, nose with parted lips, swish and 'chew' the spirit across every tastebud for 5, 10 seconds, then swallow and smack your lips to catch the finish. The Kentucky Hug is the warm chest sensation that follows."
+quickAnswer: "The Kentucky Chew is a four-step bourbon tasting method originated by master distiller Booker Noe: observe the color, nose with parted lips, swish and 'chew' the spirit across every tastebud for 5-10 seconds, then swallow and smack your lips to catch the finish. The Kentucky Hug is the warm chest sensation that follows."
 publishedAt: "2026-08-18"
 author: "Pour Picks"
 relatedSlugs:

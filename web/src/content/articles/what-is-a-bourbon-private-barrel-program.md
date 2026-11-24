@@ -75,7 +75,7 @@ This table isn't exhaustive. Dozens of craft distilleries run programs too, ofte
 
 It isn't cheap. Barrels can run $15,000, $20,000, and federal regulations typically require partnering with a licensed liquor store to receive the bottles. Entry-level programs from smaller distilleries or younger expressions start considerably lower, sometimes in the $5,000, $8,000 range, but aged, high-demand brands skew toward the top of that range or past it.
 
-Most programs require purchasing the entire barrel yield at a per-bottle price that reflects age and proof, so calculating the per-person cost before you book matters. If you're joining a club pick rather than organizing your own, the math is usually already done for you. You're buying a set number of bottles at a fixed price, often $60, $120 per bottle depending on the program tier.
+Most programs require purchasing the entire barrel yield at a per-bottle price that reflects age and proof, so calculating the per-person cost before you book matters. If you're joining a club pick rather than organizing your own, the math is usually already done for you. You're buying a set number of bottles at a fixed price, often $60-$120 per bottle depending on the program tier.
 
 The legal structure matters here. Federal law requires a licensed retailer to be the buyer of record, which is why individual collectors almost always route through a store. Private barrel programs work well for bourbon clubs, retailer groups, and organized enthusiast parties, and the retailer-as-intermediary model is the standard way collectors access them without holding a license themselves.
 

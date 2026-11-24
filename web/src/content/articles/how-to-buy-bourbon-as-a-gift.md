@@ -20,7 +20,7 @@ relatedSlugs:
   - "what-do-bourbon-competition-medals-mean"
 faqs:
   - q: "Is Pappy Van Winkle a good gift for a bourbon collector?"
-    a: "Only if you can get it at or near retail price through a legitimate source. Paying secondary-market premiums (often 5, 10× retail) for a bottle the recipient may already own, or may prefer not to receive at that cost, is usually a poor use of money. A thoughtful single barrel or a bottle from a brand they've mentioned is almost always a better gift."
+    a: "Only if you can get it at or near retail price through a legitimate source. Paying secondary-market premiums (often 5-10× retail) for a bottle the recipient may already own, or may prefer not to receive at that cost, is usually a poor use of money. A thoughtful single barrel or a bottle from a brand they've mentioned is almost always a better gift."
   - q: "What proof range makes the best bourbon gift?"
     a: "For an established collector, aim for 95 to 120 proof. That range tends to show the most flavor complexity and is where serious bourbon drinkers spend most of their attention. For someone newer to the hobby, 90 to 100 proof is accessible without being timid."
   - q: "Should I buy a single barrel or small batch bourbon as a gift?"

@@ -20,15 +20,15 @@ relatedSlugs:
   - "what-is-a-bourbon-doubler"
 faqs:
   - q: "What grains are used to make bourbon?"
-    a: "Bourbon must contain at least 51% corn. The remaining grains, typically rye, wheat, or malted barley, make up the mash bill. High-rye bourbons are spicier; wheated bourbons are softer and sweeter. Malted barley, usually 5, 15% of the bill, provides the enzymes needed to convert starch into fermentable sugar."
+    a: "Bourbon must contain at least 51% corn. The remaining grains, typically rye, wheat, or malted barley, make up the mash bill. High-rye bourbons are spicier; wheated bourbons are softer and sweeter. Malted barley, usually 5-15% of the bill, provides the enzymes needed to convert starch into fermentable sugar."
   - q: "How long does bourbon fermentation take?"
-    a: "Bourbon fermentation typically runs three to five days at commercial distilleries, producing a low-proof wash of roughly 8, 10% ABV. Longer fermentation windows, up to seven days at some craft distilleries, can develop more fruity ester compounds that carry through to the finished whiskey."
+    a: "Bourbon fermentation typically runs three to five days at commercial distilleries, producing a low-proof wash of roughly 8-10% ABV. Longer fermentation windows, up to seven days at some craft distilleries, can develop more fruity ester compounds that carry through to the finished whiskey."
   - q: "What proof must bourbon be distilled and barreled at?"
     a: "Federal law requires bourbon to be distilled at no higher than 160 proof (80% ABV) and entered into the barrel at no higher than 125 proof (62.5% ABV). These caps preserve grain-forward flavor; higher-proof distillation strips out character. Many premium bourbons are barreled well below the legal maximum."
   - q: "Does bourbon have to be made in Kentucky?"
     a: "No. Bourbon can legally be made anywhere in the United States. However, to be labeled 'Kentucky Straight Bourbon,' it must be distilled and aged for at least one year in Kentucky. The state produces the vast majority of the world's bourbon supply."
   - q: "How does the barrel make bourbon taste the way it does?"
-    a: "New charred oak barrels are the single biggest driver of bourbon flavor. The char acts as a carbon filter while also cracking open the wood's sugars. Seasonal temperature swings force the liquid in and out of the wood's pores, extracting vanillin, caramel compounds, tannins, and spice. Estimates suggest 60, 80% of a mature bourbon's flavor comes from the barrel interaction."
+    a: "New charred oak barrels are the single biggest driver of bourbon flavor. The char acts as a carbon filter while also cracking open the wood's sugars. Seasonal temperature swings force the liquid in and out of the wood's pores, extracting vanillin, caramel compounds, tannins, and spice. Estimates suggest 60-80% of a mature bourbon's flavor comes from the barrel interaction."
 published: true
 ---
 

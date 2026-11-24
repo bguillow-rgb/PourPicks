@@ -20,13 +20,13 @@ relatedSlugs:
   - "how-to-get-on-a-bourbon-allocation-list"
 faqs:
   - q: "How many bottles should be on a bourbon wish list?"
-    a: "Most experienced collectors keep 10, 20 bottles on an active wish list, enough to stay engaged across multiple hunt channels without spreading attention too thin. A list longer than 30 tends to become a fantasy inventory rather than an actionable hunting guide."
+    a: "Most experienced collectors keep 10-20 bottles on an active wish list, enough to stay engaged across multiple hunt channels without spreading attention too thin. A list longer than 30 tends to become a fantasy inventory rather than an actionable hunting guide."
   - q: "Should I put allocated bottles like Pappy on my wish list?"
     a: "Yes, but tier them separately. Allocated bottles (Pappy, BTAC, William Larue Weller) belong in a 'long game' tier where you're registered for state lotteries and store lists, not actively shopping. Mixing them with everyday targets makes your list feel unachievable."
   - q: "What information should I track for each bottle on my wish list?"
     a: "At minimum: bottle name, distillery, proof, typical retail price, your price ceiling for the secondary market, and a one-line reason you want it (flavor profile, age statement, collector significance). That context stops you from impulse-buying bottles that no longer fit your cellar."
   - q: "How often should I update my bourbon wish list?"
-    a: "Every 60, 90 days is the practical cadence. Secondary prices shift, releases come and go, and your palate evolves. A wish list that isn't reviewed regularly fills up with bottles you've already moved past or found at auction without updating your records."
+    a: "Every 60-90 days is the practical cadence. Secondary prices shift, releases come and go, and your palate evolves. A wish list that isn't reviewed regularly fills up with bottles you've already moved past or found at auction without updating your records."
   - q: "Can I use Pour Picks to maintain a bourbon wish list?"
     a: "Pour Picks is built as a private bourbon cellar app, you catalog what you own, track collection value, scan bottles, and journal pours. Many collectors use it alongside a separate wish list document or notes app to manage what they're hunting next."
 published: true

@@ -20,7 +20,7 @@ relatedSlugs:
   - "what-is-a-bourbon-dump-date"
 faqs:
   - q: "Does a Gold medal on a bourbon mean it won first place?"
-    a: "Not usually. Most competitions award Gold to any bourbon that scores within a set points range, often 90, 94 out of 100. Multiple bourbons in the same category can all receive Gold at the same event. Only competitions that use an Olympic-style podium model (like the International Whisky Competition) reserve Gold for a single first-place finisher per category."
+    a: "Not usually. Most competitions award Gold to any bourbon that scores within a set points range, often 90-94 out of 100. Multiple bourbons in the same category can all receive Gold at the same event. Only competitions that use an Olympic-style podium model (like the International Whisky Competition) reserve Gold for a single first-place finisher per category."
   - q: "What is a Double Gold medal in bourbon?"
     a: "Double Gold typically means every judge on the blind-tasting panel independently awarded the bourbon a Gold-level score, a unanimous verdict. The San Francisco World Spirits Competition popularized the term; the ADI International Spirits Competition also requires every judge to score 90 or higher. It's a stronger signal than a standard Gold, but the standard still varies by competition."
   - q: "What does a Platinum medal mean on a bourbon bottle?"

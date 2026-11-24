@@ -24,7 +24,7 @@ faqs:
   - q: "Is the dump date the same as the bottling date?"
     a: "Not exactly. After a barrel is dumped, the bourbon is filtered, proofed, and held before bottling, a process that can take one to a few days. According to Blanton's official FAQ, the dump date is written on the label because that's the day barrel aging actually stops, not the literal bottling day."
   - q: "Does the dump date tell you how old the bourbon is?"
-    a: "Only half the picture. The dump date tells you when aging ended, but without the fill date (when the new spirit entered the barrel), you can't calculate exact age. Blanton's, for example, is typically aged 6, 8 years, but no single date on the label alone confirms that span."
+    a: "Only half the picture. The dump date tells you when aging ended, but without the fill date (when the new spirit entered the barrel), you can't calculate exact age. Blanton's, for example, is typically aged 6-8 years, but no single date on the label alone confirms that span."
   - q: "Why do collectors hunt specific dump dates?"
     a: "Collectors seek dates that align with personal milestones, a child's birthday, a wedding anniversary, a graduation day. Because a given dump date may produce only a few hundred to a couple of thousand bottles, tracking one down requires persistence, retailer relationships, and sometimes secondary market sourcing."
   - q: "Which bourbon brands print dump dates on their labels?"

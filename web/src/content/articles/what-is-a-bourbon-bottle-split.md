@@ -10,7 +10,7 @@ relatedQueries:
   - "how to organize a whiskey bottle split"
   - "bourbon split community rules"
   - "how to try rare bourbon without buying a whole bottle"
-quickAnswer: "A bourbon bottle split is when a group of collectors pool money to buy one bottle, often expensive or hard-to-find, then divide the contents into sample-sized portions (typically 30, 100 ml each) and ship or hand off each person's share. It's the most practical way to taste a rare pour without committing to a full bottle at full price."
+quickAnswer: "A bourbon bottle split is when a group of collectors pool money to buy one bottle, often expensive or hard-to-find, then divide the contents into sample-sized portions (typically 30-100 ml each) and ship or hand off each person's share. It's the most practical way to taste a rare pour without committing to a full bottle at full price."
 publishedAt: "2026-09-18"
 author: "Pour Picks"
 relatedSlugs:
@@ -22,7 +22,7 @@ faqs:
   - q: "Is participating in a bourbon bottle split legal?"
     a: "For informal among-friends splits, legality is generally not an issue, you're not selling alcohol, just sharing costs on a purchase. Commercial or large-scale splits that involve profit or cross state lines can enter gray legal territory. Always run splits as not-for-profit cost-shares, never as a resale operation, and check your state's alcohol laws if you're shipping samples."
   - q: "How much does a typical bourbon bottle split cost per person?"
-    a: "Your share is the bottle's retail or secondary price divided by the number of participants, plus a small surcharge (usually $2, 5) to cover the organizer's sample bottles, wax, labels, and shipping materials. A $150 bottle split six ways works out to roughly $25, 30 per person for a 100 ml pour."
+    a: "Your share is the bottle's retail or secondary price divided by the number of participants, plus a small surcharge (usually $2-5) to cover the organizer's sample bottles, wax, labels, and shipping materials. A $150 bottle split six ways works out to roughly $25-30 per person for a 100 ml pour."
   - q: "What size samples are typical in a bourbon bottle split?"
     a: "The most common portions are 30 ml (about one standard pour), 50 ml (common airline-bottle size), and 100 ml (closer to three pours). The right size depends on participant count and bottle size. A standard 750 ml bottle yields roughly 7 x 100 ml portions or up to 25 x 30 ml samples, once you account for the organizer's labor pour."
   - q: "Where do bourbon collectors find bottle splits to join?"

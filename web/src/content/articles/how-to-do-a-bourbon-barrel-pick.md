@@ -10,7 +10,7 @@ relatedQueries:
   - "how to buy a barrel of bourbon"
   - "private barrel selection distilleries"
   - "barrel pick vs store pick bourbon"
-quickAnswer: "A bourbon barrel pick is a private selection experience where a group tastes multiple aging barrels at a distillery, chooses one, and has it bottled with a custom label exclusively for them. Programs typically cost $5,000, $12,000 for 4, 8 year bourbons and yield roughly 150, 240 bottles depending on proof and age."
+quickAnswer: "A bourbon barrel pick is a private selection experience where a group tastes multiple aging barrels at a distillery, chooses one, and has it bottled with a custom label exclusively for them. Programs typically cost $5,000-$12,000 for 4-8 year bourbons and yield roughly 150-240 bottles depending on proof and age."
 publishedAt: "2026-07-15"
 author: "Pour Picks"
 relatedSlugs:
@@ -75,8 +75,8 @@ On the yield side, at standard 80-100 proof bottling, a barrel aged 4-8 years ty
 | Entry-level craft distillery (4-6 yr) | $4,000, $7,000 |
 | Major Kentucky distillery (4-8 yr) | $6,500, $12,000 |
 | Premium / allocated barrel | $15,000+ |
-| Bottle yield (80-100 proof) | 200, 240 x 750ml |
-| Bottle yield (barrel proof) | 140, 180 x 750ml |
+| Bottle yield (80-100 proof) | 200-240 x 750ml |
+| Bottle yield (barrel proof) | 140-180 x 750ml |
 | Standard barrel size | 53 gallons |
 
 The math works well when split across a group. Most programs require purchasing the entire barrel yield at a per-bottle price that reflects age and proof, so work out the per-person cost before you book. For a 10-person group splitting a $9,000 barrel that yields 200 bottles, each person pays $900 and takes home 20 bottles of a completely unique bourbon, often at a per-bottle cost that's competitive with allocated retail.

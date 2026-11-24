@@ -10,7 +10,7 @@ relatedQueries:
   - "infinity bottle solera whiskey"
   - "what to put in an infinity bottle"
   - "bourbon blending at home"
-quickAnswer: "A bourbon infinity bottle is a personal home-blended bottle you build over time by adding leftover pours, usually 1, 2 ounces, from bottles you've finished. The blend evolves with every addition, is never fully emptied, and becomes a one-of-a-kind whiskey that exists nowhere else in the world."
+quickAnswer: "A bourbon infinity bottle is a personal home-blended bottle you build over time by adding leftover pours, usually 1-2 ounces, from bottles you've finished. The blend evolves with every addition, is never fully emptied, and becomes a one-of-a-kind whiskey that exists nowhere else in the world."
 publishedAt: "2026-10-20"
 author: "Pour Picks"
 relatedSlugs:
@@ -28,7 +28,7 @@ faqs:
   - q: "Does an infinity bottle go bad or oxidize?"
     a: "Because you're continuously topping it up, oxygen exposure is lower than in a near-empty bottle. Keep the vessel at least half-full, always sealed, and store it upright away from light and heat, the same rules that apply to your regular cellar."
   - q: "Should I add barrel-proof or high-proof bourbons to my infinity bottle?"
-    a: "With care, yes. High-proof additions (115+ proof) will raise the overall heat of the blend. Balance them with lower-proof bourbons (90, 100 proof). Tracking proof with every addition helps you diagnose why a blend is trending harsh, and how to correct it."
+    a: "With care, yes. High-proof additions (115+ proof) will raise the overall heat of the blend. Balance them with lower-proof bourbons (90-100 proof). Tracking proof with every addition helps you diagnose why a blend is trending harsh, and how to correct it."
 published: true
 ---
 

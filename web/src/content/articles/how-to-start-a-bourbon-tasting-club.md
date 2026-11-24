@@ -10,7 +10,7 @@ relatedQueries:
   - "blind bourbon tasting rules"
   - "bourbon club meeting format"
   - "how to run a bourbon flight tasting"
-quickAnswer: "To start a bourbon tasting club, recruit 5, 10 adult members, decide on a blind or open format, set a consistent theme for each session (proof range, distillery, or style), rotate hosting duties, and use a shared scoring sheet so everyone's notes mean something over time."
+quickAnswer: "To start a bourbon tasting club, recruit 5-10 adult members, decide on a blind or open format, set a consistent theme for each session (proof range, distillery, or style), rotate hosting duties, and use a shared scoring sheet so everyone's notes mean something over time."
 publishedAt: "2026-08-15"
 author: "Pour Picks"
 relatedSlugs:

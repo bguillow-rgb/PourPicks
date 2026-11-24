@@ -10,7 +10,7 @@ relatedQueries:
   - "bourbon lottery tips"
   - "how to get allocated bourbon at retail"
   - "Pappy Van Winkle lottery how it works"
-quickAnswer: "Bourbon state lotteries are retailer- or state-run drawings that give registered entrants a fair chance to buy highly allocated bottles, like Pappy Van Winkle or George T. Stagg, at the distillery's suggested retail price. Entrants sign up during an entry window, winners are drawn randomly, and winners typically have 24, 72 hours to pay and collect."
+quickAnswer: "Bourbon state lotteries are retailer- or state-run drawings that give registered entrants a fair chance to buy highly allocated bottles, like Pappy Van Winkle or George T. Stagg, at the distillery's suggested retail price. Entrants sign up during an entry window, winners are drawn randomly, and winners typically have 24-72 hours to pay and collect."
 publishedAt: "2026-09-16"
 author: "Pour Picks"
 relatedSlugs:

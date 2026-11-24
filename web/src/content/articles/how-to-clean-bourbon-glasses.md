@@ -24,7 +24,7 @@ faqs:
   - q: "Does soap residue really affect how bourbon smells?"
     a: "Yes. Soap compounds, especially fats and glycerin used to create suds, can cling to glass and interact with the volatile aroma compounds in bourbon, suppressing the nose before it even reaches you. A thorough rinse until the water beads cleanly eliminates this risk. Crystal surfaces are slightly rougher than standard glass and hold onto residue more stubbornly."
   - q: "How do I remove hard water spots from my whiskey glasses?"
-    a: "Soak the glass for 20, 30 minutes in a solution of equal parts white distilled vinegar and warm water. The acidity dissolves the mineral deposits. Rinse thoroughly with filtered or distilled water afterward to prevent new spots from forming. Dry immediately with a lint-free microfiber cloth."
+    a: "Soak the glass for 20-30 minutes in a solution of equal parts white distilled vinegar and warm water. The acidity dissolves the mineral deposits. Rinse thoroughly with filtered or distilled water afterward to prevent new spots from forming. Dry immediately with a lint-free microfiber cloth."
   - q: "What's the best way to dry a Glencairn glass without leaving streaks?"
     a: "Turn the Glencairn upside down on a drying rack for a minute to let water drain from the narrow mouth, then pick it up and dry the interior with a long, thin lint-free cloth or a coffee filter (an old bartender trick that leaves zero fiber residue). Never leave it right-side up to air dry, water pools at the wide base and dries into spots."
   - q: "Should I rinse my bourbon glass between pours during a tasting?"

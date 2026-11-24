@@ -24,11 +24,11 @@ faqs:
   - q: "What is the difference between Old Rip Van Winkle and Pappy Van Winkle?"
     a: "Old Rip Van Winkle (10 Year) and Van Winkle Special Reserve 'Lot B' (12 Year) are the entry-level expressions in the lineup. 'Pappy' specifically refers to the three oldest releases, the 15, 20, and 23 Year Family Reserve expressions, which carry the Pappy Van Winkle name on the label."
   - q: "How much does Pappy Van Winkle cost?"
-    a: "The Van Winkle family has stated MSRP of $300 or less across the lineup, with the 10 Year around $150 and the 23 Year around $300. In practice, secondary market prices range from roughly $500, $800 for the 10 Year to $3,000, $5,500 for the 23 Year as of early 2026."
+    a: "The Van Winkle family has stated MSRP of $300 or less across the lineup, with the 10 Year around $150 and the 23 Year around $300. In practice, secondary market prices range from roughly $500-$800 for the 10 Year to $3,000, $5,500 for the 23 Year as of early 2026."
   - q: "What does Pappy Van Winkle taste like?"
     a: "All Pappy expressions use a wheated mash bill, corn, wheat, and malted barley, with wheat replacing rye as the secondary grain. This produces a softer, sweeter flavor profile: caramel, vanilla, baking spice, dried fruit, and, in the older expressions, leather, dark tobacco, and deep oak."
   - q: "How is Pappy Van Winkle different from Weller bourbon?"
-    a: "Pappy Van Winkle and Weller bourbon share the same wheated mash bill and are both produced at Buffalo Trace Distillery. The key differences are age (Pappy runs 10, 23 years; Weller typically runs 7, 12 years), barrel selection rigor, and the Van Winkle family's involvement in the blending process."
+    a: "Pappy Van Winkle and Weller bourbon share the same wheated mash bill and are both produced at Buffalo Trace Distillery. The key differences are age (Pappy runs 10-23 years; Weller typically runs 7-12 years), barrel selection rigor, and the Van Winkle family's involvement in the blending process."
   - q: "When does Pappy Van Winkle release each year?"
     a: "The Van Winkle annual release typically hits retailers in October and November, coinciding with the broader fall allocated season. Retail distribution is handled state by state, and most stores use lottery systems or waitlists to allocate bottles to customers."
 published: true

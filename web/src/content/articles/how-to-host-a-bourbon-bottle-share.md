@@ -10,7 +10,7 @@ relatedQueries:
   - "how to run a whiskey bottle share"
   - "bourbon bottle share format"
   - "how many bottles for a bottle share"
-quickAnswer: "A bourbon bottle share is an informal gathering where each guest brings one or two rare or collectible bottles to pour in small samples for the group. To host one well: cap attendance at 8, 12, set a bottle theme or tier, pour 0.5, 1 oz per selection, and ask guests to bring tasting notes. It's the fastest way to taste bottles you'd never open alone."
+quickAnswer: "A bourbon bottle share is an informal gathering where each guest brings one or two rare or collectible bottles to pour in small samples for the group. To host one well: cap attendance at 8, 12, set a bottle theme or tier, pour 0.5-1 oz per selection, and ask guests to bring tasting notes. It's the fastest way to taste bottles you'd never open alone."
 publishedAt: "2026-10-03"
 author: "Pour Picks"
 relatedSlugs:
@@ -20,9 +20,9 @@ relatedSlugs:
   - "best-palate-cleanser-for-bourbon-tasting"
 faqs:
   - q: "How many bottles should each person bring to a bourbon bottle share?"
-    a: "One to two bottles per person is the standard. With 8, 10 guests, that gives the group 8, 20 bottles to work through, plenty for a 3, 4 hour event without overwhelming palates. If a guest only has one truly special bottle and the group is large, they can split the pour thinner or bring a backup everyday bottle as well."
+    a: "One to two bottles per person is the standard. With 8-10 guests, that gives the group 8-20 bottles to work through, plenty for a 3-4 hour event without overwhelming palates. If a guest only has one truly special bottle and the group is large, they can split the pour thinner or bring a backup everyday bottle as well."
   - q: "How big should pours be at a bourbon bottle share?"
-    a: "Pour 0.5 to 1 oz (15, 30 ml) per selection. At that size, a standard 750 ml bottle yields roughly 25, 50 pours, enough for a group of 10 to taste comfortably. Smaller pours also let guests pace themselves across a long lineup of high-proof bottles without overconsumption."
+    a: "Pour 0.5 to 1 oz (15-30 ml) per selection. At that size, a standard 750 ml bottle yields roughly 25-50 pours, enough for a group of 10 to taste comfortably. Smaller pours also let guests pace themselves across a long lineup of high-proof bottles without overconsumption."
   - q: "Do I need to bring a rare or expensive bottle to a bottle share?"
     a: "Not necessarily. Most hosts set a loose theme or tier, for example, 'anything allocated or single barrel', rather than a strict dollar minimum. An interesting store pick, a distillery exclusive, or a discontinued expression you've cellared is just as welcome as a pricier collectible. Bring something the group can't easily walk into a store and buy tomorrow."
   - q: "What glassware should I use at a bourbon bottle share?"

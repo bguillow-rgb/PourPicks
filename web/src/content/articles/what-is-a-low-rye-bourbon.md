@@ -10,7 +10,7 @@ relatedQueries:
   - "what percentage rye makes a high rye bourbon"
   - "Buffalo Trace mash bill 1 explained"
   - "how mash bill affects bourbon flavor"
-quickAnswer: "A low-rye bourbon uses roughly 8, 15% rye in its mash bill, keeping the secondary grain modest so corn sweetness and oak-driven vanilla dominate the profile. It's the classic, most widely produced style in bourbon, think Buffalo Trace, Jim Beam, and Wild Turkey, and the benchmark every collector should know before exploring spicier alternatives."
+quickAnswer: "A low-rye bourbon uses roughly 8-15% rye in its mash bill, keeping the secondary grain modest so corn sweetness and oak-driven vanilla dominate the profile. It's the classic, most widely produced style in bourbon, think Buffalo Trace, Jim Beam, and Wild Turkey, and the benchmark every collector should know before exploring spicier alternatives."
 publishedAt: "2026-11-23"
 author: "Pour Picks"
 relatedSlugs:
@@ -20,7 +20,7 @@ relatedSlugs:
   - "what-is-mash-bill"
 faqs:
   - q: "What percentage of rye makes a bourbon 'low rye'?"
-    a: "There's no legal definition, but industry consensus places low-rye mash bills between 8% and 15% rye. Anything meaningfully above that, typically 18, 35%, is considered high rye."
+    a: "There's no legal definition, but industry consensus places low-rye mash bills between 8% and 15% rye. Anything meaningfully above that, typically 18-35%, is considered high rye."
   - q: "Is low-rye bourbon the same as traditional bourbon?"
     a: "Yes, in common usage. 'Traditional' and 'low-rye' describe the same classic mash bill style: corn-dominant, modest rye, finished with malted barley. It's the most widely produced style in Kentucky."
   - q: "Does low-rye bourbon taste sweeter than high-rye bourbon?"

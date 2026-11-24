@@ -9,7 +9,7 @@ relatedQueries:
   - "how many ounces in a bourbon pour"
   - "bourbon bottle sizes ml"
   - "how many tastings from one bourbon bottle"
-quickAnswer: "A standard 750ml bourbon bottle yields roughly 8 to 25 pours depending on pour size. At a 1 oz tasting pour you get about 25; at a standard 1.5 oz neat pour, roughly 16, 17; at a generous 2 oz sipping pour, around 12, 13. Smaller 375ml half-bottles and larger 1L bottles scale accordingly."
+quickAnswer: "A standard 750ml bourbon bottle yields roughly 8 to 25 pours depending on pour size. At a 1 oz tasting pour you get about 25; at a standard 1.5 oz neat pour, roughly 16-17; at a generous 2 oz sipping pour, around 12-13. Smaller 375ml half-bottles and larger 1L bottles scale accordingly."
 publishedAt: "2026-07-25"
 author: "Pour Picks"
 relatedSlugs:
@@ -19,13 +19,13 @@ relatedSlugs:
   - "how-to-build-a-bourbon-flight"
 faqs:
   - q: "How many 2 oz pours are in a 750ml bottle of bourbon?"
-    a: "A 750ml bottle holds 25.4 fluid ounces, so at 2 oz per pour you get approximately 12, 13 pours. This is typical for a premium neat serving at home or a whiskey bar."
+    a: "A 750ml bottle holds 25.4 fluid ounces, so at 2 oz per pour you get approximately 12-13 pours. This is typical for a premium neat serving at home or a whiskey bar."
   - q: "How many pours does a 375ml bourbon bottle give you?"
     a: "A 375ml half-bottle holds about 12.7 oz. At a 1.5 oz standard pour that's roughly 8 pours; at a 1 oz tasting pour you get about 12. It's a popular format for exploring a new bottle before committing to a full fifth."
   - q: "How many tasting pours (1 oz) can I get from one bottle for a home flight?"
     a: "A 750ml bottle yields approximately 25 one-ounce tasting pours. That means a single bottle can serve a six-person tasting flight four times over with a bit left to spare."
   - q: "Does a 700ml import bottle give fewer pours than a 750ml?"
-    a: "Yes. A 700ml bottle holds about 23.7 oz, roughly one standard 1.5 oz pour less than a 750ml fifth. At a 1.5 oz pour you get about 15, 16 pours versus 16, 17 from a 750ml."
+    a: "Yes. A 700ml bottle holds about 23.7 oz, roughly one standard 1.5 oz pour less than a 750ml fifth. At a 1.5 oz pour you get about 15-16 pours versus 16-17 from a 750ml."
   - q: "How does barrel-proof bourbon affect pour count?"
     a: "Barrel-proof bourbon is typically enjoyed in smaller pours, often 0.75 to 1 oz, to appreciate its concentration and because its higher ABV makes a 2 oz pour much more intense. A 750ml bottle at a 1 oz pour yields about 25 servings, effectively making it go further than a standard-proof bottle poured at 2 oz."
 published: true

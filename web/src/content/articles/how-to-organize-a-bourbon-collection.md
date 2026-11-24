@@ -24,7 +24,7 @@ faqs:
   - q: "How do I decide which bottle to open first?"
     a: "Open bottles that are already cracked before opening sealed ones. Among sealed bottles, prioritize limited releases you bought to drink (not hold), bottles where you own multiples, and everyday expressions. Reserve allocated or appreciating bottles for last unless a meaningful occasion calls for them."
   - q: "How many open bottles is too many?"
-    a: "Most collectors find 4, 6 open bottles at once is the sweet spot. Beyond that, oxidation becomes a real risk, each open bottle you don't finish within a few months can lose subtle flavor complexity as headspace grows and oxygen interacts with the spirit."
+    a: "Most collectors find 4-6 open bottles at once is the sweet spot. Beyond that, oxidation becomes a real risk, each open bottle you don't finish within a few months can lose subtle flavor complexity as headspace grows and oxygen interacts with the spirit."
   - q: "Can I store bourbon bottles on their side like wine?"
     a: "No. Unlike wine, bourbon should be stored upright. High-proof spirits can degrade cork from the inside when in contact for extended periods, and bourbon doesn't need the cork kept moist the way wine does. Always store bottles standing up."
   - q: "What's the best app for keeping track of a bourbon collection?"

@@ -10,7 +10,7 @@ relatedQueries:
   - "does toasting a barrel make better bourbon"
   - "bourbon toasted staves finishing"
   - "charred oak vs toasted oak whiskey flavor"
-quickAnswer: "Charring is legally required for bourbon, it exposes the barrel's interior to an open flame for 15, 55 seconds, creating a carbon filter layer and driving caramel, vanilla, and smoke. Toasting applies gentle, sustained heat that caramelizes wood sugars without burning them, producing subtler vanilla, coconut, and spice. Many finished bourbons use both."
+quickAnswer: "Charring is legally required for bourbon, it exposes the barrel's interior to an open flame for 15-55 seconds, creating a carbon filter layer and driving caramel, vanilla, and smoke. Toasting applies gentle, sustained heat that caramelizes wood sugars without burning them, producing subtler vanilla, coconut, and spice. Many finished bourbons use both."
 publishedAt: "2026-08-28"
 author: "Pour Picks"
 relatedSlugs:

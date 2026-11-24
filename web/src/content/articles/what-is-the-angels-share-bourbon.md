@@ -28,7 +28,7 @@ faqs:
   - q: "Does barrel position in a rickhouse affect the angel's share?"
     a: "Yes. Barrels on upper floors of a rickhouse experience more heat and dryness, accelerating evaporation. In dry Kentucky conditions, more water escapes than alcohol at higher floors, which can actually increase proof over time rather than reduce it."
   - q: "Why does the angel's share make older bourbon more expensive?"
-    a: "Fewer bottles come from a barrel that has aged longer, because more liquid has evaporated. A barrel that started with 53 gallons might yield only 25, 30 gallons after 12 years. Less liquid from the same production investment directly raises the per-bottle cost."
+    a: "Fewer bottles come from a barrel that has aged longer, because more liquid has evaporated. A barrel that started with 53 gallons might yield only 25-30 gallons after 12 years. Less liquid from the same production investment directly raises the per-bottle cost."
 published: true
 ---
 

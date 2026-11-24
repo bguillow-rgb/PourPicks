@@ -22,7 +22,7 @@ faqs:
   - q: "What is the difference between a doubler and a thumper?"
     a: "Both accomplish the second distillation, but they work differently. A doubler receives low wines as a liquid, then heats and re-distills them conventionally. A thumper receives low wines as hot vapor that bubbles through a small pool of liquid, the 'thumping' sound gives it its name. Doublers are more common at large Kentucky distilleries; thumpers are more typical at pot-still craft operations."
   - q: "What are low wines and high wines in bourbon production?"
-    a: "Low wines are the distillate produced by the beer still (first distillation), typically around 20, 30% ABV. High wines are what comes out of the doubler or thumper (second distillation), reaching 60, 70% ABV, close to the barrel entry proof limit of 125 proof (62.5% ABV) set by federal law."
+    a: "Low wines are the distillate produced by the beer still (first distillation), typically around 20-30% ABV. High wines are what comes out of the doubler or thumper (second distillation), reaching 60-70% ABV, close to the barrel entry proof limit of 125 proof (62.5% ABV) set by federal law."
   - q: "Does every bourbon distillery use a doubler?"
     a: "Most major Kentucky bourbon producers use a doubler. Some craft distilleries use a thumper instead, and a small number use pot stills for both passes. A few operations run only a column still with a single distillation, though that is less common for straight bourbon."
   - q: "Does the doubler affect bourbon flavor?"

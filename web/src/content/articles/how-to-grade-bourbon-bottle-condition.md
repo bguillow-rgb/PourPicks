@@ -22,7 +22,7 @@ faqs:
   - q: "What is the most important factor when grading a bourbon bottle's condition?"
     a: "Fill level is typically the first and most critical check. A bottle that has lost liquid, whether through a slow leak, a compromised seal, or evaporation, raises red flags about storage integrity and directly reduces market value. After fill level, label condition is the next biggest driver of price."
   - q: "Does a low fill level always mean a bourbon bottle is bad?"
-    a: "Not necessarily. Some natural evaporation through the closure is expected in older bottles, especially those sealed with cork. A minor drop in fill is normal for a 20, 30-year-old dusty. The concern is a fill level below the shoulder, which suggests a more significant loss and potential flavor degradation."
+    a: "Not necessarily. Some natural evaporation through the closure is expected in older bottles, especially those sealed with cork. A minor drop in fill is normal for a 20-30-year-old dusty. The concern is a fill level below the shoulder, which suggests a more significant loss and potential flavor degradation."
   - q: "Does cracked wax hurt a bourbon bottle's collectible value?"
     a: "It depends on severity. Hairline cracks with no seepage or leakage typically earn a B+ condition grade and affect value minimally. Visible cracks combined with staining or seepage are a red flag and can push a bottle into 'drinker' territory, where collectible value is largely gone."
   - q: "Does the original box or tube matter for a bourbon bottle's value?"

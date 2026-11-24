@@ -26,7 +26,7 @@ faqs:
   - q: "What is the difference between a bourbon subscription box and a distillery VIP club?"
     a: "A subscription box (Flaviar, Taster's Club, PourMore) is run by a third-party retailer and curates bottles from multiple brands. A distillery VIP club (Remus Bottle Club, Buffalo Trace Single Barrel Select) is run by the distillery itself and offers direct access to its own limited releases, barrel picks, or experimental series. The two are complementary, not interchangeable."
   - q: "How much does a typical bourbon subscription cost per month?"
-    a: "Entry-level retail subscription clubs typically run $40, $80 per shipment for one full-sized bottle. Premium or multi-bottle tiers can reach $100, $200+ per month. Distillery VIP programs vary widely, some are free to join with per-bottle pricing, others charge a quarterly membership fee plus the cost of allocated bottles."
+    a: "Entry-level retail subscription clubs typically run $40-$80 per shipment for one full-sized bottle. Premium or multi-bottle tiers can reach $100, $200+ per month. Distillery VIP programs vary widely, some are free to join with per-bottle pricing, others charge a quarterly membership fee plus the cost of allocated bottles."
   - q: "What should a collector look for when evaluating a bourbon club?"
     a: "Look for transparency about how bottles are selected (award criteria, proof minimums, or distillery relationships), a clear cancellation or pause policy, geographic shipping eligibility, and whether the club surfaces bottles you genuinely can't find locally. Clubs that duplicate your everyday shelf finds offer little value to an established collector."
 published: true

@@ -10,7 +10,7 @@ relatedQueries:
   - "bourbon tasting scoring sheet"
   - "how to run a blind tasting for bourbon"
   - "bourbon flight vs blind tasting"
-quickAnswer: "To run a bourbon blind tasting at home, pour 3, 5 samples into numbered or coded glasses, no labels visible. Nose, sip, and score each one before revealing identities. Use a simple scoring sheet (nose, palate, finish, overall). The reveal almost always surprises you, which is the whole point."
+quickAnswer: "To run a bourbon blind tasting at home, pour 3-5 samples into numbered or coded glasses, no labels visible. Nose, sip, and score each one before revealing identities. Use a simple scoring sheet (nose, palate, finish, overall). The reveal almost always surprises you, which is the whole point."
 publishedAt: "2026-10-28"
 author: "Pour Picks"
 relatedSlugs:
@@ -22,7 +22,7 @@ faqs:
   - q: "How many bourbons should I include in a blind tasting?"
     a: "Three to five is the practical sweet spot. Fewer than three gives you too little contrast; more than five risks palate fatigue, especially above 100 proof. For a focused single-variable comparison, same distillery, different ages, three samples works perfectly."
   - q: "Do I need a scoring sheet for a blind tasting?"
-    a: "You don't need a printed form, but writing scores down before the reveal is essential. Memory is unreliable and biased; the moment you see a label, your recollection of the pour shifts. Even rough 1, 10 scores for nose, palate, and finish are enough to make the exercise honest."
+    a: "You don't need a printed form, but writing scores down before the reveal is essential. Memory is unreliable and biased; the moment you see a label, your recollection of the pour shifts. Even rough 1-10 scores for nose, palate, and finish are enough to make the exercise honest."
   - q: "What glass should I use for a blind tasting?"
     a: "A Glencairn or tulip-shaped nosing glass concentrates aroma and gives you the most information. Rocks glasses work in a pinch but scatter volatile compounds. Use the same glass style for every pour, inconsistent glassware introduces a variable that skews your notes."
   - q: "Should I add water or ice during a blind tasting?"

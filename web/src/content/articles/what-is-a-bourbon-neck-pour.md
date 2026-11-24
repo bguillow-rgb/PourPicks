@@ -24,11 +24,11 @@ faqs:
   - q: "Why does the neck pour taste different?"
     a: "Several factors may contribute: volatile flavor compounds evaporate rapidly when the seal is first broken, the whiskey hasn't had time to interact with air and 'open up,' and your palate hasn't yet acclimated to the proof. Most experts say it's a combination of all three."
   - q: "Should I dump the neck pour?"
-    a: "No. The liquid is chemically identical to the rest of the bottle. Even if it tastes different, it's not 'bad.' Give it 10, 15 minutes in the glass, take a second sip, and reassess before writing off the bottle."
+    a: "No. The liquid is chemically identical to the rest of the bottle. Even if it tastes different, it's not 'bad.' Give it 10-15 minutes in the glass, take a second sip, and reassess before writing off the bottle."
   - q: "Does the neck pour myth apply to all bourbons?"
     a: "It's most discussed with high-proof, barrel-proof releases where the first hit of alcohol is especially intense. Lower-proof, well-integrated bourbons show less of a perceptible difference between the neck and subsequent pours."
   - q: "How do I log a neck pour in my tasting notes?"
-    a: "If you taste the neck pour, note it clearly, label it 'Pour 1 (neck)' and record a second tasting 15, 30 minutes later or after a week of being opened. This gives you a meaningful before-and-after reference, especially useful for tracking how a bottle evolves."
+    a: "If you taste the neck pour, note it clearly, label it 'Pour 1 (neck)' and record a second tasting 15-30 minutes later or after a week of being opened. This gives you a meaningful before-and-after reference, especially useful for tracking how a bottle evolves."
 published: true
 ---
 

@@ -56,10 +56,10 @@ Here's how the major proof bands break down:
 
 | Proof Range | ABV | Texture & Heat | Best Use Case | Collector Notes |
 |---|---|---|---|---|
-| 80 to 89 proof | 40, 44.5% | Light, smooth, low burn | Cocktails, casual intro pours | Many historic/dusty bottles land here |
-| 90 to 99 proof | 45, 49.5% | Balanced, approachable | Neat sipping, food pairing | Widest selection; excellent daily drinkers |
+| 80 to 89 proof | 40-44.5% | Light, smooth, low burn | Cocktails, casual intro pours | Many historic/dusty bottles land here |
+| 90 to 99 proof | 45-49.5% | Balanced, approachable | Neat sipping, food pairing | Widest selection; excellent daily drinkers |
 | 100 proof | 50% | Structured, classic | Neat or cocktails | Bottled-in-Bond standard; great value tier |
-| 101 to 109 proof | 50.5, 54.5% | Fuller, warming | Neat sipping, on the rocks | Strong cellar utility; often underrated |
+| 101 to 109 proof | 50.5-54.5% | Fuller, warming | Neat sipping, on the rocks | Strong cellar utility; often underrated |
 | 110 to 124 proof | 55 to 62% | Rich, intense | Neat with water optional | High-complexity sipping; secondary value |
 | 125+ proof (barrel proof) | 62.5%+ | Dense, concentrated | Neat or with a few drops of water | Collector priority; batch variation adds interest |
 

@@ -24,7 +24,7 @@ faqs:
   - q: "Does opening a bottle ruin its collector value?"
     a: "Yes, for most purposes. An opened bottle is considered unfit for resale on the secondary market and will be graded down significantly for condition. If resale value matters, keep it sealed. If you intend to drink it, opening doesn't 'hurt' the bourbon itself."
   - q: "How long does bourbon last once opened?"
-    a: "An opened bottle stored upright, away from light and heat, can hold its flavor for 1, 2 years or longer if it's more than half full. As the bottle empties and the air-to-liquid ratio increases, oxidation accelerates and flavor degrades faster."
+    a: "An opened bottle stored upright, away from light and heat, can hold its flavor for 1-2 years or longer if it's more than half full. As the bottle empties and the air-to-liquid ratio increases, oxidation accelerates and flavor degrades faster."
   - q: "Which sealed bourbons are actually worth holding for value?"
     a: "Bottles with consistent secondary-market demand, such as Pappy Van Winkle, Buffalo Trace Antique Collection expressions, and certain annual limited releases, may hold or grow in value. Most standard allocated and limited releases do not appreciate significantly over time."
   - q: "Should I keep a backup sealed bottle of my favorite bourbon?"

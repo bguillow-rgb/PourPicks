@@ -24,11 +24,11 @@ faqs:
   - q: "Are limited edition bourbons always better quality than standard releases?"
     a: "Not automatically. The 'limited edition' label signals scarcity, not guaranteed quality. Some limited editions are exceptional expressions finished in rare casks or drawn from extraordinary barrels; others are marketing exercises. Proof, age statement, production transparency, and third-party scores all matter more than the label alone."
   - q: "How many bottles does a typical limited edition bourbon release produce?"
-    a: "It varies enormously. A single-barrel limited release might yield 150, 250 bottles from one cask. A distillery anniversary bottling might run 5,000 cases. The key is that the number is fixed in advance and the release is not replenished once sold through."
+    a: "It varies enormously. A single-barrel limited release might yield 150-250 bottles from one cask. A distillery anniversary bottling might run 5,000 cases. The key is that the number is fixed in advance and the release is not replenished once sold through."
   - q: "Do limited edition bourbons increase in value over time?"
     a: "Some do, some don't. Bottles from highly regarded distilleries with strong critical scores, transparent provenance, and genuine scarcity have shown the strongest secondary-market floor. Condition, fill level, and original packaging all affect resale. No limited edition is a guaranteed appreciating asset."
   - q: "How should I store a limited edition bourbon I want to keep long-term?"
-    a: "Store it upright in a stable environment: away from direct light, at a consistent temperature between 55, 65°F, and at moderate humidity (50, 70%). Avoid temperature swings and UV exposure. If the bottle is sealed, the whiskey itself won't change, but the label, capsule, and packaging condition affect perceived value."
+    a: "Store it upright in a stable environment: away from direct light, at a consistent temperature between 55-65°F, and at moderate humidity (50-70%). Avoid temperature swings and UV exposure. If the bottle is sealed, the whiskey itself won't change, but the label, capsule, and packaging condition affect perceived value."
 published: true
 ---
 

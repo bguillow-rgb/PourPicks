@@ -26,9 +26,9 @@ faqs:
   - q: "Does ice actually change how bourbon tastes?"
     a: "Yes, in two ways. Cold temperature suppresses volatile aromatics, muting the nose. And as ice melts, dilution gradually changes the proof, which shifts the flavor balance, typically softening heat but also flattening subtler notes."
   - q: "How much water should I add to bourbon?"
-    a: "Most tasters start with 2, 4 drops of room-temperature or slightly cool water per 1.5 oz pour. This is enough to lower proof a few points and 'crack open' esters and aromatic compounds without overwhelming the spirit."
+    a: "Most tasters start with 2-4 drops of room-temperature or slightly cool water per 1.5 oz pour. This is enough to lower proof a few points and 'crack open' esters and aromatic compounds without overwhelming the spirit."
   - q: "What type of ice is best for bourbon on the rocks?"
-    a: "A single large cube or sphere (2, 2.5 inches) is ideal. Its lower surface-area-to-volume ratio melts far slower than standard cubes, chilling the bourbon while minimizing dilution over a 20, 30 minute pour."
+    a: "A single large cube or sphere (2-2.5 inches) is ideal. Its lower surface-area-to-volume ratio melts far slower than standard cubes, chilling the bourbon while minimizing dilution over a 20-30 minute pour."
 published: true
 ---
 

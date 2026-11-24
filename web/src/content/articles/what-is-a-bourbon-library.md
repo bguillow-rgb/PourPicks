@@ -10,7 +10,7 @@ relatedQueries:
   - "reference bourbon collection"
   - "how many bottles should a bourbon collector have"
   - "what bottles should every bourbon collector own"
-quickAnswer: "A bourbon library is a personal collection curated for reference and ongoing comparison, not just quantity. Unlike a general cellar, a library is organized around styles, producers, and benchmarks so you can revisit and contrast bottles over time. Serious collectors typically anchor theirs around 20, 100 intentionally chosen bottles."
+quickAnswer: "A bourbon library is a personal collection curated for reference and ongoing comparison, not just quantity. Unlike a general cellar, a library is organized around styles, producers, and benchmarks so you can revisit and contrast bottles over time. Serious collectors typically anchor theirs around 20-100 intentionally chosen bottles."
 publishedAt: "2026-10-08"
 author: "Pour Picks"
 relatedSlugs:
@@ -22,11 +22,11 @@ faqs:
   - q: "How is a bourbon library different from a bourbon cellar?"
     a: "A cellar is any stored collection, allocated bottles, backstock, trade fodder. A library is curated for reference: every bottle has a reason to be there, whether as a benchmark expression, a style anchor, or a historical data point. Library thinking is about selection quality over quantity."
   - q: "How many bottles do you need to have a bourbon library?"
-    a: "There's no magic number. A focused library of 20, 30 intentionally chosen bottles is more useful than 200 random acquisitions. Most experienced collector-curators suggest anchoring around 5, 10 style pillars first, then expanding from there."
+    a: "There's no magic number. A focused library of 20-30 intentionally chosen bottles is more useful than 200 random acquisitions. Most experienced collector-curators suggest anchoring around 5-10 style pillars first, then expanding from there."
   - q: "Should every bottle in a bourbon library be opened?"
     a: "A library is most valuable when bottles are open and being tasted, that's what separates it from pure collecting for resale. Keeping sealed reference bottles alongside open ones is fine, but the library loses its purpose if nothing is ever poured."
   - q: "What bourbon styles should anchor a reference collection?"
-    a: "Most collectors build around four or five style pillars: a wheated bourbon, a high-rye bourbon, a bottled-in-bond, a barrel-proof expression, and a standard 90, 100 proof daily drinker. From there you can add distillery-specific or age-statement benchmarks."
+    a: "Most collectors build around four or five style pillars: a wheated bourbon, a high-rye bourbon, a bottled-in-bond, a barrel-proof expression, and a standard 90-100 proof daily drinker. From there you can add distillery-specific or age-statement benchmarks."
   - q: "How do I track which bottles in my library I've opened vs. sealed?"
     a: "A dedicated bourbon collection app like Pour Picks lets you log open vs. sealed status, track fill levels, and attach tasting notes to individual bottles, so your library records stay as organized as the bottles themselves."
 published: true
