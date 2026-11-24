@@ -36,7 +36,7 @@ faqs:
   - q: "What's the difference between Distiller and Whiskybase?"
     a: "Distiller is American and built around flavor graphs, reviews and TruePrice market values. Whiskybase is European and calls itself the world's largest whisky database, with deep coverage of single casks and independent bottlings. For mainstream American whiskey, Distiller is easier to use."
   - q: "Are bourbon apps worth paying for?"
-    a: "If your shelf has more than five bottles, the free version of Pour Picks fills up quickly. Cask Club is $5.99 a month or $49.99 a year and adds unlimited bottles and scans, Wishlist and Finished shelves, Precision Match and food pairings on every bottle."
+    a: "If your shelf has more than five bottles, the free version of Pour Picks fills up quickly. Cask Club is $5.99 a month or $49.99 a year and adds unlimited bottles and scans, Wishlist and Finished shelves, and Precision Match."
 published: true
 ---
 
@@ -72,7 +72,7 @@ Most bourbon apps answer "what do I have?" Pour Picks also answers "what should 
 - **Bourbon Concierge.** Enter a bottle you love and it finds the closest matches in the catalog.
 - **Reviews.** Rate the nose, palate and finish on anything you pour. Reviews are free for everyone.
 
-Pour Picks is free to download on iPhone. The free version holds five owned bottles and five label scans. Cask Club, the paid membership, is $5.99 a month or $49.99 a year. It removes both limits and adds Wishlist and Finished shelves, Precision Match (10 questions, your top 10 bottles, and why each one fits), food pairings on every bottle, and a tasting journal you can export to CSV.
+Pour Picks is free to download on iPhone. The free version holds five owned bottles and five label scans. Cask Club, the paid membership, is $5.99 a month or $49.99 a year. It removes both limits and adds Wishlist and Finished shelves and Precision Match (10 questions, your top 10 bottles, and why each one fits). Food pairings on every bottle page are free for everyone.
 
 There's no Android version yet, and there's no community review feed. If reading other people's reviews before you buy is what you want, Distiller and OnlyDrams cover that.
 
