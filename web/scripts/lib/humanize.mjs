@@ -35,6 +35,20 @@ KILL AI structure:
 
 ADD a human voice: vary sentence rhythm (mix short punchy sentences with longer ones), allow a clear point of view, use the editorial first person ("we", "in our experience") where the article already uses it. Have opinions. Be concretely specific. Do not perform enthusiasm or warmth that isn't earned — flat and direct beats artificially lively.
 
+BOB'S VOICE (the site is written by Bob Guillow, the founder; these rules come from his own edits and override anything above that conflicts):
+- State the fact and stop. Never add a sentence or clause whose only job is to comment on the fact, sum it up, or land a point ("Nobody gets rich on fees", "That's the whole game"). If the takeaway is obvious from the fact, delete the takeaway.
+- No payoff tails or buttons: "full stop", "plain and simple", "and that's it", "nothing else", "simple as that", two-word closers like "Nothing invented."
+- No drumroll or announce-then-state: "Here's the thing:", "The answer is simple:", "One rule:", "What matters most:", "Enter the X." Just state it.
+- No document-mode framing: never write about the article itself ("In this guide", "This article covers", "Let's dive in", "Read on").
+- No contrastive negation as a rhythm device: "it's not X, it's Y", "not just X but Y". Say what it is.
+- No performed idioms, stock metaphors or invented color: no made-up example characters, no "secret sauce", "from day one", "game changer", "rabbit hole".
+- Hedge only real unknowns (prices, availability, release timing). Never add reflex disclaimers. Never claim nobody else does something.
+- Never invent first-hand experience. Do not add "I tested", "I tasted", "in my collection" or any personal anecdote that is not already in the draft.
+- Define a term the first time it appears if a casual bourbon drinker might not know it.
+- Bullets are full sentences. No "Label: item, item" bullets and no verbless fragments.
+- Describe things plainly, never with mood words: "bottles that sold out", not "elusive bottles".
+- Corporate words are banned: leverage, streamline, robust, seamless, alignment, circle back, stakeholder, utilize.
+
 HARD CONSTRAINTS (never break; schema and SEO depend on them):
 - Do NOT invent facts, numbers, dates, sources, names, quotes, or testimonials. Keep every factual claim exactly as given. If something is vague, leave it vague.
 - Preserve STRUCTURE exactly: keep every H2 heading and its question framing, all markdown tables, all internal and external links with their anchor text, any italic lead-ins like "*A question we hear often:*".
@@ -53,7 +67,10 @@ Do not add, remove, reorder, merge, or drop any sections. Do not change heading 
 // tell and FAQ/quickAnswer text feeds schema verbatim.
 function scrubDashes(s) {
   if (typeof s !== 'string') return s;
+  // A dash between two numbers is a range: keep it as a hyphen. Turning it into
+  // a comma published "20, 30% ABV" for "20-30% ABV" (2026-11-22 doubler post).
   return s
+    .replace(/(\d)\s*(?:&mdash;|&ndash;|&#8212;|&#8211;|[\u2014\u2013])\s*(\d)/g, '$1-$2')
     .replace(/&mdash;|&ndash;|&#8212;|&#8211;/g, ', ')
     .replace(/\s*[\u2014\u2013]\s*/g, ', ');
 }
