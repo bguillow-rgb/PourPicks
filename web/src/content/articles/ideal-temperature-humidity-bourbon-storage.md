@@ -32,7 +32,7 @@ faqs:
 published: true
 ---
 
-The most common storage mistake collectors make isn't buying the wrong shelf or skipping a humidity pack. It's never measuring the environment at all. You can own a $300 bottle and store it twenty feet from a radiator in a 78°F hallway for three years without realizing the heat is slowly driving off lighter volatile aromatics and concentrating oak tannins. Before you rearrange a single bottle, know your numbers.
+The most common storage mistake collectors make isn't buying the wrong shelf or skipping a humidity pack. It's never measuring the environment at all. A $300 bottle stored twenty feet from a radiator in a 78°F hallway for three years will slowly lose lighter volatile aromatics as the heat concentrates oak tannins. Before you rearrange a single bottle, know your numbers.
 
 ## What temperature should I actually be storing my bourbon at?
 
@@ -40,13 +40,13 @@ The most common storage mistake collectors make isn't buying the wrong shelf or 
 
 The ideal whiskey storage temperature is between 59-68°F, but the expert consensus among serious collectors leans toward the tighter window of 55-65°F. Within that range, the science favors the lower end for long-term cellaring. Cooler temperatures slow micro-oxidation through any minor cork imperfections and reduce evaporative pressure on the seal.
 
-The more important variable, though, is *consistency*. A cellar that holds a steady 62°F beats one that swings from 55°F in January to 75°F in July. When temperature rises and falls repeatedly, the liquid inside expands and contracts, creating micro-pressure changes that push tiny amounts of vapor past even a tight cork. Over months and years, that cumulative effect shows up as [ullage](/articles/what-is-bourbon-bottle-ullage), a drop in fill level, and potential flavor loss.
+The more important variable is *consistency*. A cellar that holds a steady 62°F beats one that swings from 55°F in January to 75°F in July. When temperature rises and falls repeatedly, the liquid inside expands and contracts, creating micro-pressure changes that push tiny amounts of vapor past even a tight cork. Over months and years, that cumulative effect shows up as [ullage](/articles/what-is-bourbon-bottle-ullage), a drop in fill level, and potential flavor loss.
 
 A practical benchmark: if you're comfortable in a light sweater in the space, your bourbon probably is too.
 
 ## Does humidity actually matter for bourbon, or is that a wine thing?
 
-This one surprises people. Humidity matters a great deal for wine stored on its side because the cork must stay wet to maintain its seal. Bourbon is a different story. Bottles are stored upright, so the liquid rarely contacts the cork for extended periods. That means humidity is less of a concern for bourbon than for Bordeaux, but it's not irrelevant.
+Humidity matters a great deal for wine stored on its side because the cork must stay wet to maintain its seal. Bourbon is different. Bottles are stored upright, so the liquid rarely contacts the cork for extended periods. Humidity is less of a concern for bourbon than for Bordeaux, but it's not irrelevant.
 
 Some guides put the sweet spot at 50%-70% RH. Our own position is slightly more conservative: 45%-65% relative humidity gives you a comfortable buffer on both ends.
 
@@ -54,17 +54,17 @@ Here's what happens at the extremes:
 
 Too dry (below 40% RH): natural corks can shrink slightly over time. For a bottle you plan to open in six months, this rarely matters. For something you're cellaring five-plus years, a persistently dry environment is a real risk.
 
-Too humid (above 70%-75% RH): mold on a label doesn't ruin the bourbon, but it can tank resale or trade value significantly. The same damp conditions that get into labels can work into shelving and cabinet wood.
+Too humid (above 70%-75% RH): mold on a label doesn't ruin the bourbon, but it can tank resale or trade value. The same damp conditions that get into labels can work into shelving and cabinet wood.
 
-The good news: most homes naturally sit in the 35%-55% RH range indoors, which is acceptable for bourbon with synthetic corks or tight natural corks and short-to-medium hold times. If you're in an arid climate or running forced-air heat all winter, a small room humidifier keeps you in range without any major infrastructure investment.
+Most homes naturally sit in the 35%-55% RH range indoors, which is acceptable for bourbon with synthetic corks or tight natural corks and short-to-medium hold times. If you're in an arid climate or running forced-air heat all winter, a small room humidifier keeps you in range without any major infrastructure investment.
 
 ## How do temperature and humidity interact, and why does it matter for collectors?
 
-*Readers frequently ask:* "Can low humidity compensate for higher temperature?" No, they're largely independent variables. But they do interact in one meaningful way.
+*Readers frequently ask:* "Can low humidity compensate for higher temperature?" They're largely independent variables. But they do interact in one meaningful way.
 
 Warmer air holds more moisture, which means if your storage space swings warm in summer, the *relative* humidity can drop even if the absolute moisture in the air stays constant. A space that reads 55% RH in February might read 40% RH in August when temperatures climb. That seasonal shift is exactly the kind of slow-moving threat that damages corks over multi-year holds.
 
-The fix is monitoring both variables together, not just one. A combined thermometer/hygrometer unit, available for under $20 from most home improvement retailers, gives you a real-time and min/max readout so you can catch a problem before it reaches your bottles. Place one in each distinct storage zone if your cellar spans multiple rooms or shelving systems.
+Monitor both variables together, not just one. A combined thermometer/hygrometer unit, available for under $20 from most home improvement retailers, gives you a real-time and min/max readout so you can catch a problem before it reaches your bottles. Place one in each distinct storage zone if your cellar spans multiple rooms or shelving systems.
 
 ## What's the best spot in my home that naturally hits these numbers?
 
@@ -84,11 +84,11 @@ One underused option: a bathroom or laundry room interior wall closet. These spa
 
 ## What about light? Is UV really a threat to bottled bourbon?
 
-*This one comes up a lot:* collectors who display bourbon on open shelves near windows often ask whether sunlight actually damages sealed bottles.
+*This one comes up a lot:* collectors who display bourbon on open shelves near windows often ask whether sunlight damages sealed bottles.
 
 It does. Ultraviolet radiation breaks down organic compounds in bourbon, particularly certain esters and phenolic compounds that contribute to fruity and floral notes. The effect is slow and cumulative rather than immediate, but a bottle sitting in direct afternoon sun for a year can show measurably different flavor than an identical bottle stored in darkness. This is one reason many premium releases use dark glass or come in opaque tubes or boxes.
 
-Practical rules: store bottles away from windows, turn off display lighting when the room isn't in use, and treat UV-filtering glass shelving as a real upgrade if display is part of your setup. Incandescent and LED light at normal room brightness is far less damaging than direct sunlight but still worth minimizing for anything you plan to hold more than a year or two.
+Store bottles away from windows, turn off display lighting when the room isn't in use, and consider UV-filtering glass shelving if display is part of your setup. Incandescent and LED light at normal room brightness is far less damaging than direct sunlight but still worth minimizing for anything you plan to hold more than a year or two.
 
 ## How do I monitor and maintain these conditions without spending a fortune?
 
@@ -103,8 +103,6 @@ If you're [tracking your bourbon collection](/bourbon-inventory-app) digitally, 
 
 ## Does an opened bottle need the same storage conditions?
 
-Once you crack the seal, the calculus shifts. An opened bottle now has headspace, oxygen sitting above the liquid, and the oxidation clock starts ticking. Temperature and humidity still matter, but a different threat takes priority: fill level. The more headspace, the faster flavor drift occurs.
+Once you crack the seal, the calculus shifts. An opened bottle now has headspace, oxygen sitting above the liquid, and the oxidation clock starts ticking. Temperature and humidity still matter, but fill level becomes the bigger concern. The more headspace, the faster flavor drift occurs.
 
-For opened bottles you're actively working through, standard room temperature (65-72°F) is fine. The real enemies are wide temperature swings and leaving a half-empty bottle untouched for months. If you have an opened bottle you want to preserve longer, decant into a smaller bottle to reduce headspace, or use an inert gas (argon-based wine preservation spray works equally well for bourbon). Our article on [whether opened bourbon goes bad](/articles/does-bourbon-go-bad) covers oxidation timelines in full detail.
-
----
+For opened bottles you're actively working through, standard room temperature (65-72°F) is fine. Wide temperature swings and leaving a half-empty bottle untouched for months are the real problems. If you have an opened bottle you want to preserve longer, decant into a smaller bottle to reduce headspace, or use an inert gas (argon-based wine preservation spray works equally well for bourbon). Our article on [whether opened bourbon goes bad](/articles/does-bourbon-go-bad) covers oxidation timelines in full detail.

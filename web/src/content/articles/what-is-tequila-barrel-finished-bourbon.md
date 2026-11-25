@@ -32,9 +32,9 @@ faqs:
 published: true
 ---
 
-Tequila barrel finishing is one of those techniques that sounds gimmicky until you taste a well-executed example, and then you start wondering why the category doesn't get more collector attention. The short version: a fully mature bourbon gets pulled from its original new charred oak cask and rested in a barrel that previously held tequila. The distiller lets it sit, bottles it, and what comes out is neither straight bourbon nor anything close to tequila. It's its own thing.
+A fully matured bourbon gets pulled from its original new charred oak cask and rested in a barrel that previously held tequila. The distiller lets it sit, bottles it, and what comes out is neither straight bourbon nor anything close to tequila. It's its own thing.
 
-The process starts after the bourbon has already done its time in new, charred oak as required by law. Instead of going straight to the bottle, it moves into a second barrel, one that previously held tequila, for a finishing period. That secondary rest is where the character shifts.
+The process starts after the bourbon has already done its time in new, charred oak as required by law. Instead of going straight to the bottle, it moves into a second barrel that previously held tequila for a finishing period. That secondary rest is where the character shifts.
 
 ## What exactly is the finishing process, and why does the barrel matter so much?
 
@@ -52,7 +52,7 @@ The moment a distiller moves the spirit into a second cask, whether that's a she
 
 Federal regulations are specific here: for products required to be stored in oak barrels under a standard of identity, putting the spirit into an additional barrel requires a redesignation of the class or type. The base bourbon going into the finishing barrel was perfectly compliant with straight-bourbon rules. What comes out may not qualify for the same label.
 
-This is why finished bourbon labels often look more like regulatory footnotes than marketing copy. The law requires consumers to understand exactly how the spirit has been handled. For collectors, that matters practically. A "whiskey specialty" designation is not a quality demerit; it's a signal that a secondary cask was used. When you're [building out a cellar](/bourbon-inventory-app) and cataloging bottles for insurance or resale, logging the correct designation prevents confusion later.
+Finished bourbon labels often look more like regulatory footnotes than marketing copy because the law requires consumers to understand exactly how the spirit has been handled. For collectors, that matters practically. A "whiskey specialty" designation is not a quality demerit; it's a signal that a secondary cask was used. When you're [building out a cellar](/bourbon-inventory-app) and cataloging bottles for insurance or resale, logging the correct designation prevents confusion later.
 
 ## What does tequila barrel finished bourbon actually taste like?
 
@@ -60,7 +60,7 @@ This is why finished bourbon labels often look more like regulatory footnotes th
 
 The influence is more restrained than that. The bourbon's caramel, vanilla, and dried-fruit backbone stays intact, with a secondary layer of cooked agave, citrus peel (often grapefruit or lime), and a light earthy or grassy herbaceousness underneath. The agave doesn't take over. It fills in the gaps.
 
-The mash bill matters here. A high-rye bourbon brings spice to the encounter, and that contrast with the agave earthiness is often where the most interesting things happen. Wheated bourbons tend to read softer against the agave influence, sometimes producing something almost tropical. Neither result is objectively better. It depends on whether you want contrast or harmony in the glass.
+The mash bill matters here. A high-rye bourbon brings spice to the encounter, and that contrast with the agave earthiness is often where the most interesting things happen. Wheated bourbons tend to read softer against the agave influence, sometimes producing something almost tropical. Neither result is better. It depends on whether you want contrast or harmony in the glass.
 
 ## How do I tell a reposado-cask finish from an añejo-cask finish on the shelf?
 
@@ -79,16 +79,16 @@ Mezcal-finished expressions are rarer and less standardized, but they're startin
 
 *Readers frequently ask:* for specific names, so here's honest context rather than a hype list.
 
-The category has moved past novelty. The Blood Oath series is worth tracking. Pact No. 11 combines several aged bourbons with one component finished in añejo tequila barrels, and the result lands cooked agave and subtle spice alongside the expected oak and dark fruit. Bear Fight's flagship bourbon, finished in reposado tequila casks, adds vanilla and smoky notes to a high-rye base. Woodinville has also released a tequila-barrel-finished expression: a limited, carefully made variation worth seeking out, particularly for collectors already following the brand.
+The category has moved past novelty. The Blood Oath series is worth tracking. Pact No. 11 combines several aged bourbons with one component finished in añejo tequila barrels, and the result lands cooked agave and subtle spice alongside the expected oak and dark fruit. Bear Fight's flagship bourbon, finished in reposado tequila casks, adds vanilla and smoky notes to a high-rye base. Woodinville has also released a tequila-barrel-finished expression: a limited variation worth seeking out, particularly for collectors already following the brand.
 
 According to whiskey auction data, finished bourbon expressions as a category, including tequila-cask variants, have seen rising consignment volume on secondary platforms since 2023, even as the broader mid-tier allocated market has softened. That divergence suggests the market is rewarding genuine novelty over mere scarcity.
 
-When evaluating any bottle in this category, look for three things: a clearly stated cask type on the label, a base bourbon with an identifiable age or batch code so you can contextualize the finish, and a proof that wasn't dramatically cut after the secondary rest. Barrel-strength finished expressions preserve the most character. The [tasting notes you write](/articles/how-to-write-bourbon-tasting-notes) for these bottles will be most useful if you record the agave register separately from the bourbon baseline. It helps you track how the finish evolves as the opened bottle oxidizes.
+When evaluating any bottle in this category, look for a clearly stated cask type on the label, a base bourbon with an identifiable age or batch code so you can contextualize the finish, and a proof that wasn't dramatically cut after the secondary rest. Barrel-strength finished expressions preserve the most character. The [tasting notes you write](/articles/how-to-write-bourbon-tasting-notes) for these bottles will be most useful if you record the agave register separately from the bourbon baseline. It helps you track how the finish evolves as the opened bottle oxidizes.
 
 ## Does the TTB labeling quirk affect resale value or collectibility?
 
-It can, and it's worth understanding before you pay secondary-market prices. Because a tequila-finished bourbon is technically reclassified as a "whiskey specialty" rather than straight bourbon, it sits outside the strict definition that some auction houses and resale platforms use when grading or categorizing lots.
+It can. Because a tequila-finished bourbon is reclassified as a "whiskey specialty" rather than straight bourbon, it sits outside the strict definition that some auction houses and resale platforms use when grading or categorizing lots.
 
 In practical terms: don't expect a tequila-finished expression to command the same premium as a same-distillery straight bourbon of equivalent age in secondary trading. The reclassification is not a quality demerit. Plenty of finished expressions outperform their unfinished siblings on blind tasting panels. But it does affect how generalist buyers perceive the bottle. For collectors tracking their cellar in an app like [Pour Picks](/bourbon-inventory-app), logging the TTB designation alongside the producer's marketing name keeps your records accurate if you ever need documentation for insurance or consignment.
 
-The flip side: that classification gap can mean better value at retail. Finished expressions occasionally land below comparable age-stated straight bourbons precisely because casual buyers aren't sure what to make of the "whiskey specialty" tag. That's a collector's advantage worth knowing.
+That classification gap can also mean better value at retail. Finished expressions occasionally land below comparable age-stated straight bourbons precisely because casual buyers aren't sure what to make of the "whiskey specialty" tag. That's a collector's advantage worth knowing.

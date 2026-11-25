@@ -1,7 +1,7 @@
 ---
 title: "What Is the Lincoln County Process? Charcoal Mellowing, Tennessee Whiskey, and What Every Bourbon Collector Should Know"
 seoTitle: "What Is the Lincoln County Process? (2026 Guide)"
-description: "The Lincoln County Process filters new-make whiskey through sugar maple charcoal before barrel aging. Here's what it does to flavor — and why collectors should care."
+description: "The Lincoln County Process filters new-make whiskey through sugar maple charcoal before barrel aging. Here's what it does to flavor, and why collectors should care."
 tier: "detail"
 targetQuery: "what is the Lincoln County Process"
 relatedQueries:
@@ -32,15 +32,15 @@ faqs:
 published: true
 ---
 
-The Lincoln County Process is one of American whiskey's most misunderstood production steps. It separates an entire legal category of spirit from bourbon, yet gets routinely oversimplified as "just filtered through charcoal." If you collect across categories, or you've ever stood in front of a shelf of Tennessee whiskey wondering whether it belongs in your cellar, here's what you actually need to know.
+The Lincoln County Process separates an entire legal category of spirit from bourbon, yet gets routinely oversimplified as "just filtered through charcoal." If you collect across categories, or you've stood in front of a shelf of Tennessee whiskey wondering whether it belongs in your cellar, here's what you need to know.
 
 ## Wait -- what exactly is the Lincoln County Process?
 
 This nearly 200-year-old technique, also known as charcoal mellowing, involves filtering fresh whiskey through sugar maple charcoal before it goes into the barrel.
 
-More precisely: distillers burn sugar maple wood to make charcoal, pack it into deep vats, and the fresh whiskey slowly drips through before going into the barrel as usual. Nothing about the aging process after that point changes.
+Distillers burn sugar maple wood to make charcoal, pack it into deep vats, and the fresh whiskey slowly drips through before going into the barrel as usual. Nothing about the aging process after that point changes.
 
-The name has an interesting origin. The process is named for Lincoln County, Tennessee, which was the location of Jack Daniel's distillery at the time of its establishment, though the distillery is no longer in that county. Alfred Eaton is generally credited with inventing the charcoal mellowing process in 1825.
+The process is named for Lincoln County, Tennessee, which was the location of Jack Daniel's distillery at the time of its establishment, though the distillery is no longer in that county. Alfred Eaton is generally credited with inventing charcoal mellowing in 1825.
 
 At Jack Daniel's, the production detail is exacting. Stacks of two-inch square maple logs are sprayed with 140-proof whiskey before being ignited to burn nearly completely, then doused with water to stop combustion. The resulting charcoal is machined into small pellets and layered into 10-foot-tall vats through which the whiskey percolates to remove impurities.
 
@@ -50,27 +50,27 @@ At Jack Daniel's, the production detail is exacting. Stacks of two-inch square m
 
 The Lincoln County Process removes things rather than adding them. The charcoal imparts no flavor, no sweetness, nothing. As Jack Daniel's Master Distiller Chris Fletcher explained, "the main flavor impact is the reduction of oily mouthfeel and grainy -- mostly corn -- flavor."
 
-In the glass, that means fewer sulfur compounds and vegetable oils, the things that can make high-corn new make feel rough or aggressive. The barrel then works on a cleaner starting point. Fletcher says charcoal filtration allows fermentation and barrel-derived flavors to come through more clearly, which is why a Tennessee whiskey at the same age and proof as a Kentucky bourbon can taste noticeably softer on the entry, even before oak character registers.
+That means fewer sulfur compounds and vegetable oils in the glass -- the things that can make high-corn new make feel rough or aggressive. The barrel then works on a cleaner starting point. Fletcher says charcoal filtration allows fermentation and barrel-derived flavors to come through more clearly, which is why a Tennessee whiskey at the same age and proof as a Kentucky bourbon can taste noticeably softer on the entry, even before oak character registers.
 
-One other detail worth knowing: the Lincoln County Process is associated with a loss of about 1% ABV. Minor, but real at scale.
+The Lincoln County Process is also associated with a loss of about 1% ABV. Minor, but real at scale.
 
 ## How does this make Tennessee whiskey legally different from bourbon?
 
 *This one comes up a lot:* collectors who know that Tennessee whiskey is made with at least 51% corn, aged in new charred oak, and hits the same proof limits as bourbon naturally ask -- why isn't it just called bourbon?
 
-The answer is a 2013 state law. On May 13, 2013, Tennessee Governor Bill Haslam signed House Bill 1084, requiring the Lincoln County Process to be used for any product produced in the state and labeled "Tennessee Whiskey," on top of the existing bourbon requirements: at least 51% corn in the mash bill, aging in new charred oak barrels, and the standard limits on distillation, aging, and bottling proof.
+On May 13, 2013, Tennessee Governor Bill Haslam signed House Bill 1084, requiring the Lincoln County Process for any product produced in the state and labeled "Tennessee Whiskey," on top of the existing bourbon requirements: at least 51% corn in the mash bill, aging in new charred oak barrels, and the standard limits on distillation, aging, and bottling proof.
 
 There is exactly one exception. Benjamin Prichard's carries a special grandfathering provision exempting it from the Lincoln County Process while still allowing it to label its products as Tennessee Whiskey. Every other Tennessee Whiskey producer is required to use charcoal mellowing prior to aging.
 
-The practical result: Tennessee whiskey is legally distinct from bourbon at the state level, even though it meets all federal bourbon criteria. Whether you shelve Tennessee whiskey alongside your bourbon or in a separate section of your [bourbon cellar](/articles/how-to-start-a-bourbon-cellar) is a personal call, but understanding the production difference helps frame the comparison.
+Tennessee whiskey is legally distinct from bourbon at the state level, even though it meets all federal bourbon criteria. Whether you shelve Tennessee whiskey alongside your bourbon or in a separate section of your [bourbon cellar](/articles/how-to-start-a-bourbon-cellar) is a personal call, but knowing the production difference helps frame the comparison.
 
 ## How is George Dickel's approach different from Jack Daniel's?
 
-*Readers frequently ask:* Tennessee whiskey is often shorthand for Jack Daniel's, but George Dickel does things differently enough that serious collectors treat the two as genuinely distinct styles.
+*Readers frequently ask:* Tennessee whiskey is often shorthand for Jack Daniel's, but George Dickel does things differently enough that serious collectors treat the two as distinct styles.
 
-Dickel chills its whisky to 40 degrees F before it enters the vats, and allows the liquid to fill the vats rather than trickling through them. That temperature difference matters: chilling the spirit before filtration reportedly encourages the charcoal to strip more oils, producing a spirit Dickel describes as even smoother at barrel entry. Dickel also uses the old Scottish spelling -- "whisky" rather than "whiskey" -- a deliberate nod to the Scottish heritage its founders claimed.
+Dickel chills its whisky to 40 degrees F before it enters the vats, and allows the liquid to fill the vats rather than trickling through them. Chilling the spirit before filtration reportedly encourages the charcoal to strip more oils, producing a spirit Dickel describes as even smoother at barrel entry. Dickel also uses the old Scottish spelling -- "whisky" rather than "whiskey" -- a deliberate nod to the Scottish heritage its founders claimed.
 
-Dickel expressions like the Barrel Select and the 17-Year Old tend to show a noticeably different texture than Jack Daniel's at equivalent age and proof. Neither approach is wrong; they're different interpretations of the same underlying process. For collectors building a [bourbon rotation](/articles/how-to-build-a-bourbon-rotation) that includes American whiskey beyond Kentucky, keeping at least one Dickel expression alongside a Jack Daniel's single barrel makes for a worthwhile side-by-side.
+Dickel expressions like the Barrel Select and the 17-Year Old tend to show a noticeably different texture than Jack Daniel's at equivalent age and proof. For collectors building a [bourbon rotation](/articles/how-to-build-a-bourbon-rotation) that includes American whiskey beyond Kentucky, keeping at least one Dickel expression alongside a Jack Daniel's single barrel makes for a worthwhile side-by-side.
 
 ## Why does this matter for bourbon collectors specifically?
 
@@ -85,18 +85,18 @@ Dickel expressions like the Barrel Select and the 17-Year Old tend to show a not
 | Notable producers | Buffalo Trace, Heaven Hill, Wild Turkey | Jack Daniel's, George Dickel |
 | Single-barrel releases | Common | Available (Jack Daniel's SB, Dickel Barrel Select) |
 
-From a [collection value](/articles/how-to-value-a-bourbon-collection) standpoint, premium Tennessee whiskey releases, particularly Jack Daniel's Single Barrel Special Select and limited Dickel expressions, have developed their own secondary-market following. According to whiskey auction data, select Dickel single-barrel bottlings from independent retailers have traded above retail in recent years, a trend that was rare a decade ago.
+From a [collection value](/articles/how-to-value-a-bourbon-collection) standpoint, premium Tennessee whiskey releases -- particularly Jack Daniel's Single Barrel Special Select and limited Dickel expressions -- have developed their own secondary-market following. According to whiskey auction data, select Dickel single-barrel bottlings from independent retailers have traded above retail in recent years, a trend that was rare a decade ago.
 
-If you're using an app like [Pour Picks](/bourbon-inventory-app) to catalog what you own, Tennessee whiskeys log naturally alongside bourbon -- same fields for distillery, proof, age, mash bill, and personal tasting notes -- making it easy to track these bottles as part of a broader American whiskey cellar rather than a separate project.
+If you're using an app like [Pour Picks](/bourbon-inventory-app) to catalog what you own, Tennessee whiskeys log naturally alongside bourbon -- same fields for distillery, proof, age, mash bill, and personal tasting notes -- making it easy to track these bottles as part of a broader American whiskey cellar.
 
 ## Does the Lincoln County Process affect how I should store or open these bottles?
 
 Storage-wise, Tennessee whiskey follows the same principles as bourbon: upright, away from direct light, stable temperature. The charcoal mellowing step doesn't create any unusual preservation concerns once the spirit is in the bottle. Our guide to [how to store bourbon](/articles/how-to-store-bourbon) covers the full reasoning, and all of it applies here.
 
-Where it does affect collector decisions is proof and palate context. Because the Lincoln County Process removes some of the rough-edged congeners that barrel-proof bourbon collectors often prize, very high-proof Tennessee whiskey can taste deceptively smooth. Worth noting when you [write your tasting notes](/articles/how-to-write-bourbon-tasting-notes): what registers as "soft entry" in a Tennessee whiskey is partly a production artifact, not purely an age or barrel effect.
+Where it does affect collector decisions is proof and palate context. Because the Lincoln County Process removes some of the rough-edged congeners that barrel-proof bourbon collectors often prize, very high-proof Tennessee whiskey can taste deceptively smooth. Keep that in mind when you [write your tasting notes](/articles/how-to-write-bourbon-tasting-notes): what registers as "soft entry" in a Tennessee whiskey is partly a production artifact, not purely an age or barrel effect.
 
 ## Is the Lincoln County Process used anywhere outside Tennessee?
 
 A handful of craft distillers outside Tennessee have experimented with charcoal mellowing, but they cannot legally label the result "Tennessee Whiskey" -- that designation is geographically protected by state law. Treating spirits with charcoal also shows up in vodka production, though the scale and intent differ considerably. Vodka filtration typically uses activated charcoal with a much larger surface area, stripping nearly all congeners. Tennessee whiskey filtration uses lightly packed maple charcoal to selectively reduce harsh compounds while preserving the grain character that will interact with the barrel.
 
-The Lincoln County Process is, for now, a genuinely regional technique -- one of the few production steps in American whiskey that is both legally required and geographically bounded. For collectors who care about provenance and process, that specificity is part of what makes a well-chosen Tennessee whiskey bottle an interesting counterpoint to a standard Kentucky bourbon shelf. It's also useful when you're [reading a bourbon label](/articles/how-to-read-a-bourbon-label): a bottle marked "Tennessee Whiskey" carries a specific legal production history that "bourbon" does not.
+The Lincoln County Process is a genuinely regional technique -- one of the few production steps in American whiskey that is both legally required and geographically bounded. For collectors who care about provenance and process, that specificity is part of what makes a well-chosen Tennessee whiskey bottle an interesting counterpoint to a Kentucky bourbon shelf. It's also useful when you're [reading a bourbon label](/articles/how-to-read-a-bourbon-label): a bottle marked "Tennessee Whiskey" carries a specific legal production history that "bourbon" does not.

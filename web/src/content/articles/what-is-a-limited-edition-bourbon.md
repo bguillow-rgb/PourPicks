@@ -24,7 +24,7 @@ faqs:
   - q: "Are limited edition bourbons always better quality than standard releases?"
     a: "Not automatically. The 'limited edition' label signals scarcity, not guaranteed quality. Some limited editions are exceptional expressions finished in rare casks or drawn from extraordinary barrels; others are marketing exercises. Proof, age statement, production transparency, and third-party scores all matter more than the label alone."
   - q: "How many bottles does a typical limited edition bourbon release produce?"
-    a: "It varies enormously. A single-barrel limited release might yield 150-250 bottles from one cask. A distillery anniversary bottling might run 5,000 cases. The key is that the number is fixed in advance and the release is not replenished once sold through."
+    a: "It varies enormously. A single-barrel limited release might yield 150-250 bottles from one cask. A distillery anniversary bottling might run 5,000 cases. The number is fixed in advance and the release is not replenished once sold through."
   - q: "Do limited edition bourbons increase in value over time?"
     a: "Some do, some don't. Bottles from highly regarded distilleries with strong critical scores, transparent provenance, and genuine scarcity have shown the strongest secondary-market floor. Condition, fill level, and original packaging all affect resale. No limited edition is a guaranteed appreciating asset."
   - q: "How should I store a limited edition bourbon I want to keep long-term?"
@@ -32,23 +32,23 @@ faqs:
 published: true
 ---
 
-A limited edition bourbon occupies a strange and genuinely useful category for collectors. It's not quite the same as a standard annual allocated release, and not quite the same as a one-off single barrel. Knowing what the term actually means, and what it doesn't, is the difference between a smart cellar addition and an expensive impulse buy driven by hype-sticker marketing.
+A limited edition bourbon is not quite the same as a standard annual allocated release, and not quite the same as a one-off single barrel. Knowing what the term means, and what it doesn't, is the difference between a smart cellar addition and an expensive impulse buy driven by hype-sticker marketing.
 
 ## So what actually makes a bourbon "limited edition"?
 
 *A question we hear often:* the phrase appears on labels ranging from ultra-premium anniversary bottlings to run-of-the-mill seasonal expressions dressed up in collector-friendly language.
 
-A limited edition bourbon is whiskey produced in a fixed, intentional, and often non-repeating quantity, typically tied to a particular release, series, year, anniversary, or other special occasion. The defining feature is that the bottle count is set in advance and the run is not replenished once it sells through. When the last bottle moves, that's it.
+A limited edition bourbon is whiskey produced in a fixed, intentional, and often non-repeating quantity, tied to a particular release, series, year, anniversary, or other special occasion. The bottle count is set in advance and the run is not replenished once it sells through. When the last bottle moves, that's it.
 
 That's meaningfully different from what most collectors call an "allocated" release. Allocated bourbons have demand that exceeds what distilleries can supply, so the product gets rationed throughout the distribution chain, but the whiskey itself comes back next year. A bottle like Buffalo Trace's standard Eagle Rare 10 Year is allocated because demand overwhelms supply. A true limited edition, say a one-time anniversary bottling, does not return. That distinction matters when you're deciding what to pay and what to hold.
 
 ## How is a limited edition bourbon actually produced?
 
-*This one comes up a lot:* collectors wonder whether "limited edition" is a production decision or a marketing one. The honest answer is sometimes both.
+*This one comes up a lot:* collectors wonder whether "limited edition" is a production decision or a marketing one. Sometimes it's both.
 
-On the production side, genuine limited editions usually trace back to one of a few triggers. The most transparent are single-barrel bottlings, where a fixed yield of 150-250 bottles comes from one cask and there's literally nothing left to replenish. Others are tied to age statements that required extraordinary patience: a 20- or 25-year expression can only exist if the distillery had the foresight to set barrels aside decades earlier, and once those barrels are gone, the release is gone with them.
+On the production side, genuine limited editions usually trace back to one of a few triggers. The most transparent are single-barrel bottlings, where a fixed yield of 150-250 bottles comes from one cask and there's nothing left to replenish. Others are tied to age statements that required extraordinary patience: a 20- or 25-year expression can only exist if the distillery had the foresight to set barrels aside decades earlier, and once those barrels are gone, the release is gone with them.
 
-A third category worth watching carefully is the commemorative or series release. Distilleries tie these to anniversaries, master distiller milestones, or collector series with numbered installments. The best of these have genuine production stories behind them. The weakest are essentially standard expressions in premium packaging, and they're more common than the industry likes to admit.
+A third category worth watching carefully is the commemorative or series release. Distilleries tie these to anniversaries, master distiller milestones, or collector series with numbered installments. The best of these have genuine production stories behind them. The weakest are standard expressions in premium packaging, and they're more common than the industry likes to admit.
 
 ## What's the difference between a limited edition and a discontinued bourbon?
 
@@ -71,17 +71,17 @@ The collector community has largely converged on the same framework regardless o
 | Condition and packaging | Affects secondary-market pricing directly | Original box, intact wax/capsule, clean label |
 | Production quantity | Lower yields tighten the supply ceiling | Under 5,000 bottles meaningfully tightens scarcity |
 
-No single factor is decisive. A low production number means nothing if the whiskey itself is mediocre and no secondary buyer wants it. It's also worth asking whether the proof and production method justify the price premium. A limited edition that checks all four of the core factors, proof, mash bill, age statement, and allocation, tends to perform better both in the cellar and on the resale market than one that checks only one.
+No single factor is decisive. A low production number means nothing if the whiskey is mediocre and no secondary buyer wants it. A limited edition that checks all four core factors, proof, mash bill, age statement, and allocation, tends to perform better both in the cellar and on the resale market than one that checks only one.
 
 ## Do limited edition bourbons actually appreciate in value?
 
 *This one comes up a lot,* especially as collectors think about their cellar as both a tasting library and a financial asset.
 
-Honestly: some do, some don't. The market in 2026 is more discerning than it was five years ago. After strong price growth in the late 2010s and early 2020s, the secondary market has become more disciplined. Buyers aren't automatically paying multiples for anything wearing a "limited" badge anymore. They want real scarcity, real production stories, and real scores.
+Some do, some don't. The market in 2026 is more discerning than it was five years ago. After strong price growth in the late 2010s and early 2020s, the secondary market has become more disciplined. Buyers aren't automatically paying multiples for anything wearing a "limited" badge anymore. They want real scarcity, real production stories, and real scores.
 
-What has held its value? Bottles with verifiable single-barrel lineage and detailed provenance have shown stronger floor price stability over the past 18 months, even when larger labels dipped. Transparent production information, the kind printed right on the label or accompaniment card, is increasingly what separates bottles that hold value from ones that don't. Buyers are questioning inflated release prices and whether a bottle has genuine collector depth beyond a well-known name on the front.
+Bottles with verifiable single-barrel lineage and detailed provenance have shown stronger floor price stability over the past 18 months, even when larger labels dipped. Transparent production information, the kind printed right on the label or accompaniment card, is increasingly what separates bottles that hold value from ones that don't. Buyers are questioning inflated release prices and whether a bottle has genuine collector depth beyond a well-known name on the front.
 
-For collectors who want to track the current value of limited editions in their cellar across multiple bottles, having a single place to log purchase price, current market comps, and condition notes is genuinely useful. The [bourbon inventory app](/bourbon-inventory-app) Pour Picks is built for exactly that: catalog each bottle, record what you paid, and watch how the collection's value shifts over time.
+For collectors who want to track the current value of limited editions across multiple bottles, the [bourbon inventory app](/bourbon-inventory-app) Pour Picks lets you catalog each bottle, record what you paid, and watch how the collection's value shifts over time.
 
 ## How do I actually find legitimate limited edition releases?
 
@@ -97,4 +97,4 @@ Bourbon auctions surface limited editions regularly, particularly older commemor
 
 The documentation habits that matter most for limited editions differ a bit from everyday bottles. Beyond purchase price and tasting notes, collectors serious about provenance and eventual resale should record the specific batch or barrel number printed on the label, the production date or dump date if disclosed, the stated bottle count or release quantity, and original packaging condition.
 
-Owning 200 bottles no longer impresses anyone if half of them are shelf-sitters you'll never open. The serious collector today looks more like a portfolio manager, pruning holdings, reallocating toward long-term performers, and focusing on bottles that combine flavor, story, and scarcity in ways that hold up. Good records make that possible. For anyone managing more than a handful of limited releases, a dedicated [bourbon collection tracking tool](/bourbon-inventory-app) beats a spreadsheet the moment you need to quickly surface bottle condition, purchase price, and market value in the same place.
+Owning 200 bottles means less if half are shelf-sitters you'll never open. The serious collector today looks more like a portfolio manager, pruning holdings, reallocating toward long-term performers, and focusing on bottles that combine flavor, story, and scarcity in ways that hold up. For anyone managing more than a handful of limited releases, a dedicated [bourbon collection tracking tool](/bourbon-inventory-app) beats a spreadsheet the moment you need to quickly surface bottle condition, purchase price, and market value in the same place.

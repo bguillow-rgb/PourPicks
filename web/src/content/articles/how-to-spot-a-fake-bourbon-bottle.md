@@ -36,7 +36,7 @@ Buying a rare bourbon through the secondary market is exciting right up until do
 
 Demand for bourbon keeps climbing, and so does the sophistication of the people faking it. Collectors are losing real money.
 
-This guide is for collectors who buy, trade, or gift rare bottles through unofficial channels. It covers the physical and procedural checks that separate an authentic pour from a well-packaged fraud.
+This guide covers the physical and procedural checks that separate an authentic pour from a well-packaged fraud, for collectors who buy, trade, or gift rare bottles through unofficial channels.
 
 ---
 
@@ -44,9 +44,9 @@ This guide is for collectors who buy, trade, or gift rare bottles through unoffi
 
 *A question we hear often:* if you're buying from a reputable store, do you even need to worry about this?
 
-Short answer: almost never at retail, but frequently everywhere else.
+Almost never at retail, but frequently everywhere else.
 
-If you're buying from a licensed liquor store, the chances of running into a fake are essentially zero. The U.S. three-tier system (producers, distributors, retailers) makes it very hard for counterfeit products to slip through. The problem lives almost entirely in the secondary market, among collectors trading rare bottles or vintage dusties through unofficial channels. Everyday drinkers shopping at the liquor store have nothing to worry about. Collectors chasing unicorn bottles do.
+Licensed liquor stores are essentially zero risk. The U.S. three-tier system (producers, distributors, retailers) makes it very hard for counterfeit products to slip through. The problem lives almost entirely in the secondary market, among collectors trading rare bottles or vintage dusties through unofficial channels. Collectors chasing allocated bottles are exposed. Everyday drinkers at the liquor store are not.
 
 Bourbon fraud rarely looks like vineyard mislabeling. It looks like scarcity manipulation. The bourbon boom created the right conditions: limited releases, social media hype, private trading groups, massive markups, and buyers desperate to find Pappy Van Winkle, Weller, Blanton's, or E.H. Taylor. High price, passionate buyer, informal setting. That's exactly where counterfeits thrive.
 
@@ -54,11 +54,11 @@ Bourbon fraud rarely looks like vineyard mislabeling. It looks like scarcity man
 
 ## What are the two main types of counterfeit bourbon bottles?
 
-*This one comes up a lot:* collectors often assume a fake bottle means a fake label slapped on completely different liquid. The reality is more nuanced.
+*This one comes up a lot:* collectors often assume a fake bottle means a fake label slapped on completely different liquid.
 
-Whiskey counterfeiting breaks down into two methods. The first is manufacturing a cheap product from scratch and passing it off as the real thing. The second, and increasingly common, approach is refilling an authentic bottle with inferior liquid. The refill method is harder to catch, even for experienced collectors and some of the oldest names in the business.
+Whiskey counterfeiting breaks down into two methods. The first is manufacturing a cheap product from scratch and passing it off as the real thing. The second, and increasingly common, approach is refilling an authentic bottle with inferior liquid. The refill method is harder to catch, even for experienced collectors.
 
-Refilling is now the dominant tactic in the bourbon world, largely because genuine empty bottles are easy to find. A bad actor acquires an empty Pappy 23, sources cheap commodity whiskey, refills it, re-seals it, and lists it at a 30% "deal" designed to attract exactly the kind of motivated buyer who won't ask too many questions. The bottle itself is real. The liquid isn't. That distinction matters, because the inspection checklist differs depending on which type of fake you're dealing with. A fully fabricated bottle fails label tests first. A refilled genuine bottle often passes label tests but fails fill-level and lot-code checks.
+Refilling is now the dominant tactic in the bourbon world, largely because genuine empty bottles are easy to find. A bad actor acquires an empty Pappy 23, sources cheap commodity whiskey, refills it, re-seals it, and lists it at a 30% "deal" designed to attract a motivated buyer who won't ask too many questions. The bottle itself is real. The liquid isn't. That distinction matters, because the inspection checklist differs depending on which type of fake you're dealing with. A fully fabricated bottle fails label tests first. A refilled genuine bottle often passes label tests but fails fill-level and lot-code checks.
 
 ---
 
@@ -105,7 +105,7 @@ Run through this checklist in order:
 4. Embossing and foil elements: many allocated releases include micro-embossing or hot-stamp foil detail that is very difficult to replicate cheaply. Run a fingernail lightly across any foil element; it should be crisply raised.
 5. Glue pattern under the label edges: carefully lift a corner edge on a bottle you own or are inspecting in person. An authentic label is applied by machine with even glue coverage. A replacement label often shows uneven application or dried excess adhesive.
 
-Counterfeit bottles frequently show blurry labels, mismatched or missing laser codes, and unusual glue patterns. And if the price seems too good to be true for a rare bottle, that's part of the picture too.
+Counterfeit bottles frequently show blurry labels, mismatched or missing laser codes, and unusual glue patterns. If the price seems too good to be true for a rare bottle, that's part of the picture too.
 
 ---
 
@@ -129,7 +129,7 @@ If you're actively cataloging your collection, keep a photograph of each bottle'
 
 Fill level (called ullage when referring to the airspace in a bottle) is a meaningful but nuanced signal. On release, most bottles are filled to the mid-neck, though some releases are filled only to the shoulder, and ullage can increase over time as a bottle ages.
 
-What this means practically: a sealed bottle with a fill level *above* the standard mid-neck position for that expression should raise suspicion, not comfort. A refiller who tops off a partially empty bottle often over-fills it. Compare the fill level against verified reference images for the specific expression and vintage year. A bottle of Pappy 23 with liquid right up to the capsule on a 10-year-old release deserves a closer look. Our article on [what is bourbon bottle ullage](/articles/what-is-bourbon-bottle-ullage) walks through how to read fill levels accurately for both vintage and modern releases.
+A sealed bottle with a fill level *above* the standard mid-neck position for that expression should raise suspicion, not comfort. A refiller who tops off a partially empty bottle often over-fills it. Compare the fill level against verified reference images for the specific expression and vintage year. A bottle of Pappy 23 with liquid right up to the capsule on a 10-year-old release deserves a closer look. Our article on [what is bourbon bottle ullage](/articles/what-is-bourbon-bottle-ullage) walks through how to read fill levels accurately for both vintage and modern releases.
 
 ---
 
@@ -141,7 +141,7 @@ Run these steps in sequence before money changes hands.
 
 Step 1: demand high-resolution photos. At minimum: front label, back label, neck seal top-down, lot code and laser etching close-up, and fill level side-on. Any seller unwilling to provide all five is not worth engaging.
 
-Step 2: price-check against the market. Check sites like Bottle Blue Book for reference. If the price is too good to be true, it very likely is. Scammers prey specifically on newer collectors who want a deal.
+Step 2: price-check against the market. Check sites like Bottle Blue Book for reference. If the price is too good to be true, it very likely is. Scammers prey on newer collectors who want a deal.
 
 Step 3: verify the seller's platform and history. Licensed auction houses (Skinner, Bonhams, Hart Davis Hart) have legal liability for what they sell and real vetting processes. Peer-to-peer groups on social media have neither.
 
@@ -156,5 +156,3 @@ Step 5: inspect physically before full payment if possible. Fakes are often hous
 Serious collectors take this seriously. Once you've finished a bottle, dispose of it completely unless you're keeping it for display. Many Pappy Van Winkle buyers make a point of carefully breaking bottles before disposal. Buffalo Trace Distillery asks buyers to take similar precautions, suggesting scoring or marring the label before recycling the glass.
 
 An intact, authenticated empty is raw material for a refill operation. A cracked or deliberately marred bottle is not. Keeping display empties is fine. Making it easy for someone to re-use them downstream is not.
-
----

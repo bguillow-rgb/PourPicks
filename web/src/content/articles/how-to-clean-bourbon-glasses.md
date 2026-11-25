@@ -1,7 +1,7 @@
 ---
 title: "How to Clean Bourbon Glasses: The Glencairn, Rocks Glass, and Every Type in Your Collection"
 seoTitle: "How to Clean Bourbon Glasses (Glencairn & More)"
-description: "Soap or no soap? Dishwasher or hand wash? The right way to clean bourbon glasses—Glencairns, rocks glasses, and crystal—so residue never ruins your next pour."
+description: "Soap or no soap? Dishwasher or hand wash? The right way to clean bourbon glasses, Glencairns, rocks glasses, and crystal, so residue never ruins your next pour."
 tier: "detail"
 targetQuery: "how to clean bourbon glasses"
 relatedQueries:
@@ -32,15 +32,15 @@ faqs:
 published: true
 ---
 
-How well you clean your glassware matters more than most collectors expect. A glass carrying ghost aromas from last session's high-rye, or a thin film of detergent from the dishwasher, will quietly hijack whatever you pour next. This guide covers the cleaning method that fits each glass type in your collection, the great soap debate, the hard-water problem, and why drying technique is the step almost everyone gets wrong.
+A glass carrying ghost aromas from last session's high-rye, or a thin film of detergent from the dishwasher, will quietly hijack whatever you pour next. This guide covers the cleaning method that fits each glass type in your collection, the great soap debate, the hard-water problem, and why drying technique is the step most people get wrong.
 
 ## Why does glass cleanliness actually affect how bourbon tastes?
 
 *A question we hear often:* collectors invest real money in the right glassware, then never think about what's coating the inside.
 
-Chemicals left behind from cleaning rob the spirit of its ability to release its natural scent, and this problem is worse with crystal, which has a slightly rougher surface than standard glass and traps cleaning compounds more readily. Most soaps contain fats and glycerin that create suds and bind to oils. Those same compounds cling to the glass and react with aroma molecules when bourbon contacts them, producing a muted or flat nose.
+Chemicals left behind from cleaning prevent the spirit from releasing its natural scent, and this problem is worse with crystal, which has a slightly rougher surface than standard glass and traps cleaning compounds more readily. Most soaps contain fats and glycerin that create suds and bind to oils. Those same compounds cling to the glass and react with aroma molecules when bourbon contacts them, producing a muted or flat nose.
 
-The practical upshot: a glass that smells faintly of lemon dish soap will suppress the caramel and oak volatiles that rise from a well-aged bourbon before they ever reach your nose. If you've leaned into a fresh pour and gotten almost nothing, a dirty glass is the first thing to rule out before you blame the whiskey.
+A glass that smells faintly of lemon dish soap will suppress the caramel and oak volatiles that rise from a well-aged bourbon before they ever reach your nose. If you've leaned into a fresh pour and gotten almost nothing, a dirty glass is the first thing to rule out before you blame the whiskey.
 
 ---
 
@@ -48,7 +48,7 @@ The practical upshot: a glass that smells faintly of lemon dish soap will suppre
 
 For almost every glass in a collector's rotation, whether that's a Glencairn, Riedel Vinum, NEAT glass, or a tulip-shaped copita, warm-water hand washing with a *small* amount of unscented dish soap is the right call.
 
-The protocol that consistently works:
+The protocol that works:
 
 1. Rinse immediately after use. Warm water right after finishing your pour prevents whiskey residue from setting.
 
@@ -62,11 +62,11 @@ The protocol that consistently works:
 
 ## Can you put Glencairn glasses in the dishwasher?
 
-*This one comes up a lot:* the Glencairn is technically rated for the top rack, but the bourbon community remains divided.
+*This one comes up a lot:* the Glencairn is rated for the top rack, but the bourbon community remains divided.
 
 The most consistent recommendation from artisans and collectors is to hand wash quality pieces whenever you can. Dishwashers subject glassware to sustained high heat, aggressive detergent chemistry, and the mechanical force of water jets, all of which accelerate wear on the glass surface and can cause cloudiness, micro-scratches, and eventual etching.
 
-There's also a geometry problem unique to the Glencairn: the curvy shape doesn't let water drain effectively from the wide bowl, so air drying often leaves spots. Heated-dry cycles compound the issue by baking mineral deposits directly onto the surface.
+There's also a geometry problem unique to the Glencairn: the curvy shape doesn't let water drain effectively from the wide bowl, so air drying often leaves spots. Heated-dry cycles compound the issue by baking mineral deposits onto the surface.
 
 If you need the convenience of a dishwasher, say you're hosting a [bourbon flight](/articles/how-to-build-a-bourbon-flight) with eight glasses, load them on the top rack only, skip the heated dry cycle, and do a final hand rinse before use. Some collectors hand-wash their Glencairns and Riedels but run rocks glasses through the machine, then rinse everything by hand afterward regardless of the Jet-Dry setting.
 
@@ -84,11 +84,11 @@ If you need the convenience of a dishwasher, say you're hosting a [bourbon fligh
 
 *Readers frequently ask:* "I hand wash carefully but still get spots. What am I missing?"
 
-The drying step is almost always the culprit. Most tap water contains dissolved calcium and magnesium that are invisible when wet and only appear as white haze once the water evaporates. In hard-water areas, this happens fast.
+The drying step is the culprit. Most tap water contains dissolved calcium and magnesium that are invisible when wet and only appear as white haze once the water evaporates. In hard-water areas, this happens fast.
 
-Two options actually fix it: dry immediately with a lint-free cloth (microfiber works well, as does a plain unscented coffee filter, an old bartending trick that leaves zero fiber residue), or do a final rinse with filtered or distilled water before air drying.
+Two options fix it: dry immediately with a lint-free cloth (microfiber works well, as does a plain unscented coffee filter, an old bartending trick that leaves zero fiber residue), or do a final rinse with filtered or distilled water before air drying.
 
-Never store glasses right-side up in a cabinet for long periods. Upright storage traps residual moisture at the base and creates the kind of musty odor that transfers into the next pour. Rim-down on a clean shelf or a proper glass rack keeps air circulating and keeps the rim, the surface in contact with your lip, clean and odor-free.
+Don't store glasses right-side up in a cabinet for long periods. Upright storage traps residual moisture at the base and creates musty odor that transfers into the next pour. Rim-down on a clean shelf or a proper glass rack keeps air circulating and keeps the rim clean and odor-free.
 
 ---
 
@@ -98,7 +98,7 @@ White vinegar is the most reliable fix. Fill a sink with equal parts water and w
 
 For stubborn deposits, the kind that builds up on a Glencairn that's been air-dried repeatedly in a hard-water kitchen, a solution of one part vinegar to three parts warm water left to soak for up to an hour, followed by a gentle circular scrub with a soft-bristled bottle brush, will clear almost anything without scratching the surface.
 
-After any vinegar treatment, always do a final rinse with filtered water before the next use. The acetic acid smell dissipates completely once the glass is dry, but a thorough rinse speeds things along. In areas with hard water, running a decalcifying soak occasionally keeps mineral deposits from becoming permanent.
+After any vinegar treatment, do a final rinse with filtered water before the next use. The acetic acid smell dissipates once the glass is dry, but a thorough rinse speeds things along. In areas with hard water, running a decalcifying soak occasionally keeps mineral deposits from becoming permanent.
 
 ---
 
@@ -106,7 +106,7 @@ After any vinegar treatment, always do a final rinse with filtered water before 
 
 The no-soap school of thought has genuine logic: soap and detergents are primarily meant to cut oil from surfaces, which usually isn't the issue with glassware that only ever touches whiskey. Proponents argue that high-proof alcohol is itself a disinfectant, and a rigorous hot water rinse is sufficient for glasses used by one person.
 
-The counterargument is equally practical. Skipping soap means whiskey residue, oils and other compounds, stays on the glass, and those leftovers will color the aroma of the next pour. That matters especially if you're moving between a wheated bourbon one evening and a high-rye expression the next. For serious tasting sessions, the kind where you're taking structured [tasting notes](/articles/how-to-write-bourbon-tasting-notes), a properly soaped and thoroughly rinsed glass is the more honest starting point. For casual pours of the same daily sipper, a vigorous hot water rinse is perfectly fine.
+The counterargument is equally practical. Skipping soap means whiskey residue, oils and other compounds, stays on the glass, and those leftovers will color the aroma of the next pour. That matters if you're moving between a wheated bourbon one evening and a high-rye expression the next. For serious tasting sessions, the kind where you're taking structured [tasting notes](/articles/how-to-write-bourbon-tasting-notes), a properly soaped and thoroughly rinsed glass is the more honest starting point. For casual pours of the same daily sipper, a vigorous hot water rinse is fine.
 
 The middle path most experienced tasters land on: soap for weekly deep cleans and after switching between very different bottles; hot-water-only for same-session or same-evening reuse.
 
@@ -132,7 +132,7 @@ The cleanest options, in rough order:
 - Unbleached coffee filter, the bartending shortcut that produces a streak-free, fiber-free finish on any tulip or rocks glass
 - Linen or cotton polishing cloth designated for glassware and washed without scented detergent
 
-Whatever you choose, keep it exclusive to glassware. A cloth that doubles as a counter wipe carries oils and cleaning product residue straight back into the glass you just carefully washed.
+Keep whichever you choose exclusive to glassware. A cloth that doubles as a counter wipe carries oils and cleaning product residue straight back into the glass you just carefully washed.
 
 ---
 

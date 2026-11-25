@@ -32,15 +32,15 @@ faqs:
 published: true
 ---
 
-Spend any time in bourbon collecting circles and you'll hear the word *unicorn* thrown around like it's self-explanatory. First-timers sometimes nod along without fully understanding what separates a unicorn from a merely allocated release, a limited edition, or just an expensive bottle. The distinction matters, because chasing a genuine unicorn requires a different strategy, a different mindset, and honestly a different relationship with patience.
+Spend any time in bourbon collecting circles and you'll hear the word *unicorn* thrown around like it's self-explanatory. New collectors sometimes nod along without fully understanding what separates a unicorn from a merely allocated release, a limited edition, or just an expensive bottle. The distinction matters. Chasing a genuine unicorn requires a different strategy, a different mindset, and a different relationship with patience.
 
 ---
 
 ## Okay, so what actually *is* a unicorn bourbon?
 
-"Unicorn" in the bourbon world refers to a bottle that's nearly impossible to find due to rarity, limited production, or cult following. It's become shorthand for the intersection of three things: genuine scarcity (not just tight allocation), sustained collector demand, and a secondary market price that confirms the gap between retail and reality.
+"Unicorn" in the bourbon world refers to a bottle that's nearly impossible to find due to rarity, limited production, or cult following. It's shorthand for the intersection of genuine scarcity (not just tight allocation), sustained collector demand, and a secondary market price that confirms the gap between retail and reality.
 
-The first unicorns were the Van Winkles, then the Buffalo Trace Antique Collection, then the major yearly limited editions from Kentucky heritage distilleries: Old Forester Birthday Bourbon, Heaven Hill's Parker Heritage Collection, Four Roses Limited Edition Small Batch, and anything Willett. Then, unexpectedly, Blanton's crossed that line. Then anything Weller. Then almost everything distilled at Buffalo Trace. The list has shifted over decades as the collector base grew and production bottlenecks ran headlong into surging demand.
+The first unicorns were the Van Winkles, then the Buffalo Trace Antique Collection, then the major yearly limited editions from Kentucky heritage distilleries: Old Forester Birthday Bourbon, Heaven Hill's Parker Heritage Collection, Four Roses Limited Edition Small Batch, and anything Willett. Then Blanton's crossed that line. Then anything Weller. Then almost everything distilled at Buffalo Trace. The list has shifted over decades as the collector base grew and production bottlenecks ran into surging demand.
 
 What separates a unicorn from a plain allocated release is that walk-in availability has essentially dropped to zero. Walking into a liquor store and stumbling onto one is, in 2026, nearly impossible. If you do see one on a shelf, experienced collectors will tell you something unusual is going on: a mis-pull, a new account relationship, or a store you haven't been cultivating nearly long enough.
 
@@ -50,7 +50,7 @@ What separates a unicorn from a plain allocated release is that walk-in availabi
 
 *A question we hear often:* people assume it's purely about age or proof. It's more nuanced than that.
 
-Strong reviews, limited availability, and brand momentum all feed into it. When a bottle earns a reputation as both rare and genuinely good, it can move from release hype to long-term collectible. A bottle that's simply expensive but widely available never gets there. Neither does one that's technically limited but earns lukewarm critical reception.
+Strong reviews, limited availability, and brand momentum all feed into it. When a bottle earns a reputation as both rare and genuinely good, it can move from release hype to long-term collectible. A bottle that's expensive but widely available never gets there. Neither does one that's technically limited but earns lukewarm critical reception.
 
 The factors that tend to drive unicorn status:
 
@@ -81,13 +81,13 @@ Beyond those stalwarts, the list shifts. Michter's 20-Year Kentucky Straight Bou
 
 ## Is the unicorn market changing in 2026?
 
-*Readers frequently ask* whether softening broad bourbon prices mean unicorns have lost their cachet. The answer is more layered than a simple yes or no.
+*Readers frequently ask* whether softening broad bourbon prices mean unicorns have lost their cachet.
 
 The secondary market is stabilizing after years of volatile hype and speculation. What that's produced is a sharp divide between iconic, foundational super-rare bottles and standard allocated annual releases. Not all allocated bourbon kept its premium. True unicorns did.
 
-Some bottles have shed a third of their value while others quietly appreciated. The most iconic labels, Pappy Van Winkle chief among them, have largely held. The results suggest the resale market isn't collapsing so much as maturing. Collectors are getting more selective about what actually deserves a premium.
+Some bottles have shed a third of their value while others quietly appreciated. The most iconic labels, Pappy Van Winkle chief among them, have largely held. The resale market isn't collapsing so much as maturing. Collectors are getting more selective about what deserves a premium.
 
-That bifurcation is useful intelligence for anyone building a cellar. Bottles that straddled the line between "hard to find" and "genuinely iconic" have corrected. The bottles with deep provenance, decades of critical proof, and a compelling backstory have not. What's replaced the broad speculation is a preference for value-stable, old-guard bottles from heritage brands, alongside newer high-quality releases that have to earn their reputation on merit.
+That divide is useful for anyone building a cellar. Bottles that straddled the line between "hard to find" and "genuinely iconic" have corrected. Bottles with deep provenance, decades of critical proof, and a compelling backstory have not. What's replaced the broad speculation is a preference for value-stable, old-guard bottles from heritage brands, alongside newer high-quality releases that have to earn their reputation on merit.
 
 ---
 
@@ -97,9 +97,9 @@ Technically, yes. Practically, it takes a long-game approach that most casual bu
 
 The collectors who succeed at retail are building relationships with store managers over months or years, participating in state lottery systems where they exist, and being known as a regular buyer rather than someone who shows up in October asking for BTAC. Strategy matters more than luck, though luck still matters.
 
-While everyone is chasing Pappy, some collectors are finding distillery-exclusive barrel picks and unique finishes from craft producers that rival the legacy brands in complexity. Rare Character and Kentucky Peerless are two worth watching: unicorn-level quality without the secondary market markup. For collectors who care more about what's in the glass than the name on the label, this is actually the most interesting moment the market has produced in years.
+While everyone is chasing Pappy, some collectors are finding distillery-exclusive barrel picks and unique finishes from craft producers that rival the legacy brands in complexity. Rare Character and Kentucky Peerless are two worth watching: strong quality without the secondary market markup. For collectors who care more about what's in the glass than the name on the label, this is the most interesting moment the market has produced in years.
 
-If auctions are on your radar, they've become the most reliable way to secure high-demand bottles, and knowing which bottles carry long-term value is key to spending that money well. You'll pay secondary prices, but you get provenance documentation and often condition-graded bottles.
+If auctions are on your radar, they've become the most reliable way to secure high-demand bottles. You'll pay secondary prices, but you get provenance documentation and often condition-graded bottles.
 
 ---
 
@@ -110,5 +110,3 @@ Once you have a rare bottle, whether you hunted it at retail, won a lottery, or 
 That means logging fill level, bottle condition, purchase price, and storage location. Pour Picks was built exactly for this. You can scan a label to catalog the bottle, record where and when you acquired it, note the fill level over time if you open it, and track how comparable bottles move on the secondary market. When every detail lives in one place, you're not scrambling to remember what you paid or whether that Pappy 20 was a 2021 or 2022 release when someone asks.
 
 Pair that habit with our guide to [grading bourbon bottle condition](/articles/how-to-grade-bourbon-bottle-condition) and you'll have the documentation a serious collector, or a future buyer, would actually want to see.
-
----

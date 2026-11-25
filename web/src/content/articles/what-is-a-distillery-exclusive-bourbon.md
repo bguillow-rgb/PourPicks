@@ -42,7 +42,7 @@ That single constraint gives a gift-shop purchase genuine collecting weight.
 
 *A question we hear often:* no, "distillery exclusive" is not a legal or regulatory term defined by the TTB or Kentucky law. It's a commercial and operational distinction: the distillery simply chooses not to submit the bottle into wholesale distribution.
 
-What keeps these bottles off regular shelves is a combination of production volume and intent. Some are single-cask releases, meaning each bottle comes from a tiny, unrepeatable batch. Others are commemorative bottlings tied to a distillery anniversary or a specific rickhouse event. The word "exclusive" is the producer's choice, so you'll encounter it used loosely. The reliable test: if it's available at your local retailer, it isn't truly a distillery exclusive.
+What keeps these bottles off regular shelves is a combination of production volume and intent. Some are single-cask releases, meaning each bottle comes from a tiny, unrepeatable batch. Others are commemorative bottlings tied to a distillery anniversary or a specific rickhouse event. The word "exclusive" is the producer's choice, so you'll encounter it used loosely. The reliable test: if it's available at your local retailer, it isn't a distillery exclusive.
 
 Kentucky state law gives distilleries a meaningful edge here. Kentucky distilleries can sell bottles directly from their gift shops, and some allocated expressions move through that channel entirely, bypassing the three-tier system. A distillery's gift shop may carry bottles that have never appeared on a shelf in any other state.
 
@@ -50,11 +50,11 @@ Kentucky state law gives distilleries a meaningful edge here. Kentucky distiller
 
 ## Why do distilleries bother making exclusive-only releases?
 
-There are three clear incentives, and understanding them helps you evaluate whether a particular exclusive is worth a special trip.
+There are three clear incentives.
 
 Revenue at full margin. When a distillery sells through a wholesaler and then a retailer, it captures only a fraction of the final shelf price. A gift-shop sale at $120 is worth far more to the producer than a $120 retail bottle sold through two middlemen. Exclusives let distilleries keep that margin on their most compelling juice.
 
-Direct relationship with enthusiasts. The person who drives four hours to buy a single bottle is exactly the brand loyalist a distillery wants. Collectors aren't just buying whiskey; they're buying a story. A bottle connected to a memorable place or event carries weight that a standard retail release simply doesn't, and for many collectors that connection justifies the trip cost on its own.
+Direct relationship with enthusiasts. The person who drives four hours to buy a single bottle is exactly the brand loyalist a distillery wants. A bottle connected to a memorable place or event carries weight that a standard retail release doesn't, and for many collectors that connection justifies the trip cost on its own.
 
 Controlled scarcity without lottery friction. Annual allocated releases involve complex distributor relationships and state lottery systems. A distillery exclusive sidesteps all of that. The distillery decides exactly who gets access (visitors on a given day) and in what quantity, with no outside parties involved.
 
@@ -82,9 +82,9 @@ Specific examples illustrate the range. Buffalo Trace gift-shop exclusives inclu
 
 A [store pick](/articles/what-is-a-bourbon-store-pick) is a single barrel selected by a retail account, a liquor store, restaurant, or bar, and bottled under that retailer's label. It's sold at that retailer's location but travels through normal distribution channels.
 
-A [private barrel program](/articles/what-is-a-bourbon-private-barrel-program) is a formal arrangement where a group (a retail account, a tasting club, a corporation) pays to select and bottle an entire barrel. The resulting bottles are typically sold at the retailer's store, not at the distillery.
+A [private barrel program](/articles/what-is-a-bourbon-private-barrel-program) is a formal arrangement where a group, a retail account, a tasting club, a corporation, pays to select and bottle an entire barrel. The resulting bottles are typically sold at the retailer's store, not at the distillery.
 
-A distillery exclusive never leaves the distillery's premises through the wholesale system at all. The distillery selects the barrel, labels it, and sells it only to visitors. No retailer is involved. For collectors, provenance is cleaner: you know exactly where every bottle came from and when it was available.
+A distillery exclusive never leaves the distillery's premises through the wholesale system. The distillery selects the barrel, labels it, and sells it only to visitors. No retailer is involved. For collectors, provenance is cleaner: you know exactly where every bottle came from and when it was available.
 
 ---
 
@@ -92,7 +92,7 @@ A distillery exclusive never leaves the distillery's premises through the wholes
 
 For the vast majority of true distillery exclusives, yes. A physical visit is the only legitimate acquisition path.
 
-A few nuances are worth knowing:
+A few nuances worth knowing:
 
 - Distillery bottle draws and on-site lotteries. Some distilleries have moved toward a lottery system even for on-site sales. Buffalo Trace's Bottle Draw program is designed to provide a fair and simple process while expanding access to bottles. You still need to visit, but selection is randomized.
 - Rotating daily availability. Some bourbons at Buffalo Trace are available on a random, rotating basis, typically one featured brand per day, limited to one bottle per person per day. Planning your visit around the rotation calendar (posted on the distillery's website) is a legitimate strategy.
@@ -102,21 +102,21 @@ A few nuances are worth knowing:
 
 ## Are distillery exclusives actually worth the trip, or is this just a collector trap?
 
-This is the honest question, and the answer depends entirely on what you're optimizing for.
+The answer depends entirely on what you're optimizing for.
 
 These bottles range from affordable commemorative releases to genuinely rare collector's items. A $45 gift-shop bottling from a craft Kentucky distillery may be wonderful and completely unavailable elsewhere. A $250 single barrel from a marquee name might underwhelm if the barrel selection wasn't exceptional.
 
-The practical framing: if you're already planning a Kentucky Bourbon Trail trip, distillery exclusives add clear value to your cellar. You'll acquire bottles with concrete provenance, limited production, and real conversation value. Collectors are increasingly paying attention to flavor nuance and production specifics over age statements and proof alone, and a bottle with a specific rickhouse origin story feeds that curiosity in ways a standard release can't.
+The practical framing: if you're already planning a Kentucky Bourbon Trail trip, distillery exclusives add clear value to your cellar. You'll acquire bottles with concrete provenance, limited production, and real conversation value. Collectors are paying increasing attention to flavor nuance and production specifics over age statements and proof alone, and a bottle with a specific rickhouse origin story feeds that curiosity in ways a standard release can't.
 
-If you're considering a special trip solely to hunt a distillery exclusive, the math gets harder. Factor in travel costs, bottle limits (typically one to two per person per visit for highly sought releases), and the reality that your target bottle may not be available on the specific day you arrive. Distillery websites post availability calendars; always check before you travel.
+If you're considering a special trip solely to hunt a distillery exclusive, the math gets harder. Factor in travel costs, bottle limits, typically one to two per person per visit for highly sought releases, and the reality that your target bottle may not be available on the specific day you arrive. Distillery websites post availability calendars; always check before you travel.
 
-What distillery exclusives are not is a reliable investment play. The resale market for exclusives is thin and illiquid compared to the annual allocated release market. Some single-barrel releases from high-demand producers do trade well, but counting on that outcome is optimistic.
+Distillery exclusives are not a reliable investment play. The resale market for exclusives is thin and illiquid compared to the annual allocated release market. Some single-barrel releases from high-demand producers do trade well, but counting on that outcome is optimistic.
 
 ---
 
 ## How do I document distillery exclusives in my collection?
 
-*This one comes up a lot:* because distillery exclusives rarely appear in standard whiskey databases, cataloging them is genuinely harder than with nationally distributed bottles. Most bottle-scanning apps won't recognize them, and price-tracking tools have no data to pull from.
+*This one comes up a lot:* because distillery exclusives rarely appear in standard whiskey databases, cataloging them is harder than with nationally distributed bottles. Most bottle-scanning apps won't recognize them, and price-tracking tools have no data to pull from.
 
 The practical solution is manual entry. When you get home from the distillery, log the bottle with everything you know: the distillery name, the barrel number if printed, the proof, the date of your visit, and what you paid. Note the rickhouse floor position if the label carries it; that detail affects flavor development if you're cellaring the bottle, as we cover in our [rickhouse floor position guide](/articles/how-rickhouse-floor-position-affects-bourbon-flavor). If you opened a bottle on-site or poured a dram in the tasting room, record those first impressions while they're fresh.
 
@@ -128,7 +128,7 @@ According to data from whiskey auction platforms, distillery-exclusive single ba
 
 ## 5 things to know before your first distillery exclusive hunt
 
-1. Check availability calendars in advance. Most major Kentucky distilleries post what's available on their websites. Bottle limits vary based on supply, and calling ahead for high-demand exclusives is never a bad idea.
+1. Check availability calendars in advance. Most major Kentucky distilleries post what's available on their websites. Bottle limits vary based on supply, and calling ahead for high-demand exclusives is a good idea.
 
 2. Bring the right people. Since limits are per-person, visiting with a partner or fellow collector effectively doubles your allocation. This is a completely legitimate strategy.
 
@@ -137,5 +137,3 @@ According to data from whiskey auction platforms, distillery-exclusive single ba
 4. Don't overlook craft stops. The most interesting exclusives aren't always at the most famous distilleries. Smaller Kentucky producers frequently release their most experimental work, unusual grains, long-neglected barrels, local heirloom varietals, as gift-shop-only releases that never see the national spotlight.
 
 5. Log it the day you buy it. Memory fades. The barrel number, proof, and the specific rickhouse story the guide told you on the tour are details you'll want in your collection record years from now, especially if you're [writing tasting notes](/articles/how-to-write-bourbon-tasting-notes) or tracking how the bottle evolves in your cellar.
-
----

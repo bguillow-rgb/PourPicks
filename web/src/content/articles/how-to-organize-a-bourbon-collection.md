@@ -36,9 +36,9 @@ Once your collection hits 20, 30, or 50 bottles, the fun of the hunt starts comp
 
 ## "Why does organization even matter once you know what you own?"
 
-*A question we hear often:* and the short answer is that organization isn't really about tidiness. It's about decision-making. When a bottle is easy to find, assess, and compare against what's sitting next to it, you drink better and more deliberately. You stop defaulting to whatever is at eye level and start making real choices about what to open tonight, what to save, and what you might have forgotten you even own.
+*A question we hear often:* organization isn't about tidiness. It's about decision-making. When a bottle is easy to find, assess, and compare against what's sitting next to it, you drink better and more deliberately. You stop defaulting to whatever is at eye level and start making real choices about what to open tonight, what to save, and what you might have forgotten you even own.
 
-The line between casual buyer and serious collector is blurrier than people assume. Someone keeping six discontinued bottles may be collecting deliberately, while someone owning fifty bottles may simply be building a drinking selection. Organization is what clarifies that line for yourself. It forces you to define what your collection *is* and what it's *for*.
+The line between casual buyer and serious collector is blurrier than people assume. Someone keeping six discontinued bottles may be collecting deliberately, while someone owning fifty bottles may simply be building a drinking selection. Organization clarifies that line for yourself. It forces you to define what your collection *is* and what it's *for*.
 
 Collectors have generally shifted away from fixating on age statements and proof toward caring more about flavor nuance and production. A well-organized shelf reflects that. When bottles are grouped by something meaningful to you, every glance at the shelf tells you something.
 
@@ -46,7 +46,7 @@ Collectors have generally shifted away from fixating on age statements and proof
 
 ## "What are the main systems collectors actually use to organize their bourbon?"
 
-There is no single right answer, and the best system is the one you'll actually maintain. That said, four frameworks show up again and again.
+The best system is the one you'll actually maintain. That said, four frameworks show up again and again.
 
 **1. By distillery / producer**
 Group all Buffalo Trace expressions together, all Heaven Hill, all Wild Turkey, and so on. This is the most common system among serious collectors because it mirrors how the industry thinks and makes vertical comparisons easy. Its weakness: it tells you nothing about what to drink.
@@ -68,7 +68,7 @@ Most collectors end up combining two systems: a primary sort (usually distillery
 
 *This one comes up a lot:* especially when a collection outgrows a single shelf and starts spreading across a room.
 
-Start with front-row / back-row logic. Bottles you intend to open soon go in front; sealed hold bottles go behind. Within the front row, sort by whatever primary system you chose. That one change alone eliminates the most common collector frustration: cracking something special simply because it was easiest to grab.
+Start with front-row / back-row logic. Bottles you intend to open soon go in front; sealed hold bottles go behind. Within the front row, sort by whatever primary system you chose. That one change alone eliminates the most common collector frustration: cracking something special because it was easiest to grab.
 
 | Zone | What lives here | Why |
 |---|---|---|
@@ -85,7 +85,7 @@ Bourbon bottles collect dust fast, so plan to wipe them down regularly. A clean 
 
 ## "How do I figure out what to open next without just grabbing whatever's in front?"
 
-*Readers frequently ask:* this, and it's genuinely one of the harder decisions in bourbon collecting. More psychology than logistics.
+*Readers frequently ask:* this, and it's one of the harder decisions in bourbon collecting. More psychology than logistics.
 
 A useful framework is to think in three categories.
 
@@ -93,19 +93,19 @@ A useful framework is to think in three categories.
 
 **Open soon:** Bottles you own multiples of, limited releases you bought to drink rather than hold, and expressions that haven't appreciated meaningfully on the secondary market. Collector bourbon resells at roughly 5x retail on average, so it's worth knowing which bottles in your collection have gone up in value before cracking them open out of convenience.
 
-**Hold:** True allocated or appreciating bottles, single bottles of a discontinued expression, and anything you'd genuinely regret opening before the right occasion.
+**Hold:** True allocated or appreciating bottles, single bottles of a discontinued expression, and anything you'd regret opening before the right occasion.
 
-The key insight: *most* bottles belong in the first two categories. Collecting without drinking is a trap that turns a living hobby into a warehouse.
+Most bottles belong in the first two categories. Collecting without drinking is a trap that turns a living hobby into a warehouse.
 
 ---
 
 ## "Should I keep a spreadsheet, a notebook, or just use an app?"
 
-This is covered in depth in our guide to [tracking a bourbon collection](https://pourpicks.app/articles/track-bourbon-collection-spreadsheet-vs-app), but here's the short version as it relates specifically to organization.
+This is covered in depth in our guide to [tracking a bourbon collection](https://pourpicks.app/articles/track-bourbon-collection-spreadsheet-vs-app), but here's how it relates specifically to organization.
 
 A physical notebook captures notes well but can't tell you, at a glance, how many open bottles you have, which expressions you own multiples of, or what your collection is worth today. A spreadsheet solves the data problem but becomes a chore to maintain once you start adding photos, tasting notes, and secondary market values.
 
-The stronger argument for a dedicated app like Pour Picks is that it makes your organizational system *queryable*. You can filter by distillery, sort by proof, flag bottles as "hold" vs. "open soon," and log a pour the moment you crack a bottle. The catalog becomes a living record rather than a static list you update whenever you remember.
+A dedicated app like Pour Picks makes your organizational system queryable. You can filter by distillery, sort by proof, flag bottles as "hold" vs. "open soon," and log a pour the moment you crack a bottle. The catalog becomes a living record rather than a static list you update whenever you remember.
 
 What matters most is that your tracking system matches your organizational system. If your shelf is sorted by distillery, your digital catalog should be too. Otherwise you're maintaining two different mental models at once, which defeats the purpose.
 
@@ -115,7 +115,7 @@ What matters most is that your tracking system matches your organizational syste
 
 *A question we hear often:* from collectors who are starting to focus on a specific brand, series, or theme.
 
-Sub-collections are actually where organizational discipline pays off most. One well-known example is Blanton's, where collectors try to find all eight uniquely shaped metal horse-and-rider bottle stoppers, each stamped with a single letter that spells out "Blanton's" when the set is complete. That kind of focused collecting has a clear internal logic. The collection *means* something as a unit.
+Sub-collections are where organizational discipline pays off most. One well-known example is Blanton's, where collectors try to find all eight uniquely shaped metal horse-and-rider bottle stoppers, each stamped with a single letter that spells out "Blanton's" when the set is complete. That kind of focused collecting has a clear internal logic. The collection *means* something as a unit.
 
 Common sub-collection strategies include:
 
@@ -124,8 +124,6 @@ Common sub-collection strategies include:
 - Proof ladders: every bottling of a core expression at different proofs or ages
 - Regional focus: Kentucky vs. Tennessee vs. craft distilleries
 
-The organizational rule for sub-collections: give them physical separation from the broader collection. A dedicated shelf, a specific section of your cabinet, or even a separate display. Visual separation keeps a sub-collection from getting absorbed into the general inventory, and it signals to anyone looking that these bottles belong together.
+Give sub-collections physical separation from the broader collection. A dedicated shelf, a specific section of your cabinet, or even a separate display. Visual separation keeps a sub-collection from getting absorbed into the general inventory, and it signals to anyone looking that these bottles belong together.
 
 When using Pour Picks, you can tag or group bottles to mirror this exactly, so your digital catalog preserves the logic your shelf displays.
-
----

@@ -42,7 +42,7 @@ The word comes from the French *terre* (land), and for decades it belonged almos
 
 What people mean when they say "terroir" isn't always the same. Sometimes it refers strictly to how the land and climate of a place affect the ingredients grown there. For many products it also covers the human element: how tradition and local practice shape what gets made. In bourbon, both layers apply. The grain in the field and the rickhouse design passed down through a family are both expressions of place.
 
-The honest answer is that terroir in bourbon is real but operates differently. Location matters, just not in the same way it does for wine. There are five factors that influence bourbon flavor: water, the grain recipe, fermentation, distillation, and maturation in oak. Every one of them can carry a regional signature.
+Terroir in bourbon is real but operates differently. Location matters, just not in the same way it does for wine. There are five factors that influence bourbon flavor: water, the grain recipe, fermentation, distillation, and maturation in oak. Every one of them can carry a regional signature.
 
 ## Does the origin of the grain actually change what's in my glass?
 
@@ -68,11 +68,11 @@ This is not a romantic claim. It's why, when distilleries outside Kentucky try t
 
 *Readers frequently ask:*
 
-Absolutely, and this may be the most consequential and least discussed dimension of bourbon terroir. The location of the warehouse, and the location of the barrels inside it, are among the strongest differentiators among bourbon styles.
+Climate is one of the strongest differentiators among bourbon styles, and warehouse location, and barrel placement within it, drives a lot of that variation.
 
-Kentucky's continental climate delivers hot, humid summers and cold winters. Those dramatic swings drive the aging spirit in and out of the charred oak repeatedly, a process covered in more depth in our guide to [heat cycling in bourbon](/articles/what-is-heat-cycling-bourbon). That cycling extracts vanilla, caramel, and woody spice at a pace calibrated to the regional year.
+Kentucky's continental climate delivers hot, humid summers and cold winters. Those swings push the aging spirit in and out of the charred oak repeatedly, a process covered in more depth in our guide to [heat cycling in bourbon](/articles/what-is-heat-cycling-bourbon). That cycling extracts vanilla, caramel, and woody spice at a pace set by the regional year.
 
-Texas sees summer warehouse temperatures that can regularly exceed 100°F, producing a compressed aging curve that yields heavier barrel char influence faster, sometimes at the cost of rougher edges. Colorado's altitude and arid air create a different moisture-exchange dynamic entirely. The same white dog from the same recipe would produce different whiskey in each of these climates. States like Texas and Colorado have developed distinct regional styles precisely because the climate imposes itself on every barrel.
+Texas sees summer warehouse temperatures that can regularly exceed 100°F, producing a compressed aging curve that yields heavier barrel char influence faster, sometimes at the cost of rougher edges. Colorado's altitude and arid air create a different moisture-exchange dynamic entirely. The same white dog from the same recipe would produce different whiskey in each of these climates. Texas and Colorado have developed distinct regional styles because the climate imposes itself on every barrel.
 
 Kentucky currently has over 16 million barrels aging in its rickhouses, a volume that makes the Kentucky climate the single largest terroir influence on American whiskey as a category.
 
@@ -115,10 +115,8 @@ When cataloging your cellar, especially as you build comparison bottles, logging
 
 ## Is terroir more important than barrel influence in bourbon?
 
-Bluntly: no, not at current aging timelines. The new charred oak barrel dominates bourbon flavor. A 4-to-8-year maturation in a 53-gallon container extracts vanillin, lactones, tannins, and caramel compounds that can overpower subtle grain-level differences. The precise ratio of grains matters, but the grain's origin is harder to trace once barrel influence is factored in.
+No, not at current aging timelines. The new charred oak barrel dominates bourbon flavor. A 4-8-year maturation in a 53-gallon container extracts vanillin, lactones, tannins, and caramel compounds that can overpower subtle grain-level differences. The precise ratio of grains matters, but the grain's origin is harder to trace once barrel influence is factored in.
 
-That said, terroir becomes more audible at the extremes: in younger, lightly aged bourbons where the barrel hasn't had time to homogenize the spirit; in very old bourbons (15+ years) where the wood has given what it can give and the grain's character starts to re-emerge; and in white dog tastings, where the pre-barrel spirit is evaluated directly.
+Terroir becomes more audible at the extremes: in younger, lightly aged bourbons where the barrel hasn't had time to homogenize the spirit; in very old bourbons (15+ years) where the wood has given what it can give and the grain's character starts to re-emerge; and in white dog tastings, where the pre-barrel spirit is evaluated directly.
 
-Cask strength releases, increasingly prized by collectors for their authenticity and flavor concentration, also tend to amplify whatever place-based character the spirit carries, since nothing dilutes it.
-
----
+Cask strength releases, increasingly prized by collectors for their flavor concentration, also tend to amplify whatever place-based character the spirit carries, since nothing dilutes it.

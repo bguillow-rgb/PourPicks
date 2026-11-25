@@ -34,21 +34,19 @@ faqs:
 published: true
 ---
 
-If you've ever picked up a Four Roses Single Barrel or spotted a store-pick bottle with a cryptic tag reading "OBSQ" or "OESK" and had no idea what you were looking at, you're not alone. That four-letter code is one of the most information-dense labels in American bourbon, and once you know how to read it, you'll never look at a Four Roses bottle the same way again.
+That four-letter code on a Four Roses Single Barrel or store-pick tag, OBSQ, OESK, whatever it says, is one of the most information-dense labels in American bourbon. Once you know how to read it, you can anticipate what's in the glass before you ever open it.
 
 ## Wait, why does Four Roses even have a recipe code system?
 
-*A question we hear often:* Most Kentucky distilleries work with one mash bill, maybe two. Four Roses is different. Only Four Roses combines two mash bills with five proprietary yeast strains to produce ten distinct bourbon recipes, each aged separately, each landing at a different flavor profile.
+*A question we hear often:* Most Kentucky distilleries work with one mash bill, maybe two. Four Roses combines two mash bills with five proprietary yeast strains to produce ten distinct bourbon recipes, each aged separately, each landing at a different flavor profile.
 
-That's not a marketing tagline. When the blending team builds an expression, they're choosing from a library of ten inputs rather than a single base spirit. The recipe code on every bottle is how they keep track, and how you, as a collector, can anticipate what's in the glass before you ever open it.
+That's not a marketing tagline. When the blending team builds an expression, they're choosing from a library of ten inputs rather than a single base spirit. The recipe code on every bottle is how they keep track, and how you as a collector can anticipate what's in the glass before you open it.
 
 ## So what does each letter in the code actually mean?
 
 Each of Four Roses' ten unique recipes gets a four-letter code. All ten begin with "O," which stands for "Old Prentice," the distillery's original name. The second letter is either "B" or "E" and indicates which of the two mash bills was used. The third letter is always "S," indicating straight bourbon whiskey. The last letter, one of V, K, O, Q, or F, identifies the yeast strain.
 
-Put simply: Letter 1 = who made it. Letter 2 = the grain recipe. Letter 3 = legal category. Letter 4 = the yeast.
-
-Here's the complete breakdown at a glance:
+Letter 1 = who made it. Letter 2 = the grain recipe. Letter 3 = legal category. Letter 4 = the yeast.
 
 | Position | Letter(s) | What It Means |
 |---|---|---|
@@ -64,19 +62,19 @@ Here's the complete breakdown at a glance:
 
 ## What's the real flavor difference between mash bill B and mash bill E?
 
-This one matters when you're choosing a private selection or trying to predict what a store pick will taste like.
+This matters when you're choosing a private selection or trying to predict what a store pick will taste like.
 
-Mash bill B is the high-rye recipe: 60% corn, 35% rye, 5% malted barley. It pushes spice into the finished bourbon. Mash bill E runs 75% corn, 20% rye, 5% malted barley and produces something rounder and softer. Worth noting: by general industry standards, both would still qualify as high-rye recipes. Even the "softer" E mash bill carries more rye than, say, a Maker's Mark or a Pappy Van Winkle. What you're calibrating for when you choose B vs. E is the degree of spice and overall structural weight. B-mash bottles skew drier and more assertive on the finish; E-mash bottles tend to let fruit and sweetness lead.
+Mash bill B is the high-rye recipe: 60% corn, 35% rye, 5% malted barley. It pushes spice into the finished bourbon. Mash bill E runs 75% corn, 20% rye, 5% malted barley and produces something rounder and softer. By general industry standards, both qualify as high-rye recipes. Even the E mash bill carries more rye than a Maker's Mark or a Pappy Van Winkle. What you're calibrating for when you choose B vs. E is the degree of spice and structural weight. B-mash bottles skew drier and more assertive on the finish; E-mash bottles tend to let fruit and sweetness lead.
 
-If you're building a collection with an eye toward flavor variety, owning at least one B and one E expression alongside each other reveals more about what yeast actually contributes than any amount of reading can. Our guide to [how to build a bourbon flight at home](/articles/how-to-build-a-bourbon-flight) has a section on recipe-based flights that fits perfectly here.
+If you're building a collection with an eye toward flavor variety, owning at least one B and one E expression alongside each other reveals more about what yeast contributes than reading about it does. Our guide to [how to build a bourbon flight at home](/articles/how-to-build-a-bourbon-flight) has a section on recipe-based flights that fits here.
 
 ## And what does the yeast strain actually do to the flavor?
 
-*This one comes up a lot:* Most people understand that mash bill drives spice vs. sweetness. Far fewer appreciate how much the yeast strain reshapes the final spirit.
+*This one comes up a lot:* Most people understand that mash bill drives spice vs. sweetness. Fewer appreciate how much the yeast strain reshapes the final spirit.
 
 Most major distilleries work with proprietary yeast, but Four Roses goes deeper than almost anyone in developing and maintaining theirs. Mash bills and distillation techniques are more easily reverse-engineered; yeast is harder to crack. Over 8,000 strains have been identified, which makes replicating Four Roses' five proprietary ones a genuine obstacle for any competitor.
 
-In practice, here's what each yeast letter delivers in the glass, drawing from the distillery's own characterizations and widely consistent tasting notes across the collector community:
+Here's what each yeast letter delivers in the glass, drawing from the distillery's own characterizations and consistent tasting notes across the collector community:
 
 - V: Delicate fruit: pear, apricot, light vanilla, creamy texture
 - K: Slight spice: baking spice, cinnamon, nutmeg, full body
@@ -84,7 +82,7 @@ In practice, here's what each yeast letter delivers in the glass, drawing from t
 - Q: Floral essence: rose, elderflower, berry-forward and light
 - F: Herbal: mint, tobacco, leather, the most distinctive and polarizing of the five
 
-A private selection OESK (lower rye, spicy yeast) at cask strength might burst with baking spices and rich caramel, while an OBSF (higher rye, herbal yeast) could present a profile of mint, dark chocolate, and peppery rye. Same distillery, same year, totally different bottles.
+A private selection OESK (lower rye, spicy yeast) at cask strength might burst with baking spices and rich caramel, while an OBSF (higher rye, herbal yeast) could present mint, dark chocolate, and peppery rye. Same distillery, same year, totally different bottles.
 
 ## What are all 10 Four Roses recipes, and what do they taste like?
 
@@ -103,32 +101,26 @@ A private selection OESK (lower rye, spicy yeast) at cask strength might burst w
 | OESQ | Lower-rye (E) | Floral (Q) | Floral, fruity, medium body |
 | OESF | Lower-rye (E) | Herbal (F) | Fruity with herbal and minty notes |
 
-Some of the most obsessive bourbon collectors have set out to taste each individual recipe, which can be an expensive and time-consuming project. That's exactly what makes working through the 10-recipe matrix satisfying as a collector goal. Pour Picks lets you log each expression with its recipe code in the notes field, so you can see at a glance which of the ten you've covered and what your palate prefers.
+Some collectors have set out to taste each individual recipe, which can be an expensive and time-consuming project. That's what makes working through the 10-recipe matrix a satisfying collector goal. Pour Picks lets you log each expression with its recipe code in the notes field, so you can see at a glance which of the ten you've covered and what your palate prefers.
 
 ## How does the recipe code show up on retail bottles vs. store picks?
 
-This is where the system becomes most practically useful for collectors.
-
 The standard Four Roses Single Barrel was originally released in 2004. It's a 100-proof offering drawn from select barrels of the OBSV recipe, aged 7-9 years, and OBSV is the only recipe you'll find in regular retail rotation as a standalone single barrel. Private Selection is different: it can be any of the ten recipes, bottled at barrel proof without chill filtration, and typically aged longer, around 9-12 years versus the standard's approximate 7-8.
 
-That last point is significant. Each barrel yields roughly 150-200 bottles, and once they're gone, that particular expression is finished. One barrel, one bottling, one chance to experience that specific whiskey. While OBSV is common, finding the K, O, and F recipes in Single Barrel format is a genuine challenge.
+Each barrel yields roughly 150-200 bottles, and once they're gone, that particular expression is finished. One barrel, one bottling, one chance to experience that specific whiskey. OBSV is common; finding the K, O, and F recipes in Single Barrel format is a genuine challenge.
 
-The bottom label on a Four Roses Single Barrel also encodes warehouse and rick position, details obsessive collectors use to assess barrel aging conditions. "AN 28-2E," for example, decodes as: North side of Warehouse A, Rick 28, Tier 2, position E within the rick. Enthusiasts pay attention to the tier where the barrel was stored because it affects how wood and whiskey interact; higher barrels experience more temperature swings, which means more expansion and contraction of the wood and the whiskey inside it.
+The bottom label on a Four Roses Single Barrel also encodes warehouse and rick position, details collectors use to assess barrel aging conditions. "AN 28-2E," for example, decodes as: North side of Warehouse A, Rick 28, Tier 2, position E within the rick. Enthusiasts pay attention to the tier because it affects how wood and whiskey interact; higher barrels experience more temperature swings, which means more expansion and contraction of the wood and the whiskey inside it.
 
 ## How do the 10 recipes get used in Four Roses' standard lineup?
 
-*This one comes up a lot:* Understanding the retail lineup through the recipe lens makes the whole system click.
+*This one comes up a lot:* Four Roses Bourbon (formerly Yellow Label), aged a minimum of five years at 80 proof, is a blend of all ten recipes. Small Batch, introduced in 2006, is a 90-proof blend of OBSK, OBSO, OESK, and OESO, all aged 6-7 years. Small Batch Select, introduced in 2019, is a 104-proof blend of OBSV, OBSK, OBSF, OESV, OESK, and OESF, also aged 6-7 years.
 
-Four Roses Bourbon (formerly Yellow Label), aged a minimum of five years at 80 proof, is a blend of all ten recipes. Small Batch, introduced in 2006, is a 90-proof blend of OBSK, OBSO, OESK, and OESO, all aged 6-7 years. Small Batch Select, introduced in 2019, is a 104-proof blend of OBSV, OBSK, OBSF, OESV, OESK, and OESF, also aged 6-7 years.
-
-Now those bottles make more sense on the shelf. Small Batch is built around the rich-fruit and baking-spice yeast strains (O and K) across both mash bills, a deliberate flavor decision rather than a production convenience. Small Batch Select swaps in the herbal F strain and drops the rich-fruit O strain, which is why it reads drier and more complex. Knowing this changes how you describe and compare these bottles in your tasting notes.
+Small Batch is built around the rich-fruit and baking-spice yeast strains (O and K) across both mash bills, a deliberate flavor decision rather than a production convenience. Small Batch Select swaps in the herbal F strain and drops the rich-fruit O strain, which is why it reads drier and more complex. Knowing this changes how you describe and compare these bottles in your tasting notes.
 
 ## Is this the most complex single-barrel program in American bourbon?
 
 By most measures, yes. Four Roses requires you to partner with a liquor store, but unlike any other distillery, they offer an assortment of bourbon recipes to choose from, not just individual barrels. No other major bourbon distillery systematically combines multiple mash bills with multiple yeast strains to produce a portfolio of distinct recipes.
 
-That system is not a talking point. It's the technical reason why a Four Roses Single Barrel OBSV tastes nothing like a Four Roses OESK from the same year, and why the Limited Edition Small Batch, which combines older expressions from specific yeast strains, lands differently than anything else produced by a major Kentucky distillery.
+That system is the technical reason why a Four Roses Single Barrel OBSV tastes nothing like a Four Roses OESK from the same year, and why the Limited Edition Small Batch, which combines older expressions from specific yeast strains, lands differently than anything else produced by a major Kentucky distillery.
 
-For collectors, the Four Roses catalog is genuinely a taxonomy project, not just a lineup of bottles. Once you internalize the two mash bills and five yeast strains, you have a predictive framework that tells you roughly what any bottle will taste like before you crack the wax. That's a rare thing in bourbon.
-
----
+For collectors, the Four Roses catalog is a taxonomy project, not just a lineup of bottles. Once you internalize the two mash bills and five yeast strains, you have a predictive framework that tells you roughly what any bottle will taste like before you crack the wax. That's a rare thing in bourbon.

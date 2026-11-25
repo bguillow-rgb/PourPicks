@@ -32,23 +32,23 @@ faqs:
 published: true
 ---
 
-Most bourbon collectors don't think about insurance until something goes wrong, a shelf collapses, a pipe bursts in the storage room, or a house fire takes out years of carefully hunted bottles. By then, it's too late to fix the gap. This guide walks through exactly what standard home insurance misses, what specialist coverage actually covers, and the one thing every collector needs before calling an insurer: a proper inventory.
+A shelf collapses. A pipe bursts in the storage room. A house fire takes out years of bottles. By then, the gap in your coverage is already too late to fix. This covers what standard home insurance misses, what specialist coverage actually protects, and the one thing every collector needs before calling an insurer: a proper inventory.
 
 ## Does my existing homeowners policy already cover my bottles?
 
 *A question we hear often:*
 
-The honest answer is: probably not enough. Standard homeowners insurance does include personal property coverage, but sublimits and exclusions can leave a serious bourbon cellar dramatically underinsured. As one insurance guide explains, [most homeowners policies may provide some coverage for personal property, including alcoholic beverages, but the coverage is often limited and won't fully protect the value of a premium bourbon collection](index="25-5,25-6").
+Probably not enough. Standard homeowners insurance includes personal property coverage, but sublimits and exclusions can leave a serious bourbon cellar dramatically underinsured. As one insurance guide explains, [most homeowners policies may provide some coverage for personal property, including alcoholic beverages, but the coverage is often limited and won't fully protect the value of a premium bourbon collection](index="25-5,25-6").
 
-The practical problem is how claims get settled. A standard policy typically covers named perils, fire, theft, certain water damage, and pays out actual cash value or replacement cost within its sublimits. [Standard homeowners policies won't insure bottles above a certain value, often less than a modest per-item cap, and the cover isn't specialist enough for collections](index="26-10,26-11"). If a rare allocated bottle you paid $60 retail for now trades at $130 on the secondary market (Eagle Rare 10, for example, recently averaged around that on auction platforms), a generic policy won't bridge that gap.
+The practical problem is how claims get settled. A standard policy typically covers named perils, fire, theft, certain water damage, and pays out actual cash value or replacement cost within its sublimits. [Standard homeowners policies won't insure bottles above a certain value, often less than a modest per-item cap, and the cover isn't specialist enough for collections](index="26-10,26-11"). If a rare allocated bottle you paid $60 retail for now trades at $130 on the secondary market (Eagle Rare 10 recently averaged around that on auction platforms), a generic policy won't bridge that gap.
 
 Breakage is another blind spot. Unless your policy explicitly lists it as a covered peril, a shelf failing and shattering a dozen bottles isn't automatically covered. Specialty spirits insurance, by contrast, [covers accidental damage including shelves collapsing, boxes being damaged, and flooding](index="26-12,26-13").
 
-The short version: read your current policy's personal property sublimits before assuming you're protected.
+Read your current policy's personal property sublimits before assuming you're protected.
 
 ## At what point does a collection actually need dedicated coverage?
 
-There's no hard dollar threshold. It's a personal risk calculation. A useful way to think about it: if the total replacement cost of your cellar, at current secondary market prices rather than what you paid at retail, would be painful to absorb out of pocket, you need dedicated coverage.
+There's no hard dollar threshold. It's a personal risk calculation. If the total replacement cost of your cellar, at current secondary market prices rather than what you paid at retail, would be painful to absorb out of pocket, you need dedicated coverage.
 
 [In Kentucky alone, some whiskey collections are worth more than most people's retirement accounts or their houses](index="24-3"), and that's not limited to professional collectors. A shelf of a dozen allocated bottles, some Buffalo Trace Antique Collection, a couple of Pappy expressions, a few annual limited releases, can easily reach five figures at current market values. [Prices of rare whiskey have skyrocketed in recent years, with some bottles reaching six and seven digit price tags](index="21-3,21-4").
 
@@ -83,11 +83,11 @@ A handful of carriers and programs specialize in this. Here are the names that c
 
 **AXA XL** is frequently cited for mid-range collections. The process is straightforward: [you submit a spreadsheet detailing every bottle, including ABV, cask number, date distilled, and your valuation. AXA charges roughly 0.375% of the declared collection value annually](index="22-1,22-2,22-14"). On a $100,000 collection, that works out to about $375 per year.
 
-**Chubb** is described by one specialist broker as ["the Rolls-Royce option because of their superior claims handling"](index="22-14"). Chubb's wine and spirits coverage [automatically covers new purchases worldwide and protects against a broad range of losses including breakage and spoilage due to mechanical breakdown](index="27-2"). It costs more than AXA but offers notably broader protection.
+**Chubb** is described by one specialist broker as ["the Rolls-Royce option because of their superior claims handling"](index="22-14"). Chubb's wine and spirits coverage [automatically covers new purchases worldwide and protects against a broad range of losses including breakage and spoilage due to mechanical breakdown](index="27-2"). It costs more than AXA but offers broader protection.
 
 **Lloyds of London** is the right call for very large or high-value collections. [For collections worth over $2 million, Lloyds can cover worldwide shipping from auction houses, multi-country storage, and individual bottles worth six figures](index="22-15").
 
-**MiniCo** runs a collectibles insurance program specifically designed for bourbon, spirits, and wine, offering [all-risk coverage at limits up to $1 million](index="25-24"), an accessible entry point for collectors who want dedicated protection without the complexity of a private-client underwriter.
+**MiniCo** runs a collectibles insurance program for bourbon, spirits, and wine, offering [all-risk coverage at limits up to $1 million](index="25-24"), an accessible entry point for collectors who want dedicated protection without the complexity of a private-client underwriter.
 
 For all of these, the universal requirement is the same: [keep good records, including all receipts; for higher-value bottles, get appraisals from reputable sources; and secure your bottles in safe, temperature- and moisture-controlled locations in locked rooms on stable shelves](index="22-10,22-11,22-12").
 
@@ -103,25 +103,25 @@ For allocated releases and vintage bottles, agreed value, locked in at the time 
 
 ## What documentation do I actually need before calling an insurer?
 
-This is where most collectors are underprepared. Insurers are not skeptical about selling you a policy, but [if there is a claim and you cannot prove valuation, you won't be getting paid](index="22-17").
+Most collectors are underprepared here. Insurers aren't skeptical about selling you a policy, but [if there is a claim and you cannot prove valuation, you won't be getting paid](index="22-17").
 
 A defensible inventory for insurance purposes includes:
 
 - **Bottle-by-bottle listing**: name, expression, distillery, bottling date or vintage, proof, and fill level for any older or opened bottles
 - **Valuation source**: recent auction results, secondary market comps, or purchase receipts
-- **Photographs**: a quick photo of every bottle's label and condition; [photographs are a quick and efficient way of documenting the bottle and its condition](index="26-22")
+- **Photographs**: a photo of every bottle's label and condition; [photographs are a quick and efficient way of documenting the bottle and its condition](index="26-22")
 - **Purchase receipts** wherever available
 - **Professional appraisals** for bottles worth $500 or more
 
 [A DIY inventory accompanied by full descriptions, photographs, and purchase receipts is acceptable evidence of ownership, provenance, and value for smaller collections](index="23-9"). For higher-value individual bottles, professional appraisals carry more weight with adjusters.
 
-Experts also recommend [appraising collectibles every two to three years to ensure items are adequately covered](index="25-4"), since bourbon values move. A Pappy Van Winkle 23 Year that sold for one price three years ago may be worth significantly more or less today depending on secondary market conditions.
+Experts also recommend [appraising collectibles every two to three years to ensure items are adequately covered](index="25-4"), since bourbon values move. A Pappy Van Winkle 23 Year that sold for one price three years ago may be worth more or less today depending on secondary market conditions.
 
-This is where a bourbon cellar app like Pour Picks earns its keep before a policy conversation ever happens. Having every bottle catalogued, distillery, proof, bottling details, condition notes, and estimated value, gives you a camera-ready inventory you can export into a spreadsheet for an underwriter, or reference when discussing replacement value with an adjuster. Keeping your collection current in the app means your insurance documentation is always current too.
+This is where a bourbon cellar app like Pour Picks earns its keep before a policy conversation ever happens. Every bottle catalogued, distillery, proof, bottling details, condition notes, and estimated value, gives you a camera-ready inventory you can export into a spreadsheet for an underwriter or reference when discussing replacement value with an adjuster. Keeping your collection current in the app means your insurance documentation stays current too.
 
 ## Are there risks that specialty insurance still won't cover?
 
-Yes, and they're worth understanding. Even comprehensive specialist policies exclude certain scenarios:
+Yes. Even comprehensive specialist policies exclude certain scenarios:
 
 - **Inherent vice**: gradual evaporation, natural cork deterioration, or slow fill-level loss over time are not insurable events. These are considered normal characteristics of spirits, not external losses.
 - **Improper storage**: [you have an inherent responsibility to look after your bottles and store them correctly](index="26-15"). If a claim arises from conditions you caused, extreme temperature swings or storage near chemicals that can permeate cork, coverage may be denied.
@@ -130,4 +130,4 @@ Yes, and they're worth understanding. Even comprehensive specialist policies exc
 
 One practical risk-reduction step: [have a backup plan for power outages, a generator that can keep climate control running for several days or weeks](index="21-20,21-21").
 
-Proper storage is also a prerequisite for keeping coverage valid. Insurers who learn at claim time that bottles were stored outside what the policy assumed, high heat, UV exposure, horizontal storage with degraded corks, may dispute or reduce a settlement. The basics of good cellar management and insurance protection overlap almost entirely.
+Proper storage is also a prerequisite for keeping coverage valid. Insurers who learn at claim time that bottles were stored outside what the policy assumed, high heat, UV exposure, horizontal storage with degraded corks, may dispute or reduce a settlement. Good cellar management and insurance protection overlap almost entirely.

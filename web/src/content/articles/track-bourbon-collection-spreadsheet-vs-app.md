@@ -2,7 +2,7 @@
 title: "How to Track a Bourbon Collection: Spreadsheet vs Notebook vs App"
 seoTitle: "How to Track a Bourbon Collection: Spreadsheet vs App"
 description: "The real trade-offs between tracking your bourbon collection in a spreadsheet, a notebook, or a dedicated app, and the bottle count where each method quietly fails."
-tier: cluster
+tier: "cluster"
 targetQuery: "how to track bourbon collection"
 relatedQueries:
   - "bourbon collection spreadsheet"
@@ -37,7 +37,7 @@ published: true
 
 You have a shelf full of bourbon and a vague sense that you should be writing things down. Maybe you started a spreadsheet. Maybe you bought a leather-bound notebook. Maybe you keep meaning to and just have not.
 
-Every collector eventually picks a system. Most pick the wrong one the first time. Here is the honest comparison between the three real options, with the bottle count where each quietly falls apart, and the friction question that ends up deciding which one you actually keep using.
+Every collector eventually picks a system. Most pick the wrong one the first time.
 
 ## Why does tracking matter in the first place?
 
@@ -56,7 +56,7 @@ Tracking solves all four. The only question is how you do it.
 
 Almost every bourbon collector starts with a spreadsheet. Usually Google Sheets, sometimes Excel, occasionally Airtable. The bourbon Reddit community has shared dozens of spreadsheet templates over the years, with the most-downloaded ones organized by columns like distillery, mash bill, proof, store pick batch, purchase price, date opened, current pour count, and tasting notes.
 
-**The spreadsheet works for the first 10 to 15 bottles.** Below that, the data fits, the friction of updating is manageable, and the spreadsheet view actually shows you everything at once.
+**The spreadsheet works for the first 10 to 15 bottles.** Below that, the data fits, the friction of updating is manageable, and the spreadsheet view shows you everything at once.
 
 **It starts failing somewhere between bottles 15 and 25.** The symptoms are consistent:
 
@@ -65,7 +65,7 @@ Almost every bourbon collector starts with a spreadsheet. Usually Google Sheets,
 - Tasting notes are blank for the last six bottles you tried
 - You start a second tab "for tasting notes" and stop using either one
 
-**It is effectively dead by bottle 40.** At that scale, the spreadsheet is six months out of date, you genuinely do not remember which bottles you have opened, and looking up the Eagle Rare you bought in February takes more clicks than just opening the bottle.
+**It is effectively dead by bottle 40.** At that scale, the spreadsheet is six months out of date, you do not remember which bottles you have opened, and looking up the Eagle Rare you bought in February takes more clicks than just opening the bottle.
 
 The failure mode is not a missing feature. It is friction. The spreadsheet is across the house, on your laptop, behind two clicks and a search. You are standing in the kitchen with a pour in your hand and you do not get up to update a spreadsheet. So you do not. And once you skip three pours, the spreadsheet is unreliable forever.
 
@@ -78,25 +78,25 @@ There is something genuinely appealing about a leather-bound notebook with handw
 1. **No search.** With 30 bottles logged across 60 pages, finding the entry for the Knob Creek you bought in 2024 means flipping through everything. The longer the notebook lives, the worse the lookup gets.
 2. **No data view.** You cannot answer "which of my bourbons have I rated over an 8?" without re-reading the notebook cover to cover. You cannot pull up "everything I opened in the last six months." The notebook stores the data but does not let you slice it.
 
-The romantic version of a notebook can work as a tasting journal alongside a digital system. The notebook holds the long-form, the digital system holds the data. Pretending it can do both at scale is where collectors get into trouble.
+A notebook can work as a tasting journal alongside a digital system. The notebook holds the long-form notes, the digital system holds the data. Asking it to do both at scale is where collectors get into trouble.
 
 **Practical ceiling: 5 to 10 bottles.** Past that you will lose entries, miss pours, and stop reaching for it.
 
 ## App: the only method that survives past 50 bottles
 
-The honest reason cellar apps win at scale is not their feature lists. It is that they remove the friction at the moment of pouring.
+The reason cellar apps win at scale is not their feature lists. It is that they remove the friction at the moment of pouring.
 
 You are in the kitchen with a glass. Your phone is in your pocket. You take it out, open the app, tap the bottle, type "decent pour, more caramel than last time," put the phone back. Twenty seconds, done. You did not have to walk anywhere. You did not have to find a spreadsheet tab. You did not have to flip through 47 pages of a notebook.
 
-That friction reduction is why apps survive bottle counts that no other method survives. The features matter less than the act of actually getting logged.
+That friction reduction is why apps survive bottle counts that no other method survives. The features matter less than the act of getting logged.
 
 **What a good cellar app does well:**
 
 - Scan to add. Point your phone at the label, the bottle is in your cellar in three seconds. No typing.
 - Per-pour entries with a single tap.
 - Search across distillery, mash bill, proof, rating.
-- Data views (everything you have opened in the last month, your top 10 by rating, etc).
-- Some apps will recommend what to pour from your own shelf based on what you have not poured recently. The cellar-aware recommender is the newest feature in this category.
+- Data views: everything you have opened in the last month, your top 10 by rating, and so on.
+- Some apps recommend what to pour from your own shelf based on what you have not poured recently. The cellar-aware recommender is the newest feature in this category.
 
 **What a good cellar app does not do:**
 
@@ -127,29 +127,29 @@ Whichever method you pick, the field list is similar. The minimum useful set:
 6. **Store and store pick batch.** Single barrels vary; the barrel number matters.
 7. **Date opened.** The most-skipped field, and the most regretted skip.
 8. **Date finished.** Closes the loop, lets you know if you finished a bottle in two months or two years.
-9. **Tasting notes per pour.** Doesn't have to be long. "Honey, oak, slightly bitter on finish, 8/10" is plenty.
+9. **Tasting notes per pour.** Does not have to be long. "Honey, oak, slightly bitter on finish, 8/10" is plenty.
 10. **Rating.** 1 to 10 is the most common; pick a scale and stick to it.
 
-The non-obvious one is "date opened." Most collectors skip it for the first year, then realize they cannot tell which open bottles are over a year old and getting oxidized. By that point, half the bottles on the open shelf are mystery dates. Tracking it from day one prevents the problem.
+The non-obvious one is "date opened." Most collectors skip it for the first year, then realize they cannot tell which open bottles are over a year old and oxidizing. By that point, half the bottles on the open shelf have unknown open dates. Tracking it from day one prevents the problem.
 
 ## Three failure modes to avoid
 
-Three patterns the bourbon community sees repeatedly:
+Three patterns show up repeatedly in the bourbon community:
 
-**The Batch Update.** Collectors try to "catch up" on tracking once a month. They get through five bottles, lose interest, and never finish. The system has to log in real time or it does not log.
+**The Batch Update.** Collectors try to catch up on tracking once a month. They get through five bottles, lose interest, and never finish. The system has to log in real time or it does not log.
 
-**The Perfect-System Trap.** Spending six hours designing the perfect spreadsheet schema in week one and then abandoning the spreadsheet entirely by week three. The system that ships is better than the system that is perfect.
+**The Perfect-System Trap.** Spending six hours designing the perfect spreadsheet schema in week one, then abandoning the spreadsheet by week three. The system that ships is better than the system that is perfect.
 
-**The Dual-System Trap.** Trying to maintain both a spreadsheet and an app, or both a notebook and a spreadsheet. One of the two will get stale within a month. Pick one canonical system and let the others die.
+**The Dual-System Trap.** Trying to maintain both a spreadsheet and an app, or both a notebook and a spreadsheet. One of the two will go stale within a month. Pick one canonical system and let the others go.
 
 ## The actual recommendation
 
 If your collection is under 10 bottles and you mostly buy what you drink, a spreadsheet is fine. Get a good template and use it.
 
-If your collection is past 15 bottles or growing fast, switch to an app before the spreadsheet quietly fails. The friction is what kills the spreadsheet, and the friction does not get better. It gets worse as the collection grows.
+If your collection is past 15 bottles or growing fast, switch to an app before the spreadsheet fails. The friction is what kills the spreadsheet, and it does not get better as the collection grows.
 
 If you want a notebook for the ritual, keep it as a tasting journal alongside a digital system. Do not ask the notebook to be your inventory tool.
 
 The app worth checking first is [Pour Picks](https://apps.apple.com/us/app/pour-picks/id6764040132). It scans bottles to add them to your cellar, logs every pour, tracks date opened and date finished, and the Pour Tonight feature picks one bottle from what you already own and tells you why. The free tier covers most collectors; the Cask Club tier ($5.99 a month or $49.99 a year) unlocks unlimited scans and journal export.
 
-Whatever method you pick, the more important thing is starting today. Future-you will thank present-you for a year of records you would otherwise not have.
+Whatever method you pick, start today. A year of records you would otherwise not have is worth more than the perfect system you are still designing.

@@ -36,7 +36,7 @@ The bourbon market in 2026 is telling two very different stories at the same tim
 
 At one end, a single bottle of Old Rip Van Winkle 20-Year Single Barrel sold at Sotheby's in New York for $162,500, reportedly the most expensive American whiskey ever auctioned. At the other end, used bourbon barrels that had fetched over $200 apiece a year earlier were selling for around $50, some repurposed as garden planters.
 
-If you've been feeling whiplash in your own collecting, empty allocated shelves one week and surprising retail discounts the next, the bourbon glut is why.
+If you've been feeling whiplash in your own collecting - empty allocated shelves one week and surprising retail discounts the next - the bourbon glut is why.
 
 ---
 
@@ -44,11 +44,11 @@ If you've been feeling whiplash in your own collecting, empty allocated shelves 
 
 The bourbon glut is a supply-and-demand imbalance: far more bourbon is aging in warehouses than the market currently wants to buy. Distilleries expanded aggressively during the boom years between 2018 and 2022, and those barrels are now entering the market all at once.
 
-The scale is hard to overstate. As of early 2025, Kentucky distilleries held a record 16.1 million barrels of aging bourbon, a figure that dwarfs the 5 million barrels on hand during the previous "whiskey glut" of 1985. That inventory is a direct consequence of the production ramp-up in 2021 and 2022, when Kentucky alone barreled 2.7 million barrels in a single year to meet projected demand that has since stabilized.
+The scale is significant. As of early 2025, Kentucky distilleries held a record 16.1 million barrels of aging bourbon, dwarfing the 5 million barrels on hand during the previous "whiskey glut" of 1985. That inventory is a direct consequence of the production ramp-up in 2021 and 2022, when Kentucky alone barreled 2.7 million barrels in a single year to meet projected demand that has since stabilized.
 
 Several things hit the demand side at once. Post-pandemic discretionary spending pulled back. Inflation pressured household budgets. American whiskey exports, a real pressure valve for surplus inventory, fell sharply. DISCUS economist Hasan Bakir described the continued production decline as "likely a strategic adjustment to elevated American whiskey inventories coupled with tariff concerns impacting exports and a slowing US market." DISCUS figures show American whiskey exports fell 19% in 2025 as a result of retaliatory tariffs.
 
-This isn't the first time the industry has been here. Some of the most sought-after ultra-aged bourbons today were originally distilled during the previous period of oversupply, barrels that kept aging simply because there was no demand at the time. The lesson for collectors is straightforward: patience tends to get rewarded.
+This isn't the first time the industry has been here. Some of the most sought-after ultra-aged bourbons today were originally distilled during the previous period of oversupply, barrels that kept aging because there was no demand at the time. The lesson for collectors is straightforward: patience tends to get rewarded.
 
 ---
 
@@ -58,7 +58,7 @@ This isn't the first time the industry has been here. Some of the most sought-af
 
 The glut and scarcity can coexist because the supply problem is distributed unevenly. Massive inventories, particularly in Kentucky, have shifted the industry narrative from shortage to oversupply, and major producers are responding. Jim Beam paused production at its flagship Clermont distillery for all of 2026 to better align output with demand. But a production pause today affects bottles that won't appear on shelves for years. The bottles collectors hunt right now were distilled years ago, in smaller quantities, before the boom-era expansion fully kicked in.
 
-What is changing at retail is the *value tier*. Core bottles in the $30-$70 range are getting renewed attention, and premium pricing now has to be justified with real reasons: age statements, provenance, meaningful craft credentials, not just prestige. The $45 bottle you passed over during the hype years may now be the smartest purchase in the store.
+What is changing at retail is the *value tier*. Core bottles in the $30-$70 range are getting renewed attention, and premium pricing now has to be justified with real reasons: age statements, provenance, meaningful craft credentials. The $45 bottle you passed over during the hype years may now be the smartest purchase in the store.
 
 Basic economics applies here. When supply outstrips demand, prices drop. Distilleries are pushing significant discounts to clear excess inventory, and some of the bourbon-mania is simply fading. Bottles that once vanished from shelves the moment they arrived are staying put a little longer.
 
@@ -68,7 +68,7 @@ Basic economics applies here. When supply outstrips demand, prices drop. Distill
 
 *This one comes up a lot:* collectors who bought allocated bottles at secondary prices in 2022 or 2023 are wondering whether those bottles have held value.
 
-The honest answer: it depends entirely on what you own. The secondary market is splitting into two distinct tiers. Cornerstone bottles like Pappy Van Winkle, William Larue Weller, and George T. Stagg are holding on strong collector demand, a clear flight to quality. Mid-tier limited releases are a different story.
+It depends entirely on what you own. The secondary market is splitting into two distinct tiers. Cornerstone bottles like Pappy Van Winkle, William Larue Weller, and George T. Stagg are holding on strong collector demand. Mid-tier limited releases are a different story.
 
 The correction in the middle of the market has been real and measurable. The Bourboneur Secondary Market Index recorded an 11% slide in overall portfolio value at the start of 2025, stripping the speculative premium from many sought-after releases and forcing collectors to distinguish "worth it" bottles from bottles that were merely scarce. A specific example: Weller Single Barrel hit a price high of around $440 in 2024, dipped and recovered in 2025, then bottomed out in the first quarter of 2026 at around $305.
 
@@ -92,9 +92,9 @@ The secondary market is stabilizing after years of hype-driven volatility, and t
 
 *Readers frequently ask:* should I slow down buying, speed up, or just wait it out?
 
-For a drinker-collector, this is arguably the best environment in a decade. Instead of chasing unicorns, the smarter move is shifting toward bottles that balance flavor, maturity, and value over hype. Collectors who focus on what's actually in the glass are better positioned right now than those still chasing scarcity alone.
+For a drinker-collector, this is a good environment. Shifting toward bottles that balance flavor, maturity, and value over hype makes more sense right now than chasing scarcity. Collectors focused on what's in the glass are better positioned than those still buying on hype alone.
 
-Practically, that means leaning into the $40-$80 range with some real intentionality. The oversupply means more people can access quality bourbon, and the questions worth asking at the shelf have changed. Where was this barreled? What's the mash bill? What rickhouse floor? Those details, not the hype cycle, are what determine long-term enjoyment and collector credibility. Whether a bottle was hard to find two years ago is increasingly beside the point.
+That means leaning into the $40-$80 range with some real intentionality. The oversupply means more people can access quality bourbon, and the questions worth asking at the shelf have changed. Where was this barreled? What's the mash bill? What rickhouse floor? Those details are what determine long-term enjoyment and collector credibility. Whether a bottle was hard to find two years ago is increasingly beside the point.
 
 For bottles you already own, this is a good moment to review your [tasting notes](/articles/how-to-write-bourbon-tasting-notes) and tighten up your cellar catalog. Knowing which bottles belong to the blue-chip tier versus the correcting mid-tier helps you decide what to open, hold, or trade. The [bourbon secondary market guide](/articles/what-is-the-bourbon-secondary-market) has more on how to read those signals.
 
@@ -106,7 +106,7 @@ The financial stress of carrying 16.1 million aging barrels is not abstract. The
 
 Kentucky is the only place in the world that taxes barrels of aging spirits. That structural cost, piled on top of collapsed exports and softer domestic demand, has already claimed casualties. The most high-profile collapse was Uncle Nearest, a brand that built one of the genuinely compelling modern American whiskey stories by honoring Nathan "Nearest" Green. In March, founder Fawn Weaver filed for Chapter 11 protection after a Kentucky lender alleged default on more than $100 million in loans.
 
-For collectors, distillery financial stress is worth watching. Discontinued lines, ownership changes, and brand restructurings have historically created new scarcity where none previously existed, and the long-term collector value that emerged from earlier era closures is worth keeping in mind.
+Distillery financial stress is worth watching. Discontinued lines, ownership changes, and brand restructurings have historically created new scarcity where none previously existed, and the long-term collector value that emerged from earlier era closures is worth keeping in mind.
 
 ---
 
@@ -114,8 +114,6 @@ For collectors, distillery financial stress is worth watching. Discontinued line
 
 *This one comes up a lot:* with prices softening on mid-tier bottles, should I finally crack that allocated release I've been sitting on?
 
-If you've been holding a bottle primarily for speculative value and its secondary price has already corrected, drinking it is almost always the right call. The [decision framework for opening vs. keeping bourbon sealed](/articles/should-you-open-or-keep-bourbon-sealed) walks through this in detail, but the short version is: unless you own a genuine blue-chip bottle in pristine condition, enjoyment beats speculation.
+If you've been holding a bottle for speculative value and its secondary price has already corrected, drinking it is almost always the right call. The [decision framework for opening vs. keeping bourbon sealed](/articles/should-you-open-or-keep-bourbon-sealed) walks through this in detail, but the short version is: unless you own a genuine blue-chip bottle in pristine condition, enjoyment beats speculation.
 
-The glut also makes now a good time to start building a [bourbon flight](/articles/how-to-build-a-bourbon-flight) from bottles you may have been hoarding individually. Comparative tasting across bottles you've collected deepens your palate and helps you understand what you actually own, which makes the next buying decision sharper.
-
----
+The glut also makes now a good time to start building a [bourbon flight](/articles/how-to-build-a-bourbon-flight) from bottles you may have been hoarding individually. Comparative tasting across bottles you've collected deepens your palate and helps you understand what you own, which makes the next buying decision sharper.

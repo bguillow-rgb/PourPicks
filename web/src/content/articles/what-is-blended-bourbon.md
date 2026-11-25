@@ -32,7 +32,7 @@ faqs:
 published: true
 ---
 
-Bourbon labels use a lot of words: *straight*, *small batch*, *single barrel*, *blended*. Collectors learn fast that each one carries legal weight. "Blended bourbon" is probably the most misunderstood designation on the shelf, partly because *blended* drags in baggage from cheap Scotch and bargain-bin American whiskey. The reality is messier than that reputation suggests, and if you care about reading a label accurately, buying well, and knowing what's actually in your cellar, you need to understand what blended bourbon is and what it isn't.
+Bourbon labels use a lot of words: *straight*, *small batch*, *single barrel*, *blended*. Collectors learn fast that each one carries legal weight. "Blended bourbon" is probably the most misunderstood designation on the shelf, partly because *blended* drags in baggage from cheap Scotch and bargain-bin American whiskey. The reputation is messier than the reality. Reading a label accurately starts with knowing what blended bourbon is and what it isn't.
 
 ---
 
@@ -42,7 +42,7 @@ Bourbon labels use a lot of words: *straight*, *small batch*, *single barrel*, *
 
 "Blended bourbon" is a federally regulated category governed by the Alcohol and Tobacco Tax and Trade Bureau (TTB). Under U.S. law, a whiskey labeled blended bourbon whiskey must contain at least 51% straight bourbon whiskey. The rest can be neutral grain spirits, other whiskeys, or coloring and flavoring agents, as long as the finished product doesn't drop below 80 proof at bottling.
 
-That 49% allowance is where the category's reputation for inconsistency comes from. A producer could technically take a modest amount of well-aged straight bourbon, stretch it with neutral spirit, and still put the word "bourbon" on the label. That's the worst-case version of this category, and it's why a lot of collectors reflexively pass on anything marked "blended."
+That 49% allowance is where the category's reputation for inconsistency comes from. A producer could take a modest amount of well-aged straight bourbon, stretch it with neutral spirit, and still put the word "bourbon" on the label. That's the worst-case version of this category, and it's why a lot of collectors pass on anything marked "blended."
 
 What the label won't tell you, unless the producer volunteers it, is the actual ratio of straight bourbon to neutral spirit or the age of the straight bourbon going in. That opacity is a real problem when you're trying to evaluate a bottle cold.
 
@@ -50,11 +50,11 @@ What the label won't tell you, unless the producer volunteers it, is the actual 
 
 ## So what's the difference between "blended bourbon" and a "blend of straight bourbons"?
 
-This is the most important thing a collector can know about the blended category, and it's something even experienced enthusiasts get wrong.
+This is the most important thing a collector can know about the blended category.
 
-A blend of straight bourbons is a legally separate subcategory where every single component must be a straight bourbon. No neutral grain spirit, no added coloring, no flavoring agents. The blending is purely about combining finished, aged whiskeys to hit a target flavor. No shortcuts.
+A blend of straight bourbons is a legally separate subcategory where every component must be a straight bourbon. No neutral grain spirit, no added coloring, no flavoring agents. The blending is purely about combining finished, aged whiskeys to hit a target flavor.
 
-The work in this subcategory involves combining bourbons of different ages, mash bills, and distillation histories to build balance and complexity. One Barrell Craft Spirits batch, for example, paired a fruit-forward Tennessee bourbon with a spice-forward Indiana bourbon as the core, then layered in a 13-year-old and 15-year-old bourbon for depth, a nine-year-old high-rye bourbon for spice, and five- and eight-year-old wheated bourbons for softer notes. That kind of layering only works because every component already qualifies as straight bourbon. Barrell has built its entire identity around this approach.
+The work in this subcategory involves combining bourbons of different ages, mash bills, and distillation histories to build balance and complexity. One Barrell Craft Spirits batch paired a fruit-forward Tennessee bourbon with a spice-forward Indiana bourbon as the core, then layered in a 13-year-old and 15-year-old bourbon for depth, a nine-year-old high-rye bourbon for spice, and five- and eight-year-old wheated bourbons for softer notes. That kind of layering only works because every component already qualifies as straight bourbon. Barrell has built its entire identity around this approach.
 
 | Label Designation | Neutral Spirit Allowed? | Age Requirement | Coloring/Flavoring? |
 |---|---|---|---|
@@ -72,9 +72,9 @@ The work in this subcategory involves combining bourbons of different ages, mash
 
 Single barrel releases get the collector attention, but blending is the foundational craft skill behind most bourbon production. Barrels from different warehouse levels can taste noticeably different from one another, because position, temperature, and seasonal climate all shape how a whiskey ages. Even within a single small batch, barrel variation is real. Blending is how producers manage that variation and build a consistent, intentional final product.
 
-The master blender is the person responsible for that decision-making, a role that requires an exceptional palate, deep knowledge of the distillery's production, and years of accumulated reference points. Many master blenders carry institutional knowledge passed down over generations, and their job is to hold a brand's core profile steady while also leaving room to experiment.
+The master blender is responsible for that decision-making, a role that requires an exceptional palate, deep knowledge of the distillery's production, and years of accumulated reference points. Many master blenders carry institutional knowledge passed down over generations. Their job is to hold a brand's core profile steady while leaving room to experiment.
 
-Blending isn't a workaround. When a whiskey strikes you as unusually balanced and consistent across multiple bottles of the same expression, that's the result of disciplined vatting and marrying, the process of combining multiple casks into a coherent whole.
+Blending isn't a workaround. When a whiskey is unusually balanced and consistent across multiple bottles of the same expression, that's the result of disciplined vatting and marrying - the process of combining multiple casks into a coherent whole.
 
 ---
 
@@ -82,11 +82,11 @@ Blending isn't a workaround. When a whiskey strikes you as unusually balanced an
 
 *Readers frequently ask:*
 
-Honestly, it depends on what's in the bottle. Mass-market blended bourbons leaning heavily on neutral grain spirit haven't attracted collector premiums, and that's fair. But the blend of straight bourbons subcategory is a different conversation.
+It depends on what's in the bottle. Mass-market blended bourbons leaning heavily on neutral grain spirit haven't attracted collector premiums, and that's fair. The blend of straight bourbons subcategory is a different conversation.
 
 The broader blended whiskey category has seen a real uptick in quality, with notable examples including Jim Beam's Little Book series, blended by eighth-generation Beam distiller Freddie Noe, and releases from High West Distillery. These are limited, batch-numbered bottles that sell out and trade actively on the secondary market.
 
-The collector shift heading into 2025 and 2026 has moved away from chasing hype toward finding bottles that actually deliver: mature, flavorful whiskey at a price that makes sense. Thoughtfully blended expressions with full component transparency fit that profile well. When a producer discloses the component ages, source distilleries, and batch proof, a blend of straight bourbons becomes one of the more traceable and interesting bottles you can put on a shelf.
+The collector shift heading into 2025 and 2026 has moved away from chasing hype toward finding bottles that deliver: mature, flavorful whiskey at a price that makes sense. Thoughtfully blended expressions with full component transparency fit that profile well. When a producer discloses the component ages, source distilleries, and batch proof, a blend of straight bourbons becomes one of the more traceable bottles you can put on a shelf.
 
 ---
 
@@ -106,7 +106,7 @@ A finished bourbon labeled "bourbon finished in port casks" is still a single-or
 
 Blended expressions that include a cask finish must say so on the label. It won't just say "bourbon"; it'll say "bourbon finished in sherry casks" or similar, though the product can still qualify as bourbon. The same precision applies to blend designations: the TTB requires the exact type statement on every label.
 
-Here's what to scan for in the type statement or back label:
+Scan the type statement or back label for a few specific things.
 
 "Blended Bourbon Whiskey" is the broadest category. Neutral spirit may be present. Look for disclosed component percentages if you can track them down.
 
@@ -114,8 +114,6 @@ Here's what to scan for in the type statement or back label:
 
 State of distillation disclosure matters too. If components come from more than one state, federal law requires that fact on the label. It's a useful signal for sourced blends.
 
-Batch or lot numbers are almost always present on limited blended expressions from craft producers. That number is your starting point for research and for logging the bottle in your [Pour Picks](https://pourpicks.app) cellar with accurate provenance notes.
+Batch or lot numbers are present on most limited blended expressions from craft producers. That number is your starting point for research and for logging the bottle in your [Pour Picks](https://pourpicks.app) cellar with accurate provenance notes.
 
 Finishing and blending approaches are getting more deliberate, with producers using novel cask types and disclosed component sourcing in ways that weren't common a decade ago. The ones worth following are the ones showing their work.
-
----

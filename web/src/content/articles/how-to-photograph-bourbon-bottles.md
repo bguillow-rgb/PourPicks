@@ -32,13 +32,13 @@ faqs:
 published: true
 ---
 
-Good bourbon photography is not about art direction. It's about documentation. Whether you're building a cellar catalog, preparing an insurance inventory, listing a bottle on the secondary market, or just capturing a rare find before you crack it open, a sharp, honest photograph is the most useful record you can make. This guide is written for collectors, not commercial photographers, and every tip here works with equipment you already own.
+Good bourbon photography is about documentation, not art direction. Whether you're building a cellar catalog, preparing an insurance inventory, listing a bottle on the secondary market, or capturing a rare find before you crack it open, a sharp, honest photograph is the most useful record you can make. This guide is written for collectors, not commercial photographers, and every tip here works with equipment you already own.
 
 ## Why do collectors even need to photograph their bottles?
 
 *A question we hear often:* "I know what I have, why bother taking photos?"
 
-The honest answer: you know what you have *right now*. Three years from now, when you're pulling a bottle for a tasting, trying to remember what year you bought a particular barrel pick, filing an insurance claim after a flooded basement, or selling something on the secondary market, a photograph does the remembering for you.
+You know what you have right now. Three years from now, when you're pulling a bottle for a tasting, trying to remember what year you bought a particular barrel pick, filing an insurance claim after a flooded basement, or selling something on the secondary market, a photograph does the remembering for you.
 
 Collectors should capture images from all angles, because there may be pertinent information on the rear label. For serious collectors, the seal is often the most significant detail, along with the fill level.
 
@@ -50,7 +50,7 @@ Documentation photography and aesthetic photography are two different goals. Thi
 
 Almost certainly no. More people than ever are sharing whisky experiences through photography, whether using dedicated cameras for serious bottle shots or sharing phone snaps of the pour of the day. A recent flagship smartphone produces images that are more than adequate for cellar records and secondary-market listings.
 
-That said, two low-cost additions make a measurable difference:
+Two low-cost additions make a measurable difference:
 
 | Tool | Budget Option | Why It Helps |
 |---|---|---|
@@ -60,23 +60,23 @@ That said, two low-cost additions make a measurable difference:
 | Light tent / box | $25-40 collapsible cube | All-in-one diffusion for tabletop shots |
 | Dedicated camera | Your existing phone | Sufficient for 95% of collector use cases |
 
-If you own a DSLR or mirrorless camera, it shines in low-light cellars where phones still struggle. But don't wait to buy gear. Start with what you have and improve incrementally.
+If you own a DSLR or mirrorless camera, it shines in low-light cellars where phones still struggle. Start with what you have and improve incrementally.
 
 ---
 
 ## How do I handle the hardest part, glare on glass?
 
-*This one comes up a lot.* Glass bourbon bottles are genuinely tricky because they simultaneously reflect the room around them and transmit light through the liquid inside. Get the lighting wrong and you end up with a white hotspot over the label, or a liquid that photographs as opaque brown sludge.
+*This one comes up a lot.* Glass bourbon bottles are tricky because they simultaneously reflect the room around them and transmit light through the liquid inside. Get the lighting wrong and you end up with a white hotspot over the label, or a liquid that photographs as opaque brown sludge.
 
-The main challenge in whisky photography is reflection from the glass. Soft lighting is the best fix, though it brings its own considerations. The practical approach for collectors without studio gear: shiny surfaces need soft light. On a budget, tape baking or parchment paper over your flash or lamp, and fold it more times for even softer results.
+The main challenge in whisky photography is reflection from the glass. Soft lighting is the best fix. The practical approach for collectors without studio gear: shiny surfaces need soft light. On a budget, tape baking or parchment paper over your flash or lamp, and fold it more times for even softer results.
 
 Three reliable setups for collectors, ranked by ease:
 
 1. North-facing window on an overcast day. Clouds act as a giant natural diffuser. Position the bottle 2-3 feet from the glass, label facing the window. This is the single most reliable free setup.
-2. Light tent on a kitchen counter. A $30 collapsible cube surrounds the bottle with diffused light from every angle. Diffuse lighting is the key here, and the closer and larger the light source relative to the bottle, the softer the result.
+2. Light tent on a kitchen counter. A $30 collapsible cube surrounds the bottle with diffused light from every angle. The closer and larger the light source relative to the bottle, the softer the result.
 3. Backlight glow trick. Whiskey liquid tends to read as flat brown in photos. Placing a small LED panel or even a phone screen behind and below the bottle illuminates the liquid from within and gives it visible depth.
 
-One thing to avoid without exception: direct camera flash aimed straight at the label. Flash produces severe shadows and kills label clarity.
+Avoid direct camera flash aimed straight at the label. Flash produces severe shadows and kills label clarity.
 
 ---
 
@@ -100,11 +100,11 @@ Keep the camera stable for close-up capsule and lot-code shots. Blurred images o
 
 ## How do I photograph fill level accurately?
 
-*Readers frequently ask* about this because fill-level grading is one of the primary factors affecting a bottle's secondary-market value. The mistake most collectors make is shooting from above, which makes a mid-shoulder fill look like an upper-shoulder fill.
+*Readers frequently ask* about this because fill-level grading is one of the primary factors affecting a bottle's secondary-market value. The common mistake is shooting from above, which makes a mid-shoulder fill look like an upper-shoulder fill.
 
-The rule is simple: your camera lens must be level with the liquid surface. Place the bottle on a stable surface, crouch or lower your phone until the lens sits at exactly the height of the meniscus, and shoot straight across. Any upward angle inflates the apparent fill; any downward angle deflates it.
+Your camera lens must be level with the liquid surface. Place the bottle on a stable surface, crouch or lower your phone until the lens sits at exactly the height of the meniscus, and shoot straight across. Any upward angle inflates the apparent fill; any downward angle deflates it.
 
-Use consistent side lighting, a window to the left or right of the bottle rather than behind you, so the light passes *through* the glass and makes the liquid surface clearly visible. If the bottle has dark glass, a backlight or light tent becomes necessary rather than optional. Once you establish a consistent fill-level angle, every bottle in your catalog becomes directly comparable, which matters when you're grading condition alongside our [guide to bourbon bottle condition grading](/articles/how-to-grade-bourbon-bottle-condition).
+Use consistent side lighting, a window to the left or right of the bottle rather than behind you, so the light passes *through* the glass and makes the liquid surface clearly visible. If the bottle has dark glass, a backlight or light tent becomes necessary. Once you establish a consistent fill-level angle, every bottle in your catalog becomes directly comparable, which matters when you're grading condition alongside our [guide to bourbon bottle condition grading](/articles/how-to-grade-bourbon-bottle-condition).
 
 ---
 
@@ -131,6 +131,4 @@ Shoot in natural daylight whenever possible. Color accuracy under incandescent o
 
 Consistent file naming is the difference between a searchable archive and a folder of 400 images called IMG_3847 through IMG_4246. A simple convention that works: `[Distillery]-[Expression]-[Year-Bottled]-[Angle].jpg`. For example: `BuffaloTrace-EHTaylor-SmallBatch-BiB-2023-front.jpg`.
 
-If you're cataloging inside Pour Picks, photos attach directly to each bottle entry alongside your tasting notes, purchase price, and estimated current value, so the naming convention matters less since the app handles the metadata. For bottles stored in a general photo archive or a cloud folder as a backup, though, disciplined naming pays off quickly. Pair your photos with the [valuation data](/articles/how-to-value-a-bourbon-collection) you track so the record is complete: what you have, what it looks like, and what it's worth.
-
----
+If you're cataloging inside Pour Picks, photos attach directly to each bottle entry alongside your tasting notes, purchase price, and estimated current value, so the naming convention matters less since the app handles the metadata. For bottles stored in a general photo archive or a cloud folder as a backup, disciplined naming pays off quickly. Pair your photos with the [valuation data](/articles/how-to-value-a-bourbon-collection) you track so the record is complete: what you have, what it looks like, and what it's worth.

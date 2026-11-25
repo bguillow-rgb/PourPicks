@@ -32,23 +32,23 @@ faqs:
 published: true
 ---
 
-Most bourbon collectors can recite the legal rules: 51% corn, new charred oak, no more than 160 proof off the still. But the rules say nothing about *which kind* of still gets used. That gap between the law and the craft is where pot still bourbon lives, and understanding it changes how you read a label, taste a pour, and decide what deserves a shelf spot.
+Most bourbon collectors can recite the legal rules: 51% corn, new charred oak, no more than 160 proof off the still. The rules say nothing about which kind of still gets used. That gap between the law and the craft is where pot still bourbon lives.
 
 ## Wait, does it even matter what type of still makes my bourbon?
 
-*A question we hear often:* Yes, significantly. The still is the single piece of equipment that determines how many of the grain's own flavor compounds (technically called congeners) make it into the new make spirit before the barrel ever gets involved. Change the still, and you change the flavor foundation the barrel has to work with.
+*A question we hear often:* Yes, significantly. The still determines how many of the grain's own flavor compounds (congeners) make it into the new make spirit before the barrel gets involved. Change the still, and you change the flavor foundation the barrel has to work with.
 
-The column still, invented in 1830 by Irish engineer Aeneas Coffey, replaced the old batch method and let distillers produce alcohol at a scale and consistency that simply wasn't possible before. That efficiency is why the column still became the standard, and why it's now synonymous with the "classic" bourbon flavor profile.
+The column still, invented in 1830 by Irish engineer Aeneas Coffey, replaced the old batch method and let distillers produce alcohol at a scale and consistency that wasn't possible before. That efficiency is why the column still became the standard, and why it's now synonymous with the classic bourbon flavor profile.
 
-A column-distilled bourbon carries a relatively lower level of grain-derived congeners and pulls a lot of its flavor from the barrel itself. The oft-repeated distillery-tour stat that roughly 80% of bourbon's flavor comes from the barrel is really a column still story.
+A column-distilled bourbon carries a relatively lower level of grain-derived congeners and pulls most of its flavor from the barrel itself. The oft-repeated distillery-tour stat that roughly 80% of bourbon's flavor comes from the barrel is a column still story.
 
-Pot still bourbon flips that ratio. Because a pot still runs in discrete batches rather than continuously, pot-distilled American whiskeys tend to show more weight and congeners at a given proof than column-only spirits. The grain speaks louder. The barrel still matters, but it's in more of a conversation.
+Pot still bourbon flips that ratio. Because a pot still runs in discrete batches rather than continuously, pot-distilled American whiskeys tend to show more weight and congeners at a given proof than column-only spirits. The grain comes through louder. The barrel still matters, but it's in more of a conversation with what the still left behind.
 
 ## What exactly is a column still, and why do most big distilleries use one?
 
-The column still is the workhorse of modern whiskey production. It runs continuously: grain mash flows in at the top, steam rises from the bottom, and alcohol vapors are captured at different heights depending on the desired proof. High volume, highly consistent new make spirit, run after run.
+The column still is the workhorse of modern whiskey production. It runs continuously: grain mash flows in at the top, steam rises from the bottom, and alcohol vapors are captured at different heights depending on the desired proof. High volume, consistent new make spirit, run after run.
 
-For large Kentucky distilleries producing millions of cases a year, that consistency isn't optional. But the story doesn't end at the column. In practice, large producers pair a beer (column) still with a doubler or thumper, a secondary pot-style redistillation vessel, for efficiency and to round out the spirit. That doubler adds a subtle second pass that lifts proof and softens the edges, meaning even standard Kentucky bourbon carries a whisper of pot still influence in its DNA.
+For large Kentucky distilleries producing millions of cases a year, that consistency isn't optional. In practice, large producers pair a beer (column) still with a doubler or thumper, a secondary pot-style redistillation vessel. That doubler adds a second pass that lifts proof and softens the spirit, meaning even standard Kentucky bourbon carries a trace of pot still influence in its DNA.
 
 ## What is a pot still, and how does it actually distill bourbon differently?
 
@@ -56,7 +56,7 @@ For large Kentucky distilleries producing millions of cases a year, that consist
 
 That batch-by-batch nature means the distiller interacts with every single run, adjusting where to cut from heads to hearts to tails. If you want a deeper look at those cuts, see our guide to [what heads, hearts, and tails mean in bourbon distillation](/articles/what-are-heads-hearts-tails-bourbon).
 
-Because each batch is handled individually, more of the grain's heavier, oilier flavor compounds survive into the final spirit. The tradeoff is volume: a pot still cannot match the output of a column still. True pot still bourbon is genuinely rare in the United States. Most distillers have defaulted to column still distillation, and even many smaller craft operations use hybrid stills, part column, part pot, making full pot still distillation an uncommon choice here.
+Because each batch is handled individually, more of the grain's heavier, oilier flavor compounds survive into the final spirit. The tradeoff is volume: a pot still cannot match the output of a column still. True pot still bourbon is rare in the United States. Most distillers use column still distillation, and many smaller craft operations use hybrid stills, part column, part pot, making full pot still distillation an uncommon choice here.
 
 ## How do these two methods actually change what's in my glass?
 
@@ -71,13 +71,13 @@ Because each batch is handled individually, more of the grain's heavier, oilier 
 | Common in craft vs. large producers | Both | Mostly craft |
 | Price | Wide range | Usually premium |
 
-The practical tasting difference: pour a column-distilled Kentucky straight bourbon next to a genuine pot still bourbon and the pot still expression will almost always feel heavier on the palate, with more pronounced grain character, corn oil, cereal, sometimes a faint earthiness, alongside whatever the barrel contributes. The column still bourbon will read cleaner, with vanilla, caramel, and barrel spice more prominently out front.
+Pour a column-distilled Kentucky straight bourbon next to a genuine pot still bourbon and the pot still expression will almost always feel heavier on the palate. More pronounced grain character, corn oil, cereal, sometimes a faint earthiness, alongside whatever the barrel contributes. The column still bourbon will read cleaner, with vanilla, caramel, and barrel spice more prominently out front.
 
 ## Which bourbon brands actually use pot stills?
 
-*Readers frequently ask:* this is where confusion runs rampant, partly because one of the most famous "pot still" bottles in the hobby has nothing to do with the still type.
+*Readers frequently ask:* one of the most famous "pot still" bottles in the hobby has nothing to do with the still type.
 
-Willett Pot Still Reserve Bourbon is a Kentucky straight bourbon produced by the Willett Distillery in Bardstown, Kentucky, introduced in 2008 and bottled at 47% ABV. The name refers to the iconic pot-still-shaped bottle, not the distillation method. It's a collector favorite for its packaging and quality, but buyers should know the name is a design reference, not a production claim.
+Willett Pot Still Reserve Bourbon is a Kentucky straight bourbon produced by the Willett Distillery in Bardstown, Kentucky, introduced in 2008 and bottled at 47% ABV. The name refers to the iconic pot-still-shaped bottle, not the distillation method. It's a collector favorite for its packaging and quality, but the name is a design reference, not a production claim.
 
 Genuine pot still bourbon producers are a shorter list. Balcones Distilling in Texas uses copper pot stills to produce award-winning bourbons with a distinctly regional character. Tom's Foolery in Ohio has made a point of reviving a style of whiskey making that got largely abandoned in the industrial era. Kings County Distillery in Brooklyn is another well-regarded name in the space.
 
@@ -85,9 +85,9 @@ One nuance worth tracking: some distilleries use a hybrid approach, a column sti
 
 ## Does the still type affect a bourbon's collectibility or resale value?
 
-This is a newer question as the craft distillery boom has matured. True pot still bourbons exist in genuinely small quantities. A craft distillery running batch distillation cannot produce at scale, and that scarcity can translate to collectibility. But it's only one variable. Provenance, age, proof, tasting reputation, and producer track record all matter more to secondary market pricing than still type alone.
+True pot still bourbons exist in small quantities. A craft distillery running batch distillation cannot produce at scale, and that scarcity can translate to collectibility. It's one variable among many, though. Provenance, age, proof, tasting reputation, and producer track record all matter more to secondary market pricing than still type alone.
 
-What the still type *does* meaningfully affect is long-term cellar composition. A collection built entirely on column still expressions, even excellent ones, tells a narrower story of American bourbon than one that includes a few carefully chosen pot still or hybrid-still bottles. Think of pot still entries as the mash bill diversity play: just as collectors seek out [high-rye bourbons](/articles/what-is-high-rye-bourbon) or [wheated expressions](/articles/what-is-wheated-bourbon) to add spectrum to a flight, a pot still bottle adds a distillation-method dimension that a column still bourbon cannot replicate.
+Still type does meaningfully affect long-term cellar composition. A collection built entirely on column still expressions, even excellent ones, tells a narrower story of American bourbon than one that includes a few carefully chosen pot still or hybrid-still bottles. Just as collectors seek out [high-rye bourbons](/articles/what-is-high-rye-bourbon) or [wheated expressions](/articles/what-is-wheated-bourbon) to add spectrum to a flight, a pot still bottle adds a distillation-method dimension that a column still bourbon cannot replicate.
 
 According to auction data tracked across platforms like Whiskybase and Unicorn Auctions, craft distillery expressions with documented production methods (including still type) command a 15-30% premium over comparable undocumented expressions at auction, as collectors increasingly want the full production story, not just the age statement.
 

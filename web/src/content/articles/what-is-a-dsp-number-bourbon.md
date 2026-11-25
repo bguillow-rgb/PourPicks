@@ -32,11 +32,9 @@ faqs:
 published: true
 ---
 
-A DSP number is one of the most useful and most overlooked codes hiding in plain sight on your bourbon bottles. For collectors building a cellar, hunting dusties, or verifying the provenance of a sourced release, understanding this small string of characters can tell you something no marketing copy ever will: exactly where the whiskey inside was actually made.
+A DSP number is one of the most useful and most overlooked codes on your bourbon bottles. For collectors building a cellar, hunting dusties, or verifying the provenance of a sourced release, this small string of characters can tell you something no marketing copy ever will: exactly where the whiskey inside was made.
 
 ## So what exactly is a DSP number, and why should I care?
-
-There is genuine confusion about DSP numbers and what they mean, and the system itself has evolved considerably over the roughly 150 years since the federal government first created it for tax purposes.
 
 DSP stands for "Distilled Spirits Plant," and the code tells you where a particular bottle was distilled. On a Kentucky bourbon you'll see it formatted as DSP-KY-[number]. Other states use their own two-letter abbreviation in the middle.
 
@@ -60,15 +58,13 @@ On Bottled-in-Bond expressions, the DSP number is legally required to appear on 
 
 On standard (non-bonded) bottles, it's optional and placement varies. Check the back label near the producer's address, the capsule, or the paper strip stamp on older bottles. Some brands print it prominently as a mark of heritage; others omit it entirely.
 
-On vintage and dusty finds, the DSP is often your best friend. Occasionally the last two digits of a bottle's bottling year are embossed in the bottom glass. By examining the barcode's first five digits, you can often identify who actually bottled a given whiskey, something worth knowing when bourbon brands changed hands so frequently while labels often remained nearly identical.
+On vintage and dusty finds, the DSP is often your best tool. Occasionally the last two digits of a bottle's bottling year are embossed in the bottom glass. By examining the barcode's first five digits, you can often identify who actually bottled a given whiskey, something worth knowing when bourbon brands changed hands so frequently while labels often remained nearly identical.
 
 ## Does a low DSP number mean the distillery is old and prestigious?
 
 *Readers frequently ask* this after noticing brands market their low DSP numbers as a badge of heritage.
 
-The honest answer: not reliably. As bourbon attorney and author Brian Haara has noted, distillers seem to believe many consumers think a low DSP number signifies the age of the distillery, and those who promote their low numbers probably want consumers to think exactly that. But it isn't always the case.
-
-DSP numbers could be transferred with a distillery sale if ongoing operations continued, cancelled if not in use, or even reused if the registered distillery had formally closed. A brand operating today with a single-digit or low two-digit DSP may have simply inherited that number when they purchased an old facility.
+Not reliably. As bourbon attorney and author Brian Haara has noted, distillers seem to believe many consumers think a low DSP number signifies the age of the distillery, and those who promote their low numbers probably want consumers to think exactly that. DSP numbers could be transferred with a distillery sale if ongoing operations continued, cancelled if not in use, or reused if the registered distillery had formally closed. A brand operating today with a single-digit or low two-digit DSP may have simply inherited that number when they purchased an old facility.
 
 Kentucky Peerless, revived in 2014, carries DSP-50. Old Pogue, which opened in 1876, holds DSP-3 but changed hands before returning to the original family. Castle & Key, formerly Old Taylor, holds DSP-18 even though the modern brand was founded in 2014.
 
@@ -97,7 +93,7 @@ When both a distilled-by and bottled-by statement appear and the DSP numbers dif
 
 Some of the most sought-after vintage bourbons came from the National Distillers company, distilled from the 1960s through the 1990s. While not always recognized today as premium pours, Old Taylor and Old Grand-Dad bourbons from the National Distillers era can be remarkable whiskeys. The two easiest ways to identify ND-distilled bourbons are by the DSP number (for bonded whiskeys) and by the UPC code (for non-bonded).
 
-National Distillers' Old Grand-Dad was made at the Old Grand-Dad distillery under DSP-KY-14. Some bottles were actually distilled at Old Taylor but brought to Old Grand-Dad for bottling. Both labels used ND UPC codes beginning with 86259. Knowing both the DSP and the UPC prefix together gives you a much more complete picture of what's in the bottle than the label text alone.
+National Distillers' Old Grand-Dad was made at the Old Grand-Dad distillery under DSP-KY-14. Some bottles were distilled at Old Taylor but brought to Old Grand-Dad for bottling. Both labels used ND UPC codes beginning with 86259. Knowing both the DSP and the UPC prefix together gives you a more complete picture of what's in the bottle than the label text alone.
 
 ## Does the DSP number matter for modern releases, or just vintage bottles?
 
@@ -107,7 +103,7 @@ Both, though the use cases differ. For modern bottles, the DSP is most useful wh
 - Comparing releases across years: if a brand's DSP changes between the 2022 and 2025 releases of the same expression, the liquid almost certainly changed too. For collectors building vertical tastings (see our [vertical tasting guide](https://pourpicks.app/articles/what-is-a-bourbon-vertical-tasting)), this is a detail worth logging.
 - Reading Bottled-in-Bond labels accurately: since BiB regulations require the DSP to appear, it's always verifiable. Our guide to [what is Bottled-in-Bond](https://pourpicks.app/articles/what-is-bottled-in-bond-bourbon) covers the full legal standard those labels must meet.
 
-For vintage and dusty hunting, the DSP is often the single most important authentication tool you have, more reliable than the brand name, which may have been sold and relicensed multiple times.
+For vintage and dusty hunting, the DSP is often the single most reliable authentication tool you have, more reliable than the brand name, which may have been sold and relicensed multiple times.
 
 If you use Pour Picks to catalog your collection, logging the DSP number alongside each bottle's entry is a good habit, especially for bottles you're holding long-term. It becomes part of the provenance record if you ever sell, insure, or simply want to remember exactly what era and facility a pour came from.
 

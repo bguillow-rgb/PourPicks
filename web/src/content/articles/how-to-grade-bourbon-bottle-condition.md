@@ -32,15 +32,15 @@ faqs:
 published: true
 ---
 
-If you've ever bought a bottle on the secondary market and wondered why two copies of the same release were priced $150 apart, condition grading is almost certainly the answer. Auction houses, specialty retailers, and serious collectors all use a shared (if informal) framework to assess a bottle before buying, selling, insuring, or cataloging it. Knowing that framework turns you from a passive buyer into a genuinely informed one.
+If you've ever bought a bottle on the secondary market and wondered why two copies of the same release were priced $150 apart, condition grading is almost certainly the answer. Auction houses, specialty retailers, and serious collectors all use a shared, if informal, framework to assess a bottle before buying, selling, insuring, or cataloging it.
 
 ## "Why does condition matter so much if the seal is still intact?"
 
 *A question we hear often:* An unbroken seal confirms the bottle hasn't been opened, but it tells you almost nothing about what happened before it reached you.
 
-Condition isn't just about how clean a bottle looks. It's about how safe and stable it is. Buyers check the seal, label, glass, and liquid level, and whether the bottle was kept in decent storage over time. A bottle that sat properly for a decade commands more trust and more money than an identical release that spent time in a hot garage, even if both seals are technically intact.
+Condition isn't just about how clean a bottle looks. It's about how safe and stable it is. Buyers check the seal, label, glass, and liquid level, and whether the bottle was kept in decent storage over time. A bottle stored properly for a decade commands more trust and more money than an identical release that spent time in a hot garage, even if both seals are technically intact.
 
-Rarity, condition (including fill level), provenance, distillery reputation, vintage quality, and critical acclaim all affect auction prices. Condition is the one variable you can directly observe and document before a transaction closes. Getting fluent in condition grading protects you as both a buyer and a seller.
+Rarity, condition (including fill level), provenance, distillery reputation, vintage quality, and critical acclaim all affect auction prices. Condition is the one variable you can directly observe and document before a transaction closes.
 
 ## "What are the five things I should actually check on every bottle?"
 
@@ -70,11 +70,11 @@ For collectors using Pour Picks to catalog their cellar, logging a condition gra
 
 ## "How do I read fill level correctly, and what's actually normal?"
 
-Fill level is the first thing auction specialists check, and it's also the most misunderstood factor among newer collectors. The goal is to understand what's *expected* given a bottle's age and closure type, not to assume any loss equals a problem.
+Fill level is the first thing auction specialists check. The goal is to understand what's *expected* given a bottle's age and closure type, not to assume any loss equals a problem.
 
-Fill level can affect the price a bottle achieves at auction because it signals how much liquid remains. Most collectors prefer higher fill levels, so those bottles tend to achieve higher prices. Context matters, though. Natural evaporation through the closure drops levels 5-15mm over 20+ years, especially with cork closures, so a shoulder-fill on a 1970s Old Fitzgerald is normal, not a sign of tampering.
+Fill level affects the price a bottle achieves at auction because it signals how much liquid remains. Most collectors prefer higher fill levels, so those bottles tend to achieve higher prices. Context matters, though. Natural evaporation through the closure drops levels 5-15mm over 20+ years, especially with cork closures, so a shoulder fill on a 1970s Old Fitzgerald is normal, not a sign of tampering.
 
-As a rough benchmark, natural evaporation of 0.5-2% annually should match a bottle's claimed age. A 1990 release showing a fill that's dropped 8-10mm into the neck is consistent with three-plus decades of slow, normal evaporation. The same fill level on a 2018 release is a red flag. Fill level should ideally be well into the neck; lower levels suggest evaporation that can degrade flavor and clarity, and a fill below the shoulder markedly diminishes value due to potential spoilage risks. When in doubt, compare against auction records for the same release and vintage. Those closed-sale comps will show you what fill level the market accepts as normal.
+As a rough benchmark, natural evaporation of 0.5-2% annually should match a bottle's claimed age. A 1990 release showing a fill that's dropped 8-10mm into the neck is consistent with three-plus decades of slow, normal evaporation. The same fill level on a 2018 release is a red flag. Fill level should ideally be well into the neck; a fill below the shoulder markedly diminishes value due to potential spoilage risks. When in doubt, compare against auction records for the same release and vintage. Those closed-sale comps will show you what fill level the market accepts as normal.
 
 ## "Does label damage actually matter if I'm keeping the bottle?"
 
@@ -94,10 +94,8 @@ You can learn a surprising amount without cracking the seal. Two non-invasive ch
 
 ## "How do auction houses think about condition when they price a lot?"
 
-*This one comes up a lot* among collectors considering consignment for the first time. The short answer: condition documentation is what separates a confident bid from a discounted one.
+*This one comes up a lot* among collectors considering consignment for the first time. Condition documentation is what separates a confident bid from a discounted one.
 
 Buyers are more cautious today than ever, and provenance is now a primary driver of auction outcomes. According to whisky insurance specialists, a DIY inventory with full descriptions, photographs, and purchase receipts is acceptable as evidence of ownership, provenance, and value, at least for collections valued in the low tens of thousands bought relatively recently. More significant collections with high-value individual bottles collected over a long period call for a professional valuation.
 
-Good documentation removes doubt, and doubt lowers offers. Whether you're consigning a single trophy bottle or a full shelf, arriving at that conversation with a complete condition record (photos of fill level, label front and back, capsule, wax detail, and original packaging) is the single most reliable way to protect your return.
-
----
+Good documentation removes doubt, and doubt lowers offers. Whether you're consigning a single trophy bottle or a full shelf, arriving at that conversation with a complete condition record (photos of fill level, label front and back, capsule, wax detail, and original packaging) is the most reliable way to protect your return.

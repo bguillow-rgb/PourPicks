@@ -32,17 +32,17 @@ faqs:
 published: true
 ---
 
-Proof is one of the first numbers you see on every bourbon bottle, and one of the most misunderstood. New collectors often treat it as a heat warning. Serious collectors read it as a map: a window into how the bourbon was made, how it will taste, and sometimes how it will hold its value in a cellar. This guide unpacks all of it, from the basic math to the production rules that actually matter when you're building a collection.
+Proof is one of the first numbers you see on every bourbon bottle. New collectors often treat it as a heat warning. Serious collectors read it as a map: a window into how the bourbon was made, how it will taste, and sometimes how it will hold its value in a cellar.
 
 ## Okay, basic question first, what exactly is proof and where did the word come from?
 
 The term predates modern chemistry. In 18th-century Britain, spirits were tested for alcohol content by soaking gunpowder in the liquid and trying to ignite it. If the powder burned, the spirit was "proof," meaning it contained enough alcohol to support combustion. That corresponded to roughly 57% ABV, which became 100 degrees proof under the British system. The United States eventually adopted a simpler formula: proof equals twice the ABV percentage.
 
-In plain terms, bourbon proof is a measure of alcohol content, always exactly double the ABV. A bottle labeled 90 proof is 45% alcohol by volume.
+Bourbon proof is always exactly double the ABV. A bottle labeled 90 proof is 45% alcohol by volume.
 
 The word "proof" is used only in the U.S., and only for stronger spirits with 40 percent alcohol and above. When you see ABV on a European-bottled whisky, that's the same measurement, just expressed directly.
 
-The takeaway for label reading: divide by two, and you have ABV. Multiply by two, and you have proof. That's the whole conversion.
+Divide by two and you have ABV. Multiply by two and you have proof.
 
 ---
 
@@ -55,8 +55,6 @@ Federal regulations set specific proof limits at different stages of bourbon pro
 The barrel entry limit is 125 proof (62.5% ABV). New-make spirit must enter the barrel at no more than 125 proof, and most distilleries come in somewhere between 105 and 125. That starting point shapes how the spirit interacts with the wood over years of aging.
 
 The bottling minimum is 80 proof (40% ABV). Finished bourbon must be bottled at no less than 80 proof, and nothing beyond water may be added to reach the target. No coloring, no flavoring, no sweeteners.
-
-Here's a quick reference table for every legal proof threshold:
 
 | Stage | Proof Limit | Why It Matters |
 |---|---|---|
@@ -76,7 +74,7 @@ The proof at which new-make spirit enters the barrel is the entry proof. Federal
 
 A lower entry proof tends to pull more water-soluble sugars from the oak, producing sweeter notes, while a higher proof extracts more wood tannins, pushing the result toward spicier, oakier territory.
 
-This is why two bourbons aged the same number of years in similarly charred barrels can taste dramatically different. The entry proof decision is baked in from day one. Distilleries like Wild Turkey (110 proof entry) and Four Roses (also 110 proof across all its recipes) are known for producing more texture-forward expressions as a direct result. When you're cataloging bottles in Pour Picks, noting the entry proof (if disclosed) is one of the more meaningful production data points to log alongside age and mash bill.
+This is why two bourbons aged the same number of years in similarly charred barrels can taste dramatically different. The entry proof decision is baked in from day one. Distilleries like Wild Turkey (110 proof entry) and Four Roses (also 110 proof across all its recipes) produce more texture-forward expressions as a direct result. When you're cataloging bottles in Pour Picks, noting the entry proof (if disclosed) is one of the more meaningful production data points to log alongside age and mash bill.
 
 ---
 
@@ -84,9 +82,9 @@ This is why two bourbons aged the same number of years in similarly charred barr
 
 Bourbons labeled cask strength or barrel proof are bottled at the same proof the bourbon reached in the barrel. The whiskey is generally filtered before bottling, but no water is added to cut the product.
 
-Full proof is a different designation entirely. The term refers to the proof at which the whiskey went *into* the barrel, not the proof when it came out. Weller Full Proof, for instance, is bottled at 114 proof because that's the number at which it entered the barrel, even though the spirit inside may have climbed above that during aging.
+Full proof is a different designation. The term refers to the proof at which the whiskey went *into* the barrel, not the proof when it came out. Weller Full Proof is bottled at 114 proof because that's the number at which it entered the barrel, even though the spirit inside may have climbed above that during aging.
 
-Brands can use "batch proof," "cask strength," and "barrel proof" interchangeably. There's no legal requirement to use any particular phrase. That inconsistency is exactly why reading the actual proof number is more reliable than parsing marketing language.
+Brands can use "batch proof," "cask strength," and "barrel proof" interchangeably. There's no legal requirement to use any particular phrase. Reading the actual proof number is more reliable than parsing marketing language.
 
 | Label Term | What It Means | Water Added at Bottling? |
 |---|---|---|
@@ -104,13 +102,11 @@ Brands can use "batch proof," "cask strength," and "barrel proof" interchangeabl
 
 Higher proof does not automatically mean better bourbon. Many collectors chase barrel-strength releases for the intensity, but quality comes from balance, not strength. A lower-proof bourbon can offer a more delicate experience, letting notes of grain, fruit, and caramel come through without being swamped by heat. The number on the label doesn't tell you whether the distiller got it right.
 
-Here's how the practical proof tiers actually behave in the glass.
+**80-99 proof:** The most common range for good reason. Less heat on the palate means the core flavors of corn, caramel, and vanilla can come through clearly.
 
-**80-99 proof:** The workhorses of the category, and the most common range for good reason. Less heat on the palate means the core flavors of corn, caramel, and vanilla can come through clearly without overwhelming the drinker.
+**100 proof:** More body and flavor intensity than a standard 80-86 proof release. The higher alcohol pulls more flavor compounds from the barrel and carries aromatics to the nose. Many experienced drinkers settle here: enough punch to be interesting, not so much that it dominates everything else.
 
-**100 proof:** Noticeably more body and flavor intensity than a standard 80-86 proof release. The higher alcohol does more work pulling flavor compounds from the barrel and carrying aromatics to the nose. Many experienced drinkers settle here as a personal sweet spot: enough punch to be interesting, not so much that it dominates everything else.
-
-**Barrel proof (110-140+ proof):** The purest expression of what came out of the barrel. Concentrated aromas, deeper complexity, and a finish that goes on for a while. Adding a few drops of water isn't weakness; it releases aromatic compounds locked behind the alcohol and often opens the nose considerably.
+**Barrel proof (110-140+ proof):** The purest expression of what came out of the barrel. Concentrated aromas, deeper complexity, and a long finish. Adding a few drops of water releases aromatic compounds locked behind the alcohol and often opens the nose considerably.
 
 ---
 
@@ -118,17 +114,17 @@ Here's how the practical proof tiers actually behave in the glass.
 
 Hazmat bourbon is collector slang for anything bottled at 140 proof or higher. The name comes from federal regulations that classify spirits above that threshold as hazardous materials for shipping, which dramatically limits how these bottles can be moved or purchased online.
 
-Those restrictions mean hazmat releases rarely appear on secondary marketplaces, and when they do, the logistics create enough friction to make them more desirable, not less. Bottles like George T. Stagg (which has historically clocked in above 140 proof in certain years) and some Booker's expressions earn hazmat status in strong vintage years. According to whiskey auction data, hazmat-level BTAC releases consistently outperform their lower-proof counterparts at auction, sometimes by 20-30% above their already elevated secondary market baseline.
+Those restrictions mean hazmat releases rarely appear on secondary marketplaces, and when they do, the logistics create enough friction to make them more desirable. Bottles like George T. Stagg (which has historically clocked in above 140 proof in certain years) and some Booker's expressions earn hazmat status in strong vintage years. According to whiskey auction data, hazmat-level BTAC releases consistently outperform their lower-proof counterparts at auction, sometimes by 20-30% above their already elevated secondary market baseline.
 
-If you track your collection in Pour Picks, flagging hazmat bottles separately is worth doing. They're subject to different shipping rules if you ever decide to move them, and their rarity tier is genuinely distinct from standard barrel-proof releases.
+If you track your collection in Pour Picks, flagging hazmat bottles separately is worth doing. They're subject to different shipping rules if you ever decide to move them, and their rarity tier is distinct from standard barrel-proof releases.
 
 ---
 
 ## Does proof change how I should be storing or serving my bottles?
 
-Storage, no. Best practices are the same regardless of proof: bottles upright, away from light and heat, at a consistent temperature. Higher-proof bottles are actually somewhat more resistant to oxidation once opened because the elevated alcohol acts as a preservative. A 130-proof barrel-proof release re-sealed after opening will hold its character longer than a standard 90-proof bottle opened under the same conditions.
+Storage, no. Best practices are the same regardless of proof: bottles upright, away from light and heat, at a consistent temperature. Higher-proof bottles are more resistant to oxidation once opened because the elevated alcohol acts as a preservative. A 130-proof barrel-proof release re-sealed after opening will hold its character longer than a standard 90-proof bottle opened under the same conditions.
 
-For serving, the main consideration is dilution. Many drinkers prefer a high-proof pour with a few drops of water to open the aroma and soften the heat. A useful rule of thumb: at 110 proof and above, start with a small pour neat, then add water drop by drop and re-nose after each addition. You'll often find a specific dilution point where the aromatics open up without losing body.
+For serving, the main consideration is dilution. Many drinkers prefer a high-proof pour with a few drops of water to open the aroma and soften the heat. At 110 proof and above, start with a small pour neat, then add water drop by drop and re-nose after each addition. There's often a specific dilution point where the aromatics open up without losing body.
 
 ---
 
@@ -140,7 +136,7 @@ Proof is always exactly double the ABV percentage. A 90-proof bourbon is 45% alc
 
 **What is the difference between barrel proof, cask strength, and full proof?**
 
-Barrel proof and cask strength mean no water was added after aging: the bottle contains whatever proof the barrel reached. Full proof means the bourbon was bottled at the same proof it *entered* the barrel, which often requires adding water back down to that number after aging pushed it higher. The term "full proof" is distinct from "barrel proof" or "cask strength."
+Barrel proof and cask strength mean no water was added after aging: the bottle contains whatever proof the barrel reached. Full proof means the bourbon was bottled at the same proof it *entered* the barrel, which often requires adding water back down to that number after aging pushed it higher. Full proof is distinct from barrel proof or cask strength.
 
 **What is entry proof and why does it matter?**
 
@@ -152,7 +148,7 @@ No. Proof amplifies what's already there. A well-made whiskey can taste more imp
 
 **What is "hazmat" bourbon?**
 
-Any bourbon bottled at 140 proof or higher. Federal shipping regulations classify spirits above that threshold as hazardous materials, restricting how these bottles can be transported or sold online. For collectors, hazmat releases represent a genuine rarity tier, and they frequently command a premium on the secondary market.
+Any bourbon bottled at 140 proof or higher. Federal shipping regulations classify spirits above that threshold as hazardous materials, restricting how these bottles can be transported or sold online. Hazmat releases represent a genuine rarity tier and frequently command a premium on the secondary market.
 
 **Why do some barrel-proof bourbons list a decimal in the proof number?**
 

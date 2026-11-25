@@ -32,45 +32,43 @@ faqs:
 published: true
 ---
 
-There's a bottle sitting on some collector's shelf right now that doesn't exist anywhere else on earth. Not at the distillery, not at auction, not on any retail shelf. It's their infinity bottle: a living, ever-changing home blend built one pour at a time over months or years of working through a collection. If you've never started one, here's everything you need to know.
+There's a bottle sitting on some collector's shelf right now that doesn't exist anywhere else on earth. Not at the distillery, not at auction, not on any retail shelf. It's their infinity bottle: a living, ever-changing home blend built one pour at a time over months or years of working through a collection.
 
 ## What exactly *is* a bourbon infinity bottle?
 
-As you move through the whiskey-collecting world, especially among people with serious at-home cellars, the term "infinity bottle" comes up quickly. Think of it as a homemade blend that doubles as a living history of the bottles you've previously enjoyed: never static, always in flux.
+An infinity bottle is a custom whiskey blend you build yourself over time. Most people start with an empty bottle and gradually add leftover pours from bottles they've finished. The blend changes with every addition and grows more complex as it goes.
 
-The mechanics are simple. An infinity bottle is a custom whiskey blend you build yourself over time. Most people start with an empty bottle and gradually add leftover pours from bottles they already enjoy. It becomes a personal blend that changes with every addition and grows in complexity.
-
-The term "infinity bottle" comes from the endless potential for variation. No two are alike, because the combinations of whiskies are limited only by the preferences of the person making it. That's the point: the bottle on your bar is yours alone.
+The term comes from the endless potential for variation. No two are alike, because the combinations of whiskies are limited only by what the person making it chooses to add. The bottle on your bar is yours alone.
 
 ## Where did the infinity bottle concept come from?
 
 *A question we hear often:* Is this a modern collector trend or something with deeper roots?
 
-The concept of a living bottle appears to have originated centuries ago, when wine blenders would mix new with old vintages to produce more consistent, better-tasting batches. The modern whiskey version borrows from a similar tradition, specifically the *solera* system used for wine, brandy, rum, whiskey, and sherry. In a solera, barrels are never fully emptied. Whatever spirit is drawn out gets replaced with new spirit, so some tiny portion of the original always persists in the blend, even if the system is a century old.
+The concept of a living bottle appears to have originated centuries ago, when wine blenders would mix new vintages with old to produce more consistent batches. The modern whiskey version borrows from the *solera* system used for wine, brandy, rum, whiskey, and sherry. In a solera, barrels are never fully emptied. Whatever spirit is drawn out gets replaced with new spirit, so some portion of the original always persists in the blend, even if the system is a century old.
 
-The personal infinity bottle seems to have caught on with whiskey enthusiasts around 2012, after a video by YouTuber Ralphy Mitchell. In the years since, it has developed its own collector subculture, with dedicated decanters, blending logs, and real disagreement about which styles belong together.
+The personal infinity bottle caught on with whiskey enthusiasts around 2012, after a video by YouTuber Ralphy Mitchell. In the years since, it has developed its own collector subculture, with dedicated decanters, blending logs, and real disagreement about which styles belong together.
 
 ## How do I actually start a bourbon infinity bottle?
 
 *This one comes up a lot:* The setup is less complicated than people fear.
 
-Step 1: choose your vessel. Start with a clean, empty glass bottle with a secure, airtight seal. Some collectors use a decanter; others rinse out a finished bottle and reuse it. Bottle size matters more than people expect. Smaller bottles are better for a couple of reasons: they limit the air in contact with your whiskey, and since you're only adding an ounce or two at a time, a large bottle can take years to fill where a small one takes months.
+Step 1: choose your vessel. Start with a clean, empty glass bottle with a secure, airtight seal. Some collectors use a decanter; others rinse out a finished bottle and reuse it. Bottle size matters. Smaller bottles limit the air in contact with your whiskey, and since you're only adding an ounce or two at a time, a large bottle can take years to fill where a small one takes months.
 
-Step 2: establish a base. Even though the idea is to use small amounts of whatever you have left, starting with a base whiskey gives your infinity bottle its early identity. A well-rounded, mid-proof bourbon (90-100 proof) is a natural anchor. It won't overpower future additions.
+Step 2: establish a base. Starting with a base whiskey gives your infinity bottle its early identity. A well-rounded, mid-proof bourbon (90-100 proof) works as an anchor. It won't overpower future additions.
 
-Step 3: add consistently. The standard is 1.5 to 2 ounces per addition. Some blenders contribute first pours; others use the last dram or two from a favorite bottle. Either approach works, as long as you're consistent about measuring.
+Step 3: add consistently. The standard is 1.5 to 2 ounces per addition. Some blenders contribute first pours; others use the last dram or two from a favorite bottle. Either approach works as long as you measure.
 
-Step 4: never empty it. There is essentially one rule: the bottle should never go empty. The whole point is building a blend over time, which means adding to it at roughly the same rate you drink from it. Keeping it about 80% full and properly sealed minimizes flavor degradation.
+Step 4: never empty it. The bottle should never go empty. The whole point is building a blend over time, which means adding to it at roughly the same rate you drink from it. Keeping it about 80% full and properly sealed minimizes flavor degradation.
 
 ## What kinds of bourbon should and shouldn't go in?
 
 *Readers frequently ask:* "Do I just dump everything in, or is there a strategy?"
 
-There are real schools of thought here. Some infinity bottles are built with a clear direction, only bourbons, only ryes, or only bottles from a single distillery. Others are more freeform. Either way, what you end up with is a pour that doesn't exist anywhere else.
+Some infinity bottles are built with a clear direction: only bourbons, only ryes, or only bottles from a single distillery. Others are more freeform. Either way, what you end up with is a pour that doesn't exist anywhere else.
 
-For bourbon-focused collectors, proof management is the biggest thing to watch. It's tempting to add all your favorite cask-strength or barrel-proof expressions, but a few additions of lower-proof spirit can make the blend much more drinkable. Balance matters.
+For bourbon-focused collectors, proof management is the biggest thing to watch. It's tempting to add all your favorite cask-strength or barrel-proof expressions, but a few additions of lower-proof spirit can make the blend much more drinkable.
 
-Strong flavors will dominate, so be careful about mixing ryes, peaty Scotches, or flavored whiskeys into a bourbon bottle. If you're unsure about a particular addition, pour a small amount into a tasting glass and use a pipette to add tiny quantities of the new spirit. You get a preview of how it will affect the blend before you commit to the whole bottle.
+Strong flavors will dominate, so be careful about mixing ryes, peaty Scotches, or flavored whiskeys into a bourbon bottle. If you're unsure about a particular addition, pour a small amount into a tasting glass and use a pipette to add tiny quantities of the new spirit. You get a preview of how it will affect the blend before you commit.
 
 | Infinity Bottle Style | What Goes In | What to Watch Out For |
 |---|---|---|
@@ -84,25 +82,25 @@ Strong flavors will dominate, so be careful about mixing ryes, peaty Scotches, o
 
 *A question we hear often:* Logging feels like homework, but experienced collectors treat it as half the fun.
 
-Even small additions can shift the character of the blend noticeably, so keeping a record matters. Write down what you added and roughly how much. Include the proof, because tracking it over time is the fastest way to understand why a blend is becoming harsh or off-palate, and what to do about it.
+Small additions can shift the character of the blend noticeably, so keeping a record matters. Write down what you added and roughly how much. Include the proof, because tracking it over time is the fastest way to understand why a blend is becoming harsh and what to do about it.
 
-Your log doesn't need to be elaborate. A removable label on the bottle works fine, or a spreadsheet if you're running multiple infinity bottles and want a full history. Some collectors keep a dedicated notebook. Others go digital.
+Your log doesn't need to be elaborate. A removable label on the bottle works fine, or a spreadsheet if you're running multiple infinity bottles. Some collectors keep a dedicated notebook. Others go digital.
 
-Pour Picks' tasting journal is a natural home for infinity-bottle notes. Since each addition is effectively a new tasting event, you can log the blend's current character alongside what you added, building a timestamped record of how your bottle evolved. If you're already using the [app to catalog your cellar](/bourbon-inventory-app), tagging "infinity bottle" entries alongside your regular bottles keeps your collection picture complete.
+Pour Picks' tasting journal is a natural home for infinity-bottle notes. Since each addition is a new tasting event, you can log the blend's current character alongside what you added, building a timestamped record of how your bottle evolved. If you're already using the [app to catalog your cellar](/bourbon-inventory-app), tagging "infinity bottle" entries alongside your regular bottles keeps your collection picture complete.
 
-If you're successful, enjoy the bottle, because it will be difficult to duplicate even with meticulous records. That irreproducibility is exactly what makes it compelling.
+The bottle will be difficult to duplicate even with meticulous records. That irreproducibility is what makes it worth tracking carefully.
 
 ## What's a "legacy bottle," and do I need one?
 
 *This one comes up a lot among collectors who've been running an infinity bottle for a year or more.*
 
-With constant pours and new additions, a legacy bottle lets you preserve a version of your infinity bottle at a point you really liked. You pull a sample at a specific moment you prefer and bottle it separately, holding that flavor snapshot in time. Think of it as a commit in version control: the infinity bottle keeps moving, but the legacy bottle preserves a moment worth revisiting.
+A legacy bottle lets you preserve a version of your infinity bottle at a point you liked. You pull a sample at a specific moment and bottle it separately, holding that snapshot. The infinity bottle keeps moving; the legacy bottle preserves a moment worth revisiting.
 
-Many infinity bottles are years old and may contain contributions from hundreds of whiskies. Over that kind of timeline, pulling a legacy bottle every six months or so is a rewarding way to track your own palate development alongside the blend's evolution.
+Many infinity bottles are years old and may contain contributions from hundreds of whiskies. Over that kind of timeline, pulling a legacy bottle every six months or so is a useful way to track your palate development alongside the blend's evolution.
 
 ## Does my infinity bottle belong in my collection value tracking?
 
-A well-documented infinity bottle has a kind of provenance value, especially if it contains pours from discontinued expressions or rare single barrels. It won't appraise on any secondary market, but for insurance and personal record purposes it's worth noting in your [bourbon collection tracker](/bourbon-inventory-app) alongside your sealed bottles. Record the date started, the approximate current volume, and the highest-value bottles that contributed pours to it.
+A well-documented infinity bottle has provenance value, especially if it contains pours from discontinued expressions or rare single barrels. It won't appraise on any secondary market, but for insurance and personal record purposes it's worth noting in your [bourbon collection tracker](/bourbon-inventory-app) alongside your sealed bottles. Record the date started, the approximate current volume, and the highest-value bottles that contributed pours to it.
 
 As you get deeper into [organizing your collection](/articles/how-to-organize-a-bourbon-collection) and deciding what to open versus what to keep sealed, the infinity bottle becomes a practical answer to a real problem: you finally cracked that allocated bottle, you want to honor the last ounce rather than rush it, and now you have somewhere to put it. You can also use your [tasting notes practice](/articles/how-to-write-bourbon-tasting-notes) to evaluate the blend at regular intervals, treating each tasting like a mini vertical of your own making.
 
@@ -110,10 +108,10 @@ As you get deeper into [organizing your collection](/articles/how-to-organize-a-
 
 Most failures come down to three things.
 
-Going too high-proof too fast. If your first three additions are all barrel-proof bourbons in the 120-130 proof range, the resulting blend will be harsh and fatiguing to drink. Balance the heavy hitters with approachable 90-100 proof pours early in the bottle's life.
+Going too high-proof too fast. If your first three additions are all barrel-proof bourbons in the 120-130 proof range, the resulting blend will be harsh and fatiguing to drink. Balance those with approachable 90-100 proof pours early in the bottle's life.
 
-Skipping the log entirely. You should note what you added, but also jot down a few details about the resulting flavor and how much you like it. Unless you're a supertaster, you won't remember everything in the bottle. Keep a log of what went in, but don't expect to be able to taste everything every time.
+Skipping the log entirely. Note what you added and jot down a few details about the resulting flavor. You won't remember everything in the bottle. Keep a log of what went in, but don't expect to be able to taste everything every time.
 
-Using an improperly sealed vessel. Stoppers that don't create an airtight seal let your whiskey oxidize and go flat over time. Decanters with loose glass stoppers are a common culprit. Test yours before committing to it as your vessel.
+Using an improperly sealed vessel. Stoppers that don't create an airtight seal let your whiskey oxidize and go flat. Decanters with loose glass stoppers are a common culprit. Test yours before committing to it as your vessel.
 
-The infinity bottle rewards patience and intentionality. Approach it the way you'd approach [building a bourbon palate](/articles/how-to-build-a-bourbon-palate): methodically, with curiosity, and without pressure to rush toward a final product. There is no final product. That's the whole idea.
+The infinity bottle rewards patience. Approach it the way you'd approach [building a bourbon palate](/articles/how-to-build-a-bourbon-palate): methodically, with curiosity, and without pressure to rush toward a final product. There is no final product. That's the whole idea.

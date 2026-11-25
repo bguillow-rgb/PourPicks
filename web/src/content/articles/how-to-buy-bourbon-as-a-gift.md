@@ -32,7 +32,7 @@ faqs:
 published: true
 ---
 
-Buying bourbon for a serious collector sounds simple until you're standing in a liquor store aisle holding two bottles you've never heard of, wondering which one won't be a duplicate of something already on their shelf. The good news: a few collector-specific rules can get you to a genuinely impressive gift without chasing Pappy, overpaying on the secondary market, or defaulting to a gift set full of branded shot glasses.
+Buying bourbon for a serious collector sounds simple until you're standing in a liquor store aisle holding two bottles you've never heard of, wondering which one won't be a duplicate of something already on their shelf. A few collector-specific rules can get you to a genuinely impressive gift without chasing Pappy, overpaying on the secondary market, or defaulting to a gift set full of branded shot glasses.
 
 ## "I want to get a bourbon collector something they'll actually appreciate, where do I even start?"
 
@@ -52,11 +52,11 @@ High-proof bourbon impresses people who already love high proof. For someone who
 
 For a collector who's been in the hobby at least a year or two, that 95-120 proof window is almost always safe territory. Barrels in that range are where distilleries tend to release their most expressive single barrels and limited expressions. Below 90 proof, you risk a bottle that feels too modest for someone who already appreciates complexity. Above 130, you're in cask-strength territory that's fantastic if you know they love it, but easy to get wrong.
 
-If you do know they love barrel-proof releases, a bottle in the 120-135 proof range from a reputable distillery signals that you've been paying attention to their preferences. That carries real weight.
+If you know they love barrel-proof releases, a bottle in the 120-135 proof range from a reputable distillery signals that you've been paying attention to their preferences. That carries real weight.
 
 ## "Should I buy a single barrel or small batch? Does it matter for a gift?"
 
-For a collector, the distinction matters a lot. Here's the practical breakdown:
+For a collector, the distinction matters a lot.
 
 | Feature | Single Barrel | Small Batch |
 |---|---|---|
@@ -66,13 +66,13 @@ For a collector, the distinction matters a lot. Here's the practical breakdown:
 | Availability | Limited by the barrel itself; often a one-time release | Usually repeatable |
 | Best for gifting | Serious collectors who journal their pours | Newer collectors or casual drinkers |
 
-No two barrels produce the same whiskey. That's exactly what makes a single barrel feel like a gift rather than a grocery run. A store-picked single barrel, one that a specific retailer hand-selected and bottled exclusively for their shop, adds another layer of provenance that collectors genuinely appreciate. For more on how those selections work, the Pour Picks guide to [what a bourbon store pick is](/articles/what-is-a-bourbon-store-pick) covers the barrel-pick process in detail.
+No two barrels produce the same whiskey. That's what makes a single barrel feel like a gift rather than a grocery run. A store-picked single barrel, one that a specific retailer hand-selected and bottled exclusively for their shop, adds another layer of provenance that collectors appreciate. For more on how those selections work, the Pour Picks guide to [what a bourbon store pick is](/articles/what-is-a-bourbon-store-pick) covers the barrel-pick process in detail.
 
 ## "I keep hearing 'don't buy Pappy.' But what if I actually have a connection and can get it at retail?"
 
-*Readers frequently ask:* this is genuinely a good problem to have, and the answer flips.
+*Readers frequently ask:* this is a good problem to have, and the answer flips.
 
-If you can access a true allocated bottle, Pappy Van Winkle, Buffalo Trace Antique Collection, E.H. Taylor Limited, or similar, at or near retail price through a legitimate channel (a lottery, a retailer loyalty program, a personal connection), that is an extraordinary gift, full stop. The caveat is knowing whether the recipient already owns that specific expression.
+If you can access a true allocated bottle, Pappy Van Winkle, Buffalo Trace Antique Collection, E.H. Taylor Limited, or similar, at or near retail price through a legitimate channel (a lottery, a retailer loyalty program, a personal connection), that is an extraordinary gift. The caveat is knowing whether the recipient already owns that specific expression.
 
 The secondary market frenzy has cooled compared to its peak years, but lotteries are more common and retail loyalty programs are more formal, which means dedicated collectors have better odds of landing allocated bottles themselves. Before spending serious secondary-market money, ask yourself honestly: is there a real chance they've already acquired this through their own channels?
 
@@ -86,13 +86,13 @@ A wheated bourbon replaces rye with wheat, moving the whiskey away from sharp sp
 
 High-rye bourbon increases the proportion of rye in the mash bill, often around 30%, for a bolder, spicier flavor. It still contains more than 51% corn, but the added rye pushes the flavor into peppery territory, which makes it a favorite for people who enjoy a little edge or use bourbon in classic cocktails.
 
-As a general gifting heuristic: collectors who favor Weller, Pappy, or Maker's Mark skew wheated. Those who collect Four Roses, Bulleit, or Woodford tend toward high-rye. If they collect both, buy the best single barrel you can find and let the distillery's barrel do the storytelling.
+As a general gifting heuristic: collectors who favor Weller, Pappy, or Maker's Mark skew wheated. Those who collect Four Roses, Bulleit, or Woodford tend toward high-rye. If they collect both, buy the best single barrel you can find and let the barrel do the work.
 
 ## "Are bourbon accessories ever the right gift instead of a bottle?"
 
-*A question we hear often:* for the collector who seems to have everything, an accessory can actually land harder than another bottle on an already-crowded shelf.
+*A question we hear often:* for the collector who seems to have everything, an accessory can land harder than another bottle on an already-crowded shelf.
 
-The best accessory gifts improve how they interact with their collection. A proper set of Glencairn glasses for blind tastings, a purpose-built tasting journal, or a quality bottle-condition reference guide all signal that you understand the hobby at a level deeper than "they drink bourbon." The type of glass used can shift the tasting experience noticeably, so even something as focused as the right glassware can be a genuinely useful gift.
+The best accessory gifts improve how they interact with their collection. A proper set of Glencairn glasses for blind tastings, a purpose-built tasting journal, or a quality bottle-condition reference guide all signal that you understand the hobby at a level deeper than "they drink bourbon." The type of glass used can shift the tasting experience noticeably, so even focused glassware can be a genuinely useful gift.
 
 For the collector who's actively cataloging their bottles digitally, a gifted subscription to a cellar-tracking app like Pour Picks is a practical choice that keeps paying off. It lets them scan bottles, track collection value, and journal every pour in one place, useful for someone who's serious enough to receive a thoughtful gift in the first place.
 
@@ -102,6 +102,4 @@ This is the single biggest landmine in bourbon gifting, and it's worth solving b
 
 The bourbon world in 2026 has no shortage of quality beyond the obvious names. Bottles like Russell's Reserve 13 Year Old are exceptional and trade at a fraction of secondary prices for the most hyped expressions. Choosing from that tier of quality-but-not-household-name releases sharply reduces the odds of duplication.
 
-Practically: check their social media for bottle posts, ask a mutual friend who also drinks with them, or look for their wishlist if they use a tracking app. Many dedicated collectors keep running wishlists specifically because people ask them for gift ideas. If you genuinely can't find out what they own, default to a current limited release from a distillery you know they follow. Annual releases they might have missed are a much safer bet than everyday expressions they've almost certainly already bought.
-
----
+Check their social media for bottle posts, ask a mutual friend who also drinks with them, or look for their wishlist if they use a tracking app. Many dedicated collectors keep running wishlists because people ask them for gift ideas. If you genuinely can't find out what they own, default to a current limited release from a distillery you know they follow. Annual releases they might have missed are a much safer bet than everyday expressions they've almost certainly already bought.

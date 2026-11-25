@@ -32,25 +32,25 @@ faqs:
 published: true
 ---
 
-Every bottle of bourbon you pull from your cellar spent years in a specific spot inside a specific building, and that spot matters more than most labels ever let on. Rickhouse floor position is one of the least-discussed variables in bourbon collecting, yet it shapes proof, color, and flavor character as dramatically as the mash bill or the barrel char level. Here's what the science actually looks like, how distillers use it, and what it means when you're evaluating a single barrel pick or a limited rickhouse release.
+Every bottle of bourbon you pull from your cellar spent years in a specific spot inside a specific building, and that spot matters more than most labels ever let on. Rickhouse floor position shapes proof, color, and flavor character as dramatically as the mash bill or the barrel char level.
 
 ---
 
 ## "Wait, does where a barrel sits in the warehouse actually change what I'm drinking?"
 
-*A question we hear often:* Yes, and the physics behind it are surprisingly straightforward.
+*A question we hear often:* Yes, and the physics behind it are straightforward.
 
 Rickhouse barrel placement comes down to natural convection. In a traditional multi-story, unheated warehouse, heat rises. Upper floors trap hot air during summer, creating an intense, dry microclimate that changes the chemistry of the spirit.
 
 With only a thin sheet of metal separating them from Kentucky's climate, barrels experience drastic temperature swings. Rickhouses have no climate control, no insulation. Nature alone dictates the conditions inside. Temperatures can swing from below 0°F in winter to more than 100°F in summer, sometimes within nine months.
 
-One distiller quoted by VinePair put it plainly: in the hierarchy of flavor, clean distillate is always the prime mover. "After that, it is equal parts barrel quality and rickhouse placement." That's a striking claim, and it holds up when you look at the data.
+One distiller quoted by VinePair put it plainly: in the hierarchy of flavor, clean distillate is always the prime mover. "After that, it is equal parts barrel quality and rickhouse placement."
 
 ---
 
 ## "So what actually happens to a barrel on the top floor vs. the bottom floor?"
 
-The physical mechanisms differ for each zone, and the results in the glass are genuinely distinct.
+The physical mechanisms differ for each zone, and the results in the glass are distinct.
 
 Top floors (roughly floors 6-9 in a traditional rickhouse):
 
@@ -58,7 +58,7 @@ Barrels on the upper tiers age under the most aggressive conditions. Extreme hea
 
 Bottom floors (floors 1-2):
 
-Barrels near the ground retain more water and lose more alcohol, producing lower-proof whiskey with softer, sweeter notes and less burn. Water can actually penetrate the barrel from surrounding moisture, pushing proof down. One documented example: a barrel entered at 125 proof and came out at just 99 proof after 16 years on the bottom floor of an open rickhouse.
+Barrels near the ground retain more water and lose more alcohol, producing lower-proof whiskey with softer, sweeter notes and less burn. Water can penetrate the barrel from surrounding moisture, pushing proof down. One documented example: a barrel entered at 125 proof and came out at just 99 proof after 16 years on the bottom floor of an open rickhouse.
 
 Middle floors (floors 3-5):
 
@@ -74,9 +74,9 @@ The moderate temperatures here form a genuine sweet spot. Maturation is neither 
 
 ## "How do distillers actually use floor position, do they try to control it?"
 
-*This one comes up a lot:* Different distilleries have taken very different philosophical stances, and understanding those differences helps you read releases more intelligently.
+*This one comes up a lot:* Different distilleries have taken very different philosophical stances.
 
-The rotation approach: Maker's Mark hand-rotates barrels from the top to the bottom of their rickhouses, giving each barrel equal exposure to temperatures over time and producing the consistent flavor the brand is known for. Maker's calls this step "purposeful inefficiency" and a process unchanged since the distillery's founding in 1953. Rickhouse upper floors can exceed 100 degrees on a Kentucky summer day, and simple math tells us they're moving 50,000 tons of barrels a year to get there.
+The rotation approach: Maker's Mark hand-rotates barrels from the top to the bottom of their rickhouses, giving each barrel equal exposure to temperatures over time and producing the consistent flavor the brand is known for. Maker's calls this step "purposeful inefficiency" and a process unchanged since the distillery's founding in 1953. Rickhouse upper floors can exceed 100 degrees on a Kentucky summer day, and they're moving 50,000 tons of barrels a year to get there.
 
 The single-story approach: Four Roses uses single-story rickhouses, which provide good ventilation without the temperature extremes of a multi-floor structure. "We want, by design, the most consistent aging," says master distiller Brent Elliott. "If we pull a barrel out, we don't want to worry about whether it came from the first or sixth tier."
 
@@ -90,21 +90,21 @@ The embrace-the-variation approach: Many distilleries, including Heaven Hill and
 
 A 6th-floor Wild Turkey single barrel and a 3rd-floor barrel from the same rickhouse and the same entry date can taste like meaningfully different whiskeys: different proof, different tannin density, different fruit and spice balance. When a store pick or limited release calls out the specific floor, it's worth paying attention.
 
-Some distillers note rickhouse location on the label precisely because they know floor position changes the product. The Russell's Reserve Single Rickhouse series is a clear example. The seven-story tin-clad timber rickhouse known as Camp Nelson C, built in 1946 on a hill next to the Kentucky River, was the source for a special release in which Eddie Russell selected barrels from the center-cut, floors three and four. For the 2025 Single Rickhouse release, Eddie Russell hand-selected barrels from Rickhouse E's fifth floor specifically because he was looking for "slower, more nuanced flavor development."
+Some distillers note rickhouse location on the label because floor position changes the product. The Russell's Reserve Single Rickhouse series is a clear example. The seven-story tin-clad timber rickhouse known as Camp Nelson C, built in 1946 on a hill next to the Kentucky River, was the source for a special release in which Eddie Russell selected barrels from the center-cut, floors three and four. For the 2025 Single Rickhouse release, Eddie Russell hand-selected barrels from Rickhouse E's fifth floor because he was looking for "slower, more nuanced flavor development."
 
-The practical takeaway: when you see a floor number on a single-barrel tag, use the table above as a rough decoder. High floor means expect more proof, more oak, more spice. Low floor means softer character, gentler tannins, and possibly a proof that's dropped well below entry.
+When you see a floor number on a single-barrel tag, use the table above as a rough decoder. High floor means more proof, more oak, more spice. Low floor means softer character, gentler tannins, and possibly a proof that's dropped well below entry.
 
 ---
 
 ## "Does the rickhouse building material or age of the structure matter too?"
 
-Yes, and this is where things get genuinely interesting for collectors who follow distillery geography.
+Yes, and this is where things get interesting for collectors who follow distillery geography.
 
 Rickhouses are built from a range of materials: tin, brick, wood, concrete. For the most part they have no artificial climate control, which means no air conditioning in summer and no heating in winter. That construction choice has real downstream effects. A thin tin-sided wood-frame structure responds to weather almost immediately, creating sharper seasonal swings. A brick building moderates those swings, slowing the cycle of expansion and contraction that pushes spirit in and out of the wood.
 
 Some older rickhouses, like Camp Nelson E, have a dirt floor rather than concrete, creating a notably cool aging environment protected from direct sunlight. Built in 1946, the structure sees cooler temperatures and steady airflow. These structural quirks are part of what makes a single-rickhouse release collectible. The building isn't just storage; it's an active participant in the aging process.
 
-Larger rickhouses generally see slower development on the middle and lower floors, because the sheer mass of wood, brick, and densely packed barrels buffers the temperature swings that drive rapid maturation. Smaller or older structures tend to amplify those swings, producing more dramatic floor-to-floor variation within the same building.
+Larger rickhouses generally see slower development on the middle and lower floors, because the mass of wood, brick, and densely packed barrels buffers the temperature swings that drive rapid maturation. Smaller or older structures tend to amplify those swings, producing more dramatic floor-to-floor variation within the same building.
 
 ---
 
@@ -116,8 +116,6 @@ When evaluating store picks: ask your retailer what floor the barrel came from. 
 
 When reading release notes: watch for language like "center-cut," "upper tier," or specific floor callouts. That language exists because the distillery knows floor position changes the product. It's not filler.
 
-When building a collection theme: a rickhouse floor vertical, same distillery, same recipe, same entry year, different floors, is a genuinely illuminating tasting exercise. It isolates the warehouse variable in a way that few other comparisons can. Worth journaling in detail.
+When building a collection theme: a rickhouse floor vertical, same distillery, same recipe, same entry year, different floors, is an illuminating tasting exercise. It isolates the warehouse variable in a way that few other comparisons can. Worth journaling in detail.
 
 Pour Picks lets you log the floor and rickhouse number directly in a bottle's notes field, so you can spot patterns across your picks over time without losing that data to a paper tag you'll eventually misplace.
-
----

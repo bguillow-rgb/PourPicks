@@ -2,7 +2,7 @@
 title: "How to Store Bourbon: Light, Heat, and the Upright Rule (2026)"
 seoTitle: "How to Store Bourbon: Upright and Out of the Light"
 description: "How to store bourbon the right way: upright, out of light, at stable room temperature. What actually degrades a bottle, how long an opened one lasts, and why bourbon storage is the opposite of wine."
-tier: cluster
+tier: "cluster"
 targetQuery: "how to store bourbon"
 relatedQueries:
   - "can bourbon go bad in heat"
@@ -31,13 +31,13 @@ faqs:
 published: true
 ---
 
-Most bourbon storage advice is borrowed from wine, and almost all of it is wrong. Wine and high-proof whiskey behave like opposite materials in a bottle, so the rules that protect a Bordeaux will quietly damage a bourbon. Here is what actually matters, why, and what you can safely ignore. One thing worth setting straight first: storage protects what is already in the bottle. It cannot change the flavor the way aging did, that was set years earlier in the [rickhouse where the barrel matured](/articles/what-is-a-rickhouse), long before the bottle reached your shelf.
+Most bourbon storage advice is borrowed from wine, and almost all of it is wrong. Wine and high-proof whiskey behave like opposite materials in a bottle, so the rules that protect a Bordeaux will quietly damage a bourbon. One thing worth setting straight first: storage protects what is already in the bottle. It cannot change the flavor the way aging did; that was set years earlier in the [rickhouse where the barrel matured](/articles/what-is-a-rickhouse), long before the bottle reached your shelf.
 
 ## Should bourbon be stored upright or on its side?
 
-Upright. Always. This is the single rule people get wrong because they have seen wine racks their whole lives.
+Upright. This is the rule people get wrong because they have seen wine racks their whole lives.
 
-Wine is stored on its side on purpose: it is a low-alcohol liquid, and keeping it against the cork stops the cork from drying out and letting air in. Bourbon is the reverse problem. At 40% ABV and up, and often 50 to 65% for barrel-proof releases, the spirit is strong enough to break down a natural cork over months of direct contact. A bourbon stored on its side can develop a tainted, corky off-note, a softened cork that crumbles when you open it, and in the worst case a slow leak.
+Wine is stored on its side for a reason: it is a low-alcohol liquid, and keeping it against the cork stops the cork from drying out and letting air in. Bourbon is the reverse problem. At 40% ABV and up, and often 50-65% for barrel-proof releases, the spirit is strong enough to break down a natural cork over months of direct contact. A bourbon stored on its side can develop a tainted, corky off-note, a softened cork that crumbles when you open it, and in the worst case a slow leak.
 
 Store every bottle standing up. The only contact the cork needs is the brief tip you give it when you pour.
 
@@ -49,28 +49,28 @@ The liquid does not become unsafe, and the change is gradual rather than dramati
 
 ## What temperature should bourbon be stored at?
 
-A stable 60 to 70°F is the target, but stability matters more than the precise number. Bourbon is not temperature-sensitive the way wine is; it does not need a wine fridge, and it definitely should not live in the freezer.
+A stable 60-70°F is the target, but stability matters more than the precise number. Bourbon is not temperature-sensitive the way wine is; it does not need a wine fridge, and it should not live in the freezer.
 
-What does damage it is cycling. Every time a bottle warms up the air inside expands, and when it cools the air contracts and draws fresh air back in past the cork. Repeat that twice a day for a year and you have pumped a lot of oxygen across the liquid. This is why a garage that hits 90°F in summer and 45°F in winter is a bad place for a collection, and a hall closet that holds a boring, constant 72°F is a good one. Pick the boring spot.
+What does damage it is cycling. Every time a bottle warms up, the air inside expands, and when it cools the air contracts and draws fresh air back in past the cork. Repeat that twice a day for a year and you have pumped a lot of oxygen across the liquid. A garage that hits 90°F in summer and 45°F in winter is a bad place for a collection. A hall closet that holds a constant 72°F is a good one. Pick the boring spot.
 
 ## What about humidity and the bottle itself?
 
-Humidity barely matters for bourbon the way it does for cigars or cork-sealed wine stored long-term, because you are storing bottles upright and the cork is not the seal doing the heavy lifting. Extremely dry air over many years can dry an exposed cork, so if you keep bottles for a decade-plus in a very arid climate, a closed cabinet helps. For normal collections this is a non-issue.
+Humidity barely matters for bourbon the way it does for cigars or cork-sealed wine stored long-term, because you are storing bottles upright and the cork is not the seal doing the heavy lifting. Extremely dry air over many years can dry an exposed cork, so if you keep bottles for a decade or more in a very arid climate, a closed cabinet helps. For most collections this is a non-issue.
 
-One real bottle-level tip: keep the original box or at least keep the bottle out of the light. Boxes are excellent UV protection, which is a quiet reason boxed bottles often present better years later.
+One real bottle-level tip: keep the original box, or at least keep the bottle out of the light. Boxes are excellent UV protection, which is a quiet reason boxed bottles often present better years later.
 
 ## How long does an opened bottle last?
 
-This is where storage hands off to tracking. Sealed bourbon lasts essentially forever; a properly stored unopened bottle from 1990 is fine today. An opened bottle is a different clock.
+Sealed bourbon lasts essentially forever; a properly stored unopened bottle from 1990 is fine today. An opened bottle is a different clock.
 
 - **Above half-full:** little air contact, little change for a year or more.
-- **Half to a quarter-full:** oxidation becomes noticeable over many months; some bottles actually open up and improve for a while before they fade.
+- **Half to a quarter-full:** oxidation becomes noticeable over many months; some bottles open up and improve for a while before they fade.
 - **Below a quarter-full:** the large air gap accelerates the change, and you may notice the bourbon flatten or turn slightly papery over two to four months.
 
-The practical move is simple: finish your low bottles. A "kill list" of bottles under a third full does more for your drinking experience than any storage upgrade. For the full picture on oxidation and why opened bottles change, see [does bourbon go bad](/articles/does-bourbon-go-bad).
+The practical move is simple: finish your low bottles. A kill list of bottles under a third full does more for your drinking experience than any storage upgrade. For the full picture on oxidation and why opened bottles change, see [does bourbon go bad](/articles/does-bourbon-go-bad).
 
 ## Does a cellar app actually help with storage?
 
 Storage is the easy half: a dark, stable cabinet and upright bottles solve it permanently. The hard half is memory. Storage keeps a bottle stable but cannot tell you that you cracked a barrel-proof rye eight months ago and it is now a third full and quietly fading.
 
-That is the gap a cellar app fills. Logging each bottle's open date and rough fill level turns the abstract "one to two years" window into an actual to-do: this is the bottle to pour this week. [Pour Picks](https://apps.apple.com/us/app/pour-picks/id6764040132) is built around exactly that loop, scan the bottle in, mark it open, and let the app surface what to finish next. If you are still setting up your collection from scratch, start with [how to start a bourbon cellar](/articles/how-to-start-a-bourbon-cellar), and if you are weighing tools, the [best bourbon cellar apps](/articles/best-bourbon-cellar-apps) comparison covers the field. This matters most for bottles you can't just rebuy, an unrepeatable [single-barrel store pick](/articles/what-is-a-bourbon-store-pick) deserves a logged open date far more than a bottle you can grab again next week.
+That is the gap a cellar app fills. Logging each bottle's open date and rough fill level turns the abstract "one to two years" window into an actual to-do: this is the bottle to pour this week. [Pour Picks](https://apps.apple.com/us/app/pour-picks/id6764040132) is built around exactly that loop: scan the bottle in, mark it open, and let the app surface what to finish next. If you are still setting up your collection from scratch, start with [how to start a bourbon cellar](/articles/how-to-start-a-bourbon-cellar), and if you are weighing tools, the [best bourbon cellar apps](/articles/best-bourbon-cellar-apps) comparison covers the field. This matters most for bottles you cannot just rebuy; an unrepeatable [single-barrel store pick](/articles/what-is-a-bourbon-store-pick) deserves a logged open date far more than a bottle you can grab again next week.

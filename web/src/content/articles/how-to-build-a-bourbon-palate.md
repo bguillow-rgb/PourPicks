@@ -34,34 +34,32 @@ faqs:
 published: true
 ---
 
-Bourbon is one of the most flavor-complex spirits on earth. A single pour contains terpenes, esters, fatty acids, and hundreds of other compounds that produce roughly a thousand distinct flavor notes. The catch: most of us experience only a fraction of them. Not because our palates are broken, but because nobody taught us how to look. This guide is about fixing that.
+Bourbon contains terpenes, esters, fatty acids, and hundreds of other compounds that produce roughly a thousand distinct flavor notes. Most people experience only a fraction of them, not because their palates are broken, but because no one taught them how to look.
 
 ## "I've been drinking bourbon for years. Why does it still just taste like bourbon to me?"
 
-*A question we hear often:* Years of casual sipping can actually work against you. When you drink without deliberate attention, your brain shortcuts past the subtle signals and lands on the dominant impression, alcohol warmth, maybe some sweetness, and calls it done. Building a palate isn't about drinking more. It's about drinking slower, with a framework.
+*A question we hear often:* Years of casual sipping can work against you. When you drink without deliberate attention, your brain shortcuts past the subtle signals and lands on the dominant impression, alcohol warmth, maybe some sweetness, and calls it done. Building a palate is about drinking slower, with a framework.
 
-The key shift is moving from *drinking* to *evaluating*, a four-stage process every professional taster uses:
+The shift is moving from *drinking* to *evaluating*, a four-stage process every professional taster uses:
 
 1. **Sight**, color, viscosity, "legs" on the glass
 2. **Nose**, aromas before and after swirling
 3. **Palate**, flavor on first contact, mid-palate development, and mouthfeel
 4. **Finish**, what lingers after the swallow, and for how long
 
-Professionals evaluate bourbon across all four stages: sight (color and clarity), nose (complexity and balance of aromas), palate (texture, mouthfeel, and how flavors interact), and finish (length and pleasantness of aftertaste). Adopting that same four-stage lens, even informally, gives every session a structure your memory can actually store.
+Adopting that same four-stage lens, even informally, gives every session a structure your memory can store.
 
 ## "What's actually happening chemically when I taste bourbon?"
 
-This one matters for collectors because it explains *why* training works.
+Bourbon contains more than 200 identified flavor compounds, according to research compiled by the American Chemical Society, most of them wood-derived lactones, esters, and aldehydes released during barrel aging. Those compounds register through two pathways: taste receptors on your tongue (sweet, bitter, salty, sour, umami) and your olfactory system.
 
-Bourbon contains more than 200 identified flavor compounds, according to research compiled by the American Chemical Society, most of them wood-derived lactones, esters, and aldehydes released during barrel aging. Those compounds register through two pathways: taste receptors on your tongue (sweet, bitter, salty, sour, umami) and, far more importantly, your olfactory system.
-
-Sensory scientists have found that over 80% of what we taste comes from what we smell. That means training your nose is the fastest way to get more out of a glass. It's also why a stuffed-up nose makes even a great bourbon taste flat, and why professional evaluators obsess over nosing technique far more than palate technique.
+Sensory scientists have found that over 80% of what we taste comes from what we smell. Training your nose is the fastest way to get more out of a glass. It's also why a stuffed-up nose makes even a great bourbon taste flat, and why professional evaluators focus on nosing technique more than palate technique.
 
 The charring of oak releases vanillin, the compound responsible for bourbon's signature vanilla note. It's one of the easiest things to identify first, which makes it a useful anchor when you're starting out.
 
 ## "How do I actually nose bourbon correctly without just smelling alcohol?"
 
-*Readers frequently ask:* The most common mistake is driving your nose straight into the glass and inhaling deeply, which is a reliable way to anesthetize your olfactory receptors with ethanol.
+*Readers frequently ask:* The most common mistake is driving your nose straight into the glass and inhaling deeply, which reliably anesthetizes your olfactory receptors with ethanol.
 
 Instead, use this sequence:
 
@@ -79,13 +77,13 @@ Give it 30 seconds before your first sip. Re-nose after adding a drop of water. 
 
 The Bourbon Flavor Wheel is a visual map designed to help you find words for complex aromas and tastes. Created by the Council of Whiskey Masters, it organizes the spirit's range from broad categories down to specific notes, a structured way to work through what's in the glass rather than staring at the ceiling trying to conjure a description.
 
-The wheel is built around five areas: wood, grain, sweet, spice, and fruit or floral. Each breaks into more specific notes, oak versus conifer, or earthy versus aromatic, and so on. The practical approach is to start broad. Does the bourbon lean sweet or spicy? Fruity or woody? Then narrow from there. Some tasters use three colored pens, one for nose, one for palate, one for finish, and draw arrows to descriptors on a printed wheel. It takes longer than scribbling three words, but it builds vocabulary faster.
+The wheel is built around five areas: wood, grain, sweet, spice, and fruit or floral. Each breaks into more specific notes, oak versus conifer, or earthy versus aromatic, and so on. Start broad. Does the bourbon lean sweet or spicy? Fruity or woody? Then narrow from there. Some tasters use three colored pens, one for nose, one for palate, one for finish, and draw arrows to descriptors on a printed wheel. It takes longer than scribbling three words, but it builds vocabulary faster.
 
 The wheel isn't there to tell you what you *should* taste. It's there to help you describe what you *are* tasting. Everyone's palate is different.
 
 ## "What's the best way to compare bourbons and actually learn from it?"
 
-Side-by-side tasting is the single most effective palate-training tool available because contrast makes subtle differences obvious. Taste a bottle in isolation and your brain has nothing to measure against. Put two bottles next to each other and the differences surface on their own.
+Side-by-side tasting is the most effective palate-training tool available because contrast makes subtle differences obvious. Taste a bottle in isolation and your brain has nothing to measure against. Put two bottles next to each other and the differences surface on their own.
 
 | Comparison Type | What You Learn | Good Starter Pairs |
 |---|---|---|
@@ -95,23 +93,23 @@ Side-by-side tasting is the single most effective palate-training tool available
 | **Standard vs. cask finish** | How secondary wood shapes the back-palate | Woodford Reserve vs. Woodford Double Oaked |
 | **Same label, different years** | Batch variation and how to spot it | Any annual limited release, back-to-back |
 
-Comparing something like Maker's Mark with Maker's 46, or Woodford Reserve with Woodford Double Oaked, shows how the same base bourbon develops a different character when finished in different barrels. Start there before chasing rarities. The lesson lands harder with bottles you already know, and there's no reason to hunt allocated pours while you're still building a foundation. Bottles under $50 are often more instructive anyway.
+Comparing something like Maker's Mark with Maker's 46, or Woodford Reserve with Woodford Double Oaked, shows how the same base bourbon develops a different character when finished in different barrels. Start there before chasing rarities. The lesson lands harder with bottles you already know. Bottles under $50 are often more instructive anyway.
 
 ## "How do I get better at identifying the finish, I always lose track of it?"
 
-*A question we hear often:* The finish is where most developing palates give up too early. After you swallow, people expect something dramatic. Usually it's subtler, and it takes 20-30 seconds to fully reveal itself.
+*A question we hear often:* The finish is where most developing palates give up too early. After you swallow, the reveal takes 20-30 seconds to fully unfold.
 
 A short finish fades fast: you taste the bourbon, swallow, and it's gone in seconds. A medium finish hangs around long enough to notice a second wave. A long finish keeps developing: caramel first, then oak, then spice, then maybe a little dryness or warmth at the back of the tongue. Whether that finish is pleasant or harsh matters just as much as how long it lasts.
 
-Train yourself to count silently after swallowing. At five seconds, what's there? At fifteen? At thirty? Note whether the profile shifts or simply fades. Over time, reading the finish becomes one of your fastest quality signals. A well-structured, long finish is often the clearest marker separating a genuinely good barrel from an average one.
+Train yourself to count silently after swallowing. At five seconds, what's there? At fifteen? At thirty? Note whether the profile shifts or simply fades. Over time, reading the finish becomes one of your fastest quality signals. A well-structured, long finish is often the clearest marker separating a good barrel from an average one.
 
 ## "How do I make sure I'm actually improving and not just going in circles?"
 
 Progress without documentation is nearly invisible. You'll be convinced you've improved, then taste something you had six months ago and have nothing to compare against. The fix is a consistent note-keeping habit, not elaborate prose, just structured data.
 
-At minimum, log: date, bottle, proof, nose impressions (3 words), palate impressions (3 words), finish length (short/medium/long), and an overall score. Industry observers have noted a broad shift away from consumers caring strictly about age statements and proof toward more interest in flavor nuance and production, and the collectors keeping records are the ones actually tracking that shift in their own glass.
+At minimum, log: date, bottle, proof, nose impressions (3 words), palate impressions (3 words), finish length (short/medium/long), and an overall score. Industry observers have noted a broad shift away from consumers caring strictly about age statements and proof toward more interest in flavor nuance and production, and the collectors keeping records are the ones tracking that shift in their own glass.
 
-The best way to improve is to actively use the flavor wheel during focused tastings, compare bourbons side-by-side, and pay attention to how flavors interact. That combination, repeated with notes, is what separates someone who's been drinking bourbon for years from someone who actually knows what they're drinking.
+Using the flavor wheel during focused tastings, comparing bourbons side-by-side, and paying attention to how flavors interact, repeated with notes, is what separates someone who's been drinking bourbon for years from someone who knows what they're drinking.
 
 Pour Picks lets you log tasting notes directly against each bottle in your cellar, so your impressions live alongside bottle details like proof, distillery, and purchase date rather than scattered across index cards or a notes app. Revisit entries as the bottle evolves after opening. Many collectors find a bourbon reads differently at the half-bottle mark than it did when freshly cracked.
 
@@ -119,6 +117,4 @@ Pour Picks lets you log tasting notes directly against each bottle in your cella
 
 Yes, and the difference is more significant during training than it will be later. A nosing glass or Glencairn is the better choice because its tulip shape concentrates aromas. A clean tumbler works, but it won't focus things as well. When you're early in palate development, every signal-to-noise improvement helps. Use the right glass consistently during dedicated tasting sessions. Rocks glasses are fine for casual pours once you're not actively training.
 
-Pour about an ounce to an ounce and a half for evaluation. Arrange samples in ascending proof order so a high-proof pour doesn't bulldoze the flavors of whatever comes next. And if you're comparing multiple bottles, keep neutral-flavored water on hand. A sip between pours gives your palate a reset so the previous bourbon doesn't bleed into the next one.
-
----
+Pour about an ounce to an ounce and a half for evaluation. Arrange samples in ascending proof order so a high-proof pour doesn't overwhelm the flavors of whatever comes next. Keep neutral-flavored water on hand. A sip between pours gives your palate a reset so the previous bourbon doesn't bleed into the next one.

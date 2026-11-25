@@ -1,7 +1,7 @@
 ---
 title: "What Is a Bourbon Tasting Journal? What to Track, How to Structure It, and Why Serious Collectors Use One"
 seoTitle: "What Is a Bourbon Tasting Journal? A Collector's Guide"
-description: "A bourbon tasting journal is a systematic log of every pour you evaluate — bottle details, nose, palate, finish, context, and rating. Here's exactly what to track and why."
+description: "A bourbon tasting journal is a systematic log of every pour you evaluate, bottle details, nose, palate, finish, context, and rating. Here's exactly what to track and why."
 tier: "detail"
 targetQuery: "what is a bourbon tasting journal"
 relatedQueries:
@@ -32,7 +32,7 @@ faqs:
 published: true
 ---
 
-A bourbon tasting journal is a structured, repeatable log, not a casual scrawl, where you record the who, what, and how of every meaningful pour. The entry captures bottle provenance, sensory impressions across nose, palate, and finish, the context of the pour, and a consistent rating. One entry on its own is a tasting note. Taken together across dozens of bottles, the journal becomes a private reference that most serious collectors say is more useful than any published review.
+A bourbon tasting journal is a structured, repeatable log where you record the who, what, and how of every meaningful pour. The entry captures bottle provenance, sensory impressions across nose, palate, and finish, the context of the pour, and a consistent rating. One entry on its own is a tasting note. Taken together across dozens of bottles, the journal becomes a private reference that most serious collectors say is more useful than any published review.
 
 ## "So what actually goes in one of these things, isn't it just tasting notes?"
 
@@ -53,19 +53,19 @@ A whiskey journal doesn't just record the proof and mash bill; it captures the c
 
 ## "What rating scale should I use, 100-point, 5-star, something else?"
 
-This one comes up a lot. The honest answer: it barely matters which scale you pick, as long as you pick one and never change it.
+It barely matters which scale you pick, as long as you pick one and never change it.
 
 The 100-point scale (popularized by wine and adopted by publications like *Whisky Advocate*) gives fine-grained resolution at the top. The difference between an 88 and a 91 means something to experienced tasters. The tradeoff is that most collectors cluster their scores between 80 and 95, which compresses the range and makes lower scores feel like failures rather than useful data points.
 
 A 10-point scale is easier to use quickly and still carries enough resolution for most cellar-sized collections. A simple letter grade (A through F) with half-steps is even faster at the glass. What matters most is that you apply the scale the same way every time, that a "7" or a "B+" means the same thing to you in November 2026 as it did in January.
 
-One field worth adding that most preprinted journals omit: would you buy another bottle at the price you paid? That binary question, yes or no, often tells you more about practical value than the rating does.
+One field worth adding that most preprinted journals omit: would you buy another bottle at the price you paid? That binary yes or no often tells you more about practical value than the rating does.
 
 ## "What's the minimum viable entry for a quick weeknight pour?"
 
 *Readers frequently ask:* not every pour deserves a full two-page write-up. A minimum viable entry still needs bottle name and proof, date, a one-line nose, a one-line palate, a one-line finish, and your rating. That's five to eight lines written in under three minutes. The discipline is filling out even those five lines every time, not saving journaling for "special" bottles.
 
-The idea is simple: most of us taste something remarkable, mean to remember it, and then don't. A journal fixes that, with space to record the bottle, the nose, the palate, the finish, and the question that matters most: would you buy it again?
+Most of us taste something remarkable, mean to remember it, and then don't. A journal fixes that, with space to record the bottle, the nose, the palate, the finish, and the question that matters most: would you buy it again?
 
 Over time, even those minimum entries accumulate into a searchable record. After 30 or 40 quick entries you can look back and see which distilleries you've consistently rated highest, which proof ranges you return to, and which mash bill styles leave you underwhelmed. Your memory alone can't reliably supply that.
 
@@ -84,15 +84,13 @@ Over time, even those minimum entries accumulate into a searchable record. After
 
 Many collectors split the difference: a few handwritten bullet points at the glass, then a fuller digital entry later when they can type properly and think clearly.
 
-The search case for digital wins every time you want to answer questions like "which single-barrel picks have I rated above an 8?" or "how many wheated bourbons have I tried at over 110 proof?" Those filters are impossible in a paper book and instant in a well-designed app. Pour Picks logs tasting notes alongside your [cellar inventory](/bourbon-inventory-app), so your journal entry and your bottle record live in the same place with no cross-referencing two separate books.
+Digital wins every time you want to answer questions like "which single-barrel picks have I rated above an 8?" or "how many wheated bourbons have I tried at over 110 proof?" Those filters are impossible in a paper book and instant in a well-designed app. Pour Picks logs tasting notes alongside your [cellar inventory](/bourbon-inventory-app), so your journal entry and your bottle record live in the same place with no cross-referencing two separate books.
 
 ## "What can a tasting journal tell me that a single tasting note can't?"
 
-This is where the habit pays off in ways most newcomers don't anticipate.
-
 A single note tells you how you felt about one bottle on one evening. A journal of 50 entries tells you who you are as a taster. It reveals whether you consistently prefer higher proof, whether your nose is more reliable than your palate assessment, whether you tend to rate the first pour of an evening higher than the third, and whether your ratings drift depending on what you've eaten. Future tastings can be compared against earlier entries to see how your perception has shifted over time.
 
-For collectors specifically, the journal does something no published review can: it documents your personal flavor preferences against specific bottle batches at the moment you tasted them. When a bottle from your cellar appreciates on the secondary market and you're deciding whether to sell, you have the sensory record right alongside the purchase price, both the financial and experiential documentation in one place. That pairing matters for the kind of [collection valuation](/articles/how-to-value-a-bourbon-collection) decisions collectors face when bottles move in value.
+For collectors, the journal does something no published review can: it documents your personal flavor preferences against specific bottle batches at the moment you tasted them. When a bottle from your cellar appreciates on the secondary market and you're deciding whether to sell, you have the sensory record right alongside the purchase price, both the financial and experiential documentation in one place. That pairing matters for the kind of [collection valuation](/articles/how-to-value-a-bourbon-collection) decisions collectors face when bottles move in value.
 
 The journal also becomes a calibration tool for [blind tastings](/articles/how-to-do-a-bourbon-blind-tasting). When you go into a blind flight having already documented 60 bottles, your vocabulary is established, your threshold for what constitutes a "long finish" or a "tannic oak note" is personal and consistent. You stop guessing and start reading.
 
@@ -106,10 +104,10 @@ For digital, structure matters less because search handles it. What matters digi
 
 A well-designed logbook gives you room to note appearance, aroma, palate, finish, mash bill, proof, and your own impressions at your own pace. Keep space for personal observations too, the details that don't fit any standard prompt, because those are often the ones you'll actually want later.
 
-However you organize it, the most important field for future searchability is the batch or barrel code, something many collectors skip because it feels like administrative noise. That code is the only way to link your notes to a specific production run if you ever want to [decode the batch](/articles/how-to-decode-bourbon-batch-codes) later, compare notes with other collectors who had the same batch, or authenticate a bottle you're considering buying on the secondary market.
+The most important field for future searchability is the batch or barrel code, something many collectors skip because it feels like administrative noise. That code is the only way to link your notes to a specific production run if you ever want to [decode the batch](/articles/how-to-decode-bourbon-batch-codes) later, compare notes with other collectors who had the same batch, or authenticate a bottle you're considering buying on the secondary market.
 
 ## "When does keeping a bourbon journal actually start to feel worth it?"
 
-Most collectors report the journal starts paying off around 20-30 consistent entries, roughly the point where patterns emerge. You'll notice you've rated every Bernheim Wheat-forward whiskey higher than you expected, or that single-barrel picks from a specific retailer consistently outperform their distillery's standard releases. Once you have enough entries to compare, that kind of measurement guides smarter purchases in a way that free-form impressions never quite manage.
+Most collectors find the journal starts paying off around 20-30 consistent entries, roughly the point where patterns emerge. You'll notice you've rated every Bernheim Wheat-forward whiskey higher than you expected, or that single-barrel picks from a specific retailer consistently outperform their distillery's standard releases. Once you have enough entries to compare, that kind of measurement guides smarter purchases in a way that free-form impressions never quite manage.
 
 The goal of a tasting journal is never the journal itself. It's the collector you become once the data starts talking back.

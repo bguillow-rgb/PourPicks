@@ -42,7 +42,7 @@ The grain and the geography are non-negotiable. Under the TTB rule, American sin
 
 That barrel flexibility is the detail most bourbon drinkers miss. Bourbon must go into new charred oak. American single malt can use previously used casks, whether ex-bourbon, ex-sherry, or otherwise, which opens the door to finishing styles and flavor profiles bourbon producers cannot legally pursue under their own label.
 
-For the first time in over 52 years, the U.S. government added a new type of whiskey to its regulations with this ruling. That's worth noting for any serious collector. This is not a marketing gimmick. It's a category with real regulatory infrastructure behind it.
+The U.S. government added a new type of whiskey to its regulations for the first time in over 52 years with this ruling. This is not a marketing gimmick. It's a category with real regulatory infrastructure behind it.
 
 ---
 
@@ -52,7 +52,7 @@ For the first time in over 52 years, the U.S. government added a new type of whi
 
 The grain is the biggest structural difference. Bourbon's defining ingredient is corn, at least 51% of the mash bill, which contributes the category's signature sweetness, caramel depth, and round mouthfeel. Malted barley shifts the feel of the whiskey entirely, bringing cereal notes, roasted tones, chocolate, biscuit, orchard fruit, or a more textured, malty core. Many bourbon drinkers encounter American single malt and feel like they've walked into a different conversation.
 
-The barrel rules compound the difference. Because American single malt producers can use used oak, many lean into ex-bourbon or ex-wine casks to layer additional complexity, something that's simply off the table for distillers staying inside bourbon's legal guardrails. The result is a spirit that often feels more aromatic, sometimes more textured, and occasionally closer in character to Scotch or Irish whiskey than to the Kentucky expressions most collectors know.
+The barrel rules compound the difference. Because American single malt producers can use used oak, many lean into ex-bourbon or ex-wine casks to layer additional complexity, something that's off the table for distillers staying inside bourbon's legal guardrails. The result is a spirit that often feels more aromatic, sometimes more textured, and occasionally closer in character to Scotch or Irish whiskey than to the Kentucky expressions most collectors know.
 
 | Feature | Bourbon | American Single Malt |
 |---|---|---|
@@ -74,7 +74,7 @@ The barrel rules compound the difference. Because American single malt producers
 
 American single malt grew quickly and built a loyal following, but for many years the style existed without a legal definition, which created genuine confusion about what the term actually meant on a label. Efforts to fix that began as early as 2016 with the formation of the American Single Malt Whiskey Commission (ASMWC), an organization comprising nearly 100 distilleries, which worked to define and promote the category through advocacy, education, and consumer engagement.
 
-Earlier in 2024, the ASMWC, DISCUS, and hundreds of distillers sent more than 1,000 letters urging the TTB to issue a final ruling. The payoff came with the finalized rules, which represent the first addition to federal whiskey classifications in over 50 years. Before the ruling, the TTB only recognized a single malt whiskey officially if it was produced in Scotland.
+Earlier in 2024, the ASMWC, DISCUS, and hundreds of distillers sent more than 1,000 letters urging the TTB to issue a final ruling. The finalized rules represent the first addition to federal whiskey classifications in over 50 years. Before the ruling, the TTB only recognized a single malt whiskey officially if it was produced in Scotland.
 
 ---
 
@@ -82,7 +82,7 @@ Earlier in 2024, the ASMWC, DISCUS, and hundreds of distillers sent more than 1,
 
 Because malted barley is more enzymatically complex than raw corn or rye, American single malt tends to present a different textural register on the palate. Expect a fuller, sometimes slightly oily mouthfeel compared to a high-rye bourbon. The nose often opens with stone fruit, fresh-baked bread, or light floral notes rather than the corn-forward caramel that greets you in most Kentucky pours.
 
-When distillers use ex-bourbon barrels for maturation, the malted barley character gets layered with familiar vanilla and oak, producing expressions that feel like a midpoint between Scottish single malt and American bourbon, which is comfortable territory for collectors who regularly pour both. Heavily peated expressions also exist in the American single malt world (Westland Solum and Copperworks Peated come up often), which introduces a flavor dimension bourbon cannot legally replicate.
+When distillers use ex-bourbon barrels for maturation, the malted barley character gets layered with familiar vanilla and oak, producing expressions that feel like a midpoint between Scottish single malt and American bourbon. That's comfortable territory for collectors who regularly pour both. Heavily peated expressions also exist in the American single malt world (Westland Solum and Copperworks Peated come up often), which introduces a flavor dimension bourbon cannot legally replicate.
 
 If you already use a structured tasting format, nose, palate, finish, overall, your existing bourbon notes vocabulary translates cleanly. Grain-forward descriptors like biscuit, brioche, oatmeal, and malt chocolate will come up more often than they do in bourbon notes. For collectors who journal their pours in [Pour Picks](/bourbon-inventory-app), the app's free-text tasting notes field is flexible enough to capture these nuances alongside your bourbon entries.
 
@@ -92,7 +92,7 @@ If you already use a structured tasting format, nose, palate, finish, overall, y
 
 *Readers frequently ask:* where do you even start when the shelf is full of names you don't recognize?
 
-A few producers have driven the category's reputation long enough to function as reliable anchors. Westland Distillery in Seattle was among the earliest and most prominent advocates. Tyler Pederson, master distiller at Westland, was among those celebrating when the TTB ruling came through, noting how long the distillery and its colleagues had worked toward it. Stranahan's in Denver has maintained a consistent, accessible house style for over two decades, and recent wins at the San Francisco World Spirits Competition (Best in Class) and Las Vegas Global Spirits Awards (Best in Show) confirm that American single malt is competing at an international level alongside the finest whiskeys in the world.
+A few producers have driven the category's reputation long enough to function as reliable anchors. Westland Distillery in Seattle was among the earliest and most prominent advocates. Tyler Pederson, master distiller at Westland, was among those celebrating when the TTB ruling came through, noting how long the distillery and its colleagues had worked toward it. Stranahan's in Denver has maintained a consistent, accessible house style for over two decades, and recent wins at the San Francisco World Spirits Competition (Best in Class) and Las Vegas Global Spirits Awards (Best in Show) confirm that American single malt is competing at an international level.
 
 Other names worth knowing: Copperworks (Seattle), Lost Spirits (California), and Balcones (Texas), which leans into heavily roasted malt varieties for a distinctly American take. The common thread across the best producers is transparency about grain sourcing, distillation method, and barrel program, the same qualities that make bourbon barrel picks and store picks compelling. If you apply the same due-diligence framework you'd use when reading a [bourbon label](/articles/how-to-read-a-bourbon-label), American single malt bottles reward the same scrutiny.
 
@@ -100,9 +100,9 @@ Other names worth knowing: Copperworks (Seattle), Lost Spirits (California), and
 
 ## Is American single malt worth collecting, or is this just hype?
 
-The honest answer: it depends on your goals. As a drinking category, the value case is straightforward. Quality craft expressions from established producers regularly outperform their price point, and the diversity of barrel programs means no two releases taste the same. For collectors tracking resale potential, the picture is newer and less proven than the bourbon secondary market, but early limited releases from distilleries like Westland have already appeared at auction above retail.
+It depends on your goals. As a drinking category, the value case is straightforward. Quality craft expressions from established producers regularly outperform their price point, and the diversity of barrel programs means no two releases taste the same. For collectors tracking resale potential, the picture is newer and less proven than the bourbon secondary market, but early limited releases from distilleries like Westland have already appeared at auction above retail.
 
-Whiskey market trends in 2026 are clearly shifting, with distillers and brands confronting questions about limited-edition bottlings and collector mindset, and whether new products and styles still have a place in an increasingly crowded marketplace. American single malt sits in an interesting position here. It's simultaneously a maturing craft category with real production history and a newly codified legal class that major distillers are still entering. That combination, established craft reputation plus institutional momentum, is exactly the kind of inflection point where serious collectors pay attention.
+Whiskey market trends in 2026 are clearly shifting, with distillers and brands confronting questions about limited-edition bottlings and collector mindset, and whether new products and styles still have a place in an increasingly crowded marketplace. American single malt sits in an interesting position here. It's a maturing craft category with real production history and a newly codified legal class that major distillers are still entering. That combination, established craft reputation plus institutional momentum, is the kind of inflection point where serious collectors pay attention.
 
 If you're already organizing your cellar systematically and [tracking collection value](/bourbon-inventory-app), adding a dedicated shelf for American single malt now means you'll have documented provenance and acquisition cost data from the category's early commercial years, useful whether you eventually drink the bottles or not.
 
@@ -112,8 +112,6 @@ If you're already organizing your cellar systematically and [tracking collection
 
 *A question we hear often:* bourbon collectors who already know their wheated vs. high-rye preferences, who [understand mash bills](/articles/what-is-mash-bill) and follow allocated releases, often wonder if American single malt requires learning an entirely new vocabulary.
 
-It doesn't, not really. The structure of a good cellar (pull dates, storage conditions, fill levels, tasting notes) transfers directly. What shifts is the reference framework on the palate. Think of American single malt as a satellite category that orbits the same appreciation skills you've already built: provenance matters, barrel type matters, distillery house style matters. The flavor destination is different, but the collector's methodology is the same.
+It doesn't. The structure of a good cellar, pull dates, storage conditions, fill levels, tasting notes, transfers directly. What shifts is the reference framework on the palate. American single malt orbits the same appreciation skills you've already built: provenance matters, barrel type matters, distillery house style matters. The flavor destination is different, but the collector's methodology is the same.
 
 A practical starting approach: pick one well-regarded expression from a transparent craft producer, taste it alongside a wheated bourbon you know well, and take notes on both. The contrast usually clarifies more about each style than reading any number of descriptions. If you're already using Pour Picks to [build tasting notes](/articles/how-to-write-bourbon-tasting-notes) for your bourbon collection, the same format works for American single malt, and keeping both categories in one catalog makes comparative tasting much easier to organize over time.
-
----

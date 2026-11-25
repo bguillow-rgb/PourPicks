@@ -1,7 +1,7 @@
 ---
 title: "How to Choose a Bourbon by Mash Bill: A Collector's Flavor Decision Guide"
 seoTitle: "How to Choose a Bourbon by Mash Bill (2026 Guide)"
-description: "Wheated, high-rye, or traditional mash bill — your grain recipe determines flavor before the barrel touches it. Here's how to choose the right one for your palate."
+description: "Wheated, high-rye, or traditional mash bill, your grain recipe determines flavor before the barrel touches it. Here's how to choose the right one for your palate."
 tier: "detail"
 targetQuery: "how to choose a bourbon based on mash bill"
 relatedQueries:
@@ -32,23 +32,23 @@ faqs:
 published: true
 ---
 
-The mash bill, the grain recipe a bourbon is built on, is the single most predictable lever a collector can use to navigate flavor. Proof can vary bottle to bottle. Age changes with every annual release. But if you understand what corn, rye, wheat, and malted barley each contribute to a pour, you'll spend less time hunting blind and more time buying bottles you'll actually want to open.
+The mash bill is the grain recipe a bourbon is built on, and it's the most predictable lever a collector can use to navigate flavor. Proof can vary bottle to bottle. Age changes with every annual release. If you understand what corn, rye, wheat, and malted barley each contribute, you'll spend less time buying blind and more time opening bottles you actually want.
 
 ## "What even is a mash bill, and why should I care about it before buying?"
 
-*A question we hear often:* Collectors who've been buying by brand reputation sometimes realize, often after a frustrating purchase, that they keep gravitating toward one flavor profile without knowing why. The mash bill is usually the answer.
+*A question we hear often:* Collectors who've been buying by brand reputation sometimes realize, after a frustrating purchase, that they keep gravitating toward one flavor profile without knowing why. The mash bill is usually the answer.
 
 Every bourbon must be made from a grain mixture that is at least 51% corn. That's a federal legal requirement. The remaining percentage is a distiller's creative territory, and the two most common secondary grains are rye and wheat. A small percentage of malted barley is also always present to aid fermentation. That secondary grain choice, more than almost anything else, defines where your bourbon lands on the flavor spectrum before a single day in the barrel.
 
-A soft wheated bourbon and a bold high-rye bourbon can both be bourbon. They share the corn foundation, but the rest of the mash bill pushes them in dramatically different directions. That gap is wide enough that a collector who loves one style may genuinely dislike the other. Understanding which camp you're in saves real money.
+A soft wheated bourbon and a bold high-rye bourbon can both be bourbon. They share the corn foundation, but the rest of the mash bill pushes them in different directions. That gap is wide enough that a collector who loves one style may dislike the other. Knowing which camp you're in saves real money.
 
 ## "What's the actual flavor difference between wheated, high-rye, and traditional mash bills?"
 
 The three dominant mash bill styles each produce a predictable flavor direction, though proof and age will push each one further along its natural path.
 
-A traditional bourbon balances corn sweetness with a moderate amount of rye spice. Many classic American bourbons live in that range, so it tends to be what people picture when they think "bourbon." It's the center of the spectrum: not the softest, not the spiciest.
+A traditional bourbon balances corn sweetness with a moderate amount of rye spice. Many classic American bourbons live in that range, so it tends to be what people picture when they think "bourbon." It sits in the center of the spectrum: not the softest, not the spiciest.
 
-Wheated bourbon replaces rye with wheat as the secondary grain. The result is smoother, softer, and rounder on the palate. Wheat brings a mellow sweetness and a creamy mouthfeel without rye's bite. Drinkers often pick up vanilla cream, light caramel, biscuit, pie crust, and soft fruit like apple or pear.
+Wheated bourbon replaces rye with wheat as the secondary grain. The result is smoother and softer on the palate. Wheat brings a mellow sweetness and a creamy mouthfeel without rye's bite. Drinkers often pick up vanilla cream, light caramel, biscuit, pie crust, and soft fruit like apple or pear.
 
 High-rye bourbon increases the rye proportion, often to around 30%, for a bolder, spicier character. It still contains more than 51% corn to meet the legal definition, but the added rye pushes things into peppery territory. Think black pepper, cinnamon, clove, mint, dill, or dark fruit like plums.
 
@@ -62,29 +62,29 @@ High-rye bourbon increases the rye proportion, often to around 30%, for a bolder
 
 *This one comes up a lot:* Both Maker's Mark and the Weller lineup are wheated bourbons. If those are your touchstones, you've already identified your style, and you can use that to navigate your next purchase with confidence.
 
-Wheated bourbon uses wheat as its secondary flavoring grain instead of the more common rye, a recipe choice that changes the final character of the spirit considerably. Other widely available wheated bottles include Larceny, Old Fitzgerald, and the Heaven Hill wheated lineup. At the rare end, Van Winkle expressions are also wheated, which partly explains their collector appeal: the style tends to age gracefully and soften further over time without turning aggressively tannic.
+Wheated bourbon uses wheat as its secondary flavoring grain instead of the more common rye, a recipe choice that changes the final character of the spirit considerably. Other widely available wheated bottles include Larceny, Old Fitzgerald, and the Heaven Hill wheated lineup. At the rare end, Van Winkle expressions are also wheated, which partly explains their collector appeal: the style tends to age well and soften further over time without turning aggressively tannic.
 
-If you want to stretch slightly outside wheated territory, a traditional-rye mash bill at 80-90 proof is a reasonable on-ramp. Enough rye spice to notice, but not enough to jar a palate accustomed to wheat's softness. Wild Turkey 101 and Buffalo Trace are natural next steps for a wheated fan looking to explore.
+If you want to stretch slightly outside wheated territory, a traditional-rye mash bill at 80-90 proof is a reasonable next step. Enough rye spice to notice, but not enough to jar a palate accustomed to wheat's softness. Wild Turkey 101 and Buffalo Trace are natural moves for a wheated fan looking to explore.
 
 ## "What if I gravitate toward spicy bourbons, which mash bills should I be seeking out?"
 
-A standard rye percentage in a mash bill lands somewhere between 10-15%. High rye is an informal term for anything meaningfully above that threshold, typically 18-35%. The federal standards of identity set only the 51% corn minimum for bourbon and say nothing about the secondary grain, so in common industry usage, anything meaningfully above 15% rye gets called high rye. Because the term is unregulated, the only reliable figure is a mash bill the distillery actually publishes.
+A standard rye percentage in a mash bill lands somewhere between 10-15%. High rye is an informal term for anything meaningfully above that threshold, typically 18-35%. The federal standards of identity set only the 51% corn minimum for bourbon and say nothing about the secondary grain, so in common industry usage, anything meaningfully above 15% rye gets called high rye. Because the term is unregulated, the only reliable figure is a mash bill the distillery publishes.
 
-Practically speaking, the bottles with the most documented high-rye recipes include Bulleit at 68% corn and 28% rye, one of the highest rye percentages among widely distributed bottles, and Four Roses' B mash bill at 60% corn and 35% rye, used in their Single Barrel releases and one of the highest rye counts in Kentucky. The Jim Beam high-rye mash bill (63% corn, 27% rye, 10% malted barley) is the recipe behind Old Grand-Dad and Basil Hayden's.
+The bottles with the most documented high-rye recipes include Bulleit at 68% corn and 28% rye, one of the highest rye percentages among widely distributed bottles, and Four Roses' B mash bill at 60% corn and 35% rye, used in their Single Barrel releases and one of the highest rye counts in Kentucky. The Jim Beam high-rye mash bill (63% corn, 27% rye, 10% malted barley) is the recipe behind Old Grand-Dad and Basil Hayden's.
 
-For collectors building a reference cellar, keeping at least one clear high-rye example and one wheated example side by side is one of the more educational pours you can arrange. If you're tracking your bottles and tasting notes digitally, [Pour Picks' bourbon cellar app](/bourbon-inventory-app) lets you tag bottles by mash bill style so you can filter your collection by flavor profile, useful when you're deciding what to open for guests with different palates.
+For collectors building a reference cellar, keeping at least one clear high-rye example and one wheated example side by side makes for an educational pour. If you're tracking your bottles and tasting notes digitally, [Pour Picks' bourbon cellar app](/bourbon-inventory-app) lets you tag bottles by mash bill style so you can filter your collection by flavor profile, useful when you're deciding what to open for guests with different palates.
 
 ## "Does proof change how the mash bill expresses itself? Can I go high-rye at low proof?"
 
-*Readers frequently ask:* Yes. Proof is the volume dial for whatever character the mash bill already established. A high-rye mash bill at 80 proof is noticeably less assertive than the same recipe at 115 proof. The spice is still there, but it's quieter, and the corn sweetness becomes more prominent when the ABV is lower.
+*Readers frequently ask:* Yes. Proof is the volume dial for whatever character the mash bill already established. A high-rye mash bill at 80 proof is noticeably less assertive than the same recipe at 115 proof. The spice is still there, but it's quieter, and the corn sweetness becomes more prominent at lower ABV.
 
-Aging adds layers of vanilla, caramel, oak, and spice, but the fundamental character from the grains remains. A high-rye bourbon will still have that spicy backbone even after years in oak, just as a wheated bourbon will hold its softer profile. The mash bill is the floor of the flavor; proof and age determine how loud it plays.
+Aging adds layers of vanilla, caramel, oak, and spice, but the fundamental character from the grains remains. A high-rye bourbon will still have that spicy backbone even after years in oak, just as a wheated bourbon will hold its softer profile. The mash bill sets the flavor direction; proof and age determine how loud it plays.
 
-For collectors who want to study this effect directly, try finding the same distillery's mash bill at multiple proof points. Four Roses is good for this. Their Single Barrel (B mash bill, roughly 100 proof) and Single Barrel Select (B mash bill, cask strength, often 110-120 proof) tell a clear story about what proof does to the same grain recipe.
+For collectors who want to study this effect directly, try finding the same distillery's mash bill at multiple proof points. Four Roses works well for this. Their Single Barrel (B mash bill, roughly 100 proof) and Single Barrel Select (B mash bill, cask strength, often 110-120 proof) tell a clear story about what proof does to the same grain recipe.
 
 ## "Are there bottles where two different brands share the same mash bill?"
 
-This is one of the more useful things a collector can know, and one of the more frequently misunderstood. Shared mash bills don't mean identical whiskey.
+Shared mash bills don't mean identical whiskey, and that's one of the more useful things a collector can keep in mind.
 
 Several of bourbon's most well-known shared-mash-bill relationships are worth having in your head as a collector reference:
 
@@ -96,7 +96,7 @@ Several of bourbon's most well-known shared-mash-bill relationships are worth ha
 | Jim Beam High-Rye | Old Grand-Dad, Basil Hayden's | Proof, filtration, dilution |
 | Four Roses B Mash Bill (35% rye) | FR Single Barrel, FR SBLE select picks | Barrel, proof, yeast strain |
 
-The takeaway: once you identify a mash bill you enjoy at retail, it's worth looking for other expressions built on the same grain recipe. You may find an underpriced bottle with the same DNA as something you've been chasing at a premium. That kind of mash-bill-informed shopping is what separates collectors from casual buyers, and it's worth [tracking which expressions you've tried](/bourbon-inventory-app) so you can identify patterns across your notes over time.
+Once you identify a mash bill you enjoy at retail, it's worth looking for other expressions built on the same grain recipe. You may find an underpriced bottle with the same DNA as something you've been chasing at a premium. That kind of mash-bill-informed shopping separates collectors from casual buyers, and [tracking which expressions you've tried](/bourbon-inventory-app) helps you identify patterns across your notes over time.
 
 ## "Does mash bill affect how a bourbon ages in my cellar once it's open?"
 
@@ -104,12 +104,12 @@ The takeaway: once you identify a mash bill you enjoy at retail, it's worth look
 
 Wheated bourbons tend to be more forgiving of slow consumption. The softer grain character means the flavor doesn't shift as dramatically during oxidation as a high-rye profile might. High-rye bourbons can change more quickly in an open bottle: the volatile spice compounds that make them bright and assertive are also the first to fade. Many collectors report that a high-rye bourbon tastes noticeably different after sitting at 30-40% full for six months or more, slightly flatter, with the pepper notes receding and a woody quality coming forward.
 
-Among serious collectors, these distinctions matter a lot at the cellar level. The practical rule: drink your high-rye bottles with more frequency once opened, and save wheated expressions for slower consumption. If you use [Pour Picks to journal your pours](/bourbon-inventory-app), noting the bottle's fill level alongside each tasting note gives you a longitudinal record of how the whiskey changed, which is genuinely useful for understanding your own palate over time.
+The practical rule: drink your high-rye bottles with more frequency once opened, and save wheated expressions for slower consumption. If you use [Pour Picks to journal your pours](/bourbon-inventory-app), noting the bottle's fill level alongside each tasting note gives you a record of how the whiskey changed, which is useful for understanding your own palate over time.
 
 ## "How do I use mash bill knowledge to build a more intentional collection?"
 
-The smartest collectors think of their cellar in grain categories, not just brand names. A well-rounded reference collection should include at least one clear representative of each major mash bill style, wheated, traditional rye, and high-rye, at a range of proof points. That gives you something to reach for across different moods, occasions, and guests.
+The most deliberate collectors think of their cellar in grain categories, not just brand names. A well-rounded reference collection should include at least one clear representative of each major mash bill style, wheated, traditional rye, and high-rye, at a range of proof points. That gives you something to reach for across different moods, occasions, and guests.
 
-There's been a real shift from consumers who cared strictly about age statements and proof toward people asking about flavor nuance and production. Collectors are now asking about mash bills, barrel programs, and how a bottle fits into cocktails versus neat sipping. That shift shows up in which bottles are being chased. The 2026 bourbon market is still oversupplied at the mid tier, meaning bottles that were impossible to find at retail two years ago are appearing on shelves, which makes this a reasonable moment to build a thoughtful, mash-bill-informed cellar without overpaying.
+There's been a real shift from consumers who cared strictly about age statements and proof toward people asking about flavor nuance and production. Collectors are now asking about mash bills, barrel programs, and how a bottle fits into cocktails versus neat sipping. That shift shows up in which bottles are being chased. The 2026 bourbon market is still oversupplied at the mid tier, meaning bottles that were difficult to find at retail two years ago are appearing on shelves, which makes this a reasonable moment to build a mash-bill-informed cellar without overpaying.
 
-Start with one wheated anchor (Weller Special Reserve or Larceny is accessible), one high-rye reference (Old Grand-Dad 114 is extraordinary value), and one traditional mash bill at a solid age statement (Buffalo Trace or Elijah Craig Small Batch). From there, every new acquisition is a deliberate data point rather than a random purchase. The [resources on how to organize a bourbon collection](/articles/how-to-organize-a-bourbon-collection) and [how to write useful tasting notes](/articles/how-to-write-bourbon-tasting-notes) pair directly with this framework once your shelves start filling up.
+Start with one wheated anchor (Weller Special Reserve or Larceny is accessible), one high-rye reference (Old Grand-Dad 114 is strong value), and one traditional mash bill at a solid age statement (Buffalo Trace or Elijah Craig Small Batch). From there, every new acquisition is a deliberate data point rather than a random purchase. The [resources on how to organize a bourbon collection](/articles/how-to-organize-a-bourbon-collection) and [how to write useful tasting notes](/articles/how-to-write-bourbon-tasting-notes) pair directly with this framework once your shelves start filling up.

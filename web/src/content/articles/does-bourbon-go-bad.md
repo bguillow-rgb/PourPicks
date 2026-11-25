@@ -1,7 +1,7 @@
 ---
 title: "Does Bourbon Go Bad? Oxidation in Opened Bottles, Explained"
 description: "Does bourbon go bad? Sealed bottles last forever; opened ones slowly oxidize, mostly once they drop below half. How long an opened bottle really lasts, what oxidation does, and how to slow it."
-tier: cluster
+tier: "cluster"
 targetQuery: "does bourbon go bad"
 relatedQueries:
   - "opened bourbon shelf life"
@@ -30,29 +30,27 @@ faqs:
 published: true
 ---
 
-The short answer is the one nobody believes the first time they hear it: bourbon does not really go bad. It does not spoil, it does not expire, and a sealed bottle will outlive you. But "go bad" is the wrong question. The real question is when an *opened* bottle starts to lose what made it good, and that has a clear, useful answer.
+Bourbon does not go bad. It does not spoil, it does not expire, and a sealed bottle will outlive you. But that is the wrong question. The useful question is when an *opened* bottle starts to lose what made it good, and that has a clear answer.
 
 ## Does unopened bourbon expire?
 
-No. This is the part wine drinkers find hard to accept, because wine very much expires. Bourbon does not, for one simple reason: it is 40% alcohol or more, which is a hostile environment for the microbes that spoil food and wine. There is nothing living in there to turn, and nothing chemically active enough to matter while the bottle is sealed.
+No. Wine drinkers find this hard to accept, because wine very much expires. Bourbon does not, for one reason: it is 40% alcohol or more, which is a hostile environment for the microbes that spoil food and wine. There is nothing living in there to turn, and nothing chemically active enough to matter while the bottle is sealed.
 
-Whiskey also does not improve in the bottle. All of bourbon's aging happens in the barrel; the moment it is bottled, the clock essentially stops. A bottle dumped in 2005 and sealed is a 2005 bourbon forever, not an older one. So a sealed bottle, stored upright and out of the sun, tastes the same in twenty years. No expiration date applies.
+Whiskey does not improve in the bottle either. All of bourbon's aging happens in the barrel; the moment it is bottled, the clock stops. A bottle dumped in 2005 and sealed is a 2005 bourbon in twenty years, not an older one. Store it upright and out of the sun and it tastes the same whenever you open it.
 
 ## What is oxidation, and when does it start?
 
-Oxidation is the slow reaction between the spirit and the oxygen in the bottle. It is the same process that lets a glass of bourbon "open up" over twenty minutes, only stretched across months and happening inside the bottle.
+Oxidation is the slow reaction between the spirit and the oxygen in the bottle. It is the same process that lets a glass of bourbon open up over twenty minutes, stretched across months inside the bottle.
 
-It technically starts the instant you break the seal, but the *amount* of air is what governs the *rate*. A nearly full bottle has a thin layer of air above a tall column of liquid, so very little is happening. As you drink it down, the ratio flips: eventually you have a small amount of whiskey sitting under a large volume of air, and the reaction speeds up.
+It starts the instant you break the seal, but the amount of air governs the rate. A nearly full bottle has a thin layer of air above a tall column of liquid, so very little is happening. As you drink it down, the ratio flips: eventually you have a small amount of whiskey sitting under a large volume of air, and the reaction speeds up.
 
 ## How long is an opened bottle good for?
 
 Fill level, not calendar time, is the thing to watch:
 
-- **Full to half-full:** barely changes. A year or more is fine. Some collectors swear a bottle improves slightly in this window as a few harsh edges soften.
+- **Full to half-full:** barely changes. A year or more is fine. Some collectors find a bottle improves slightly in this window as a few harsh edges soften.
 - **Half to a quarter:** noticeable change over many months. This is where many bottles peak, then begin to flatten.
-- **Below a quarter:** the danger zone. A heel of whiskey under a big air gap can go from vibrant to papery and dull in two to four months.
-
-Put on a single timeline, the fill level tells you both how fast a bottle is changing and what to do about it:
+- **Below a quarter:** a heel of whiskey under a big air gap can go from vibrant to papery and dull in two to four months.
 
 | Fill level | Air-to-liquid ratio | Time to noticeable flavor change | What to do |
 |---|---|---|---|
@@ -62,15 +60,15 @@ Put on a single timeline, the fill level tells you both how fast a bottle is cha
 | A quarter to a heel | Very high | Two to four months | Finish it, or decant into a smaller bottle. |
 | Sample-sized heel | Extreme | Weeks | Pour it this week. It is only going to fade. |
 
-None of this is a safety issue. A faded bourbon is perfectly safe to drink; it has just lost some of the high notes and aromatic lift you paid for. The cost of oxidation is pleasure, not health.
+None of this is a safety issue. A faded bourbon is perfectly safe to drink; it has just lost some of the high notes and aromatic lift you paid for.
 
 <!-- TODO: real "average days to finish a bottle once it drops below half" stat is not computable yet. cellar_pours has 16 rows app-wide and there is no per-pour fill-level event to detect the below-half crossing (2026-07). Once pour logging with fill level has enough volume, drop the aggregate here, e.g. "Across N Pour Picks users, a bottle takes an average of D days to empty once it drops below half." Real query only, no estimate. -->
 
-How long a below-half bottle actually survives in the wild depends on how often you reach for it, which is the one variable a pour log captures directly. That aggregate is not published here yet, on purpose: Pour Picks pour-logging volume is still early, and a made-up "average days to finish" number would be worse than none.
+How long a below-half bottle survives depends on how often you reach for it, which is the one variable a pour log captures directly. That aggregate is not published here yet: Pour Picks pour-logging volume is still early, and a made-up average would be worse than none.
 
 ## How do you slow oxidation down?
 
-For most bottles, you do not need to. The honest answer is that the best oxidation strategy is to drink your low bottles before they fade. But if you have a genuinely special bottle sitting at a low level and want to preserve it:
+The honest answer is to drink your low bottles before they fade. If you have a special bottle sitting at a low level and want to preserve it:
 
 - **Decant into a smaller bottle** so the liquid fills it and the air gap shrinks. This is the cheapest and most effective move.
 - **Use inert-gas wine preserver spray** (the kind sold for wine), which lays a blanket of heavier-than-air gas over the liquid and displaces oxygen before you re-cap.
@@ -80,6 +78,6 @@ Marbles or glass beads to raise the liquid level are sometimes suggested, but th
 
 ## How a pour log tells you which bottle to finish next
 
-Here is the practical problem oxidation creates: you cannot fix it by storing better, only by *drinking on time*, and you cannot drink on time if you do not remember what is open and how low it is. By the time you notice a bottle tastes flat, it is already too late.
+Oxidation cannot be fixed by storing better, only by drinking on time. You cannot drink on time if you do not remember what is open and how low it is. By the time you notice a bottle tastes flat, it is already too late.
 
-This is exactly the gap a pour log closes. If you log the date you open each bottle and roughly how full it is, the "one to two years" window stops being trivia and becomes a short, actionable list: these three bottles are under a third full, finish them this month. [Pour Picks](https://apps.apple.com/us/app/pour-picks/id6764040132) builds this into its "Pour Tonight" pick, nudging you toward bottles that have been open a while rather than the shiny new arrival. If you are setting up tracking for the first time, [how to start a bourbon cellar](/articles/how-to-start-a-bourbon-cellar) covers the basics, and [the best bourbon cellar apps](/articles/best-bourbon-cellar-apps) compares the tools that do it.
+A pour log closes that gap. Log the date you open each bottle and roughly how full it is, and the one-to-two-year window becomes a short, actionable list: these three bottles are under a third full, finish them this month. [Pour Picks](https://apps.apple.com/us/app/pour-picks/id6764040132) builds this into its "Pour Tonight" pick, nudging you toward bottles that have been open a while rather than the shiny new arrival. If you are setting up tracking for the first time, [how to start a bourbon cellar](/articles/how-to-start-a-bourbon-cellar) covers the basics, and [the best bourbon cellar apps](/articles/best-bourbon-cellar-apps) compares the tools that do it.

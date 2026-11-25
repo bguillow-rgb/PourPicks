@@ -28,11 +28,11 @@ faqs:
   - q: "Can I slow oxidation in an opened bourbon bottle with high ullage?"
     a: "Yes. The most effective low-cost method is decanting into a smaller bottle that the bourbon fills nearly to the brim, minimizing headspace. Inert gas preservation sprays (argon or nitrogen) are a popular alternative that doesn't require transferring the liquid."
   - q: "Does ullage affect sealed, unopened bourbon bottles?"
-    a: "Yes. Even factory-sealed bottles can develop ullage over decades as liquid slowly migrates through or around the cork. This is especially common in vintage bottles stored on their side, where the cork can allow slow seepage or evaporation. That's why storing bourbon upright is strongly recommended for long-term cellaring."
+    a: "Yes. Even factory-sealed bottles can develop ullage over decades as liquid slowly migrates through or around the cork. This is especially common in vintage bottles stored on their side, where the cork can allow slow seepage or evaporation. Storing bourbon upright is strongly recommended for long-term cellaring."
 published: true
 ---
 
-Spend enough time buying or selling bourbon at auction and you will eventually see a listing that reads "upper shoulder fill" or "base of neck ullage." If those phrases mean nothing to you yet, you are not alone. Ullage is a term borrowed from the wine and whiskey auction world that most bourbon collectors encounter only after they have already made a buying mistake because of it. This guide explains what the word means, why fill level matters more than most collectors expect, and how to use it practically when you are grading, buying, storing, or selling bottles.
+Spend enough time buying or selling bourbon at auction and you will eventually see a listing that reads "upper shoulder fill" or "base of neck ullage." Ullage is a term borrowed from the wine and whiskey auction world. This guide explains what the word means, why fill level matters more than most collectors expect, and how to use it when you are grading, buying, storing, or selling bottles.
 
 ## "Wait - what does 'ullage' actually mean on a bourbon bottle?"
 
@@ -42,13 +42,11 @@ In the bourbon world, it refers to the air gap between the surface of the liquid
 
 In the broader spirits and wine trade, ullage most commonly refers to the headspace of air between the liquid and the top of its container. It can also refer to the evaporation process that creates that headspace in the first place.
 
-Why does this gap matter? Because that air space is not inert.
-The core issue that determines the drinkable lifespan of opened bourbon is oxidation.
-Oxygen trapped in the headspace slowly reacts with the flavor compounds in the whiskey. More headspace means more oxygen, and the faster those reactions proceed. On a sealed bottle, ullage develops gradually over years as liquid slowly migrates through or around a cork, which is one reason why long-term cellaring in an upright position matters so much. On an opened bottle, ullage grows every time you pour a glass, and the clock speeds up considerably.
+That air space is not inert. Oxygen trapped in the headspace slowly reacts with the flavor compounds in the whiskey. More headspace means more oxygen, and the faster those reactions proceed. On a sealed bottle, ullage develops gradually over years as liquid slowly migrates through or around a cork, which is one reason why long-term cellaring in an upright position matters so much. On an opened bottle, ullage grows every time you pour a glass, and the clock speeds up considerably.
 
 ## "How fast does ullage actually affect flavor in an opened bottle?"
 
-How much oxidation occurs and how fast an open bottle changes depend primarily on how full the bottle is. Bottles more than half full can last several years. Those under half should typically be consumed within two years at most, and those under a third full within a year.
+How much oxidation occurs and how fast an open bottle changes depend on how full the bottle is. Bottles more than half full can last several years. Those under half should be consumed within two years at most, and those under a third full within a year.
 
 That is a meaningful window, but not an unlimited one. The flavor shift from oxidation is not always dramatic or unpleasant at first. Many experienced collectors report that a slightly oxidized pour can taste softer and rounder, with some harsh edges smoothed down. The problem comes when oxidation continues unchecked: eventually, volatile aromatic compounds, the esters and aldehydes that carry a bourbon's fruit, floral, and grain notes, degrade faster than the heavier caramel and oak compounds, leaving the pour smelling flat and tasting one-dimensional.
 
@@ -74,27 +72,23 @@ Here is how the most common fill-level grades translate to real-world collector 
 Auction specialists describe "top shoulder" as normal for any bottle, "upper shoulder" as acceptable for older bottles and exceptional for pre-1950 wines, and "mid shoulder" as reflecting weakening of the cork and some risk.
 Those wine auction conventions map closely to how the bourbon secondary market treats fill level as well.
 
-On the bourbon secondary market, condition is everything.
-Bottles like Stagg and William Larue Weller are considered blue-chip collectibles, and pricing is sensitive to condition signals. Weller Single Barrel, for instance, hit a price high of around $440 in 2024 before bottoming out at about $305 in early 2026.
-A mid-shoulder bottle of a blue-chip release in a soft market is a particularly hard sell. Understanding how to [grade bourbon bottle condition](/articles/how-to-grade-bourbon-bottle-condition), of which fill level is one key component, helps you avoid paying full price for a compromised bottle.
+Condition matters on the bourbon secondary market. Bottles like Stagg and William Larue Weller are considered blue-chip collectibles, and pricing is sensitive to condition signals. Weller Single Barrel hit a price high of around $440 in 2024 before bottoming out at about $305 in early 2026.
+A mid-shoulder bottle of a blue-chip release in a soft market is a hard sell. Knowing how to [grade bourbon bottle condition](/articles/how-to-grade-bourbon-bottle-condition), of which fill level is one key component, helps you avoid paying full price for a compromised bottle.
 
 ## "Why would a factory-sealed bottle lose fill over time?"
 
 *This one comes up a lot:* even bottles that have never been opened can develop ullage over years of storage. The culprit is almost always the cork.
 
-Natural corks are not perfectly airtight. Over time, especially in warm, dry, or variable storage conditions, a cork can shrink slightly, creating a path for liquid to seep out or for alcohol vapors to escape. This is the same phenomenon that produces the angel's share in a barrel during aging, just at a much slower rate in a glass bottle. The higher the proof, the more aggressive the alcohol is on the cork material, which is one reason [how you store bourbon](/articles/how-to-store-bourbon) matters so much for long-term preservation.
+Natural corks are not airtight. Over time, in warm, dry, or variable storage conditions, a cork can shrink slightly, creating a path for liquid to seep out or for alcohol vapors to escape. This is the same phenomenon that produces the angel's share in a barrel during aging, just at a slower rate in a glass bottle. The higher the proof, the more aggressive the alcohol is on the cork material, which is one reason [how you store bourbon](/articles/how-to-store-bourbon) matters so much for long-term preservation.
 
-Storing bottles upright is important precisely because of ullage risk.
 Storing bottles upright prevents the high-proof alcohol from deteriorating the cork over extended periods; a compromised cork can lead to oxidation and evaporation.
-A bottle stored on its side keeps the liquid in constant contact with the cork, accelerating both cork degradation and liquid loss. Vintage and dusty bottles that were stored on their sides for decades are a prime reason why ullage assessment matters in dusty hunting, a skill worth understanding if you are [tracking down older expressions](/articles/what-is-dusty-hunting-bourbon).
+A bottle stored on its side keeps the liquid in constant contact with the cork, accelerating both cork degradation and liquid loss. Vintage and dusty bottles stored on their sides for decades are a prime reason why ullage assessment matters in dusty hunting, a skill worth understanding if you are [tracking down older expressions](/articles/what-is-dusty-hunting-bourbon).
 
 ## "How do I slow down ullage in an opened bottle I want to preserve?"
 
 For collectors who open allocated or limited bottles but want to stretch the enjoyment over months, there are several proven approaches ranked by effort.
 
-Decant into smaller bottles.
-Experts recommend decanting into smaller bottles with less room for oxygen, or using specialized spray cans to pump non-reactive gases into the bottles.
-A 375ml bottle filled nearly to the brim from a half-empty 750ml leaves almost no headspace and dramatically slows oxidation. Label the smaller bottle clearly with the distillery, expression, batch, and date decanted, the same information you would log in a cellar app like [Pour Picks](/bourbon-inventory-app), which lets you track opened vs. sealed status and tasting notes for every bottle.
+Decant into smaller bottles. A 375ml bottle filled nearly to the brim from a half-empty 750ml leaves almost no headspace and slows oxidation. Label the smaller bottle clearly with the distillery, expression, batch, and date decanted, the same information you would log in a cellar app like [Pour Picks](/bourbon-inventory-app), which lets you track opened vs. sealed status and tasting notes for every bottle.
 
 Use an inert gas preserver. Argon- and nitrogen-based wine preservation sprays work equally well on bourbon.
 Nitrogen or argon-based wine preservers create a barrier between the bourbon and oxygen.
@@ -118,5 +112,3 @@ For insurance purposes, documenting fill level at the time of cataloging your co
 For older expressions or bottles from a store's back stock, a small amount of ullage can be normal.
 Once a bottle of bourbon is opened, the contents may begin to evaporate slowly and some flavor may be lost over time, but the bourbon will remain safe to consume if it has been stored properly.
 The same principle applies to sealed bottles with minor cork-related seepage over years. When in doubt on a dusty find or older retail bottle, factor any visible ullage into your price negotiation, and use that fill level as part of your [valuation when you add it to your collection](/articles/how-to-value-a-bourbon-collection).
-
----

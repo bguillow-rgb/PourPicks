@@ -32,17 +32,17 @@ faqs:
 published: true
 ---
 
-There is a persistent myth in bourbon circles that reaching for the water is something beginners do, a sign you can't handle the proof. The opposite is closer to the truth. Seasoned drinkers and master distillers generally agree that a little water doesn't weaken bourbon; it wakes it up. The practice is backed by real chemistry, endorsed by working blenders, and worth understanding if you own any high-proof bottles, which, if you're building a serious cellar, you almost certainly do.
+Reaching for the water gets written off as something beginners do, a sign you can't handle the proof. The opposite is closer to the truth. Seasoned drinkers and master distillers generally agree that a little water doesn't weaken bourbon; it wakes it up. The practice is backed by real chemistry, endorsed by working blenders, and useful if you own any high-proof bottles.
 
 ---
 
 ## Why would you ever add water to a good bottle of bourbon?
 
-The instinct to drink expensive bourbon exactly as bottled is understandable. But proof matters here. Think of a cask-strength bourbon as a tightly wound ball of flavor: it's all in there, but the high alcohol content can act like a gatekeeper, holding back more delicate notes while the burn overwhelms your palate before you notice much else.
+The instinct to drink expensive bourbon exactly as bottled is understandable. But proof matters here. A cask-strength bourbon holds a lot of flavor, but high alcohol content can act like a gatekeeper, holding back more delicate notes while the burn overwhelms your palate before you notice much else.
 
 The science behind this is well established. Whiskey is not a completely homogenous liquid. Its two main components, water and ethanol, do not fully mix, and many of the compounds responsible for flavor and aroma are attracted to alcohol. Guaiacol, the aromatic oil from wood that gives whiskeys their characteristic smokiness, tends to cluster with ethanol molecules and avoid water molecules.
 
-Research by chemists at the University of Sweden showed that adding water to whiskey boosts the concentration of flavor compounds at the surface of the drink, bringing more of those rich aromatics to the nose as you sip. In plain terms, a bourbon can smell noticeably different after just a few drops, because you're not just diluting it. You're rearranging its chemical makeup to your advantage.
+Research by chemists at the University of Sweden showed that adding water to whiskey boosts the concentration of flavor compounds at the surface of the drink, bringing more of those rich aromatics to the nose as you sip. A bourbon can smell noticeably different after just a few drops, because you're not just diluting it. You're rearranging its chemical makeup to your advantage.
 
 ---
 
@@ -54,7 +54,7 @@ There is no single right answer, but there is a reliable process. According to E
 
 A practical starting point: keep the volume low. A few drops from a straw or pipette added to a 2-ounce neat pour is a good place to begin, with room to experiment from there.
 
-For barrel-proof expressions specifically, more latitude exists than most people expect. Booker Noe has said bourbon can be diluted up to a 1:1 ratio of equal parts whiskey and water without losing the essential flavor structure of the spirit. That's a ceiling, not a recommendation, but it shows how much more forgiving bourbon is compared to, say, a delicate single malt.
+For barrel-proof expressions, more latitude exists than most people expect. Booker Noe has said bourbon can be diluted up to a 1:1 ratio of equal parts whiskey and water without losing the essential flavor structure of the spirit. That's a ceiling, not a recommendation, but it shows how forgiving bourbon is compared to, say, a delicate single malt.
 
 The dilution math, simplified:
 
@@ -65,7 +65,7 @@ The dilution math, simplified:
 | 110-125 (55-62.5% ABV) | 5-8 drops | ~1 tsp |
 | 126+ (63%+ ABV) / cask strength | 8-12 drops | ~1.5-2 tsp |
 
-Add one drop at a time, swirl gently, and nose before you sip. You're looking for the exact point where the bourbon is at its most vibrant, not just diluted, where the nose opens up, the flavors come into focus, and the finish settles down without going flat.
+Add one drop at a time, swirl gently, and nose before you sip. You're looking for the point where the bourbon is at its most vibrant: the nose opens up, the flavors come into focus, and the finish settles down without going flat.
 
 If you keep tasting notes in Pour Picks' journal, this is worth logging: jot down the proof you started at, how many drops you added, and which aromatics emerged. Over time you'll build a personal reference for how different mash bills and proof ranges respond to water.
 
@@ -77,7 +77,7 @@ If you keep tasting notes in Pour Picks' journal, this is worth logging: jot dow
 
 The type of water matters more than many people realize. Most bourbon drinkers and distillers suggest keeping the spirit away from common tap water. It contains a number of compounds, both intentional and otherwise, including fluoride and chlorine, that can affect taste.
 
-The cleaner and more neutral the water, the better. You want to taste whiskey, not water. The most practical advice: use the same water you normally drink, whether bottled, filtered, or tap, because that's the flavor your palate is already calibrated to. If your filtered tap water tastes clean and neutral to you, it will work fine. If you can taste your municipal supply, reach for filtered or low-mineral spring water instead.
+The cleaner and more neutral the water, the better. Use the same water you normally drink, whether bottled, filtered, or tap, because that's the flavor your palate is already calibrated to. If your filtered tap water tastes clean and neutral to you, it will work fine. If you can taste your municipal supply, reach for filtered or low-mineral spring water instead.
 
 Distilled water is a safe fallback. Spring water with modest mineral content can also complement bourbon's natural profile, though anything with a pronounced mineral character risks getting in the way.
 
@@ -85,11 +85,11 @@ Distilled water is a safe fallback. Spring water with modest mineral content can
 
 ## Does water affect different bourbon styles differently?
 
-Yes, and understanding this changes how you approach specific bottles.
+Yes, and this changes how you approach specific bottles.
 
-Cask-strength bourbons almost always benefit from a few drops to tame the heat and open up complexity. High-rye expressions can surprise you in the other direction: a drop or two sometimes sharpens the pepper and cinnamon rather than softening it, which isn't a bad thing. On the wheated side, Weller, Old Fitzgerald, Maker's Mark, water tends to amplify the soft caramel and stone-fruit notes that make those expressions appealing in the first place. Some older bourbons that have developed pronounced oakiness over time can benefit too. A little water can pull the wood back into balance and reveal what's underneath.
+Cask-strength bourbons almost always benefit from a few drops to tame the heat and open up complexity. High-rye expressions can go the other direction: a drop or two sometimes sharpens the pepper and cinnamon rather than softening it, which isn't a bad thing. With wheated bourbons like Weller, Old Fitzgerald, and Maker's Mark, water tends to amplify the soft caramel and stone-fruit notes that make those expressions appealing. Some older bourbons with pronounced oakiness can benefit too. A little water can pull the wood back into balance and reveal what's underneath.
 
-Many bourbon drinkers pick up more fruit notes after adding water, but the effect on spice is less predictable, and the finish can shift in either direction. This variability is exactly what makes the exercise worth doing. If your collection spans multiple mash bills and proof ranges, and if you use our guide to [single barrel vs. small batch bourbon](/articles/single-barrel-vs-small-batch-bourbon) to contextualize what you're pouring, experimenting with water is one of the fastest ways to understand how each style is put together.
+Many bourbon drinkers pick up more fruit notes after adding water, but the effect on spice is less predictable, and the finish can shift in either direction. If your collection spans multiple mash bills and proof ranges, and if you use our guide to [single barrel vs. small batch bourbon](/articles/single-barrel-vs-small-batch-bourbon) to contextualize what you're pouring, experimenting with water is one of the fastest ways to understand how each style is put together.
 
 ---
 
@@ -101,7 +101,7 @@ Mostly yes, and often more literally than people realize. Long before you sip a 
 
 When a distillery labels a bottle at 90 proof, they have already added water to bring the cask-strength spirit down from whatever it came out of the barrel at, sometimes 120 proof or higher. When you do a barrel selection, the distillery draws the whiskey directly from the barrel; you taste it at cask strength and make your choice, but in most cases the distillery will add water to the chosen barrel before bottling to bring the whiskey down to the brand's usual proof, a process called gauging. Eagle Rare, for example, might be tasted at 114 proof at the barrel, but the bottled version arrives at 90 proof.
 
-Adding a few drops in your glass is simply finishing what the distillery started, at your pace, to your palate.
+Adding a few drops in your glass is finishing what the distillery started, at your pace, to your palate.
 
 Legendary bourbon maker Pappy Van Winkle believed 50% ABV (100 proof) was the ideal alcohol concentration for whiskey, and he resisted selling anything at lower proof. But he recognized that some people liked additional water and suggested adding whiskey to the water rather than the other way around.
 
@@ -115,7 +115,7 @@ Pour three small, equal measures of the same bourbon into separate tasting glass
 
 A few practical tips to sharpen the experiment:
 
-- Use a Glencairn or similar tulip-shaped glass. The narrowed rim concentrates volatiles so you can actually smell the difference between dilution levels.
+- Use a Glencairn or similar tulip-shaped glass. The narrowed rim concentrates volatiles so you can smell the difference between dilution levels.
 - Let each pour rest two to three minutes after adding water before nosing. The rearrangement of aromatic compounds is not instantaneous.
 - Don't rush the mouthfeel check. Water also dilutes texture, so work through a few levels of dilution to find the one that best balances flavor and body.
 
@@ -123,10 +123,8 @@ A few practical tips to sharpen the experiment:
 
 ## When should you *not* add water to bourbon?
 
-Water is a tool, not a rule. If you're drinking a standard 80-90 proof expression that already feels balanced and approachable, there's no obligation to tinker. You'll know you've gone too far when the bourbon tells you: it tastes thin and flat, the rich oily mouthfeel disappears, and whatever complexity was there fades out.
+Water is a tool, not a rule. If you're drinking a standard 80-90 proof expression that already feels balanced and approachable, there's no obligation to tinker. You'll know you've gone too far when the bourbon tells you: it tastes thin and flat, the rich oily mouthfeel disappears, and complexity fades out.
 
 There's also a case for restraint during formal tastings. At a group tasting or vertical where the goal is fair, consistent comparison, everyone should evaluate the spirits at the same state, typically neat, before experimenting. Once you've locked in your comparative notes, water is fair game.
 
 One scenario where water is almost never appropriate: an older, lower-proof dusty bottle, say a 1970s or 1980s find at 86 proof, that has already experienced some oxidation. These bottles are often more fragile than a freshly opened modern release and typically don't benefit from additional dilution. Appreciate them at bottle strength.
-
----

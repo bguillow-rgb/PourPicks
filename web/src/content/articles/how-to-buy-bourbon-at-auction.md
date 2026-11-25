@@ -32,7 +32,7 @@ faqs:
 published: true
 ---
 
-Bourbon auctions used to be a back-channel pursuit: dusty forums, word-of-mouth, a handshake in a parking lot. That era is over. Dedicated platforms now hold monthly online auctions with hundreds of lots, and the collectors building real portfolios are doing it intentionally, targeting rare bottles, tracking auction performance, and knowing when to buy, hold, or consign.
+Bourbon auctions used to be a back-channel pursuit: dusty forums, word-of-mouth, a handshake in a parking lot. That era is over. Dedicated platforms now hold monthly online auctions with hundreds of lots, and collectors building real portfolios do it intentionally, targeting rare bottles, tracking auction performance, and knowing when to buy, hold, or consign.
 
 If you've never bid before, the mechanics can feel opaque: hammer prices, buyer's premiums, proxy bids, reserve lots. This guide breaks all of it down so your first auction win feels like a strategy, not a lucky accident.
 
@@ -40,7 +40,7 @@ If you've never bid before, the mechanics can feel opaque: hammer prices, buyer'
 
 ## What's actually happening when a bourbon goes to auction?
 
-The mechanics are straightforward once you see them clearly. A seller consigns a bottle to a platform, the platform authenticates and photographs it, then opens bidding to registered buyers for a set window, usually one to three weeks for online auctions. The bottle enters a scheduled auction, buyers bid, and the highest bidder wins. If two collectors both want the same bottle, the price rises.
+A seller consigns a bottle to a platform, the platform authenticates and photographs it, then opens bidding to registered buyers for a set window, usually one to three weeks for online auctions. The bottle enters a scheduled auction, buyers bid, and the highest bidder wins. If two collectors both want the same bottle, the price rises.
 
 From the buyer's side, you browse a catalog of lots, research recent prices, register, and place bids. When the window closes, the high bidder wins and settles the invoice.
 
@@ -73,13 +73,13 @@ For international lots and Scotch crossover, Whisky Auctioneer runs monthly onli
 
 Your best tools are recent hammer prices on the same platform or comparable ones. Most sites show past auction results. Factor in the vintage, fill level (ullage), label condition, and whether the lot includes original packaging. A bottle of George T. Stagg with a dented capsule and a hairline label crack isn't worth the same as a pristine example from the same release year, even if the liquid is identical. Our guide to [grading bourbon bottle condition](/articles/how-to-grade-bourbon-bottle-condition) walks through exactly what to look for.
 
-Secondary market price trackers can also show you the spread between current retail and recent auction hammer prices. If a bottle is selling on secondary for $400 and recent auction hammers are averaging $340, auction may be the smarter channel, as long as fees don't erase the gap (more on that below). The real opportunity often comes from sleepers: bottles that overdeliver without a sky-high price tag attached.
+Secondary market price trackers can also show you the spread between current retail and recent auction hammer prices. If a bottle is selling on secondary for $400 and recent auction hammers are averaging $340, auction may be the smarter channel, as long as fees don't erase the gap. The real opportunity often comes from sleepers: bottles that overdeliver without a sky-high price tag attached.
 
 ---
 
 ## What fees will I actually pay beyond the hammer price?
 
-This is the single most common mistake first-time auction buyers make. The hammer price is never the final amount you'll pay. Auction houses add a buyer's premium (often 10%-15% of the hammer price), plus local taxes, shipping, and insurance to get the bottle to your door.
+The hammer price is never the final amount you'll pay. Auction houses add a buyer's premium (often 10%-15% of the hammer price), plus local taxes, shipping, and insurance to get the bottle to your door.
 
 Run the math before you bid, not after. A bottle with a $300 hammer price at a platform charging 15% premium plus 10% tax plus $25 shipping arrives at your door for roughly $385-$395. If secondary market value is $380, you've overpaid by chasing the win. Decide on your absolute maximum price, including all fees, before the auction starts, and walk away if bidding goes beyond it.
 
@@ -91,9 +91,9 @@ For live in-person auctions, the fee structure gets more complicated. Check the 
 
 *Readers frequently ask:* whether to use auto/proxy bidding or babysit the auction manually. For most online timed auctions, proxy bidding is the smarter play.
 
-Here's the mechanic: you enter your true ceiling, the highest you'd pay including all fees and still feel good about, and the platform bids on your behalf in the smallest increments necessary to keep you in the lead. If no one else bids above the starting price, you win at the floor. If a rival pushes toward your ceiling, the system tracks them automatically without you watching a countdown.
+You enter your true ceiling, the highest you'd pay including all fees and still feel good about, and the platform bids on your behalf in the smallest increments necessary to keep you in the lead. If no one else bids above the starting price, you win at the floor. If a rival pushes toward your ceiling, the system tracks them automatically without you watching a countdown.
 
-The main risk is psychological, not mechanical. Collectors often set a proxy, see themselves outbid in the final hours, and impulsively raise their ceiling, which is a move the auction industry quietly counts on. Set your max once, based on your all-in cost math, and honor it. The bottle will come around again.
+The main risk is psychological, not mechanical. Collectors often set a proxy, see themselves outbid in the final hours, and impulsively raise their ceiling. Set your max once, based on your all-in cost math, and honor it. The bottle will come around again.
 
 For live or phone-bid auctions, the pace is compressed. Bidding can be over in less than 30 seconds, with auctioneers working through roughly 100 lots an hour. If you're attending a live auction for the first time, consider going once with no intention of bidding, just to understand the rhythm before real money is on the line.
 
@@ -108,13 +108,13 @@ Because you're buying without handling the bottle, condition documentation is ev
 - Closure condition: Wax intact? Cork showing deterioration through the capsule?
 - Tax strip (on vintage bottles): Presence and condition is critical for dating and authentication. Our guide to [dating a vintage bourbon bottle](/articles/how-to-date-a-vintage-bourbon-bottle) covers what to look for.
 
-Vintage bottles carry real risks: low fill levels, damaged labels, counterfeits. That's why reputable platforms vet every entry before selling. If the listing doesn't include adequate photos and a written condition note, contact the auction house directly before bidding. Most will provide additional images on request.
+Vintage bottles carry real risks: low fill levels, damaged labels, counterfeits. Reputable platforms vet every entry before selling. If the listing doesn't include adequate photos and a written condition note, contact the auction house directly before bidding. Most will provide additional images on request.
 
 ---
 
 ## Are there good "sleeper" opportunities at auction, or do regulars have every angle covered?
 
-Yes, and this is one of the most underappreciated aspects of auction buying. Desirable unicorns (Pappy, BTAC, Black Maple Hill) attract heavy bidder attention and rarely sell below secondary market. But auctions regularly include mid-tier limited releases, distillery exclusives, older expressions of workhorse brands, and bottles from small craft producers that attract far less competition. Bourbon auctions aren't just for collectors chasing Pappy: they're for anyone who wants access to bottles that never hit a shelf, from $75 sleepers to $7,500 showpieces.
+Desirable unicorns (Pappy, BTAC, Black Maple Hill) attract heavy bidder attention and rarely sell below secondary market. But auctions regularly include mid-tier limited releases, distillery exclusives, older expressions of workhorse brands, and bottles from small craft producers that attract far less competition. Bourbon auctions aren't just for collectors chasing Pappy: they're for anyone who wants access to bottles that never hit a shelf, from $75 sleepers to $7,500 showpieces.
 
 The edge here is product knowledge. If you know that a 2017 expression of a particular single-barrel label was exceptional, because you've tracked the distillery's output or read reviews from that vintage, you can bid confidently on a lot that casual bidders overlook. A well-cataloged cellar (Pour Picks' [bourbon inventory app](/bourbon-inventory-app) makes it easy to track what you own and cross-reference bottle details) helps you spot when an auction lot fills a genuine gap rather than duplicating something you already have.
 
@@ -135,5 +135,3 @@ For domestic US auctions, confirm the platform's shipping policy before bidding.
 3. Chasing unicorns at any price. Set your number and walk. Auction adrenaline is real, and overpaying rarely feels justified once the bottle arrives.
 4. Ignoring past hammer prices. Most platforms publish results history. Use it to calibrate what lots actually clear at, not just what they list for.
 5. Neglecting to track your collection before buying more. Before adding auction wins, know exactly what you already own. A dedicated [cellar tracking tool](/bourbon-inventory-app) prevents duplicate buys and helps you identify the gaps worth filling.
-
----

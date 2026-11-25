@@ -42,7 +42,7 @@ For collectors, a blind tasting answers questions that labeled sipping can't. Do
 
 ## What format should I use for a blind tasting at home?
 
-The format comes down to three choices: fully blind (you don't know what's in any glass), semi-blind (you know the list but not which glass holds which bottle), or single-blind (someone else knows, you don't). All three work. Fully blind is the gold standard for removing bias. Semi-blind is more practical for solo tastings and still strips label-in-hand influence. Single-blind works best when you want a host to manage the reveal, which is useful for small group events.
+The format comes down to three choices: fully blind (you don't know what's in any glass), semi-blind (you know the list but not which glass holds which bottle), or single-blind (someone else knows, you don't). All three work. Fully blind removes the most bias. Semi-blind is more practical for solo tastings and still strips label-in-hand influence. Single-blind works best when you want a host to manage the reveal, which is useful for small group events.
 
 For most home collectors, the semi-blind format hits the right balance. Write a list of four bourbons you plan to taste, pour them into numbered glasses while facing away from the label or in a separate room, shuffle the order, then taste without referring back to which number is which. Score everything before looking at your key.
 
@@ -86,7 +86,7 @@ Themes that consistently produce strong insight for collectors:
 
 Age ladder: three expressions from the same distillery at different age statements, say 4-year, 8-year, and 12-year. You'll land on a concrete preference for where the wood integration peaks for your palate, which informs future buying better than any review.
 
-Proof comparison: same brand, standard release vs. barrel-proof vs. cask-strength variant. Standard wheaters like Maker's Mark and Weller Special Reserve can feel simple at lower proof; the cask-strength versions (Larceny Barrel Proof, Maker's Mark Cask Strength) keep the wheated roundness but add weight and grip that make the style genuinely interesting. Tasting them blind tells you whether the jump in proof is worth the jump in price for your preferences.
+Proof comparison: same brand, standard release vs. barrel-proof vs. cask-strength variant. Standard wheaters like Maker's Mark and Weller Special Reserve can feel simple at lower proof; the cask-strength versions (Larceny Barrel Proof, Maker's Mark Cask Strength) keep the wheated roundness but add weight and grip. Tasting them blind tells you whether the jump in proof is worth the jump in price for your preferences.
 
 Store pick vs. standard release: a single-barrel store pick from the same brand as the standard small-batch offering. According to secondary market data tracked by WhiskyFindr across thousands of transactions, platforms aggregate real transaction data from diverse sources to reveal what bottles actually sell for, and single-barrel picks often command 20%-40% above standard-release prices in the secondary market. A blind tasting tells you whether that premium reflects a genuine flavor difference or mostly label cachet.
 
@@ -96,7 +96,7 @@ Wheated vs. high-rye at matched proof: one of the more illuminating exercises fo
 
 The reveal is the payoff. Before you flip the key, read your notes out loud if you're in a group, or at least read them to yourself and commit to your scores. The most common blind tasting mistake is retroactively softening a low score on a famous bottle once the label appears. Resist this. The pre-reveal score is the honest one.
 
-After the reveal, compare your ranking to retail price and to any secondary market values you know. A useful exercise: sort your four bourbons by your blind score, then sort the same bottles by price. The gaps are instructive. Old Weller Antique 107, for example, is a fan favorite that has famously outperformed Pappy in blind taste tests, a result that carries real buying implications. The Pappy family's secondary premiums can reach 10-15x retail, but the blind score gap rarely matches that ratio.
+After the reveal, compare your ranking to retail price and to any secondary market values you know. A useful exercise: sort your four bourbons by your blind score, then sort the same bottles by price. The gaps are instructive. Old Weller Antique 107, for example, has famously outperformed Pappy in blind taste tests, a result that carries real buying implications. The Pappy family's secondary premiums can reach 10-15x retail, but the blind score gap rarely matches that ratio.
 
 Document everything. A tasting note written immediately after a blind pour and before the reveal is the cleanest data point you can generate about your own palate. Over four or five sessions, patterns emerge: you consistently rate higher-proof pours better, or you systematically prefer wheated profiles even when you'd told yourself you were a high-rye collector. That self-knowledge compounds. It makes every subsequent purchase, at retail, at a barrel pick, or at [auction](/articles/how-to-buy-bourbon-at-auction), more deliberate and less susceptible to hype. If you're building a [bourbon cellar you plan to catalog and value over time](/bourbon-inventory-app), blind tasting notes attached to specific bottles are some of the most durable reference data you'll generate.
 

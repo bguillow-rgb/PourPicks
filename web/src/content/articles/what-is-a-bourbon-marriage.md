@@ -32,11 +32,11 @@ faqs:
 published: true
 ---
 
-When bourbon drinkers debate batch consistency, why one release of a favorite label tastes slightly different from the last, the marriage process is often the unsung variable nobody mentions. It happens after the barrels are selected and before the bottles are sealed, in a quiet tank or vat that most collectors never see. Understanding it changes how you read a batch code, evaluate a small-batch release, and think about the flavor arc of bottles in your cellar.
+When bourbon drinkers debate batch consistency, why one release of a favorite label tastes slightly different from the last, the marriage process is often the unsung variable that goes unmentioned. It happens after the barrels are selected and before the bottles are sealed, in a tank or vat that most collectors never see. It changes how you read a batch code, evaluate a small-batch release, and think about the bottles sitting in your cellar.
 
 ## What exactly is a "bourbon marriage," and where does the term come from?
 
-In the context of whiskey production, "marrying" refers to combining different batches or barrels before bottling. But the term means something more specific than just combining barrels: a marriage is the period *after* blending and before bottling when the whiskey rests, often in a neutral vat. It is not a requirement, but some producers believe it results in a better-integrated whiskey.
+In the context of whiskey production, "marrying" refers to combining different batches or barrels before bottling. The term means something more specific than just combining barrels: a marriage is the period *after* blending and before bottling when the whiskey rests, often in a neutral vat. It is not a requirement, but some producers believe it results in a better-integrated whiskey.
 
 The concept carries strong influence from French brandy and Cognac producers, who believe that spirit gets "shocked" when other spirits or water are introduced, and that to optimize flavor integration there should be a period when the newly combined liquids intermingle and rest together. Kentucky distillers adopted similar logic, and the term "marriage" made its way into bourbon vocabulary as batch sizes grew and producers needed a word to describe that deliberate pre-bottling pause.
 
@@ -56,11 +56,11 @@ More common in wine-making and among French brandy distillers, marrying a whiske
 
 *This one comes up a lot:* does resting combined barrels actually do anything measurable, or is it marketing language?
 
-The answer is both yes and chemically documented, and honestly a matter of ongoing debate. Wood used in marrying vats allows for micro-oxygenation, where small amounts of oxygen interact with the whiskey and help bond flavors together. The whiskey can also extract further flavor compounds from the wood during this rest.
+It is both chemically documented and a matter of ongoing debate. Wood used in marrying vats allows for micro-oxygenation, where small amounts of oxygen interact with the whiskey and help bond flavors together. The whiskey can also extract further flavor compounds from the wood during this rest.
 
 When a marriage happens in a steel or stainless tank rather than wood, wood extraction stops entirely. But molecular integration of alcohol, water, and congeners (the complex flavor compounds carried over from distillation and barrel aging) still proceeds. The aim is a more uniform profile of aroma, flavor, and color before bottling. The result, whether in wood or steel, is measurably more homogenous than a batch bottled immediately after combining. Tasters at well-documented barrel programs regularly note that a married batch is "rounder" than a same-day blend of identical barrels.
 
-The practice is time-consuming, but it produces a more layered spirit as the individual flavor profiles of each barrel come together. It also tempers barrel-by-barrel variation, which is the whole point.
+The practice is time-consuming, but it produces a more integrated spirit as the individual flavor profiles of each barrel come together. It also tempers barrel-by-barrel variation, which is the whole point.
 
 ## Does marrying in wood versus marrying in a tank produce different results?
 
@@ -75,7 +75,7 @@ Yes, and the vessel choice is one of the more consequential decisions a distille
 | Cost | Higher; requires cooperage maintenance | Lower |
 | Common use | Craft distillers, premium batches | Most large-scale production |
 
-Marrying in wood creates a rounder, smoother blend. Flavors meld for a fuller result, with more going on in the aroma. That said, most commercial bourbon production uses steel tanks for practical reasons: they are easier to clean, temperature-control, and scale. The difference shows up most meaningfully in smaller-production craft releases where a wood vat marriage of even four to six weeks is economically feasible.
+Marrying in wood creates a rounder, smoother blend. Flavors meld for a fuller result, with more going on in the aroma. Most commercial bourbon production uses steel tanks for practical reasons: they are easier to clean, temperature-control, and scale. The difference shows up most meaningfully in smaller-production craft releases where a wood vat marriage of even four to six weeks is economically feasible.
 
 ## Does the proofing-down water get added before or after the marriage?
 
@@ -83,17 +83,15 @@ Marrying in wood creates a rounder, smoother blend. Flavors meld for a fuller re
 
 This varies by producer, but the common sequence is: barrels are dumped, combined in the vat, rested (the marriage), proofed down with water, then bottled. Some producers add a small amount of water before the marriage to shock the barrels into integration; others wait until after the rest to make a single precise cut. In the case of most whiskies, blending and proofing down with water to bottling strength is a process that takes place relatively quickly, sometimes only days before bottling, in a vat or tank.
 
-What the water actually is matters, too. By the time whiskey is proofed down for bottling, producers are stripping minerals out with reverse osmosis, because the water that makes a good fermentation makes a poor diluent. And proofing water is not a minority ingredient: cutting a barrel-strength bourbon at 62% ABV down to 45% means roughly 27 litres of water in every 100 litres bottled. That is a significant volume, which is why the quality and neutrality of proofing water is taken seriously by premium producers.
+What the water is matters, too. Producers strip minerals out with reverse osmosis before proofing down, because the water that makes a good fermentation makes a poor diluent. Proofing water is not a minority ingredient: cutting a barrel-strength bourbon at 62% ABV down to 45% means roughly 27 litres of water in every 100 litres bottled. That is a significant volume, which is why the quality and neutrality of proofing water is taken seriously by premium producers.
 
 ## Does marrying affect single-barrel releases?
 
-By definition, no. A single-barrel bourbon comes from one barrel, one dump, and goes straight to bottle. Barrels with unique flavor profiles or of sentimental importance are often earmarked and set aside for single-barrel release rather than being married into a batch. This is precisely why single-barrel bottles vary bottle-to-bottle in ways a married small-batch cannot: the marriage process exists to smooth exactly those variations. If you are building a [bourbon cellar](/articles/how-to-start-a-bourbon-cellar) that mixes single-barrel picks alongside small-batch bottles, you are already collecting across this spectrum without necessarily knowing it.
+By definition, no. A single-barrel bourbon comes from one barrel, one dump, and goes straight to bottle. Barrels with unique flavor profiles or of sentimental importance are often earmarked and set aside for single-barrel release rather than being married into a batch. This is why single-barrel bottles vary bottle-to-bottle in ways a married small-batch cannot: the marriage process exists to smooth exactly those variations. If you are building a [bourbon cellar](/articles/how-to-start-a-bourbon-cellar) that mixes single-barrel picks alongside small-batch bottles, you are already collecting across this spectrum without necessarily knowing it.
 
-Understanding marriage also reframes the [single barrel vs. small batch debate](/articles/single-barrel-vs-small-batch-bourbon). Neither is inherently better, but they represent opposite philosophies: raw individual expression versus deliberate cohesion.
+The marriage process also reframes the [single barrel vs. small batch debate](/articles/single-barrel-vs-small-batch-bourbon). Neither is inherently better, but they represent opposite philosophies: raw individual expression versus deliberate cohesion.
 
 ## How can collectors use this knowledge practically?
-
-Understanding the marriage process gives you a sharper lens on a few common collecting situations.
 
 Batch variation: when a beloved small-batch expression changes from one release to the next, the length and vessel of the marriage period is one variable that shifted, alongside barrel selection, rickhouse position, and age. Collectors who [track their collection](/bourbon-inventory-app) and log tasting notes by batch code can spot which releases in their cellar reflect a longer rest.
 
@@ -105,11 +103,11 @@ Pour Picks lets you log a marriage period note in the journal field for any bott
 
 ## What should I look for on a label or in producer notes to identify a married bourbon?
 
-The honest answer: labels rarely say so explicitly. The TTB does not require producers to disclose a marriage period, its duration, or the vessel type. Your best sources are:
+Labels rarely say so explicitly. The TTB does not require producers to disclose a marriage period, its duration, or the vessel type. Your best sources are:
 
-- Distillery production notes or master distiller interviews, craft producers are most forthcoming here
-- Batch documentation, some limited releases note the number of barrels and the resting timeline
+- Distillery production notes or master distiller interviews; craft producers are most forthcoming here
+- Batch documentation; some limited releases note the number of barrels and the resting timeline
 - The absence of "single barrel": any labeled small-batch or batch-numbered bourbon has, by definition, combined more than one barrel; whether a rest followed is the open question
 - Community resources: enthusiast forums and [whiskey databases](/articles/distiller-vs-whiskeybase) sometimes surface production details that never appear on the bottle itself
 
-When you [write tasting notes](/articles/how-to-write-bourbon-tasting-notes) for a married batch versus a single-barrel pick from the same distillery, you will often find the married expression more integrated and predictable on the palate. Not better, but designed for a different purpose. Both have a place in a serious collection. Now you know why they drink differently, even when they pour from the same distillery floor.
+When you [write tasting notes](/articles/how-to-write-bourbon-tasting-notes) for a married batch versus a single-barrel pick from the same distillery, you will often find the married expression more integrated and predictable on the palate. Not better, but designed for a different purpose. Both have a place in a serious collection.

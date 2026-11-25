@@ -32,15 +32,15 @@ faqs:
 published: true
 ---
 
-A bourbon flavor wheel is one of the most practical tools a collector can own, and one of the most misunderstood. Most people glance at it, feel intimidated by terms like "conifer resin" or "dried apricot," and set it aside. That's a shame, because used correctly, a flavor wheel doesn't test your vocabulary. It builds it. This guide explains exactly how to use one, what each of its five families actually means in the glass, and how to make it a permanent part of the way you journal your collection.
+A bourbon flavor wheel is a circular visual guide that organizes hundreds of potential tasting notes into five core families: sweet, wood, grain, spice, and fruit/floral. Most people glance at it, feel intimidated by terms like "conifer resin" or "dried apricot," and set it aside. Used correctly, a flavor wheel doesn't test your vocabulary. It builds it.
 
 ---
 
 ## What exactly is a bourbon flavor wheel, and why does it exist?
 
-The bourbon flavor wheel is a visual guide that organizes complex tasting notes into structured categories, developed by the Council of Whiskey Masters to give tasters a shared reference. Think of it the way a Pantone chart works for designers: the colors (flavors) already exist in the world, but without a shared naming system you end up with fifteen people calling the same shade "kind of greenish-blue." The wheel standardizes bourbon language so your tasting notes mean something to you a year from now, and something to someone else who picks up the same bottle.
+The bourbon flavor wheel is a visual guide that organizes complex tasting notes into structured categories, developed by the Council of Whiskey Masters to give tasters a shared reference. It works the way a Pantone chart works for designers: the colors (flavors) already exist in the world, but without a shared naming system you end up with fifteen people calling the same shade "kind of greenish-blue." The wheel standardizes bourbon language so your tasting notes mean something to you a year from now, and something to someone else who picks up the same bottle.
 
-The practical payoff for collectors is real. When you log tasting notes in a cellar app like [Pour Picks](https://pourpicks.com), vague notes ("tastes like bourbon") degrade in usefulness over time. Specific notes ("dark caramel, dried cherry, fresh-sawn oak, white pepper finish") let you build a personal flavor map across your entire collection, spotting patterns like which distilleries consistently hit fruit notes you love, or which mash bills always skew spicy.
+The payoff for collectors is real. When you log tasting notes in a cellar app like [Pour Picks](https://pourpicks.app), vague notes ("tastes like bourbon") degrade in usefulness over time. Specific notes ("dark caramel, dried cherry, fresh-sawn oak, white pepper finish") let you build a personal flavor map across your entire collection, spotting patterns like which distilleries consistently hit fruit notes you love, or which mash bills always skew spicy.
 
 ---
 
@@ -48,7 +48,7 @@ The practical payoff for collectors is real. When you log tasting notes in a cel
 
 *A question we hear often:* collectors who've seen a flavor wheel know the broad categories exist, but aren't sure what bourbon characteristics actually drive each one.
 
-The wheel divides into five families: wood, grain, sweet, spice, and fruit/floral. Each branches into progressively narrower descriptors, oak versus conifer, earthy versus aromatic, and so on. Here's what to look for in each:
+The wheel divides into five families: wood, grain, sweet, spice, and fruit/floral. Each branches into progressively narrower descriptors, oak versus conifer, earthy versus aromatic, and so on.
 
 | Family | What drives it | Common specific notes |
 |---|---|---|
@@ -58,7 +58,7 @@ The wheel divides into five families: wood, grain, sweet, spice, and fruit/flora
 | Spice | Rye content, barrel tannins, high proof | White pepper, cinnamon, clove, nutmeg, dried herbs |
 | Fruit/Floral | Ester development during fermentation | Dried cherry, orange peel, apricot, rose, green apple |
 
-Bourbon's corn-dominant mash is what pushes sweetness to the foreground, while new charred oak adds caramel and spice on top of that. That's why sweet and wood are almost always the dominant families in a well-aged Kentucky straight bourbon, while high-rye expressions lean predictably into spice.
+Bourbon's corn-dominant mash pushes sweetness to the foreground, while new charred oak adds caramel and spice on top of that. Sweet and wood are almost always the dominant families in a well-aged Kentucky straight bourbon. High-rye expressions lean predictably into spice.
 
 ---
 
@@ -66,23 +66,23 @@ Bourbon's corn-dominant mash is what pushes sweetness to the foreground, while n
 
 *This one comes up a lot:* people have the wheel in hand but aren't sure where to start or how to move through it.
 
-Start in the center with broad categories like "sweet" or "woody," then follow the path outward to pinpoint more precise notes like "caramel" or "toasted oak." Starting at the outer edge, trying to decide between "creme brulee" and "praline" before you've even confirmed you're in the sweet family, creates decision fatigue and leads to forced, inaccurate notes.
+Start in the center with broad categories like "sweet" or "woody," then follow the path outward to pinpoint more precise notes like "caramel" or "toasted oak." Starting at the outer edge, trying to decide between "creme brulee" and "praline" before you've confirmed you're in the sweet family, creates decision fatigue and leads to forced, inaccurate notes.
 
-Here's a practical three-step sequence:
+A practical three-step sequence:
 
-1. **Nose the glass with eyes closed.** Closing your eyes during nosing is worth doing: cutting off one sense does heighten the others. On your first pass, just identify which family is loudest. Is it leading with sweetness, wood, or spice?
+1. **Nose the glass with eyes closed.** Cutting off one sense heightens the others. On your first pass, identify which family is loudest. Is it leading with sweetness, wood, or spice?
 
-2. **Taste and confirm.** Take a small sip and hold it. Let the bourbon coat your tongue before swallowing. Ask whether your nose was right, and which secondary family is showing up behind the dominant one.
+2. **Taste and confirm.** Take a small sip and hold it. Let the bourbon coat your tongue before swallowing. Check whether your nose was right, and which secondary family is showing up behind the dominant one.
 
-3. **Walk outward on the wheel.** Now that you've anchored your two or three dominant families, move to the second ring for sub-categories, then to the outer edge for specific descriptors. You're narrowing down, not guessing from scratch.
+3. **Walk outward on the wheel.** Once you've anchored your two or three dominant families, move to the second ring for sub-categories, then to the outer edge for specific descriptors. You're narrowing down, not guessing from scratch.
 
-One more practical note: if you're tasting a cask-strength bottle, high alcohol can numb the nose. Adding 2-3 drops of distilled water breaks surface tension, releases volatile aromatics, and opens up complexity that was locked under the proof. Barrel-proof bourbons in particular reward a drop or two before nosing.
+One more practical note: if you're tasting a cask-strength bottle, high alcohol can numb the nose. Adding 2-3 drops of distilled water breaks surface tension, releases volatile aromatics, and opens up complexity that was locked under the proof. Barrel-proof bourbons reward a drop or two before nosing.
 
 ---
 
 ## What's the difference between the bourbon flavor wheel and the whiskey flavor wheel?
 
-Bourbon is whiskey the way a boot is a shoe, but not all shoes are boots. Federal requirements dictate that bourbon must contain at least 51% corn, age in new charred oak barrels, and be bottled at no less than 80 proof. That regulatory specificity matters for flavor.
+Federal requirements dictate that bourbon must contain at least 51% corn, age in new charred oak barrels, and be bottled at no less than 80 proof. That regulatory specificity matters for flavor.
 
 Because bourbon is locked to new charred oak, its wood family runs dramatically richer in caramelized oak notes than Scotch whisky, which typically ages in used casks and develops very different wood profiles. A general whiskey wheel also includes peat, sulfur, and malt families that have little relevance for bourbon. For a cellar that's purely or primarily bourbon, a bourbon-specific wheel gives you more useful resolution in the sweet and wood families where the real differentiation lives.
 
@@ -96,7 +96,7 @@ If you collect both bourbon and rye, keep both wheels. A bourbon flavor wheel ce
 
 You use the same wheel throughout, but different families tend to dominate at each stage. The nose is where fruit, floral, and grain notes are most detectable: volatile esters rise quickly in the glass and hit your olfactory receptors before anything touches your palate. The palate is where sweet and spice typically peak, with corn-derived sweetness coating the mid-palate while rye tannins arrive late. The finish is almost always dominated by wood and spice; oak tannins and pepper linger longest after you swallow.
 
-One practical technique: use three colored pens, one each for nose, palate, and finish, and draw arrows to the flavors you detect on a printed wheel. This gives you a visual map of how the bourbon evolves across all three stages rather than a flat list of descriptors. When you log notes across multiple bottles in a tracking app, this three-stage structure makes it much easier to compare expressions side by side. The [Pour Picks](https://pourpicks.com) tasting journal is built around exactly this nose/palate/finish structure, so your wheel-derived notes map directly onto your log entries.
+One practical technique: use three colored pens, one each for nose, palate, and finish, and draw arrows to the flavors you detect on a printed wheel. This gives you a visual map of how the bourbon evolves across all three stages rather than a flat list of descriptors. When you log notes across multiple bottles in a tracking app, this three-stage structure makes it much easier to compare expressions side by side. The [Pour Picks](https://pourpicks.app) tasting journal is built around exactly this nose/palate/finish structure, so your wheel-derived notes map directly onto your log entries.
 
 ---
 
@@ -104,8 +104,6 @@ One practical technique: use three colored pens, one each for nose, palate, and 
 
 The improvement is real. Research on sensory training in professional tasters consistently shows that having a verbal label for a flavor improves your ability to detect it in future tastings, a phenomenon sometimes called the reverse of "verbal overshadowing." When you know the word "ethyl acetate" (which shows up as nail polish or solvent notes), you start catching it in high-congener distillates you previously just called "harsh."
 
-The more you use the wheel and identify flavors, the more your vocabulary grows, and your palate follows. Collectors who journal every pour and reference the wheel consistently report that within about six months of deliberate practice they can identify specific distillery house styles by flavor profile alone, without checking the label. That's not a party trick. It's genuine sensory calibration.
+The more you use the wheel and identify flavors, the more your vocabulary grows, and your palate follows. Collectors who journal every pour and reference the wheel consistently report that within about six months of deliberate practice they can identify specific distillery house styles by flavor profile alone, without checking the label. That's genuine sensory calibration.
 
 A technique that accelerates this: taste reference ingredients alongside the bourbon, a vanilla bean, a cinnamon stick, dried apricot. Woodford Reserve's master distillers use this approach to anchor sensory memory to concrete physical objects, so each note on the wheel has a real-world reference point rather than an abstract name.
-
----

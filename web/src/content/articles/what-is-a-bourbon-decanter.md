@@ -32,7 +32,7 @@ faqs:
 published: true
 ---
 
-A bourbon decanter is any decorative vessel (ceramic, crystal, novelty glass, sculptural pottery) used to package, bottle, or display bourbon whiskey. The term covers two distinct worlds that collectors often confuse: the mid-century figural decanters produced by distilleries as marketing pieces, and the premium crystal decanters used today by high-end producers as prestige packaging. Knowing which kind you're dealing with changes everything about how you treat it, store it, and value it.
+A bourbon decanter is any decorative vessel, ceramic, crystal, novelty glass, sculptural pottery, used to package, bottle, or display bourbon whiskey. The term covers two distinct worlds that collectors often confuse: the mid-century figural decanters produced by distilleries as marketing pieces, and the premium crystal decanters used today by high-end producers as prestige packaging. Which kind you're dealing with changes how you treat it, store it, and value it.
 
 ## What exactly makes something a "bourbon decanter", isn't that just a bottle?
 
@@ -40,17 +40,17 @@ A bourbon decanter is any decorative vessel (ceramic, crystal, novelty glass, sc
 
 In everyday speech, "decanter" can mean the glass carafe you fill from a bottle for a dinner party. In the bourbon collector world it means something more specific: a vessel, often ornate, ceramic, or figural, that was itself the retail container for the whiskey when purchased. The spirit came *in* the decanter; you didn't pour it there afterward.
 
-Jim Beam's collectible decanters, produced from the 1950s through the early 2000s, turned surplus aged bourbon into keepsakes shaped like vintage cars, historical landmarks, and just about anything else you could imagine. That's the definition collectors use: a decorative container that shipped from the distillery already filled and sealed. A standard bourbon bottle, by contrast, is a functional glass vessel designed for retail distribution and nothing more.
+Jim Beam's collectible decanters, produced from the 1950s through the early 2000s, turned surplus aged bourbon into keepsakes shaped like vintage cars, historical landmarks, and just about anything else you could imagine. That's the definition collectors use: a decorative container that shipped from the distillery already filled and sealed. A standard bourbon bottle is a functional glass vessel designed for retail distribution and nothing more.
 
 At the premium end, hand-blown decanters, artistic collaborations, and individually numbered bottles push collectible whiskey into the territory of cultural objects. Buffalo Trace's Double Eagle Very Rare is a modern example: bottled in hand-blown crystal featuring the brand's signature eagle in flight, aged 20 years, drawn from select barrels.
 
-The practical difference matters. A decanter is a display and collection piece. A bottle is infrastructure.
+A decanter is a display and collection piece. A bottle is infrastructure.
 
 ---
 
 ## Where did bourbon decanters come from? Is this a recent thing or old?
 
-The figural decanter tradition in American bourbon is rooted in a very specific moment in post-Prohibition history.
+The figural decanter tradition in American bourbon is rooted in a specific moment in post-Prohibition history.
 
 After Prohibition ended in 1933, American consumers had largely moved away from whiskey. Distilleries sat on large inventories of aged stock and needed creative ways to sell it. Beginning in the early 1950s, Jim Beam started packaging bourbon in ceramic novelty bottles shaped like famous paintings, historical landmarks, vintage automobiles, and pop culture icons, targeting gift-buyers who might not otherwise reach for whiskey.
 
@@ -64,11 +64,11 @@ The International Jim Beam Bottle and Speciality Club (IJBBSC) boasted over 150 
 
 *This one comes up a lot:* estate finds are one of the most common reasons people search this topic.
 
-The honest answer is that most empty figural decanters are worth very little on the open market today. Most can be found at flea markets for as little as a dollar. The reason is simple math: hundreds of thousands of the most common designs were produced, and the collector base has shrunk considerably since the 1980s peak.
+Most empty figural decanters are worth very little on the open market today. Most can be found at flea markets for as little as a dollar. Hundreds of thousands of the most common designs were produced, and the collector base has shrunk considerably since the 1980s peak.
 
 Rarity and condition drive the exceptions. The First National Bank of Chicago Decanter from 1964 is among the rarest because only 117 were ever made, and examples have sold for as high as $3,500. New-in-the-box or mint condition decanters carry more value than used ones, and damage around the lip or base will hurt a piece considerably.
 
-The single biggest value question is whether the decanter is still sealed and full. A sealed, full vintage figural decanter is always worth more than an empty one; the bourbon itself becomes part of the provenance. If you're unsure whether a sealed decanter contains drinkable spirit, a reputable bourbon auction house can appraise it before you decide whether to open it. Apps like Pour Picks can help you log and photograph what you have so you have a reference record before any appraisal.
+The single biggest value question is whether the decanter is still sealed and full. A sealed, full vintage figural decanter is worth more than an empty one; the bourbon itself becomes part of the provenance. If you're unsure whether a sealed decanter contains drinkable spirit, a reputable bourbon auction house can appraise it before you decide whether to open it. Apps like Pour Picks can help you log and photograph what you have so you have a reference record before any appraisal.
 
 ---
 
@@ -84,7 +84,7 @@ The single biggest value question is whether the decanter is still sealed and fu
 | Seal type | Foil or wax over cork | Cork, stopper, or proprietary closure |
 | Example | Jim Beam Regal China series | Buffalo Trace Double Eagle Very Rare |
 
-The fundamental shift is that today's decanter-packaged bourbons lead with the liquid, not the container. A modern crystal-decanter bourbon earns its price because of what's inside. Mid-century figurals earned theirs because of what was on the outside.
+Today's decanter-packaged bourbons lead with the liquid, not the container. A modern crystal-decanter bourbon earns its price because of what's inside. Mid-century figurals earned theirs because of what was on the outside.
 
 ---
 
@@ -92,7 +92,7 @@ The fundamental shift is that today's decanter-packaged bourbons lead with the l
 
 *Readers frequently ask:* this question blurs the line between collector behavior and host behavior.
 
-For a dinner party or tasting, pouring into a quality lead-free glass decanter for same-day serving is perfectly fine. The problem is time. Bourbon doesn't benefit from extended decanter storage the way young red wine benefits from aeration. The opposite is true: most decanters lack an airtight seal, and exposure to oxygen gradually flattens the spirit. For guidance on how opened bottles oxidize, the [Does Bourbon Go Bad](https://pourpicks.app/articles/does-bourbon-go-bad) article covers the science in detail.
+For a dinner party or tasting, pouring into a quality lead-free glass decanter for same-day serving is fine. The problem is time. Bourbon doesn't benefit from extended decanter storage the way young red wine benefits from aeration. Most decanters lack an airtight seal, and exposure to oxygen gradually flattens the spirit. For guidance on how opened bottles oxidize, the [Does Bourbon Go Bad](https://pourpicks.app/articles/does-bourbon-go-bad) article covers the science in detail.
 
 The other concern is lead crystal. Many vintage and even some modern decanters contain lead, which lends that distinctive weight and clarity but can leach into acidic solutions like spirits over time. If you're using a decanter for serving, verify it is lead-free; most quality modern glassware will say so explicitly. For your cellar, always store bourbon sealed in its original bottle. A decanter is a serving and display tool, not a storage vessel.
 
@@ -107,5 +107,3 @@ Start with the base. Place the decanter on its side between two books so it won'
 Cross-reference the design against collector resources like the *Jim Beam Figural Bottles: An Unauthorized Collector's Guide* or the IJBBSC archives. Note the fill level, the seal condition (foil intact? wax present?), and any accompanying original box. Boxes add meaningful value to rare pieces. Photograph the base, the closure, and the overall condition from multiple angles before any handling.
 
 If you're building a broader bourbon collection alongside vintage finds, Pour Picks lets you photograph and catalog bottles with custom notes, useful for keeping a consistent record whether you're dealing with a 2026 single-barrel release or a 1974 Jim Beam Corvette ceramic. Pair that documentation habit with our guide to [how to grade bourbon bottle condition](https://pourpicks.app/articles/how-to-grade-bourbon-bottle-condition) for a full evaluation framework.
-
----

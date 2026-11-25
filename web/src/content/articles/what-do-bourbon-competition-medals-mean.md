@@ -1,7 +1,7 @@
 ---
 title: "What Do Bourbon Competition Medals Mean? A Collector's Guide to Gold, Double Gold, Platinum, and Every Award on the Bottle"
 seoTitle: "What Do Bourbon Competition Medals Mean?"
-description: "Gold, Double Gold, Platinum — bourbon competition medals don't all mean the same thing. Here's what each award actually signals, and when to trust them."
+description: "Gold, Double Gold, Platinum, bourbon competition medals don't all mean the same thing. Here's what each award actually signals, and when to trust them."
 tier: "detail"
 targetQuery: "what do bourbon competition medals mean"
 relatedQueries:
@@ -32,7 +32,7 @@ faqs:
 published: true
 ---
 
-A Gold medal sticker on a bourbon bottle is persuasive. Walk down any well-stocked liquor store aisle and you'll notice Gold medals at every price point, from $25 shelf pours to $200 limited releases. If Gold means "excellent," why does it appear on everything? Because not all medals are created equal, and understanding the system behind them changes how you shop, collect, and evaluate what's actually in your cellar.
+A Gold medal sticker on a bourbon bottle is persuasive. Walk down any well-stocked liquor store aisle and you'll see Gold medals at every price point, from $25 shelf pours to $200 limited releases. If Gold means "excellent," why does it appear on everything? Because not all medals are created equal.
 
 ## "I keep seeing Gold, Double Gold, and Platinum stickers on bottles, what's actually the difference?"
 
@@ -40,17 +40,17 @@ A Gold medal sticker on a bourbon bottle is persuasive. Walk down any well-stock
 
 These three tiers sound like a simple hierarchy, but the scoring behind them varies by competition.
 
-A Gold medal doesn't always mean first place. Most competitions use a points-based system where medals go to any whisky scoring within a certain range. At a typical competition, Gold might cover every bourbon between 90 and 94 points out of 100. That means a single category can produce a dozen Gold winners at the same event.
+A Gold medal doesn't mean first place. Most competitions use a points-based system where medals go to any whisky scoring within a certain range. At a typical competition, Gold might cover every bourbon between 90 and 94 points out of 100. A single category can produce a dozen Gold winners at the same event.
 
-Double Gold is a step above. It typically means every judge on the panel gave the whisky a Gold-level score, a unanimous verdict rather than a strong average. The San Francisco World Spirits Competition helped popularize the term, and it carries genuine weight because unanimity is harder to achieve than a simple points threshold.
+Double Gold is a step above. It means every judge on the panel gave the whisky a Gold-level score, a unanimous verdict rather than a strong average. The San Francisco World Spirits Competition helped popularize the term, and it carries genuine weight because unanimity is harder to achieve than a points threshold.
 
-Platinum sits at the top, reserved for the highest award a given competition offers. At the North American Bourbon & Whiskey Competition and the Global Whisky Challenge, both of which run double-blind industry panels, Platinum goes to entries scoring 97 or higher out of 100. Winners in any given year are genuinely rare and worth tracking.
+Platinum sits at the top, reserved for the highest award a given competition offers. At the North American Bourbon & Whiskey Competition and the Global Whisky Challenge, both of which run double-blind industry panels, Platinum goes to entries scoring 97 or higher out of 100. Winners in any given year are rare and worth tracking.
 
 ---
 
 ## "Which competitions should I actually pay attention to as a collector?"
 
-Not every medal was earned in the same room. The credibility gap between competitions is real, and knowing which organizations run rigorous processes matters when you're evaluating a purchase or building a reference collection.
+The credibility gap between competitions is real, and knowing which organizations run rigorous processes matters when you're evaluating a purchase or building a reference collection.
 
 The five most consistently respected competitions for bourbon:
 
@@ -64,7 +64,7 @@ The five most consistently respected competitions for bourbon:
 
 Competitions that charge high per-entry fees, use non-blind panels, or allow unlimited category entry without standardized scoring are viewed skeptically by experienced collectors. A "Best in Show" from an organization you can't find independent reporting on is worth less than a Bronze from a credible blind-judged event.
 
-The Bartender Spirits Awards take a different approach entirely. Bartenders taste each entry blind first, then see the price before scoring value. The final score also factors in mixability, balance, versatility, and packaging. That methodology makes it more relevant for cocktail applications than for a collector evaluating sipping quality.
+The Bartender Spirits Awards take a different approach. Bartenders taste each entry blind first, then see the price before scoring value. The final score also factors in mixability, balance, versatility, and packaging. That methodology makes it more relevant for cocktail applications than for a collector evaluating sipping quality.
 
 ---
 
@@ -74,9 +74,9 @@ The Bartender Spirits Awards take a different approach entirely. Bartenders tast
 
 Yes. Cross-competition wins are a meaningfully stronger signal than a single medal. When a bourbon earns a Double Gold at SFWSC and a Gold Outstanding at IWSC in the same year, two independent blind panels using different judges and different criteria reached the same conclusion. That's harder to dismiss as category luck or panel composition.
 
-Bottles that win the highest award available at their respective competitions, not just medal tiers but category titles, represent a more trustworthy signal. Peg Leg Porker Black Label 12 Year took the single Platinum Medal at the 2026 Global Whisky Challenge with the highest score of the entire competition at 97 points. That's the kind of result worth noting in a tasting journal.
+Bottles that win the highest award available at their respective competitions, not just medal tiers but category titles, represent a more trustworthy signal. Peg Leg Porker Black Label 12 Year took the single Platinum Medal at the 2026 Global Whisky Challenge with the highest score of the entire competition at 97 points. That's worth noting in a tasting journal.
 
-The practical rule: one medal from one competition tells you a panel liked the bourbon. Two independent top-tier medals from two credible blind competitions in the same release year tells you something more durable about the liquid.
+One medal from one competition tells you a panel liked the bourbon. Two independent top-tier medals from two credible blind competitions in the same release year tells you something more durable about the liquid.
 
 ---
 
@@ -84,21 +84,21 @@ The practical rule: one medal from one competition tells you a panel liked the b
 
 *Readers frequently ask:*
 
-This is one of the smartest questions a collector can ask, and most medal stickers don't answer it. A bottle on a shelf in October 2026 might carry a medal earned by the 2022 or 2023 release of that product. Distilleries are not required to update or remove award stickers when a new batch is bottled, and many don't.
+Most medal stickers don't answer this. A bottle on a shelf in October 2026 might carry a medal earned by the 2022 or 2023 release of that product. Distilleries are not required to update or remove award stickers when a new batch is bottled, and many don't.
 
-Batch-to-batch variation is especially pronounced in small-batch and single-barrel expressions, the very products most likely to earn medals in the first place. Barrel selection, entry proof, aging warehouse location, and dump date all affect the final profile. A batch that earned Double Gold last year isn't guaranteed to taste like this year's batch.
+Batch-to-batch variation is especially pronounced in small-batch and single-barrel expressions, the very products most likely to earn medals. Barrel selection, entry proof, aging warehouse location, and dump date all affect the final profile. A batch that earned Double Gold last year isn't guaranteed to taste like this year's batch.
 
-The fix is simple: look for the batch number or bottling date alongside the medal year. If the award year matches the current batch code, the medal is directly relevant. If there's a two-to-three year gap, treat it as a positive reference point for the brand's quality floor rather than a guarantee of what's in this specific bottle. Pour Picks lets you log batch codes and tasting notes for every pour, which makes it genuinely useful for tracking when a label you like starts tasting different from the version that earned its reputation.
+Look for the batch number or bottling date alongside the medal year. If the award year matches the current batch code, the medal is directly relevant. If there's a two-to-three year gap, treat it as a reference point for the brand's quality floor rather than a guarantee of what's in this specific bottle. Pour Picks lets you log batch codes and tasting notes for every pour, which makes it useful for tracking when a label you like starts tasting different from the version that earned its reputation.
 
 ---
 
 ## "Do awards actually affect what a bourbon is worth on the secondary market?"
 
-Some whisky awards may affect the value or price of a particular bottle or batch. For small-batch releases, a win in a global category can drive the scramble to get a bottle.
+Some whisky awards affect the value or price of a particular bottle or batch. For small-batch releases, a win in a global category can drive the scramble to get a bottle.
 
-In practice, the effect is real but asymmetric. A major award win, especially a Best of Category or Platinum at SFWSC or IWC, can cause a limited release to sell out at retail within days of the announcement, with secondary market listings jumping 20-40% almost immediately. The effect is strongest for smaller-production releases where supply is already constrained.
+The effect is real but asymmetric. A major award win, especially a Best of Category or Platinum at SFWSC or IWC, can cause a limited release to sell out at retail within days of the announcement, with secondary market listings jumping 20-40% almost immediately. The effect is strongest for smaller-production releases where supply is already constrained.
 
-For well-distributed, high-volume bourbons, the medal effect is softer. A Gold medal on a mass-market label might move units at the register but it rarely shifts the secondary market in a meaningful way. The bottles that command lasting premiums are those where limited production, an age statement, a named barrel, and strong competition results all converge at once.
+For well-distributed, high-volume bourbons, the medal effect is softer. A Gold medal on a mass-market label might move units at the register but it rarely shifts the secondary market. The bottles that command lasting premiums are those where limited production, an age statement, a named barrel, and strong competition results all converge at once.
 
 Bourbon prices have been shown to vary by 20-35% across retailers for the same bottles, which means a competition win can occasionally push a bottle into a higher pricing tier that retailers exploit before the distributor reprices the product. Knowing a medal's provenance and recency helps you decide whether that premium is earned.
 
@@ -127,9 +127,9 @@ A medal tells you a panel of judges liked the whiskey, but only if you trust the
 
 *Readers frequently ask:*
 
-Think of medals as one signal among several, not a primary driver. The most useful approach for collectors is to treat a strong award from a credible blind competition as confirmation that a bourbon clears a quality threshold, then layer in your own preferences, the age statement, the mash bill, the proof, and the price.
+Medals are one signal among several. The most useful approach for collectors is to treat a strong award from a credible blind competition as confirmation that a bourbon clears a quality threshold, then layer in your own preferences, the age statement, the mash bill, the proof, and the price.
 
-Where medals become genuinely useful in a collecting context:
+Where medals become useful in a collecting context:
 
 For discovery. When you want to explore outside your usual producers, a Platinum or Double Gold winner from SFWSC or IWSC in the past two years is a credible shortlist. Every year the major spirits competitions publish long lists of medal winners, and many of the most talked-about bottles are rare, very old, or priced well beyond what most people spend on a whiskey they plan to open. The undervalued picks are credible medals on lower-profile releases. That's where real discovery happens.
 

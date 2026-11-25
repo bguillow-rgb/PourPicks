@@ -32,15 +32,15 @@ faqs:
 published: true
 ---
 
-A display shelf is where bourbon collecting becomes a conversation. It's the first thing guests notice, and for collectors, it's a daily reminder of what you've hunted, tasted, and saved. But there's real tension between showing bottles off and keeping them in condition, and most display advice online glosses right over it. This guide is for the collector who wants a setup that looks great *and* doesn't slowly destroy the liquid inside.
+A display shelf is where bourbon collecting becomes a conversation. It's the first thing guests notice, and for collectors it's a daily reminder of what you've hunted, tasted, and saved. There's real tension between showing bottles off and keeping them in condition, and most display advice online glosses right over it. This guide is for the collector who wants a setup that looks great and doesn't slowly damage the liquid inside.
 
 ## Why does displaying bourbon even require special thought?
 
 *A question we hear often:* it's just a shelf with bottles on it, what could go wrong?
 
-Quite a bit, actually. Ultraviolet radiation is the single biggest threat to displayed bourbon, and it's the variable most commonly ignored by casual collectors. UV light breaks down aromatic and flavor compounds in bourbon, particularly the vanillin and color molecules extracted from the barrel during aging, and that degradation is cumulative and irreversible. A beautiful open-shelf display in a sun-drenched room is a slow-motion degradation machine.
+Quite a bit. Ultraviolet radiation is the single biggest threat to displayed bourbon, and it's the variable most commonly ignored by casual collectors. UV light breaks down aromatic and flavor compounds in bourbon, particularly the vanillin and color molecules extracted from the barrel during aging, and that degradation is cumulative and irreversible. A beautiful open-shelf display in a sun-drenched room is a slow-motion degradation machine.
 
-In just 15 days of direct sunlight exposure, bourbon can lose around 10% of its color. That's not a scare stat invented by storage purists; it's a meaningful shift that also signals flavor loss underneath. The display choices you make upfront determine whether your collection ages gracefully or fades on the shelf.
+In just 15 days of direct sunlight exposure, bourbon can lose around 10% of its color. That's a meaningful shift that also signals flavor loss underneath. The display choices you make upfront determine whether your collection ages gracefully or fades on the shelf.
 
 ## What's the core rule for any bourbon display setup?
 
@@ -48,7 +48,7 @@ The single organizing principle: the bottles that matter most should be seen lea
 
 For long-term storage, avoid windowsills, open shelving near glass doors, and display cabinets exposed to daylight. A closed cupboard, interior cabinet, cellar space, or storage room is better. If you do display bottles, use low-heat LED lighting and avoid direct sun.
 
-That's the framework. Everything else, shelf type, arrangement logic, lighting color temperature, hangs off it.
+Shelf type, arrangement logic, and lighting color temperature all hang off that framework.
 
 ## What kind of shelving actually works for a bourbon collection?
 
@@ -64,13 +64,13 @@ That's the framework. Everything else, shelf type, arrangement logic, lighting c
 
 Open floating shelves look great in photos, but they expose bottles to ambient light around the clock. If open shelves are part of your design plan, position them on interior walls away from natural light sources and treat them as display-only space for empties or bottles you'll open soon.
 
-Glass-front cabinets are a step up; they cut dust and airflow, but even clear glass can't fully block UVA and certain visible light wavelengths that degrade spirit quality. Spend the extra money on UV-filtering glass if you're putting sealed bottles with real value on display. For rare or valuable bottles, that added protection against light and temperature swings is worth it.
+Glass-front cabinets cut dust and airflow, but even clear glass can't fully block UVA and certain visible light wavelengths that degrade spirit quality. Spend the extra money on UV-filtering glass if you're putting sealed bottles with real value on display. For rare or valuable bottles, that added protection against light and temperature swings is worth it.
 
 ## What lighting should I use, and what should I avoid?
 
-*Readers frequently ask* about LED backlighting, specifically whether the warm amber glow that looks so good in photos is actually safe.
+*Readers frequently ask* about LED backlighting, specifically whether the warm amber glow that looks so good in photos is safe.
 
-The short answer: LEDs are your best option, but placement and runtime still matter. Direct sunlight is usually the biggest culprit and can damage bourbon in just a few months, but some household lighting, fluorescent bulbs in particular, emits smaller amounts of UV with similar cumulative effects. True LED strips, not compact fluorescents marketed as "LED-equivalent," produce negligible UV radiation and run much cooler than halogens, which also pose a heat risk to nearby bottles.
+LEDs are your best option, but placement and runtime still matter. Direct sunlight is the biggest culprit and can damage bourbon in just a few months, but fluorescent bulbs emit smaller amounts of UV with similar cumulative effects. True LED strips, not compact fluorescents marketed as "LED-equivalent," produce negligible UV radiation and run much cooler than halogens, which also pose a heat risk to nearby bottles.
 
 Practical lighting rules for a bourbon display:
 
@@ -81,40 +81,40 @@ Practical lighting rules for a bourbon display:
 
 ## How should I actually arrange the bottles?
 
-There's no single right system, but the best arrangements serve two goals at once: they look intentional and they make the collection navigable. Random bottle placement is fine for ten bottles; at thirty or fifty, it becomes a frustration.
+There's no single right system, but the best arrangements serve two goals: they look intentional and they make the collection navigable. Random bottle placement is fine for ten bottles; at thirty or fifty, it becomes a frustration.
 
 The most common arrangement logic among serious collectors:
 
 By producer or distillery family: all Buffalo Trace releases together, all Heaven Hill, all Wild Turkey. Immediately readable to other collectors, and it shows range across producers at a glance.
 
-By style or mash bill type: wheated bourbons in one zone, [high-rye bourbons](/articles/what-is-high-rye-bourbon) in another, [bottled-in-bond expressions](/articles/what-is-bottled-in-bond-bourbon) grouped separately. This approach is especially useful if you use your display shelf as a flight-building reference.
+By style or mash bill type: wheated bourbons in one zone, [high-rye bourbons](/articles/what-is-high-rye-bourbon) in another, [bottled-in-bond expressions](/articles/what-is-bottled-in-bond-bourbon) grouped separately. This approach is useful if you use your display shelf as a flight-building reference.
 
-By open/sealed status: this is the most practically useful split for collectors with any depth. Opened bottles for active pours live on accessible display; sealed bottles go to dedicated cellar storage. It keeps you from absentmindedly cracking a $300 bottle on a Tuesday.
+By open/sealed status: this is the most practically useful split for collectors with any depth. Opened bottles for active pours live on accessible display; sealed bottles go to dedicated cellar storage. It keeps you from cracking a $300 bottle on a Tuesday without meaning to.
 
 By acquisition date: useful for tracking your collecting history, though it tends to look random to guests.
 
-Whatever system you choose, document it. Pour Picks' [bourbon inventory app](/bourbon-inventory-app) lets you log each bottle's location, shelf section, cabinet row, cellar bin, so your physical display and your digital catalog stay in sync. When the collection grows past a few dozen bottles, that reference becomes genuinely useful.
+Whatever system you choose, document it. Pour Picks' [bourbon inventory app](/bourbon-inventory-app) lets you log each bottle's location, shelf section, cabinet row, cellar bin, so your physical display and your digital catalog stay in sync. When the collection grows past a few dozen bottles, that reference becomes useful.
 
 ## What about temperature near a display shelf?
 
 *A question we hear often:* most collectors think hard about UV but underestimate heat.
 
-Repeated temperature swings can stress seals and corks over time. A display shelf above a fireplace, on a wall behind a radiator, or in a room with dramatic seasonal temperature shifts is a genuine problem, not for bottles you'll open this year, but for anything you're holding for five or ten years.
+Repeated temperature swings can stress seals and corks over time. A display shelf above a fireplace, on a wall behind a radiator, or in a room with dramatic seasonal temperature shifts is a problem for anything you're holding five to ten years.
 
-Aim for a stable temperature of around 15-20°C (59-68°F) in any space where sealed bottles live long-term. For purely decorative display shelves holding empties or near-term bottles, ambient room temperature is fine. Just avoid positioning shelves directly above heat vents, near south-facing windows, or next to appliances that generate warmth.
+Aim for a stable temperature of around 15-20°C (59-68°F) in any space where sealed bottles live long-term. For decorative display shelves holding empties or near-term bottles, ambient room temperature is fine. Avoid positioning shelves directly above heat vents, near south-facing windows, or next to appliances that generate warmth.
 
 ## Should I display the boxes and packaging, or just the bottles?
 
-Both approaches are legitimate, but they serve different collectors. Enthusiasts who track resale value or plan to sell through auction know that details like cask information, distillation year, bottling date, and distribution scale all contribute to desirability, and original packaging is part of that story. Keeping boxes intact and stored flat in a dry space preserves condition for bottles you might eventually sell or pass on.
+Both approaches are legitimate. Enthusiasts who track resale value or plan to sell through auction know that original packaging is part of the bottle's story, and keeping boxes intact and stored flat in a dry space preserves condition for bottles you might eventually sell or pass on.
 
-For display purposes, bottles without boxes look cleaner on a shelf. A practical middle ground: display the bottle, store the box flat in a cabinet or under the shelf, and log both together in your [collection tracking app](/bourbon-inventory-app) so the record stays complete.
+Bottles without boxes look cleaner on a shelf. A practical middle ground: display the bottle, store the box flat in a cabinet or under the shelf, and log both together in your [collection tracking app](/bourbon-inventory-app) so the record stays complete.
 
-For limited releases, special editions, and anything with decorative packaging like wax-dipped bottles or wooden gift boxes, the case for keeping packaging intact is stronger. Auction data consistently shows that original outer packaging adds meaningful value to high-end releases at sale time.
+For limited releases, special editions, and anything with decorative packaging like wax-dipped bottles or wooden gift boxes, keeping packaging intact matters more. Auction data consistently shows that original outer packaging adds meaningful value to high-end releases at sale time.
 
 ## What's the smartest thing to display if I'm new to collecting?
 
-Start with what you're actively exploring. A display that tracks your current interests, a [vertical tasting](/articles/what-is-a-bourbon-vertical-tasting) you're building, a set of [single barrels](/articles/single-barrel-vs-small-batch-bourbon) from different rickhouse positions, a lineup of [store picks](/articles/what-is-a-bourbon-store-pick), is far more compelling than a random assortment of whatever looked good at retail.
+Start with what you're actively exploring. A display that tracks your current interests, a [vertical tasting](/articles/what-is-a-bourbon-vertical-tasting) you're building, a set of [single barrels](/articles/single-barrel-vs-small-batch-bourbon) from different rickhouse positions, a lineup of [store picks](/articles/what-is-a-bourbon-store-pick), is more compelling than a random assortment of whatever looked good at retail.
 
-Empty bottles from pours you've documented make excellent display anchors too. They're visually identical to full ones on a shelf, they carry zero risk of UV or heat damage to actual liquid, and they tell the story of what you've explored. Pair the display with tasting notes, whether in a journal or in Pour Picks' tasting log, and your shelf becomes a reference, not just decoration.
+Empty bottles from pours you've documented make excellent display anchors. They're visually identical to full ones on a shelf, they carry zero risk of UV or heat damage to actual liquid, and they tell the story of what you've explored. Pair the display with tasting notes, whether in a journal or in Pour Picks' tasting log, and your shelf becomes a reference, not just decoration.
 
-The collectors whose setups look best tend to share one trait: their display reflects a *point of view*, not just a headcount. More bottles isn't always more impressive. A tight, well-considered shelf of fifteen bottles you can speak to is a stronger statement than a hundred bottles arranged randomly.
+The collectors whose setups look best tend to share one trait: their display reflects a point of view, not just a headcount. A tight, well-considered shelf of fifteen bottles you can speak to is a stronger statement than a hundred bottles arranged randomly.
