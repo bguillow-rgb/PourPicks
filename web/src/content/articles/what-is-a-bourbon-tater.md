@@ -120,7 +120,7 @@ Production transparency. Know whether a bottle is [single barrel vs. small batch
 
 A rotation, not a monument. A cellar should have things you're drinking now, things you're aging short-term, and a few shelf pieces. Building a deliberate [bourbon rotation](/articles/how-to-build-a-bourbon-rotation) is one of the clearest signals that someone is in this for the pour.
 
-Documentation. Collectors who build intentional portfolios track what they own, what they paid, and what they've tasted. Whether you use a spreadsheet or a dedicated app, that record-keeping habit separates a cellar from a pile of bottles. [Pour Picks](/bourbon-inventory-app) makes it straightforward: scan a bottle, log the pour, track the value, without turning the hobby into a finance project.
+Documentation. Collectors who build intentional portfolios track what they own, what they paid, and what they've tasted. Whether you use a spreadsheet or a dedicated app, that record-keeping habit separates a cellar from a pile of bottles. [Pour Picks](/bourbon-inventory-app) makes it straightforward: scan a bottle, write a review with tasting notes, enter what you paid so your cellar shows a total value, without turning the hobby into a finance project.
 
 ---
 

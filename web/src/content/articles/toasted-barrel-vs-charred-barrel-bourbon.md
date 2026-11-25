@@ -110,7 +110,7 @@ For the latter, the deliberate finish, ask three questions before adding a bottl
 
 2. How long was the finish? Days in a secondary barrel versus weeks with staves produce very different integration. Shorter finishes often sit "on top" of the whiskey aromatically; longer ones meld more thoroughly.
 
-3. Is this a recurring release or a single-run program? Recurring releases like the Maker's 46 series are easier to track for batch-to-batch consistency. One-off stave experiments from craft producers are harder to assess without hands-on data, which is the kind of session note worth logging. If you use Pour Picks to journal your pours, adding a private note on the finishing vessel makes side-by-side comparisons across batches useful rather than relying on memory.
+3. Is this a recurring release or a single-run program? Recurring releases like the Maker's 46 series are easier to track for batch-to-batch consistency. One-off stave experiments from craft producers are harder to assess without hands-on data, which is the kind of detail worth logging. If you use Pour Picks to review your pours, adding written tasting notes on the finishing vessel makes side-by-side comparisons across batches useful rather than relying on memory.
 
 For value assessment, learn to [read the full label](/articles/how-to-read-a-bourbon-label) carefully. "Toasted barrel" on the front can mean anything from "we used a pre-toasted cooperage barrel" to "we added staves post-maturation." The more specific the disclosure (stave type, toast duration, cooperage), the more confidence you can place in the claim and the more useful it is when comparing bottles in your cellar.
 

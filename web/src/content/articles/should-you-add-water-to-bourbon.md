@@ -67,7 +67,7 @@ The dilution math, simplified:
 
 Add one drop at a time, swirl gently, and nose before you sip. You're looking for the point where the bourbon is at its most vibrant: the nose opens up, the flavors come into focus, and the finish settles down without going flat.
 
-If you keep tasting notes in Pour Picks' journal, this is worth logging: jot down the proof you started at, how many drops you added, and which aromatics emerged. Over time you'll build a personal reference for how different mash bills and proof ranges respond to water.
+If you keep tasting notes in Pour Picks' written notes field, this is worth logging: jot down the proof you started at, how many drops you added, and which aromatics emerged. Over time you'll build a personal reference for how different mash bills and proof ranges respond to water.
 
 ---
 

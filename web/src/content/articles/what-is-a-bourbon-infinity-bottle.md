@@ -86,7 +86,7 @@ Small additions can shift the character of the blend noticeably, so keeping a re
 
 Your log doesn't need to be elaborate. A removable label on the bottle works fine, or a spreadsheet if you're running multiple infinity bottles. Some collectors keep a dedicated notebook. Others go digital.
 
-Pour Picks' tasting journal is a natural home for infinity-bottle notes. Since each addition is a new tasting event, you can log the blend's current character alongside what you added, building a timestamped record of how your bottle evolved. If you're already using the [app to catalog your cellar](/bourbon-inventory-app), tagging "infinity bottle" entries alongside your regular bottles keeps your collection picture complete.
+Pour Picks' review feature is a natural home for infinity-bottle notes. Since each addition is a new tasting event, you can log the blend's current character alongside what you added, building a timestamped record of how your bottle evolved. If you're already using the [app to catalog your cellar](/bourbon-inventory-app), keeping "infinity bottle" entries alongside your regular bottles keeps your collection picture complete.
 
 The bottle will be difficult to duplicate even with meticulous records. That irreproducibility is what makes it worth tracking carefully.
 

@@ -97,7 +97,7 @@ Have still water, plain crackers, and bread available throughout. If anyone brou
 
 Create a simple document in advance with each bottle listed (or a blank template for blind events) and column headers for nose, palate, finish, and a numeric score out of 10. Pass it around or share a link so everyone can fill in their notes in real time.
 
-For your own collection records, [Pour Picks](/bourbon-inventory-app) lets you log tasting notes against specific bottles in your cellar, so you can tie your bottle-share impressions back to bottles you own or want to track. It's useful after a share where you tasted something unfamiliar and want to note it before the evening blurs.
+For your own collection records, [Pour Picks](/bourbon-inventory-app) lets you write tasting notes in a review tied to a specific bottle in your cellar, so you can tie your bottle-share impressions back to bottles you own or want to track. It's useful after a share where you tasted something unfamiliar and want to note it before the evening blurs.
 
 After the event, compile the group's scores and send a summary to attendees. Knowing that the $45 store pick outscored the $200 allocated bottle on average, according to the group's own blind ratings, is exactly the kind of concrete data that makes the next conversation better.
 

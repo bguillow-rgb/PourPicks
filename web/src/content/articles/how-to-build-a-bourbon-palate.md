@@ -111,7 +111,7 @@ At minimum, log: date, bottle, proof, nose impressions (3 words), palate impress
 
 Using the flavor wheel during focused tastings, comparing bourbons side-by-side, and paying attention to how flavors interact, repeated with notes, is what separates someone who's been drinking bourbon for years from someone who knows what they're drinking.
 
-Pour Picks lets you log tasting notes directly against each bottle in your cellar, so your impressions live alongside bottle details like proof, distillery, and purchase date rather than scattered across index cards or a notes app. Revisit entries as the bottle evolves after opening. Many collectors find a bourbon reads differently at the half-bottle mark than it did when freshly cracked.
+Pour Picks lets you write tasting notes in a review for any bottle, so your impressions live alongside bottle details like mash bill and flavor tags rather than scattered across index cards or a notes app. You can mark a bottle opened when you crack it. Many collectors find a bourbon reads differently at the half-bottle mark than it did when freshly cracked.
 
 ## "Does the type of glass I use actually matter for palate training?"
 

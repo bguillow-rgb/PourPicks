@@ -82,7 +82,7 @@ White dog occupies a niche: reference bottle, not investment. It has essentially
 | Collector use case | Reference / education | Primary collection, investment, tasting |
 | Improves with cellaring? | No | Yes, if stored correctly |
 
-Collectors who keep a white dog bottle typically log it separately from their aged inventory. If you're using a [bourbon cellar app](/bourbon-inventory-app) to track your collection, tagging it as "unaged distillate" keeps it from skewing your collection's average age or value calculations. Pour Picks lets you add custom notes and categories to exactly this kind of edge-case bottle.
+Collectors who keep a white dog bottle typically log it separately from their aged inventory. If you're using a [bourbon cellar app](/bourbon-inventory-app) to track your collection, tagging it as "unaged distillate" keeps it from skewing your collection's average age or value calculations. Pour Picks lets you add written tasting notes to any bottle, including this kind of edge-case bottle.
 
 ## Can white dog tell me anything useful about a bourbon I already own?
 

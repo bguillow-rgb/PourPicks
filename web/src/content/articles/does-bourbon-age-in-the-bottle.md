@@ -97,7 +97,7 @@ The uprightness rule catches people who've stored wine for years: bourbon should
 
 Condition grades matter on the secondary market and at auction. Even a sealed bottle tells a story through its fill level (ullage), label integrity, closure condition, and any evidence of past storage abuse. A high-fill, clean-label example of a discontinued expression will routinely outperform a low-fill, sun-damaged one by significant multiples, even though the whiskey inside aged identically in the barrel. According to whiskey auction data, condition and provenance documentation are increasingly weighted by bidders as the collector market matures. Our [guide to grading bourbon bottle condition](/articles/how-to-grade-bourbon-bottle-condition) walks through the specific criteria.
 
-If you're building a cellar with long-term value in mind, tracking fill levels, storage dates, and acquisition notes for every bottle pays dividends later. The [Pour Picks bourbon inventory app](/bourbon-inventory-app) lets you log all of this per bottle, so your condition record travels with the entry rather than living in a notebook that gets separated from the collection.
+If you're building a cellar with long-term value in mind, keeping a record of what you paid and tasting notes for every bottle pays dividends later. The [Pour Picks bourbon inventory app](/bourbon-inventory-app) lets you enter what you paid and write tasting notes as part of a review per bottle, so that information travels with the entry rather than living in a notebook that gets separated from the collection.
 
 ## So should I ever open an old sealed bottle, or keep it sealed?
 

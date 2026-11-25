@@ -118,4 +118,4 @@ When reading release notes: watch for language like "center-cut," "upper tier," 
 
 When building a collection theme: a rickhouse floor vertical, same distillery, same recipe, same entry year, different floors, is an illuminating tasting exercise. It isolates the warehouse variable in a way that few other comparisons can. Worth journaling in detail.
 
-Pour Picks lets you log the floor and rickhouse number directly in a bottle's notes field, so you can spot patterns across your picks over time without losing that data to a paper tag you'll eventually misplace.
+Pour Picks lets you log written tasting notes in a bottle's review, so you can keep that information in one place rather than on a paper tag you'll eventually misplace.

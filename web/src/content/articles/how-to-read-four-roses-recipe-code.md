@@ -101,7 +101,7 @@ A private selection OESK (lower rye, spicy yeast) at cask strength might burst w
 | OESQ | Lower-rye (E) | Floral (Q) | Floral, fruity, medium body |
 | OESF | Lower-rye (E) | Herbal (F) | Fruity with herbal and minty notes |
 
-Some collectors have set out to taste each individual recipe, which can be an expensive and time-consuming project. That's what makes working through the 10-recipe matrix a satisfying collector goal. Pour Picks lets you log each expression with its recipe code in the notes field, so you can see at a glance which of the ten you've covered and what your palate prefers.
+Some collectors have set out to taste each individual recipe, which can be an expensive and time-consuming project. That's what makes working through the 10-recipe matrix a satisfying collector goal. Pour Picks lets you log each expression with its recipe code in the written tasting notes of a review, so you can see which of the ten you've covered and what your palate prefers.
 
 ## How does the recipe code show up on retail bottles vs. store picks?
 

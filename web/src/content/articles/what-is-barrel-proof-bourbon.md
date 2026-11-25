@@ -91,7 +91,7 @@ Not all cask strength whiskeys are single barrel whiskeys. A single barrel whisk
 
 A barrel proof *batch* release (like Elijah Craig Barrel Proof or Booker's) blends multiple barrels to arrive at a single bottling-run proof, then bottles without cutting. The proof on the label is the shared exit proof of that blend. A barrel proof *single barrel*, a store pick, for example, is one cask from start to finish, and its proof is whatever that barrel happened to be. Both are legitimate and offer different things. Batches tend toward consistency; single barrels offer uniqueness at the cost of predictability.
 
-If you're building a vertical of a specific release, tracking Elijah Craig Barrel Proof across multiple batches is worth the effort. Elijah Craig's barrel proof program releases three batches a year, each with its own flavor signature, with some batches running in the 120s with the toasted-oak and dark-cherry profile Heaven Hill has become known for. Logging those batch numbers, proof points, and tasting notes over time is exactly the kind of data a cellar app like Pour Picks is built to hold, a running record that's impossible to reconstruct from memory alone.
+If you're building a vertical of a specific release, tracking Elijah Craig Barrel Proof across multiple batches is worth the effort. Elijah Craig's barrel proof program releases three batches a year, each with its own flavor signature, with some batches running in the 120s with the toasted-oak and dark-cherry profile Heaven Hill has become known for. Logging proof points and written tasting notes over time is exactly the kind of data a cellar app like Pour Picks is built to hold, a running record that's impossible to reconstruct from memory alone.
 
 ## What proof range should I expect, and why does it vary so much?
 
@@ -112,4 +112,4 @@ Normalization in the broader bourbon market doesn't mean collapse. The market is
 
 In 2026, the secondary market is characterized by a flight to quality, where cornerstone bottles like Pappy Van Winkle, William Larue Weller, and George T. Stagg maintain strong demand, all barrel proof expressions. The secondary market is stabilizing after a volatile stretch of hype and speculation. The split is clearer now: bottles with genuine flavor merit and limited production hold value; releases that relied on marketing heat alone are correcting.
 
-For a collector tracking these numbers, a cellar-management tool like Pour Picks makes this easier. Logging what you paid at retail against secondary data gives you a real-time picture of how your collection's value is moving, without relying on memory or scattered screenshots.
+For a collector tracking these numbers, a cellar-management tool like Pour Picks makes this easier. You enter what you paid for each bottle, and the cellar shows a total value from those prices, without relying on memory or scattered screenshots.

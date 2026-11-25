@@ -28,7 +28,7 @@ faqs:
   - q: "How do you keep proof consistent in a blind bourbon tasting?"
     a: "Build your flight within a 10-proof-point window, for example, all bottles between 90 and 100 proof. A high-proof barrel-strength pour tasted before an 80-proof expression will flatten the lighter bottle's subtleties and skew scores unfairly."
   - q: "How do you track tasting notes across multiple bourbon club sessions?"
-    a: "Standardize your scoring sheet from day one, nose, palate, finish, and an overall score on a consistent scale, and keep a shared log. Apps like Pour Picks let every member journal individual pours privately, and you can compare notes after the reveal without one person's comments biasing the group."
+    a: "Standardize your scoring sheet from day one, nose, palate, finish, and an overall score on a consistent scale, and keep a shared log. Apps like Pour Picks let every member write tasting notes and rate nose, palate, finish, and overall privately, and you can compare notes after the reveal without one person's comments biasing the group."
 published: true
 ---
 
@@ -102,7 +102,7 @@ That last one is humbling. Blind tastings have shown that a sub-$30 shelf bottle
 
 Rotate hosting. One person carrying all the organizational weight is the fastest route to burnout. Assign a host and curator role for each meeting. That person picks the theme, sources or coordinates the bottles, and runs the session. Everyone else just shows up.
 
-Keep a shared archive. A spreadsheet or shared doc logging every session's theme, bottles, scores, and tasting notes becomes invaluable by year two. It lets you revisit a bottle from 18 months ago, run a "greatest hits" session, or track how a particular release has changed across batch years. Pour Picks works well for the individual journal side of this: every member logs their private notes bottle by bottle, and the group compares after the blind reveal rather than before, so no one anchors anyone else's scoring.
+Keep a shared archive. A spreadsheet or shared doc logging every session's theme, bottles, scores, and tasting notes becomes invaluable by year two. It lets you revisit a bottle from 18 months ago, run a "greatest hits" session, or track how a particular release has changed across batch years. Pour Picks works well for the individual side of this: every member logs their private written tasting notes and ratings bottle by bottle, and the group compares after the blind reveal rather than before, so no one anchors anyone else's scoring.
 
 Plan a milestone session. A "best of the year" session in December, where you revisit the top-scored pours from the previous 11 months, cements a club's identity and keeps renewal interest high. Comparing different bottlings over time and building meaningful verticals adds depth and makes individual releases easier to contextualize year after year.
 

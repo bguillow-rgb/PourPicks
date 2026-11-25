@@ -99,7 +99,7 @@ Barrel-pick value: when a retailer or group does a [store pick](/articles/what-i
 
 Craft versus large-scale releases: craft distillers are more likely to have the patience and economic model for a true wood vat marriage. According to the Distilled Spirits Council, the number of operating craft distilleries in the United States surpassed 2,000 by the mid-2020s, a cohort far more likely to mention marriage periods in their production notes than major heritage houses that bottle at industrial scale.
 
-Pour Picks lets you log a marriage period note in the journal field for any bottle in your [cellar inventory](/bourbon-inventory-app), so when a future release of the same label lands in your hands, you have a documented baseline to compare against, batch by batch, rest period or not.
+Pour Picks lets you add written tasting notes in a review for any bottle in your [cellar inventory](/bourbon-inventory-app), so when a future release of the same label lands in your hands, you have a documented baseline to refer back to.
 
 ## What should I look for on a label or in producer notes to identify a married bourbon?
 

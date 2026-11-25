@@ -131,4 +131,4 @@ Not every trade is worth completing. Pass (or at minimum, pause) when:
 - **The bottle you're chasing peaked on speculation.** Secondary market prices for bottles like Pappy Van Winkle, George T. Stagg, and Weller 12 have cooled significantly since their peak. A lot of that earlier demand was investment behavior, collectors buying to flip rather than drink, and prices came down through 2024 and into 2025. Chasing a bottle at a price that reflected that moment rather than the whiskey itself is rarely a good use of your cellar.
 - **You haven't done your homework.** Walking into a trade without current secondary data is the most common and most expensive mistake new traders make.
 
-Keeping a detailed cellar log, what you own, what you paid, what each bottle is worth today, makes every trade decision sharper. Pour Picks tracks all of this in one place, so you're never negotiating blind about your own collection.
+Keeping a detailed cellar log, what you own and what you paid, makes every trade decision sharper. Pour Picks tracks this in one place, so you're never negotiating blind about your own collection.

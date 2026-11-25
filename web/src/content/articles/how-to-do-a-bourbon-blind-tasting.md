@@ -76,7 +76,7 @@ A workable four-point scorecard you can jot on an index card:
 - Finish (1-10): length, pleasant or harsh, evolution after swallowing
 - Overall (1-10): gut score, would you seek this out again?
 
-Add one or two flavor keywords per category: "caramel / dried fruit / oak" on the nose, "pepper / honey / thin" on the palate. These become far more useful after the reveal than a number alone. If you use Pour Picks to log your collection, the tasting journal fields map directly onto this structure, so you can attach blind notes to each bottle's record and compare scores across sessions over time.
+Add one or two flavor keywords per category: "caramel / dried fruit / oak" on the nose, "pepper / honey / thin" on the palate. These become far more useful after the reveal than a number alone. If you use Pour Picks to log your collection, the written tasting notes in a review map directly onto this structure, so you can attach blind notes to each bottle's record.
 
 ## What themes produce the most useful blind tastings?
 

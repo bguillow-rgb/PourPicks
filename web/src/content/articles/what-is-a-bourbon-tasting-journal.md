@@ -84,7 +84,7 @@ Over time, even those minimum entries accumulate into a searchable record. After
 
 Many collectors split the difference: a few handwritten bullet points at the glass, then a fuller digital entry later when they can type properly and think clearly.
 
-Digital wins every time you want to answer questions like "which single-barrel picks have I rated above an 8?" or "how many wheated bourbons have I tried at over 110 proof?" Those filters are impossible in a paper book and instant in a well-designed app. Pour Picks logs tasting notes alongside your [cellar inventory](/bourbon-inventory-app), so your journal entry and your bottle record live in the same place with no cross-referencing two separate books.
+Digital wins every time you want to answer questions like "which single-barrel picks have I rated above an 8?" or "how many wheated bourbons have I tried at over 110 proof?" Those filters are impossible in a paper book and instant in a well-designed app. Pour Picks logs written tasting notes alongside your [cellar inventory](/bourbon-inventory-app), so your review and your bottle record live in the same place with no cross-referencing two separate books.
 
 ## "What can a tasting journal tell me that a single tasting note can't?"
 

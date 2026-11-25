@@ -91,7 +91,7 @@ There's also a geographic tell. Large distilleries in Indiana, MGP, now operatin
 
 The deepest layer of the label is the DSP number. Every American distillery holds a Distilled Spirits Plant (DSP) number, and the TTB's public COLA database lets you look up any DSP number for free. If the DSP on the bottle points to a facility in a different city or state than the brand's address, you're holding a sourced product.
 
-When you're logging bottles in Pour Picks, the producer field is a good place to capture this distinction. Noting "NDP / sourced from MGP" tells a very different story to your future self than just recording the brand name.
+When you're logging bottles in Pour Picks, the written tasting notes in a review are a good place to capture this distinction. Noting "NDP / sourced from MGP" tells a very different story to your future self than just recording the brand name.
 
 ---
 

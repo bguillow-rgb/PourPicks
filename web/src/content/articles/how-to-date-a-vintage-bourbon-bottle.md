@@ -120,4 +120,4 @@ Work through them in sequence, using each clue to narrow the window:
 
 Three or four of these clues pointing to the same decade gives you a well-founded estimate. No single clue is infallible: glass molds get reused, faux strips get applied. The full stack of evidence rarely lies.
 
-If you're cataloging vintage finds in your cellar, Pour Picks lets you attach photos and custom notes to each bottle entry, so you can document every clue, the glass code, the strip condition, the fill level, right alongside your tasting journal rather than losing those details to a paper scrap.
+If you're cataloging vintage finds in your cellar, Pour Picks lets you attach a photo to each bottle entry and add written tasting notes in a review, so you can document details right alongside your impressions rather than losing them to a paper scrap.

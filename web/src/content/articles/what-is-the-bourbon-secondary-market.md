@@ -26,7 +26,7 @@ faqs:
   - q: "What makes a bottle worth more on the secondary market?"
     a: "The main drivers are scarcity (limited production or distribution), critical acclaim (high scores from respected reviewers), brand prestige (Van Winkle, BTAC), age and proof, and collector sentiment. A single glowing review can spike a bottle's price overnight."
   - q: "How do I find out what my bottles are worth on the secondary market?"
-    a: "Track completed sales, not asking prices, on auction platforms, or use dedicated tools that aggregate real transaction data. Pour Picks lets you catalog your cellar and reference current market values so you always know what you're sitting on."
+    a: "Track completed sales, not asking prices, on auction platforms, or use dedicated tools that aggregate real transaction data. Pour Picks lets you catalog your cellar and enter what you paid for each bottle so the app shows you a total value of what you're sitting on."
   - q: "What is the difference between a secondary market price and a retail price?"
     a: "Retail price is set by the distillery or distributor; secondary price is whatever a willing buyer pays a willing seller in a private or auction transaction. For sought-after bottles, secondary often exceeds retail significantly. For widely available releases, secondary can actually be at or below retail."
   - q: "Should a collector ever sell bottles on the secondary market?"
@@ -111,7 +111,7 @@ It also surfaces what's genuinely rare versus merely hyped. A bottle sitting at 
 
 And it helps you time purchases on allocated bottles. Holding off on a new release for the first two to three months usually pays off. Secondary prices soften after the initial frenzy, and patience saves money.
 
-Pour Picks makes this practical: when you log a bottle to your cellar in the app, you can reference current market values alongside your purchase price, so you always have a clear picture of what you're sitting on, not just what you paid.
+Pour Picks makes this practical: when you log a bottle to your cellar in the app, you can enter what you paid for each bottle, and the cellar shows a total value from those prices, so you have a clear picture of what you're sitting on.
 
 ## How is secondary market value different from a bottle's collectibility?
 

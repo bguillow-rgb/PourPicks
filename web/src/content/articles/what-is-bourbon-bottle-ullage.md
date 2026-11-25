@@ -88,7 +88,7 @@ A bottle stored on its side keeps the liquid in constant contact with the cork, 
 
 For collectors who open allocated or limited bottles but want to stretch the enjoyment over months, there are several proven approaches ranked by effort.
 
-Decant into smaller bottles. A 375ml bottle filled nearly to the brim from a half-empty 750ml leaves almost no headspace and slows oxidation. Label the smaller bottle clearly with the distillery, expression, batch, and date decanted, the same information you would log in a cellar app like [Pour Picks](/bourbon-inventory-app), which lets you track opened vs. sealed status and tasting notes for every bottle.
+Decant into smaller bottles. A 375ml bottle filled nearly to the brim from a half-empty 750ml leaves almost no headspace and slows oxidation. Label the smaller bottle clearly with the distillery, expression, batch, and date decanted, the same information you would log in a cellar app like [Pour Picks](/bourbon-inventory-app), which lets you mark a bottle opened and add written tasting notes for every bottle.
 
 Use an inert gas preserver. Argon- and nitrogen-based wine preservation sprays work equally well on bourbon.
 Nitrogen or argon-based wine preservers create a barrier between the bourbon and oxygen.
@@ -103,7 +103,7 @@ Absolutely, and not just for ethical reasons. On the [bourbon secondary market](
 
 When [trading bourbon bottles](/articles/how-to-trade-bourbon-bottles), best practice is to photograph the bottle against a plain background with the fill level clearly visible, and to describe it using the standard fill-level vocabulary: into the neck, top shoulder, upper shoulder, and so on. If you are unsure how to assess and communicate bottle condition more broadly, the [condition grading guide](/articles/how-to-grade-bourbon-bottle-condition) walks through every element, fill level, label condition, wax integrity, and tax strip assessment, in one place.
 
-For insurance purposes, documenting fill level at the time of cataloging your collection also creates a useful baseline. If a bottle later shows lower fill during a claim, you have photographic evidence of its condition at acquisition. Pour Picks lets you attach photos directly to each bottle entry, so that documentation lives alongside your tasting notes and estimated value in one place.
+For insurance purposes, documenting a bottle's condition at the time of cataloging your collection also creates a useful baseline. If a bottle later shows damage during a claim, you have photographic evidence of its condition at acquisition. Pour Picks lets you attach one photo to each bottle entry, so that documentation lives alongside your tasting notes and what you paid in one place.
 
 ## "Is ullage something I should check when buying bourbon at a store?"
 

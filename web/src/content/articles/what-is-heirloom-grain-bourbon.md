@@ -93,7 +93,7 @@ The shift among serious collectors is away from strictly caring about age statem
 
 Because so much of an heirloom grain bottle's value, both financial and experiential, depends on provenance, documentation matters more than with standard releases. Record the specific grain varietal (not just the brand name), the farm or growing region if stated, the batch or lot number, and the bottling date. Tech sheets, when distilleries release them, are worth downloading and saving alongside your cellar records.
 
-An app like [Pour Picks](/bourbon-inventory-app) makes it straightforward to log these details per bottle, attach photos of back-label specs, and write tasting notes that capture the grain's influence, so when you open a bottle years from now, or compare it to a future batch, you have something more useful than a vague memory. For bottles in this category, the cellar log and the pour journal tell a connected story worth keeping.
+An app like [Pour Picks](/bourbon-inventory-app) makes it straightforward to log these details per bottle, attach a photo, and write tasting notes that capture the grain's influence, so when you open a bottle years from now, or compare it to a future batch, you have something more useful than a vague memory. For bottles in this category, the cellar log and the written review tell a connected story worth keeping.
 
 If you're building a tasting flight around grain influence, our guide to [how to build a bourbon flight at home](/articles/how-to-build-a-bourbon-flight) has a methodology that works well for side-by-side grain comparisons.
 

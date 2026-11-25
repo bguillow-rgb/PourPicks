@@ -69,7 +69,7 @@ Wheated bourbon is a common point of comparison because it also feels soft and a
 
 Among craft producers, the high-corn format has attracted genuine experimentation in recent years. Producers are focusing on things like ultra-aged expressions and different oak types, and high-corn mash bills are part of that craft laboratory. Some distilleries have released 85-90%+ corn expressions, occasionally approaching the edge of the corn whiskey legal category, which kicks in at 100% corn, or in some interpretations at any mash where corn whiskey rules apply differently than bourbon.
 
-A practical note for collectors: very few producers print a corn percentage on the label, so you'll need to cross-reference database resources or brand disclosures. If you're tracking multiple bottles and want to log confirmed mash-bill data alongside your cellar notes, the [Pour Picks bourbon inventory app](/bourbon-inventory-app) gives you a private space to record that kind of producer-specific detail alongside each bottle in your collection.
+A practical note for collectors: very few producers print a corn percentage on the label, so you'll need to cross-reference database resources or brand disclosures. If you're tracking multiple bottles and want to log confirmed mash-bill data alongside your tasting notes, the [Pour Picks bourbon inventory app](/bourbon-inventory-app) gives you a private space to record written notes alongside each bottle in your collection.
 
 ## Is high-corn bourbon worth collecting, or is it mostly a sipper style?
 

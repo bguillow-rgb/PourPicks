@@ -82,7 +82,7 @@ Legally, the answer hinges on timing and the type of stave used. If only new cha
 
 On the [bourbon secondary market](/articles/what-is-the-bourbon-secondary-market), stave-finished releases don't automatically earn a premium or a discount. What the community values is transparency. Bottles from distilleries that clearly disclose the stave type, toast level, and finishing duration, such as Wilderness Trail's stave program releases, have developed dedicated collector followings. Releases that bury the technique in vague language tend to trade at or below retail because buyers can't evaluate what they're getting. According to whiskey auction data tracked through 2025 and into 2026, stave-finished expressions from well-regarded producers with clear provenance disclosure have sold at 1.3-1.8x MSRP, comparable to limited cask-finish releases from the same distilleries.
 
-If you're cataloging stave-finished bottles in your cellar, note both the stave type and the batch number. These details matter for comparison and future valuation. The [Pour Picks bourbon inventory app](/bourbon-inventory-app) lets you log production notes like this in each bottle's detail field so the information travels with your collection records, not just your memory.
+If you're cataloging stave-finished bottles in your cellar, note both the stave type and the batch number. These details matter for comparison and future valuation. The [Pour Picks bourbon inventory app](/bourbon-inventory-app) lets you log tasting notes in a written review for each bottle so the information travels with your collection records, not just your memory.
 
 ## How does stave seasoning affect the flavor before finishing even begins?
 

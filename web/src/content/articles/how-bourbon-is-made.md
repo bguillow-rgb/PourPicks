@@ -93,7 +93,7 @@ After the distillery decides a barrel (or a set of barrels) is ready, the whiske
 
 Most bourbons are also chill-filtered to prevent the natural fatty acids and proteins in the spirit from causing haze when chilled or water is added. [Non-chill filtered](/articles/what-is-non-chill-filtered-bourbon) bourbons skip that step, which many collectors prefer because it preserves more of the texture and mouthfeel compounds the barrel developed.
 
-If you're cataloging your collection and want to track production details, batch numbers, barrel codes, dump dates, and proof, alongside your tasting notes, [Pour Picks](/bourbon-inventory-app) gives you a single place to log all of that for every bottle in your cellar.
+If you're cataloging your collection and want to track production details, batch numbers, barrel codes, dump dates, and proof, alongside your tasting notes, [Pour Picks](/bourbon-inventory-app) gives you a single place to log written tasting notes for every bottle in your cellar.
 
 ## Does where a bourbon is made actually change how it tastes?
 

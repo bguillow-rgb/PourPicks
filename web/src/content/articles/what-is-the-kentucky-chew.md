@@ -114,7 +114,7 @@ The lip-smack adds another dimension. It creates airflow across a thin film of r
 
 No, and Fred Noe would agree. Fred Noe says: if you want to put ice in it, go for it. His mom drinks her bourbon with ginger ale and he never saw Booker give her a hard time for it. "I don't like rules on it."
 
-The Kentucky Chew is best used when you want to learn from a bottle: when you're evaluating a new single barrel, working through a [vertical tasting](/articles/what-is-a-bourbon-vertical-tasting), writing tasting notes, or comparing two expressions side by side. For a casual evening pour, you don't need the full ritual. Even an abbreviated version, swish for three seconds, smack once, adds more information than drinking straight. Treat it as a tool you reach for when the bottle deserves your full attention. If you keep tasting notes in Pour Picks, the Chew gives you more concrete flavors to log; the journal field becomes far less generic than "sweet, smooth."
+The Kentucky Chew is best used when you want to learn from a bottle: when you're evaluating a new single barrel, working through a [vertical tasting](/articles/what-is-a-bourbon-vertical-tasting), writing tasting notes, or comparing two expressions side by side. For a casual evening pour, you don't need the full ritual. Even an abbreviated version, swish for three seconds, smack once, adds more information than drinking straight. Treat it as a tool you reach for when the bottle deserves your full attention. If you keep tasting notes in Pour Picks, the Chew gives you more concrete flavors to log; your written notes become far less generic than "sweet, smooth."
 
 ---
 

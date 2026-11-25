@@ -30,7 +30,7 @@ faqs:
   - q: "What food should you serve at a bourbon tasting?"
     a: "Plain water crackers, unsalted bread, or mild aged cheese work best between pours to reset the palate. Avoid blue cheese, spicy food, or strong vinaigrettes mid-flight, they distort what you taste next. Save bold food pairings for after the formal flight."
   - q: "How do you keep track of tasting notes at a home bourbon tasting?"
-    a: "Print or write a simple grid with columns for nose, palate, finish, and score. Keep note sheets at each place before guests arrive. For ongoing personal records, an app like Pour Picks lets you log tasting notes by bottle and reference them later."
+    a: "Print or write a simple grid with columns for nose, palate, finish, and score. Keep note sheets at each place before guests arrive. For ongoing personal records, an app like Pour Picks lets you write tasting notes and ratings by bottle and reference them later."
 published: true
 ---
 
@@ -89,7 +89,7 @@ Still water between pours is mandatory. Give your palate 30 seconds between pour
 
 Plain crackers or unsalted bread are the best palate reset. Keep them plain. Strongly flavored food mid-flight competes with the whiskey. Save cheese boards and charcuterie for after the formal tasting.
 
-A tasting note sheet, a simple printed grid with four columns (Nose / Palate / Finish / Score), placed at each seat before guests arrive, keeps everyone engaged. If you're running a blind tasting, label columns A, B, C instead of naming the bottles. For hosts who want to keep those notes after the night, logging them into a [bourbon tasting journal](/articles/what-is-a-bourbon-tasting-journal) or directly into Pour Picks means you're building a reference you can search later.
+A tasting note sheet, a simple printed grid with four columns (Nose / Palate / Finish / Score), placed at each seat before guests arrive, keeps everyone engaged. If you're running a blind tasting, label columns A, B, C instead of naming the bottles. For hosts who want to keep those notes after the night, logging them into a [bourbon tasting journal](/articles/what-is-a-bourbon-tasting-journal) or directly into Pour Picks means you're building a reference you can return to later.
 
 A dump vessel matters too. Not everyone will want to finish every pour, especially at high proof. A short carafe or rocks glass at each setting signals that it's acceptable to dump, which keeps everyone more engaged.
 

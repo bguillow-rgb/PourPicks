@@ -144,6 +144,6 @@ After every pour: a warm water rinse with no soap needed if you're using the sam
 
 After each tasting session: full hand wash with a drop of soap, thorough rinse, proper drying. This is the standard cadence for most collectors.
 
-Monthly, or after odor transfer: a vinegar soak to clear mineral deposits and any ghost aromas, followed by a full wash-and-dry cycle. If you track your collection with a tool like the [Pour Picks app](/bourbon-inventory-app), noting the last time you serviced your pour kit alongside your bottle log is a small habit that keeps your sensory environment honest.
+Monthly, or after odor transfer: a vinegar soak to clear mineral deposits and any ghost aromas, followed by a full wash-and-dry cycle. If you track your collection with a tool like the [Pour Picks app](/bourbon-inventory-app), noting the last time you serviced your pour kit alongside your written tasting notes is a small habit that keeps your sensory environment honest.
 
 The glassware you reach for most deserves the same care as the bottles on your shelf. A perfectly stored, well-aged bourbon deserves a glass that gets out of its way.

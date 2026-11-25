@@ -102,7 +102,7 @@ Finishing quality varies widely. A short, rushed finish can leave a disjointed s
 
 On the investment angle, mizunara releases have shown strong secondary market interest because supply is so constrained. But as with any limited release, [whether a bottle holds or grows its value](/articles/is-bourbon-a-good-investment) depends heavily on the producer's reputation and the reception of the specific expression. Buy it because you want to drink it, or at minimum because you find the production story genuinely interesting. Collecting purely for secondary market upside on any single bottle is a precarious strategy.
 
-If you're building toward a well-documented cellar, these are exactly the kinds of bottles that deserve a dedicated journal entry: production method, barrel origin, finish duration, first pour impressions. Pour Picks' tasting journal is built for exactly that kind of provenance tracking, so the details aren't lost between the purchase and the day you finally open it.
+If you're building toward a well-documented cellar, these are exactly the kinds of bottles that deserve a dedicated journal entry: production method, barrel origin, finish duration, first pour impressions. Pour Picks lets you write tasting notes and ratings for any bottle, so the details aren't lost between the purchase and the day you finally open it.
 
 ## How does mizunara finishing affect bottle condition and storage?
 

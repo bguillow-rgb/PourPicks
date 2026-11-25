@@ -30,7 +30,7 @@ faqs:
   - q: "Is buying or selling allocated bourbon on the secondary market legal?"
     a: "It depends on the state. In many U.S. states, reselling alcohol without a license is illegal, which is why secondary market transactions often happen in informal channels. Always check your local laws before buying or selling outside of licensed retail channels."
   - q: "How do I track the value of allocated bottles in my collection?"
-    a: "Apps built for bourbon collectors, like Pour Picks, let you catalog every bottle and monitor secondary market pricing over time, so you always know what your cellar is worth without manually cross-referencing auction data."
+    a: "Apps built for bourbon collectors, like Pour Picks, let you catalog every bottle and enter what you paid for each one, so the cellar shows you a running total value without any manual math."
 published: true
 ---
 
@@ -94,7 +94,7 @@ George T. Stagg carries an MSRP of roughly $130, yet auction records show the sa
 
 The secondary market has been maturing. Research tracking over 42,000 secondary transactions across thousands of products shows the market is no longer a rising tide lifting every bottle. The period from 2024 to early 2026 saw significant bifurcation: blue-chip bottles like Pappy Van Winkle and George T. Stagg held value, while mid-tier allocated releases like Weller Single Barrel corrected sharply, bottoming out around $305 in early 2026 after hitting a high of roughly $440 in 2024. Collectors are becoming more selective, and hype alone no longer sustains elevated pricing.
 
-Check current secondary data before paying above MSRP for any bottle. What was trading at $400 six months ago may now move at $280, or not at all. Tools like Pour Picks let you track your cellar's current market value so you're never guessing when it's time to open, hold, or reconsider a bottle.
+Check current secondary data before paying above MSRP for any bottle. What was trading at $400 six months ago may now move at $280, or not at all. Tools like Pour Picks let you enter what you paid for each bottle so your cellar shows a total value, helping you decide when it's time to open, hold, or reconsider a bottle.
 
 ## How do I actually improve my odds of landing an allocated bottle?
 
@@ -116,4 +116,4 @@ The healthiest framing is intention over FOMO. The bourbon secondary market has 
 
 Think about why a bottle belongs in your cellar: Is it a distillery or style you follow closely? Does it fill a gap in what you're tasting and comparing? Is its secondary track record stable enough to justify a price above MSRP? Answering those questions before buying, especially at secondary prices, turns allocation from a frenzy into a strategy.
 
-Once bottles are in hand, logging them properly matters just as much as landing them. Tracking what you paid, when you acquired it, and what the market is doing over time transforms a shelf of bottles into an actual collection with a documented history. That's the practical core of what Pour Picks was built to do: give collectors one private, organized record of every bottle they own, what it cost, and what it's worth now, without requiring a spreadsheet or a subscription to a price-guide service.
+Once bottles are in hand, logging them properly matters just as much as landing them. Tracking what you paid transforms a shelf of bottles into an actual collection with a documented history. That's the practical core of what Pour Picks was built to do: give collectors one private, organized record of every bottle they own and what it cost, without requiring a spreadsheet or a subscription to a price-guide service.

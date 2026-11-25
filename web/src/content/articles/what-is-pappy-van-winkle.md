@@ -81,7 +81,7 @@ The Bourboneur Secondary Market Index is nearly flat in 2026, but its path from 
 
 The broader correction has hit mid-tier allocated bottles far harder than the Van Winkle core. Pappy Van Winkle 15, 20, and 23 Year, George T. Stagg, and William Larue Weller have been relatively stable and are now treated as blue-chip collectibles. A drop of nearly 20% in collectible spirits at U.S. auctions in a single year affects decisions about when to sell, how to price holdings, and how much risk participants are willing to accept in a market built around scarcity and brand prestige.
 
-The secondary market correction that began in 2024 created some opportunity: Pappy Van Winkle 23 Year fell from $4,000 to $2,800 while retail prices rose, and that narrowing gap eliminated a lot of speculators while retaining serious collectors. For anyone tracking a cellar with bottles at these price points, keeping accurate current valuations in a tool like [Pour Picks](/bourbon-inventory-app) matters more than ever, especially for insurance purposes.
+The secondary market correction that began in 2024 created some opportunity: Pappy Van Winkle 23 Year fell from $4,000 to $2,800 while retail prices rose, and that narrowing gap eliminated a lot of speculators while retaining serious collectors. For anyone tracking a cellar with bottles at these price points, entering what you paid into a tool like [Pour Picks](/bourbon-inventory-app) so the cellar shows a total value matters more than ever.
 
 ## How is Pappy Van Winkle different from Weller bourbon?
 

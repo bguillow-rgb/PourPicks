@@ -94,7 +94,7 @@ When you're standing in front of a new port-finished release, ask four quick que
 
 **4. What proof is it bottled at?** High-proof port-finished expressions (above 110 proof) tend to carry the fruit character more boldly; lighter-proof versions can read as sweeter and more approachable. Neither is inherently superior, but knowing where a bottle sits helps you [choose the right pour](/articles/how-to-choose-bourbon-proof) for a given moment.
 
-If you're building a [vertical tasting](/articles/what-is-a-bourbon-vertical-tasting) around finished bourbons, comparing three consecutive years of the same distillery's port-finished release, for example, logging each bottle's batch code, barrel type, and tasting notes in one place keeps those nuances from blurring together over time. Pour Picks is built for that kind of structured cellar reference, letting you attach notes to individual bottles rather than relying on memory.
+If you're building a [vertical tasting](/articles/what-is-a-bourbon-vertical-tasting) around finished bourbons, comparing three consecutive years of the same distillery's port-finished release, for example, logging each bottle's tasting notes in one place keeps those nuances from blurring together over time. Pour Picks is built for that kind of structured cellar reference, letting you attach written tasting notes and ratings to individual bottles rather than relying on memory.
 
 ## Does port barrel finishing affect how I should store or open the bottle?
 

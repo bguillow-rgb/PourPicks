@@ -32,7 +32,7 @@ faqs:
 published: true
 ---
 
-Knowing what you have is the first step to selling it well. If your collection isn't already cataloged, bottle by bottle with fill levels and condition notes, that's the first thing to fix before you contact any buyer. An app like Pour Picks makes this straightforward: scan each bottle, log its details, and you'll have a shareable inventory ready to send to an auction house or retailer in minutes.
+Knowing what you have is the first step to selling it well. If your collection isn't already cataloged, bottle by bottle, that's the first thing to fix before you contact any buyer. An app like Pour Picks makes this straightforward: scan each bottle, enter what you paid, and you'll have a cellar inventory ready to reference when you contact an auction house or retailer.
 
 ---
 
@@ -121,4 +121,4 @@ Before you contact an auction house or retailer, spend time understanding curren
 
 Having your collection fully documented will also directly affect the offer you receive. Auction houses like Whiskey Source evaluate fill levels, label condition, seal integrity, tax strip placement, glass markings, and overall provenance before listing a bottle. If you can answer all of those questions upfront, you negotiate from a position of knowledge.
 
-Pour Picks lets you log all of these details at the bottle level: condition grade, fill level, notes. When an appraiser asks, you're ready in seconds rather than hunting through photos and old receipts.
+Pour Picks lets you log written tasting notes at the bottle level as part of a review, and you can enter what you paid so the cellar shows a total value across your bottles. When someone asks what you have, you're ready in seconds rather than hunting through photos and old receipts.

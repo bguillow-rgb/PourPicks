@@ -120,7 +120,7 @@ Three use cases come up most often.
 
 **Authentication and fraud prevention.** Does the distillation year make sense for the stated age? A "12 Year Old" bourbon with a 2022 distillation date is impossible. Batch codes are one of the fastest sanity checks when evaluating a bottle's legitimacy, especially for high-value secondary market purchases.
 
-If you're cataloging your cellar digitally, recording the batch code alongside each bottle is one of the most underused fields in any collection log. Pour Picks lets you add custom notes to every bottle entry, including batch code, source, and any community tasting intel you've tracked down, so the information lives with the bottle instead of a forgotten spreadsheet tab.
+If you're cataloging your cellar digitally, recording the batch code alongside each bottle is one of the most underused fields in any collection log. Pour Picks lets you add written tasting notes to every bottle review, where you can include batch code, source, and any community tasting intel you've tracked down, so the information lives with the bottle instead of a forgotten spreadsheet tab.
 
 ---
 

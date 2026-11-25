@@ -98,6 +98,6 @@ According to auction data tracked across platforms like Whiskybase and Unicorn A
 1. **Distillery production notes**, craft producers are usually transparent; many list still type on their websites or in bottle literature.
 2. **Whiskybase and Distiller app entries**, community-sourced databases often capture production details, though they vary by entry completeness.
 3. **Tasting inference**, oilier mouthfeel, more pronounced grain, and less-dominant barrel character are consistent pot still signals, though not definitive.
-4. **Pour Picks**, when you log a bottle in your [bourbon cellar app](/bourbon-inventory-app), you can add production notes to any entry, so you can tag still type yourself and reference it later when building flights or tracking which expressions came from which method.
+4. **Pour Picks**, when you log a bottle in your [bourbon cellar app](/bourbon-inventory-app), you can add written tasting notes to any review, so you can record your impressions and reference them later when building flights or tracking which expressions you enjoyed most.
 
 If you're just starting to track your collection systematically, our guide to [how to organize a bourbon collection](/articles/how-to-organize-a-bourbon-collection) covers how to build a reference system that captures production details beyond what the label tells you.

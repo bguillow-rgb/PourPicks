@@ -106,7 +106,7 @@ The exceptions are craft producers experimenting with sweet mash: distilleries l
 
 For most collectors, sour mash matters in one specific way: consistency. Using backset from previous batches is how distilleries keep their flavors stable across years of production. That's useful when you're building a vertical or comparing a current release to an older bottle. The fermentation backbone of a Jim Beam or a Wild Turkey should hold steady across years, even as other variables like aging location and warehouse position shift things around.
 
-It also sets expectations when you crack a sweet mash expression. Because those batches start from scratch, there's more natural batch-to-batch variance, which can produce exciting outliers, but also means the bottle you tasted last year may differ noticeably from this year's release. If you're logging tasting notes in Pour Picks, that's worth tracking: noting "sweet mash" alongside your flavor observations gives you production context that explains why two consecutive releases from the same label can taste like siblings rather than twins.
+It also sets expectations when you crack a sweet mash expression. Because those batches start from scratch, there's more natural batch-to-batch variance, which can produce exciting outliers, but also means the bottle you tasted last year may differ noticeably from this year's release. If you're logging tasting notes in Pour Picks, that's worth tracking: including "sweet mash" in your written tasting notes gives you production context that explains why two consecutive releases from the same label can taste like siblings rather than twins.
 
 ---
 

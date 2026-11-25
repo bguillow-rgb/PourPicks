@@ -114,6 +114,6 @@ Scan the type statement or back label for a few specific things.
 
 State of distillation disclosure matters too. If components come from more than one state, federal law requires that fact on the label. It's a useful signal for sourced blends.
 
-Batch or lot numbers are present on most limited blended expressions from craft producers. That number is your starting point for research and for logging the bottle in your [Pour Picks](https://pourpicks.app) cellar with accurate provenance notes.
+Batch or lot numbers are present on most limited blended expressions from craft producers. That number is your starting point for research and for logging the bottle in your [Pour Picks](https://pourpicks.app) cellar with written tasting notes in a review.
 
 Finishing and blending approaches are getting more deliberate, with producers using novel cask types and disclosed component sourcing in ways that weren't common a decade ago. The ones worth following are the ones showing their work.

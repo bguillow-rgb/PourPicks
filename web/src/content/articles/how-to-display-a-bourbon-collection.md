@@ -93,7 +93,7 @@ By open/sealed status: this is the most practically useful split for collectors 
 
 By acquisition date: useful for tracking your collecting history, though it tends to look random to guests.
 
-Whatever system you choose, document it. Pour Picks' [bourbon inventory app](/bourbon-inventory-app) lets you log each bottle's location, shelf section, cabinet row, cellar bin, so your physical display and your digital catalog stay in sync. When the collection grows past a few dozen bottles, that reference becomes useful.
+Whatever system you choose, document it. Pour Picks' [bourbon inventory app](/bourbon-inventory-app) lets you scan a label and add each bottle to your cellar, so your physical display and your digital catalog stay in sync. When the collection grows past a few dozen bottles, that reference becomes useful.
 
 ## What about temperature near a display shelf?
 
@@ -115,6 +115,6 @@ For limited releases, special editions, and anything with decorative packaging l
 
 Start with what you're actively exploring. A display that tracks your current interests, a [vertical tasting](/articles/what-is-a-bourbon-vertical-tasting) you're building, a set of [single barrels](/articles/single-barrel-vs-small-batch-bourbon) from different rickhouse positions, a lineup of [store picks](/articles/what-is-a-bourbon-store-pick), is more compelling than a random assortment of whatever looked good at retail.
 
-Empty bottles from pours you've documented make excellent display anchors. They're visually identical to full ones on a shelf, they carry zero risk of UV or heat damage to actual liquid, and they tell the story of what you've explored. Pair the display with tasting notes, whether in a journal or in Pour Picks' tasting log, and your shelf becomes a reference, not just decoration.
+Empty bottles from pours you've documented make excellent display anchors. They're visually identical to full ones on a shelf, they carry zero risk of UV or heat damage to actual liquid, and they tell the story of what you've explored. Pair the display with tasting notes, whether in a journal or in Pour Picks' reviews, and your shelf becomes a reference, not just decoration.
 
 The collectors whose setups look best tend to share one trait: their display reflects a point of view, not just a headcount. A tight, well-considered shelf of fifteen bottles you can speak to is a stronger statement than a hundred bottles arranged randomly.

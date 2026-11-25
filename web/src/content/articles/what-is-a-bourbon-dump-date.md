@@ -113,7 +113,7 @@ One more piece of useful intel: the distillery generally dumps barrels Monday th
 
 It should. If you're building a collection that includes single-barrel releases, logging the dump date alongside barrel number and rick position gives you a meaningful provenance record that goes well beyond "Blanton's, 93 proof."
 
-If you're tracking your bottles in a spreadsheet, you've probably noticed that keeping dump dates, barrel numbers, and rick info organized gets unwieldy fast. A purpose-built tool like [Pour Picks](/bourbon-inventory-app) lets you log those custom details per bottle alongside your tasting notes, so the provenance story lives in one place rather than scattered across a notes app, a spreadsheet, and a photo gallery.
+If you're tracking your bottles in a spreadsheet, you've probably noticed that keeping dump dates, barrel numbers, and rick info organized gets unwieldy fast. A purpose-built tool like [Pour Picks](/bourbon-inventory-app) lets you log written tasting notes per bottle, so your impressions live in one place rather than scattered across a notes app, a spreadsheet, and a photo gallery.
 
 ---
 

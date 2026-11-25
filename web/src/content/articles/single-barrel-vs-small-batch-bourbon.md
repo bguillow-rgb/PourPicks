@@ -28,7 +28,7 @@ faqs:
   - q: "Why do two bottles of the same single barrel bourbon taste different?"
     a: "They shouldn't from the same barrel, by definition, a true single barrel release is one cask, bottled once. What varies is barrel to barrel: warehouse placement, char level, wood grain, and aging time all produce meaningfully different expressions even within the same release program."
   - q: "Should I buy single barrel store picks for my collection?"
-    a: "Store picks (retail-selected single barrels) can be strong cellar additions because the barrel number, distillation date, and selection story are documented on the bottle, giving you provenance data that adds collectible value and makes journal entries in apps like Pour Picks far more detailed."
+    a: "Store picks (retail-selected single barrels) can be strong cellar additions because the selection story is documented on the bottle, giving you provenance data that adds collectible value and makes written tasting notes in apps like Pour Picks far more detailed."
 published: true
 ---
 
@@ -85,7 +85,7 @@ Small batch benefits from the blender's eye. A skilled production team pulls bar
 
 Collectors gravitate toward single barrel offerings because of their scarcity and identifying characteristics. Barrel numbers, rickhouse locations, and bottling dates create collectible appeal and enable comparison tastings that highlight meaningful differences.
 
-If you're building a cellar, single barrels offer something small batch can't: documented provenance at the bottle level. A store pick with the barrel number, warehouse, rick position, and dump date printed on the label is a traceable artifact. When you log that bottle in Pour Picks, you have real data to attach to your tasting journal: where it aged, when it was bottled, what you paid, and how the flavor evolved across multiple pours.
+If you're building a cellar, single barrels offer something small batch can't: documented provenance at the bottle level. A store pick with the barrel number, warehouse, rick position, and dump date printed on the label is a traceable artifact. When you log that bottle in Pour Picks, you have real data to reference alongside your written tasting notes: where it aged, when it was bottled, what you paid, and how the flavor reads across multiple pours.
 
 Many collectors keep both: single barrels for special occasions and conversation, small batch as a reliable pour for everyday drinking. A cellar full of single barrels you're afraid to open isn't a collection; it's a warehouse. The small batch bottles give you something to drink while you're deciding when to crack the special ones.
 

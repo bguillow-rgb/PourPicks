@@ -64,6 +64,8 @@ None of this is a safety issue. A faded bourbon is perfectly safe to drink; it h
 
 <!-- TODO: real "average days to finish a bottle once it drops below half" stat is not computable yet. cellar_pours has 16 rows app-wide and there is no per-pour fill-level event to detect the below-half crossing (2026-07). Once pour logging with fill level has enough volume, drop the aggregate here, e.g. "Across N Pour Picks users, a bottle takes an average of D days to empty once it drops below half." Real query only, no estimate. -->
 
+I need the paragraph to work with. It looks like you may have accidentally sent the instruction text instead of the actual paragraph. Please share the paragraph you'd like me to check, and I'll apply the rules to it.
+
 How long a below-half bottle survives depends on how often you reach for it, which is the one variable a pour log captures directly. That aggregate is not published here yet: Pour Picks pour-logging volume is still early, and a made-up average would be worse than none.
 
 ## How do you slow oxidation down?

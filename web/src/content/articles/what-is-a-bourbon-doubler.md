@@ -85,7 +85,7 @@ It's a useful filter when evaluating [what a craft bourbon label is really telli
 
 If you're building a tasting journal, and [a structured tasting journal](/articles/what-is-a-bourbon-tasting-journal) is one of the highest-leverage things a serious collector can maintain, noting a distillery's still configuration gives you a production framework for your flavor observations. "This batch tastes cleaner and lighter" means something different when you know the distillery runs a tall-neck doubler.
 
-For collectors tracking multiple bottles across producers, [Pour Picks](/bourbon-inventory-app) lets you log production notes alongside tasting entries, so that stillhouse context stays attached to the bottle and not scattered across browser tabs.
+For collectors tracking multiple bottles across producers, [Pour Picks](/bourbon-inventory-app) lets you add written tasting notes as part of a review for any bottle in your cellar, so your impressions stay attached to the bottle and not scattered across browser tabs.
 
 ## "Will I see the doubler on a distillery tour?"
 

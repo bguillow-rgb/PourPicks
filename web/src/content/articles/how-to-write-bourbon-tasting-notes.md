@@ -69,7 +69,7 @@ The tasting process breaks into three stages: the nose (aroma), the palate (flav
 
 The bottle source and date opened columns are easy to overlook, but they become useful when you're comparing a retail Elijah Craig Barrel Proof against a store-pick barrel of the same batch, or watching the same bottle change over six months as oxygen works on it.
 
-Pour Picks handles all of this in one place: each journal entry in the app logs bottle details from your existing cellar catalog alongside your tasting notes, so you never have to re-enter the metadata by hand.
+Pour Picks handles all of this in one place: each review in the app logs bottle details from your existing cellar catalog alongside your written tasting notes, so you never have to re-enter the metadata by hand.
 
 ## How do I build a useful flavor vocabulary without formal training?
 

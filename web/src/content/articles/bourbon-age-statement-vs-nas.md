@@ -80,7 +80,7 @@ Buyers are shifting from hype to intention. Pappy Van Winkle 15, 20, and 23 Year
 
 Many enthusiasts have shifted toward bottles that balance flavor, maturity, and value over hype, bourbons that deliver serious quality at a justifiable price rather than pure scarcity.
 
-If you're tracking your collection's value across both age-stated and NAS bottles, a tool like Pour Picks can help you log each bottle with its release details and monitor how secondary prices shift over time, useful context when you're deciding whether to open, hold, or trade.
+If you're tracking your collection's value across both age-stated and NAS bottles, a tool like Pour Picks can help you log each bottle and enter what you paid so the cellar shows a total value, useful context when you're deciding whether to open, hold, or trade.
 
 ## Age statement vs. NAS bourbon: a collector's comparison
 
@@ -106,4 +106,4 @@ Don't use the presence or absence of an age statement as a buying shortcut. Use 
 
 ---
 
-*Want to catalog every bottle in your cellar, age-stated or not, with tasting notes and current market value in one place? Pour Picks was built for exactly that: scan a label, log your notes, and track what your collection is worth over time.*
+Want to catalog every bottle in your cellar, age-stated or not, with tasting notes and what you paid in one place? Pour Picks was built for exactly that: scan a label, log your notes, and see a total value based on the prices you enter for each bottle.

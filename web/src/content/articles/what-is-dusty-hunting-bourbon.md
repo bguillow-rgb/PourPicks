@@ -109,7 +109,7 @@ For most collectors, dusties complement rather than replace a modern cellar. The
 
 There's something worth noting about obtaining a whiskey that's been lost to time. Like wine collectors who seek out certain vintages, dusty hunters are after the same thing in a different category. And unlike fine wine, whiskey doesn't degrade in a sealed bottle: a well-stored 1985 expression poured today is chemically the same liquid that was bottled back then.
 
-From a collection-management standpoint, dusty bottles present a cataloging challenge worth taking seriously. Barcode prefixes, paper tax stamps, and label variations are details that are easy to forget over time. If you use [Pour Picks](https://pourpicks.app) to catalog your cellar, the notes and photo fields are well-suited to capturing provenance details, fill level, seal condition, acquisition source, so the context travels with the bottle rather than staying in your memory.
+From a collection-management standpoint, dusty bottles present a cataloging challenge worth taking seriously. Barcode prefixes, paper tax stamps, and label variations are details that are easy to forget over time. If you use [Pour Picks](https://pourpicks.app) to catalog your cellar, the written tasting notes and photo fields are well-suited to capturing provenance details, seal condition, acquisition source, so the context travels with the bottle rather than staying in your memory.
 
 ## Is dusty hunting still worth pursuing in 2026, or has the market dried up?
 

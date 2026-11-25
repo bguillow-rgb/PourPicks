@@ -63,7 +63,7 @@ Every strong flight is built around **one changing variable**. Lock everything e
 
 The first thing to do when building an at-home bourbon flight is set a theme. You could offer single barrel bourbons or a flight of bourbons everyone should know. Base your bourbon selections on any kind of cohesive theme, "maybe all wheated bourbons, or all 8 years, or bottles from one distillery". That allows you to show off a selection while maintaining an overarching tone.
 
-If you're cataloging your cellar in Pour Picks, filtering by distillery or proof range takes about ten seconds and immediately surfaces natural flight candidates from bottles you already own.
+If you're cataloging your cellar in Pour Picks, you can scan labels with your camera and AI reads them before the bottle goes in your cellar, which makes it straightforward to build a list of bottles you already own.
 
 ## How many bottles do I need, and how much do I pour?
 
@@ -101,7 +101,7 @@ For a proof progression flight, a practical ladder looks like: 80-90 proof, then
 
 ## How do I actually run the tasting?
 
-The mechanics are simple. Have everything set up before you start, glasses poured, notes sheet (or your Pour Picks journal) open, water and palate cleansers ready.
+The mechanics are simple. Have everything set up before you start, glasses poured, notes sheet (or your Pour Picks review) open, water and palate cleansers ready.
 
 Run the flight like a calm, repeatable routine: nose everything first before you sip (your nose adjusts fast), take some notes, then take at least two sips per pour, the first sip wakes up your palate, the second sip gives you actual information.
 
@@ -124,7 +124,7 @@ The simplest framework that scales: note **four things** per pour, what you smel
 
 After the flight, sort each expression into one of three buckets: expressions you'd pour again without hesitation, ones that surprised you (worth exploring further), and ones that taught you what you don't like. Over time, those patterns tell you more about your palate than any review site can.
 
-Pour Picks' tasting journal is built for exactly this kind of structured, per-bottle notation, search your notes by distillery, proof, or date, so a flight from nine months ago is still findable when you're standing in front of a shelf deciding what to buy next.
+Pour Picks lets you log a review for any bottle with an overall rating, separate nose, palate and finish ratings, and written tasting notes, so a flight from nine months ago is still on record when you're standing in front of a shelf deciding what to buy next.
 
 ## What are some ready-made flight ideas to run tonight?
 

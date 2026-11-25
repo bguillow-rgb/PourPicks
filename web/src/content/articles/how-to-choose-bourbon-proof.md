@@ -95,7 +95,7 @@ Proof doesn't change your core storage requirements. Darkness, stable temperatur
 
 Whiskey should be stored at 50-70% humidity to prevent cork deterioration. Under 40% dries out corks; close to 80% promotes mold growth and label damage. Higher-proof bourbons are more resistant to minor air ingress because the higher alcohol content acts as a partial preservative, but that's no excuse for ignoring humidity. Very dry air can cause natural corks to dry out slightly even on upright bottles, eventually allowing a small amount of air ingress. Keeping your storage space at 50-70% relative humidity prevents cork desiccation without any other intervention.
 
-For very high-proof expressions (125+ proof), the high alcohol concentration makes these bottles more sensitive to temperature swings because the liquid expands and contracts more significantly per degree of change. Aim for a consistent 50-70°F range. If you're logging your collection with a tool like [Pour Picks](/bourbon-inventory-app), noting the proof alongside storage location helps you identify which bottles in your cellar most need stable-environment priority.
+For very high-proof expressions (125+ proof), the high alcohol concentration makes these bottles more sensitive to temperature swings because the liquid expands and contracts more significantly per degree of change. Aim for a consistent 50-70°F range. If you're logging your collection with a tool like [Pour Picks](/bourbon-inventory-app), noting the proof in your written tasting notes helps you identify which bottles in your cellar most need stable-environment priority.
 
 ---
 

@@ -86,7 +86,7 @@ Check real auction data before assuming. Sites that track secondary market price
 
 The bourbon oversupply has also shifted what consumers care about. There's been a move away from chasing age statements and proof toward more interest in flavor nuance and production. That shift has consequences for which bottles stay expensive. Highly allocated "name" bottles retain their cachet, while mid-tier limited releases are softening.
 
-If you're managing a collection and want a live picture of what each bottle is worth sealed vs. opened, Pour Picks lets you track current secondary values alongside your cellar inventory so you can make the hold/open call with real data instead of guesswork.
+If you're managing a collection and want a picture of what your bottles are worth, Pour Picks lets you enter what you paid for each bottle and the cellar shows a total value from those prices, so you can see your overall investment at a glance.
 
 ---
 

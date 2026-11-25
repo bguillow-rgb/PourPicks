@@ -51,7 +51,7 @@ In the 1980s, Glencairn founder Raymond Davidson set out to bring to the consume
 
 The shape that emerged, a bulbous bowl narrowing to a tapered chimney, is purpose-built for neat whiskey. The bulb is wide enough to swirl the liquid but narrow enough at the top to push the whiskey's nose straight at you. The Glencairn directs aromas to the nose and the liquid to the tip of the tongue.
 
-Collectors gravitate to it for reasons beyond pure physics: it's affordable (typically $8-$12 per glass), it's found in higher-end whiskey bars and many distillery tasting rooms, and consistency matters. When comparing bourbons side by side, using the same glassware keeps the variable controlled. If you're writing tasting notes in Pour Picks after cracking a new store pick or single barrel, the Glencairn is the right tool for that moment.
+Collectors gravitate to it for reasons beyond pure physics: it's affordable (typically $8-$12 per glass), it's found in higher-end whiskey bars and many distillery tasting rooms, and consistency matters. When comparing bourbons side by side, using the same glassware keeps the variable controlled. If you're logging a review with written tasting notes in Pour Picks after cracking a new store pick or single barrel, the Glencairn is the right tool for that moment.
 
 One caveat: for high-proof bourbon, a concentrated nose can push alcohol vapor forward more aggressively than you want, especially on first pour. Letting the glass sit open for three to five minutes before nosing helps significantly.
 
@@ -98,11 +98,11 @@ Kentucky Bourbon Trail glass: The official tasting glass of the Kentucky Bourbon
 
 *A question we hear often:* New collectors often ask whether they need a full glassware kit or if one glass covers everything.
 
-Start with two glasses: a Glencairn and a solid rocks glass. The Glencairn handles your tasting sessions, when you crack a new bottle, work through a vertical, or log notes in Pour Picks. The rocks glass covers everything else: relaxed neat drinking, an Old Fashioned, high-proof pours where you want the alcohol to breathe more freely before sipping.
+Start with two glasses: a Glencairn and a solid rocks glass. The Glencairn handles your tasting sessions, when you crack a new bottle, work through a vertical, or log written tasting notes and ratings in Pour Picks. The rocks glass covers everything else: relaxed neat drinking, an Old Fashioned, high-proof pours where you want the alcohol to breathe more freely before sipping.
 
 Once you've been collecting for a while, a Norlan is a worthwhile addition. It sits between Glencairn precision and rocks-glass comfort and makes a good gift. A set of four Glencairns is also smart for any collector who hosts tastings, since consistency across the table matters when comparing multiple bottles side by side.
 
-For comparative tastings, using the same glass for every pour keeps the variable controlled. The Glencairn is the go-to for that reason: moderately priced, found in higher-end whiskey bars and many distillery tasting rooms. Whatever you log in your tasting journal, or in an app like Pour Picks, will be more comparable pour to pour if the glass is always the same.
+For comparative tastings, using the same glass for every pour keeps the variable controlled. The Glencairn is the go-to for that reason: moderately priced, found in higher-end whiskey bars and many distillery tasting rooms. Whatever you log in your written tasting notes, or in an app like Pour Picks, will be more comparable pour to pour if the glass is always the same.
 
 ## Does the glass material matter, crystal vs. regular glass vs. borosilicate?
 

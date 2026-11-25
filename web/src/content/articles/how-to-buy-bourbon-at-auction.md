@@ -116,7 +116,7 @@ Vintage bottles carry real risks: low fill levels, damaged labels, counterfeits.
 
 Desirable unicorns (Pappy, BTAC, Black Maple Hill) attract heavy bidder attention and rarely sell below secondary market. But auctions regularly include mid-tier limited releases, distillery exclusives, older expressions of workhorse brands, and bottles from small craft producers that attract far less competition. Bourbon auctions aren't just for collectors chasing Pappy: they're for anyone who wants access to bottles that never hit a shelf, from $75 sleepers to $7,500 showpieces.
 
-The edge here is product knowledge. If you know that a 2017 expression of a particular single-barrel label was exceptional, because you've tracked the distillery's output or read reviews from that vintage, you can bid confidently on a lot that casual bidders overlook. A well-cataloged cellar (Pour Picks' [bourbon inventory app](/bourbon-inventory-app) makes it easy to track what you own and cross-reference bottle details) helps you spot when an auction lot fills a genuine gap rather than duplicating something you already have.
+The edge here is product knowledge. If you know that a 2017 expression of a particular single-barrel label was exceptional, because you've tracked the distillery's output or read reviews from that vintage, you can bid confidently on a lot that casual bidders overlook. A well-cataloged cellar (Pour Picks' [bourbon inventory app](/bourbon-inventory-app) makes it easy to track what you own, with bottle details like mash bill and flavor tags available on each bottle page) helps you spot when an auction lot fills a genuine gap rather than duplicating something you already have.
 
 ---
 

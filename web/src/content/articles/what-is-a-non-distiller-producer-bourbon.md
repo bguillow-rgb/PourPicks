@@ -95,7 +95,7 @@ A practical checklist for evaluating an unfamiliar brand:
 4. Read the "produced by" vs. "distilled by" language carefully. They are legally distinct claims.
 5. Search the brand against known bulk suppliers. MGP Indiana, Bardstown Bourbon Company, and Castle & Key are among the major contract producers whose whiskeys appear under many labels.
 
-Pour Picks lets you [log notes on every bottle](/bourbon-inventory-app) in your cellar, including sourcing details and DSP references you've researched, which is useful when you're building a reference collection and want to track which labels share a distillery origin.
+Pour Picks lets you [log notes on every bottle](/bourbon-inventory-app) in your cellar, which is useful when you're building a reference collection and want to keep written tasting notes for each label.
 
 ## What should a collector actually do with this information?
 

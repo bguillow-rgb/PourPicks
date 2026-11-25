@@ -120,6 +120,6 @@ This is where a cataloging practice pays off. When you open a new bottle, especi
 1. Entry 1 (Neck Pour / Opening Night): Date, fill level at opening, immediate nose and palate impressions, proof. Note any harshness or unexpected tightness. This is your baseline.
 2. Entry 2 (Return Tasting): Same bottle, 1-4 weeks later. Compare directly to your Entry 1 notes. Track how flavors have opened.
 
-Pour Picks lets you log multiple journal entries against the same bottle in your cellar, so you can build exactly this kind of before-and-after record without losing the thread between sessions. Over time, this practice teaches you which distilleries and proof ranges need breathing time versus which drink well from the first pour.
+Pour Picks lets you write tasting notes in a review for any bottle in your cellar, so you can capture your impressions alongside nose, palate and finish ratings. Over time, this practice teaches you which distilleries and proof ranges need breathing time versus which drink well from the first pour.
 
 People are drinking less overall, but they're far more curious. Instead of asking only how old a whiskey is, they're increasingly interested in how it was matured and why it tastes the way it does. Neck pour documentation is a concrete expression of that curiosity: it turns every bottle opening into a small experiment with a repeatable result.

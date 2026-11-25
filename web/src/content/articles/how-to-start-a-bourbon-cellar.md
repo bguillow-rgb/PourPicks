@@ -27,7 +27,7 @@ faqs:
   - q: "How should I store an opened bourbon?"
     a: "Upright, capped tight, away from direct sunlight and heat. The cap matters more than the spot, a loose or chipped cork lets the spirit evaporate above the fill line and accelerates oxidation. If a bottle is under half full and you won't finish it within six months, decant into a smaller bottle to cut headspace."
   - q: "What's the best way to track my bourbon cellar?"
-    a: "Use a dedicated cellar app like Pour Picks (free), it captures the bottle, your purchase price, when you opened it, and what you thought of each pour. Spreadsheets work for the first 10 bottles and then break; once you cross 20 you'll lose track of what's open, what's finished, and what you said about the bottle six months ago."
+    a: "Use a dedicated cellar app like Pour Picks (free), it captures the bottle, your purchase price, and what you thought of each pour. Spreadsheets work for the first 10 bottles and then break; once you cross 20 you'll lose track of what's open, what's finished, and what you said about the bottle six months ago."
   - q: "Should I keep my bourbon bottles standing or on their side?"
     a: "Upright. Unlike wine, bourbon has a high enough alcohol content that prolonged contact with the cork can degrade the cork and contaminate the spirit. Standing storage also makes the cellar easier to scan visually, you read every label without rotating bottles."
 howToSteps:
@@ -116,7 +116,7 @@ The problem is friction. Every time you want to log a pour, you pick up your pho
 
 A dedicated app removes that friction. The market is small but real:
 
-- **[Pour Picks](https://apps.apple.com/us/app/pour-picks/id6764040132)**, free iOS app. Scan any bottle with your camera (AI reads the label), it lands in your cellar. Tracks owned/wishlist/finished, purchase price, when you opened it, and the "Pour Tonight" feature picks a bottle from what you already own based on what you haven't poured recently. Free for the first 5 scans plus full cellar; $5.99/mo or $49.99/yr for unlimited.
+- **[Pour Picks](https://apps.apple.com/us/app/pour-picks/id6764040132)**, free iOS app. Scan any bottle with your camera (AI reads the label), it lands in your cellar. Tracks owned/wishlist/finished, purchase price, when you opened it, and the "Pour Tonight" feature picks a bottle from what you already own. Free for the first 5 scans and 5 owned bottles; $5.99/mo or $49.99/yr for unlimited.
 - **Distiller**, community-led review app with a large bottle database. More about reading reviews than managing a cellar.
 - **Whiskeybase**, web-first database; the app experience is less polished but the data depth is unmatched.
 - **A spreadsheet**, works for the first 10 bottles, breaks after that.

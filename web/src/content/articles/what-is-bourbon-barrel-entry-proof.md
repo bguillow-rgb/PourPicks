@@ -28,7 +28,7 @@ faqs:
   - q: "Why do some brands use a lower entry proof if it costs more?"
     a: "Lower entry proof requires more barrels to hold the same volume of alcohol, raising production costs significantly. Brands like Michter's (103 proof) and Maker's Mark (110 proof) accept those costs because their lower entry proof is central to their flavor philosophy. More water in the barrel from the start extracts richer wood compounds."
   - q: "Where can I find a bourbon's barrel entry proof?"
-    a: "Entry proof is rarely printed on the bottle label. You can often find it in official distillery materials, brand websites, or whiskey databases. Apps like Pour Picks let you log this detail in your collection notes so you can track it across your cellar and use it to compare bottles side by side."
+    a: "Entry proof is rarely printed on the bottle label. You can often find it in official distillery materials, brand websites, or whiskey databases. Apps like Pour Picks let you include this detail in written tasting notes when you review a bottle in your cellar."
 published: true
 ---
 
@@ -96,7 +96,7 @@ That side-by-side is one of the best practical experiments you can run from your
 
 Yes. Mashbill accounts for grain-derived flavor character. Entry proof shapes how the barrel interacts with that spirit over years of maturation. "It would be silly to think that barrel proof does not have influence. I just think that it is a combination of so many other variables, such as mashbill, yeast, distillation style and proof, warehouse location, individual warehouse, maturation time, and bottle proof," says Denny [Potter, then of Heaven Hill]. Entry proof is one lever among many.
 
-Collectors who track production details get more out of their bottles than those who only look at age statements and proof. When you're building a cellar with multiple expressions from the same distillery, noting each bottle's entry proof (where disclosed) lets you draw direct comparisons. Pour Picks lets you add custom journal notes to each bottle in your collection, so you can record entry proof, rick position, distillation date, and anything else the label or distillery materials reveal, making future comparisons much more meaningful than relying on memory alone.
+Collectors who track production details get more out of their bottles than those who only look at age statements and proof. When you're building a cellar with multiple expressions from the same distillery, noting each bottle's entry proof (where disclosed) lets you draw direct comparisons. Pour Picks lets you add written tasting notes to each bottle in your collection, so you can record observations alongside the details the label or distillery materials reveal, making future comparisons much more meaningful than relying on memory alone.
 
 ## What about the pre-Prohibition entry proof era?
 

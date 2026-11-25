@@ -106,7 +106,7 @@ In practice, here's what to look for:
 
 Mainline products from Beam, Heaven Hill, Buffalo Trace, and similar producers tend toward chill filtration for consistency. Knowing that helps set expectations when you're comparing a core release to a limited one from the same distillery.
 
-When you're building and cataloging your collection, tracking whether a given bottle is NCF is one of the finer production notes worth logging. In Pour Picks, you can add that detail in the bottle notes field alongside proof, mash bill, and char level, useful context when you return to a bottle six months later and wonder why it poured differently than its sibling.
+When you're building and cataloging your collection, tracking whether a given bottle is NCF is one of the finer production notes worth logging. In Pour Picks, you can add that detail in the written tasting notes of a review alongside your impressions of proof, mash bill, and char level, useful context when you return to a bottle six months later and wonder why it poured differently than its sibling.
 
 ---
 

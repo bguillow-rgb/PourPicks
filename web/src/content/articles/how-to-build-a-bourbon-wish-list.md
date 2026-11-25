@@ -28,7 +28,7 @@ faqs:
   - q: "How often should I update my bourbon wish list?"
     a: "Every 60-90 days is the practical cadence. Secondary prices shift, releases come and go, and your palate evolves. A wish list that isn't reviewed regularly fills up with bottles you've already moved past or found at auction without updating your records."
   - q: "Can I use Pour Picks to maintain a bourbon wish list?"
-    a: "Pour Picks is built as a private bourbon cellar app, you catalog what you own, track collection value, scan bottles, and journal pours. Many collectors use it alongside a separate wish list document or notes app to manage what they're hunting next."
+    a: "Pour Picks is built as a private bourbon cellar app where you catalog what you own, enter what you paid so the cellar shows a total value, scan bottles, and write tasting notes in a review. It also includes a built-in Wishlist shelf so collectors do not need a separate app to manage what they are hunting next."
 published: true
 ---
 
@@ -90,7 +90,7 @@ The alternative is impulse buying based on whatever's available, which slowly tu
 
 Both have a place, but label them differently. A tasted-and-loved bottle, say a barrel pick you had at a bottle share, belongs in your Active Hunt tier with high confidence. A reputation-driven entry (you've read the reviews, you know the mash bill, you like the distillery's other expressions) is a qualified candidate but deserves a note: *untasted, based on X*.
 
-That distinction matters at the shelf. Spending $80-120 on an untasted bottle is a different risk calculation than restocking something you've already journaled. If you use Pour Picks to [write tasting notes](/articles/how-to-write-bourbon-tasting-notes) for bottles you've encountered at tastings or shares, those notes can directly inform which untasted entries on your wish list are likely to fit your palate, and which are just well-marketed.
+That distinction matters at the shelf. Spending $80-120 on an untasted bottle is a different risk calculation than restocking something you've already reviewed. If you use Pour Picks to [write tasting notes](/articles/how-to-write-bourbon-tasting-notes) for bottles you've encountered at tastings or shares, those notes can directly inform which untasted entries on your wish list are likely to fit your palate, and which are just well-marketed.
 
 ## How do I keep the list from growing into something unmanageable?
 

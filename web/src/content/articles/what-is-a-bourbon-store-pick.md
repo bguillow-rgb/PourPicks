@@ -99,7 +99,7 @@ When you add a store pick to your cellar, record more than the bottle name and p
 
 Labels often include the barrel number and bottling date, and many distilleries give these releases premium packaging. Those details make a store pick a documentable piece of a distillery's history.
 
-Apps like Pour Picks make this kind of extended metadata easy to capture when you add a bottle to your cellar. Barrel number, picker notes, purchase location, and your own tasting journal live together in one place rather than scattered across photos and spreadsheets, one of the clearest reasons [a dedicated cellar app beats a spreadsheet](/articles/best-bourbon-cellar-apps) once you own picks you can never replace.
+Apps like Pour Picks make it easy to capture metadata when you add a bottle to your cellar. You can enter what you paid, add a photo, and write tasting notes including nose, palate, and finish ratings, all in one place rather than scattered across photos and spreadsheets, one of the clearest reasons [a dedicated cellar app beats a spreadsheet](/articles/best-bourbon-cellar-apps) once you own picks you can never replace.
 
 ## Which distilleries have the most respected store pick programs?
 

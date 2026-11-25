@@ -52,7 +52,7 @@ The contrast shows up at every stage of the tasting experience. On the nose, whe
 
 This doesn't mean wheated bourbons are simple. The absence of rye's bold spice creates space for more subtle notes to emerge: orchard fruit, toffee, gentle florals, and layers of oak that can develop impressively with age. Where a rye-forward bourbon builds complexity through contrast (sweetness followed by spice), a wheated bourbon builds complexity through depth within a more cohesive flavor envelope. The profile tends to stay harmonious from entry to finish, without sharp transitions between flavor phases.
 
-For collectors and tasters who journal their pours, this distinction has a practical implication: wheated bourbons at cask strength or barrel proof often remain more approachable than their rye-forward equivalents at similar proofs, because the spice amplification that comes with high proof is dialed back. If you use [Pour Picks](https://pourpicks.app) to track tasting notes across your cellar, you'll likely notice that your wheated bottles score higher on smoothness and lower on spice intensity than rye-mash expressions bottled at the same proof.
+For collectors and tasters who journal their pours, this distinction has a practical implication: wheated bourbons at cask strength or barrel proof often remain more approachable than their rye-forward equivalents at similar proofs, because the spice amplification that comes with high proof is dialed back. If you use [Pour Picks](https://pourpicks.app) to write tasting notes across your cellar, you'll likely notice that your wheated bottles score higher on smoothness and lower on spice intensity than rye-mash expressions bottled at the same proof.
 
 ## Why did wheated bourbon become the center of the collector universe?
 
@@ -72,7 +72,7 @@ It matters for both. Because wheat doesn't assert strong spice character, barrel
 
 For collectors tracking collection value, knowing whether a bottle is wheated also helps contextualize secondary market data. According to the Bourbon 40+ Index, which tracks premium secondary prices, ultra-aged and cask-strength expressions drove the strongest performance in Q1 2026. Wheated ultra-premiums like Old RVW 25 returned to $37,500 during that period, signaling that the top tier of the wheated collector market has found a stable floor after the 2024 correction. Mid-range wheated bottles with broad distribution continued to normalize downward, consistent with the wider trend away from pandemic-era speculation.
 
-For anyone cataloging their cellar, Pour Picks lets you log the mash bill style and track secondary value over time. Knowing which bottles are wheated versus rye-forward helps you understand why certain bottles move the way they do on the resale market.
+For anyone cataloging their cellar, Pour Picks shows the mash bill on each bottle page and lets you enter what you paid so the cellar shows a total value. Knowing which bottles are wheated versus rye-forward helps you understand why certain bottles move the way they do on the resale market.
 
 ## Wheated vs. Rye-Forward vs. High-Corn Bourbon: A Quick Reference
 
@@ -95,7 +95,7 @@ The label won't always say "wheated" in plain text. There's no regulatory requir
 
 **Read the mash bill disclosures.** An increasing number of craft and independent bottlers disclose full mash bill percentages on the label or back panel. If you see corn + wheat + malted barley listed without rye, you're looking at a wheated expression. If corn + rye + malted barley appears, it's a standard or high-rye recipe.
 
-**Check collector databases and apps.** Resources like [Pour Picks](https://pourpicks.app) let you scan a bottle barcode and pull up label details including mash bill style where known, which is useful when you're standing in a bottle shop trying to decide quickly.
+**Check collector databases and apps.** Resources like [Pour Picks](https://pourpicks.app) let you scan a bottle label and pull up details including mash bill where known, which is useful when you're standing in a bottle shop trying to decide quickly.
 
 ## Is wheated bourbon worth the premium collectors pay for it?
 

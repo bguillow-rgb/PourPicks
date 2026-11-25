@@ -27,7 +27,7 @@ faqs:
   - q: "What is the difference between single barrel, small batch, and straight?"
     a: "Single barrel means the bottle was filled from one individual barrel, so each batch varies slightly. Small batch means it was blended from a limited number of barrels, though the term is not legally defined and the count varies by brand. Straight is the regulated one: a straight bourbon is aged at least two years and contains no added coloring, flavoring, or other spirits. Single barrel and small batch describe selection; straight describes legal purity."
   - q: "What does a bourbon scanner read off the label?"
-    a: "A good AI scanner reads the entire label as text rather than scanning a barcode: distillery, expression name, proof, age statement, and batch or bottle numbers when they are printed. This matters because store picks, single barrels, and limited releases often have no barcode at all, so a barcode-only app cannot identify them. Pour Picks uses AI vision to read the label itself, which is how it captures the bottles collectors care about most."
+    a: "A good AI scanner reads the entire label as text rather than scanning a barcode: distillery, expression name, proof, age statement, and batch or bottle numbers when they are printed. This matters because store picks, single barrels, and limited releases often have no barcode at all, so a barcode-only app cannot identify them. Pour Picks uses AI vision to read the label itself, and you can correct anything it got wrong before the bottle goes into your cellar, which is how it captures the bottles collectors care about most."
 published: true
 ---
 
@@ -86,4 +86,4 @@ A few more terms you will run into:
 
 Reading the *physical label* matters more than scanning a barcode. Store picks, single barrels, and limited releases frequently have **no barcode at all**, or share one generic barcode across an entire product line, so a barcode-lookup app cannot tell them apart.
 
-[Pour Picks](https://apps.apple.com/us/app/pour-picks/id6764040132) reads the label itself with AI vision: distillery, expression, proof, age statement, and batch or bottle numbers when they are printed. That means the single-barrel store pick with the hand-written batch number lands in your collection with its real details intact, instead of as an unrecognized barcode. For more on managing a whole collection, [the best bourbon cellar apps](/articles/best-bourbon-cellar-apps) covers the field.
+[Pour Picks](https://apps.apple.com/us/app/pour-picks/id6764040132) reads the label itself with AI vision: distillery, expression, proof, age statement, and other details when they are printed. That means the single-barrel store pick with no barcode lands in your collection with its real details intact, instead of as an unrecognized barcode. For more on managing a whole collection, [the best bourbon cellar apps](/articles/best-bourbon-cellar-apps) covers the field.

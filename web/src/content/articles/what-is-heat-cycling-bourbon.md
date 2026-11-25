@@ -28,7 +28,7 @@ faqs:
   - q: "Is heat-cycled bourbon better than naturally aged bourbon?"
     a: "Not categorically. Heat cycling provides consistency and control, which is especially valuable for single-barrel programs. Natural open-air aging produces more warehouse-to-warehouse variation that many collectors prize. Both methods can yield outstanding whiskey; the difference is in predictability vs. organic diversity."
   - q: "How can I tell if a bourbon was heat cycled?"
-    a: "Distilleries rarely print this on the label. Your best approach is to check the producer's official production pages, tasting notes from distillery tours, or reference the bottle in a tracking app like Pour Picks, where you can log production notes and your own observations in the journal."
+    a: "Distilleries rarely print this on the label. Your best approach is to check the producer's official production pages, tasting notes from distillery tours, or reference the bottle in a tracking app like Pour Picks, where you can log your own written tasting notes in a review."
 published: true
 ---
 
@@ -87,4 +87,4 @@ Not as a category. The secondary market prices allocated bourbon on brand, scarc
 
 Heat cycling is becoming a marketing differentiator. Whiskey brands in 2026 are refocusing on transparency about production practices as a way to connect with consumers, and heat cycling is the kind of behind-the-scenes detail that resonates with collectors who want to understand what's in their glass, not just what's on the label.
 
-If you're cataloging your collection and want to log production details like heat cycling alongside your tasting notes, Pour Picks lets you add custom notes to each bottle. Useful when you're doing a side-by-side of a heat-cycled Michter's expression against a naturally aged Heaven Hill release and want a record of what you found.
+If you're cataloging your collection and want to log your tasting notes, Pour Picks lets you write tasting notes as part of a review for each bottle. Useful when you're doing a side-by-side of a heat-cycled Michter's expression against a naturally aged Heaven Hill release and want a record of what you found.

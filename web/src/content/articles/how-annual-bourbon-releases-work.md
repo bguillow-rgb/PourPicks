@@ -83,7 +83,7 @@ Yes. Many annual releases change meaningfully from year to year in ways that aff
 
 Vintage year matters most for expressions where age or proof fluctuates annually. George T. Stagg's proof shifts every release based on how that year's barrels matured. Certain vintages become reference points in the collector community for exceptional quality, and those specific years command premiums on the secondary market that far exceed adjacent releases. Tracking which vintage of a given label you own, not just the brand name, is necessary for accurate valuation.
 
-Cataloging by vintage, batch, and release year pays off. In [Pour Picks](/bourbon-inventory-app), every bottle entry can carry these details alongside fill level and condition notes, so you always know precisely which expression you're sitting on and what a buyer or appraiser would need to know.
+Cataloging by vintage, batch, and release year pays off. In [Pour Picks](/bourbon-inventory-app), every bottle entry can carry a photo alongside your tasting notes, so you always know precisely which expression you're sitting on.
 
 ## How do I plan my cellar budget around release seasons?
 

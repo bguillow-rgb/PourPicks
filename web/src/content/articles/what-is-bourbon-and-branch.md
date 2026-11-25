@@ -110,7 +110,7 @@ Add water incrementally. Pour your bourbon, nose it neat, then add water a few d
 
 Match water temperature to your intent. Room-temperature water for nosing and tasting; cold water if you're drinking it. Cold water can quiet a very expressive nose by slightly contracting certain aromatic compounds.
 
-Note it when you journal. If you use [Pour Picks](/bourbon-inventory-app) to log your tasting notes, record which water you used and at what ratio. It makes your notes reproducible and useful the next time you open a bottle from the same batch or barrel.
+If you use [Pour Picks](/bourbon-inventory-app) to log your tasting notes, record which water you used and at what ratio in your written tasting notes. It makes your notes reproducible and useful the next time you open a bottle from the same batch or barrel.
 
 Water doesn't only affect whiskey at the start of production. It plays a role through aging, batching, bottling, and into the glass. The distillers already know this. Bourbon and branch is the drinker's version of that same understanding.
 

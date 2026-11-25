@@ -102,7 +102,7 @@ A properly documented IB bourbon or American whiskey label should give you most 
 
 If a label says "Bottled by XYZ Spirits" but never says "distilled by," the bottler may be an NDP purchasing from another distillery. "Produced by" can legally mean the company oversaw production even if they contracted another distillery to do the actual distilling. "Distilled by" is more specific.
 
-If you're cataloging IB releases in your collection, keeping track of all these data points pays off at valuation time. The [bourbon inventory app](/bourbon-inventory-app) from Pour Picks lets you log custom fields for each bottle, distillery of origin, barrel number, bottling date, proof, so your IB releases are properly documented alongside everything else in your cellar rather than sitting in a spreadsheet where the detail eventually gets lost.
+If you're cataloging IB releases in your collection, keeping track of all these data points pays off at valuation time. The [bourbon inventory app](/bourbon-inventory-app) from Pour Picks lets you scan a label and log details like distillery of origin and proof, so your IB releases are properly documented alongside everything else in your cellar rather than sitting in a spreadsheet where the detail eventually gets lost.
 
 ---
 
@@ -145,4 +145,4 @@ Consumers are asking more questions and getting more informed. People are drinki
 
 The market has started to correct as demand has faded, resulting in a significant surplus of spirit. This surplus is especially evident for many finer bourbons produced at the height of the boom but takes longer to reach market due to extended aging. Some of that aged stock will find its way to independent bottlers, which means 2026 and the years immediately following could represent an unusually strong window for IB releases from well-aged American whiskey.
 
-For collectors who track their bottles carefully, logging distilleries, vintages, and cask details, IB releases reward that rigor more than almost any other category. Tools like [Pour Picks](/bourbon-inventory-app) make documenting that provenance straightforward, so the story behind each barrel doesn't get lost as your cellar grows.
+For collectors who track their bottles carefully, logging distilleries, vintages, and cask details, IB releases reward that rigor more than almost any other category. Tools like [Pour Picks](/bourbon-inventory-app) make documenting bottles straightforward by scanning labels and storing them in your cellar, so the story behind each barrel doesn't get lost as your cellar grows.

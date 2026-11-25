@@ -102,7 +102,7 @@ Start with the nose. Take a gentle sniff to detect the aromas before you taste a
 
 On the palate, expect the nose to mostly confirm but also expand. The mouthfeel of a well-aged, high-proof bourbon is often described as thick or oily, a viscosity that carries caramel and vanilla across the tongue longer than you'd expect. The finish -- what lingers after you swallow -- is where oak tannins and spice tend to show most clearly. A long, warming finish that evolves over 30-60 seconds is usually the sign of a well-integrated, mature whiskey. A short, hot finish often signals youth or heavy dilution.
 
-When you're learning to taste systematically, a [bourbon flavor wheel](/articles/bourbon-flavor-wheel-guide) helps anchor your vocabulary. Once you're ready to commit those notes to memory, tracking them with your own [tasting notes](/articles/how-to-write-bourbon-tasting-notes) creates a personal reference you'll use when deciding what to open next. Pour Picks lets you log nose, palate, and finish against every bottle in your cellar so you can spot your own pattern preferences over time.
+When you're learning to taste systematically, a [bourbon flavor wheel](/articles/bourbon-flavor-wheel-guide) helps anchor your vocabulary. Once you're ready to commit those notes to memory, tracking them with your own [tasting notes](/articles/how-to-write-bourbon-tasting-notes) creates a personal reference you'll use when deciding what to open next. Pour Picks lets you log nose, palate, and finish ratings along with written tasting notes against every bottle in your cellar.
 
 ---
 

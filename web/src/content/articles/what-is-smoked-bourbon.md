@@ -28,7 +28,7 @@ faqs:
   - q: "How can I tell if a bourbon is smoked from the label?"
     a: "Look for terms like 'smoked mash,' 'mesquite-smoked corn,' 'wood-fired,' 'peated malt,' or 'smoked barley' in the description or on the back label. If the front simply says 'straight bourbon whiskey' with no mention of smoke in the description, the smokiness likely comes only from the standard new charred oak barrel, not a dedicated smoking step."
   - q: "Should collectors log smoked bourbon differently than regular bourbon?"
-    a: "Yes, noting the smoke source (grain-smoked, barrel-smoked, peated malt, or flavored) in your tasting journal adds meaningful context, since the smoke character differs substantially by method. Apps like Pour Picks let you add free-text tasting notes and production details per bottle, making it easy to track these distinctions across your cellar."
+    a: "Yes, noting the smoke source (grain-smoked, barrel-smoked, peated malt, or flavored) in your tasting journal adds meaningful context, since the smoke character differs substantially by method. Apps like Pour Picks let you add written tasting notes and view production details like mash bill per bottle, making it easy to track these distinctions across your cellar."
 published: true
 ---
 

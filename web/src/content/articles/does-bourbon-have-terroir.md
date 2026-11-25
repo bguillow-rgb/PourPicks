@@ -111,7 +111,7 @@ Moderate terroir signal: Kentucky or Texas origin with a stated rickhouse locati
 
 Weak terroir signal: a sourced spirit from a major contract distiller, re-barreled and labeled with vague geographic language. The location claim is technically real, but the production chain involves too many untraced variables to connect a specific place to what's in the glass. See our guide to [what sourced bourbon actually means](/articles/what-is-sourced-bourbon) for more on reading between those lines.
 
-When cataloging your cellar, especially as you build comparison bottles, logging production details like distillery location, water source where disclosed, and named grain variety alongside your tasting notes gives you a real dataset over time. [Pour Picks](/bourbon-inventory-app) lets you attach that kind of production metadata to each bottle so it travels with your tasting notes rather than living in a separate notebook.
+When cataloging your cellar, especially as you build comparison bottles, logging production details like distillery location, water source where disclosed, and named grain variety alongside your tasting notes gives you a real dataset over time. [Pour Picks](/bourbon-inventory-app) lets you write tasting notes as part of a review for each bottle, so those notes travel with the bottle rather than living in a separate notebook.
 
 ## Is terroir more important than barrel influence in bourbon?
 

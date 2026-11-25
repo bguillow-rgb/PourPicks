@@ -85,7 +85,7 @@ When a retailer, bourbon club, or private group selects a barrel, the yield numb
 
 Four Roses, for example, averages about 500 picks a year, not including the special Visitor Center bottles, a number that has increased every year since their Private Barrel Manager started in 2013, prompting them to cap programs to avoid disrupting core production. Other distilleries host over 1,000 per year. Even so, each individual pick still only yields a few hundred bottles at most.
 
-Most programs require booking at least six months in advance and confirming minimum quantities and total costs. Knowing the expected bottle count upfront helps your group decide whether to split costs evenly or allocate bottles by contribution. If you're tracking a private pick in your cellar using Pour Picks, logging the barrel number, bottling date, and total yield is exactly the kind of provenance detail that makes a collection catalog genuinely useful years later.
+Most programs require booking at least six months in advance and confirming minimum quantities and total costs. Knowing the expected bottle count upfront helps your group decide whether to split costs evenly or allocate bottles by contribution. If you're tracking a private pick in your cellar using Pour Picks, you can scan the label and enter what you paid, and the cellar shows a total value from those prices, which makes it straightforward to keep the group's costs organized.
 
 ## Why does rickhouse position matter for yield?
 
@@ -102,6 +102,6 @@ A few practical applications:
 - **Valuing single-barrel bottles**: Lower total yield from a given barrel increases secondary market rarity. A 150-bottle barrel-proof pick is categorically more scarce than a 240-bottle low-proof release.
 - **Planning a group purchase**: If you and five friends are splitting a private barrel at $8,000-$12,000 and the expected yield is 180 bottles, you can calculate exact per-bottle cost before committing.
 - **Reading tasting notes and labels**: When a bottle states "Barrel #12, 174 bottles," you now know that number reflects real aging conditions, not an arbitrary marketing detail.
-- **Cellar documentation**: Logging yield alongside batch code, proof, and barrel number in Pour Picks creates a reference you'll actually use when deciding what to open and what to hold.
+- **Cellar documentation**: Logging what you paid alongside nose, palate, and finish ratings in Pour Picks creates a reference you'll actually use when deciding what to open and what to hold.
 
 ---

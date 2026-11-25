@@ -28,7 +28,7 @@ faqs:
   - q: "Do distillery exclusives hold their value on the secondary market?"
     a: "Some do, particularly single-barrel releases from high-demand producers. However, the secondary market for distillery exclusives is less liquid than for annual allocated releases. Value depends on the distillery's reputation, proof, age, and how many bottles were produced. Reselling also carries legal risk in most states."
   - q: "How do I track distillery exclusives I've purchased for my collection?"
-    a: "Because these bottles rarely appear in standard retail databases, they can be tricky to catalog. An app like Pour Picks lets you manually add any bottle to your cellar, including gift-shop exclusives, so you can log the proof, fill level, where you got it, and tasting notes in one place."
+    a: "Because these bottles rarely appear in standard retail databases, they can be tricky to catalog. An app like Pour Picks lets you save any bottle to your cellar, including gift-shop exclusives, so you can log written tasting notes in one place."
 published: true
 ---
 
@@ -120,7 +120,7 @@ Distillery exclusives are not a reliable investment play. The resale market for 
 
 The practical solution is manual entry. When you get home from the distillery, log the bottle with everything you know: the distillery name, the barrel number if printed, the proof, the date of your visit, and what you paid. Note the rickhouse floor position if the label carries it; that detail affects flavor development if you're cellaring the bottle, as we cover in our [rickhouse floor position guide](/articles/how-rickhouse-floor-position-affects-bourbon-flavor). If you opened a bottle on-site or poured a dram in the tasting room, record those first impressions while they're fresh.
 
-Pour Picks lets you add any bottle manually to your [bourbon cellar catalog](/bourbon-inventory-app), including gift-shop exclusives that won't scan, so you can track fill level, assign a value for insurance purposes, and attach tasting notes from the day you bought it. Given that these bottles have no secondary market price history, having your own documented acquisition cost matters if you ever need to file an insurance claim.
+Pour Picks lets you add any bottle to your [bourbon cellar catalog](/bourbon-inventory-app), including gift-shop exclusives that won't scan, so you can enter what you paid and write tasting notes in a review. Given that these bottles have no secondary market price history, having your own documented acquisition cost matters if you ever want to know what your cellar is worth.
 
 According to data from whiskey auction platforms, distillery-exclusive single barrels from top Kentucky names regularly trade at two to four times their original gift-shop price on the secondary market, making accurate documentation valuable for any collector who tracks collection value over time.
 

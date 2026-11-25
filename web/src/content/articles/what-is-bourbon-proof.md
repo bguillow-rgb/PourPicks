@@ -74,7 +74,7 @@ The proof at which new-make spirit enters the barrel is the entry proof. Federal
 
 A lower entry proof tends to pull more water-soluble sugars from the oak, producing sweeter notes, while a higher proof extracts more wood tannins, pushing the result toward spicier, oakier territory.
 
-This is why two bourbons aged the same number of years in similarly charred barrels can taste dramatically different. The entry proof decision is baked in from day one. Distilleries like Wild Turkey (110 proof entry) and Four Roses (also 110 proof across all its recipes) produce more texture-forward expressions as a direct result. When you're cataloging bottles in Pour Picks, noting the entry proof (if disclosed) is one of the more meaningful production data points to log alongside age and mash bill.
+This is why two bourbons aged the same number of years in similarly charred barrels can taste dramatically different. The entry proof decision is baked in from day one. Distilleries like Wild Turkey (110 proof entry) and Four Roses (also 110 proof across all its recipes) produce more texture-forward expressions as a direct result. When you're cataloging bottles in Pour Picks, noting the entry proof (if disclosed) in your written tasting notes is one of the more meaningful production data points to log alongside age and mash bill.
 
 ---
 

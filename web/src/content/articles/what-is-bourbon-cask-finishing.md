@@ -95,7 +95,7 @@ Three things to check before paying up:
 
 **3. Does the price reflect finishing or just scarcity?** A 6-month port finish on a 4-year base bourbon doesn't justify a $200 price tag on its own. Figure out what the base expression would cost without the finish, and decide if the added complexity is worth the difference.
 
-If you're cataloging finished bottles in your cellar, tools like Pour Picks let you log tasting notes and flag a bottle's finishing details alongside its proof, distillery, and purchase price. That's useful when you're trying to remember six months later whether that sherry-finished expression warranted a second bottle at retail.
+If you're cataloging finished bottles in your cellar, tools like Pour Picks let you log written tasting notes and mark a bottle as finished, alongside entering what you paid so the cellar shows a total value. That's useful when you're trying to remember six months later whether that sherry-finished expression warranted a second bottle at retail.
 
 ## Are there any labeling rules I should know before buying?
 

@@ -64,7 +64,7 @@ The 2025 George T. Stagg clocked in at 142.8 proof, strong enough that collector
 
 Barrel-proof bottling is the reason. During aging, evaporation removes water or alcohol at different rates depending on warehouse position, ambient heat, and seasonal temperature swings, which is why [rickhouse floor position affects bourbon flavor](/articles/how-rickhouse-floor-position-affects-bourbon-flavor) so dramatically. By the time a barrel is selected for BTAC, its proof is whatever the barrel itself produced. Buffalo Trace doesn't dilute and doesn't adjust. What's in the barrel goes in the bottle.
 
-George T. Stagg is uncut, unfiltered bourbon aged for around 15 years and bottled straight from the barrel. Proof changes every year, and it's often enormous. For collectors who log their bottles carefully, noting the vintage year alongside the proof is the only way to compare what you drank accurately against future pours or against other collectors' notes. Apps like [Pour Picks](/bourbon-inventory-app) let you capture that kind of per-bottle metadata (vintage, proof, purchase date, tasting notes) so it's never lost.
+George T. Stagg is uncut, unfiltered bourbon aged for around 15 years and bottled straight from the barrel. Proof changes every year, and it's often enormous. For collectors who log their bottles carefully, noting the vintage year alongside the proof is the only way to compare what you drank accurately against future pours or against other collectors' notes. Apps like [Pour Picks](/bourbon-inventory-app) let you capture written tasting notes and what you paid for a bottle so that information is never lost.
 
 ## Which BTAC bottle is the best?
 

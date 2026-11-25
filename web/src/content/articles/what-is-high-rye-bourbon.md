@@ -28,7 +28,7 @@ faqs:
   - q: "Are high-rye bourbons better for cocktails than other styles?"
     a: "Many bartenders and collectors prefer high-rye bourbons in stirred, spirit-forward cocktails like the Old Fashioned or Manhattan because their pepper and spice character pushes through bitters and sweeteners without getting lost. Wheated bourbons tend to be more subtle in those same applications."
   - q: "Can I identify a high-rye bourbon just by tasting it?"
-    a: "Experienced tasters can often detect the hallmark spice, black pepper, clove, dried herbs, sometimes mint, but tasting alone isn't reliable enough to confirm a specific rye percentage. Cross-referencing the distillery's published or community-researched mash bill is the most accurate method. Apps like Pour Picks let you log these details directly to your bottle records."
+    a: "Experienced tasters can often detect the hallmark spice, black pepper, clove, dried herbs, sometimes mint, but tasting alone isn't reliable enough to confirm a specific rye percentage. Cross-referencing the distillery's published or community-researched mash bill is the most accurate method. Apps like Pour Picks let you view the mash bill and add written tasting notes as part of a review directly to your bottle records."
 published: true
 ---
 
@@ -72,7 +72,7 @@ Note: Many distilleries treat their exact mash bills as trade secrets. Figures a
 
 It usually isn't. U.S. law does not require distillers to print specific mash bill percentages on their labels. What you will see are terms like "high rye mash bill," "rye-forward," or sometimes just the distillery's proprietary name for the recipe. Four Roses is the rare exception, their single-barrel label codes identify both the mash bill (E or B) and the yeast strain, giving collectors unusually precise information.
 
-For every other brand, the most reliable paths are the distillery's own marketing materials and FAQ pages, whiskey research communities, and published journalist investigations into TTB formula filings. When you catalog bottles in Pour Picks, the notes field is a practical place to record the mash bill details you've researched so they travel with the bottle record, especially useful for store picks and limited releases where that context gets lost over time.
+For every other brand, the most reliable paths are the distillery's own marketing materials and FAQ pages, whiskey research communities, and published journalist investigations into TTB formula filings. When you catalog bottles in Pour Picks, the written tasting notes in a review are a practical place to record the mash bill details you've researched so they travel with the bottle record, especially useful for store picks and limited releases where that context gets lost over time.
 
 ## Why do collectors specifically seek out high-rye bottles?
 
@@ -90,4 +90,4 @@ A 35% rye bourbon like a Four Roses single barrel still has roughly twice as muc
 
 Storage requirements for high-rye bourbons are identical to any other bottle: upright, away from direct light, in a stable temperature environment. Roughly 55 to 70°F is ideal. The elevated rye content does not meaningfully change oxidation rates or cork vulnerability compared to a standard-rye or wheated expression.
 
-Where high-rye bottles deserve special attention in your catalog is in the metadata you record. Because mash bill information drives so much of the tasting and valuation conversation, logging the specific rye percentage, or the recipe code for Four Roses, alongside the batch number, barrel number, and purchase price gives you the reference layer that makes your notes useful over time. If you're using Pour Picks to manage your cellar, the tasting journal and bottle details fields are built for this kind of layered annotation, so when you open a bottle two years after buying it, the full context is right there.
+Where high-rye bottles deserve special attention in your catalog is in the metadata you record. Because mash bill information drives so much of the tasting and valuation conversation, logging the specific rye percentage, or the recipe code for Four Roses, alongside the purchase price gives you the reference layer that makes your notes useful over time. If you're using Pour Picks to manage your cellar, the written tasting notes and bottle details are built for this kind of layered annotation, so when you open a bottle two years after buying it, the full context is right there.

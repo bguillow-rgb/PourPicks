@@ -28,7 +28,7 @@ faqs:
   - q: "What bourbon styles should anchor a reference collection?"
     a: "Most collectors build around four or five style pillars: a wheated bourbon, a high-rye bourbon, a bottled-in-bond, a barrel-proof expression, and a standard 90-100 proof daily drinker. From there you can add distillery-specific or age-statement benchmarks."
   - q: "How do I track which bottles in my library I've opened vs. sealed?"
-    a: "A dedicated bourbon collection app like Pour Picks lets you log open vs. sealed status, track fill levels, and attach tasting notes to individual bottles, so your library records stay as organized as the bottles themselves."
+    a: "A dedicated bourbon collection app like Pour Picks lets you log open vs. sealed status and write tasting notes as part of a review for individual bottles, so your library records stay as organized as the bottles themselves."
 published: true
 ---
 
@@ -93,7 +93,7 @@ Documentation is where most collectors under-invest. A library without records i
 - At least one tasting note, even rough, when first opened
 - A follow-up note 6-12 months later, once the bottle is half-gone
 
-That longitudinal record, how a bottle's profile reads to you over time as it oxidizes and as your palate grows, is irreplaceable data. Paper journals work. Spreadsheets work. Pour Picks was built for this: you can [catalog your collection](/bourbon-inventory-app), log open vs. sealed status, attach pour-by-pour tasting notes to individual bottles, and track fill levels.
+That longitudinal record, how a bottle's profile reads to you over time as it oxidizes and as your palate grows, is irreplaceable data. Paper journals work. Spreadsheets work. Pour Picks was built for this: you can [catalog your collection](/bourbon-inventory-app), log open vs. sealed status, attach written tasting notes to individual bottles, and enter what you paid so the cellar shows a total value.
 
 ## Does a bourbon library need to be expensive to be useful?
 

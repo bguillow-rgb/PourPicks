@@ -137,4 +137,4 @@ After that tasting, every bourbon you encounter slots into one of those three bu
 
 ---
 
-*Pour Picks tracks mash bills, proof, age, and pairings for thousands of bourbons in its catalog. [Download on the App Store](https://apps.apple.com/us/app/pour-picks/id6764040132) to see what's in the bottle before you pour it.*
+*Pour Picks shows the mash bill, flavor tags, and food pairings for bottles in its catalog. [Download on the App Store](https://apps.apple.com/us/app/pour-picks/id6764040132) to see what's in the bottle before you pour it.*

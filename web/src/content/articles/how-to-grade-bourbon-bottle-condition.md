@@ -66,7 +66,7 @@ Grade B+ describes noticeable imperfections in labels and tubes with possible ha
 
 Grade C is what collectors generally call a "drinker." These bottles no longer carry meaningful collectible value. The real value is in the contents, and label or wax damage is largely irrelevant since the bottle will be opened promptly.
 
-For collectors using Pour Picks to catalog their cellar, logging a condition grade alongside each bottle's photos and purchase date creates exactly the kind of provenance record that supports both insurance claims and resale conversations.
+For collectors using Pour Picks to catalog their cellar, entering what you paid for each bottle builds a running total value in the cellar, and written tasting notes in a review capture your impressions of each bottle.
 
 ## "How do I read fill level correctly, and what's actually normal?"
 

@@ -88,7 +88,7 @@ Most medal stickers don't answer this. A bottle on a shelf in October 2026 might
 
 Batch-to-batch variation is especially pronounced in small-batch and single-barrel expressions, the very products most likely to earn medals. Barrel selection, entry proof, aging warehouse location, and dump date all affect the final profile. A batch that earned Double Gold last year isn't guaranteed to taste like this year's batch.
 
-Look for the batch number or bottling date alongside the medal year. If the award year matches the current batch code, the medal is directly relevant. If there's a two-to-three year gap, treat it as a reference point for the brand's quality floor rather than a guarantee of what's in this specific bottle. Pour Picks lets you log batch codes and tasting notes for every pour, which makes it useful for tracking when a label you like starts tasting different from the version that earned its reputation.
+Look for the batch number or bottling date alongside the medal year. If the award year matches the current batch code, the medal is directly relevant. If there's a two-to-three year gap, treat it as a reference point for the brand's quality floor rather than a guarantee of what's in this specific bottle. Pour Picks lets you write tasting notes and an overall rating for every pour, which makes it useful for tracking when a label you like starts tasting different from the version that earned its reputation.
 
 ---
 

@@ -72,7 +72,7 @@ When a distillery announces a "2,500 proof gallon" release, you can back-calcula
 
 For example: 2,500 proof gallons of a 125-proof barrel-proof bourbon works out to 2,000 wine gallons. At roughly 1.75 liters per 750 mL case-equivalent, that's approximately 10,100 standard 750 mL bottles, a mid-size specialty release, not a unicorn. Run the same math on a 90-proof expression and 2,500 proof gallons becomes around 13,900 physical bottles. Same proof-gallon count, meaningfully different scarcity.
 
-This matters when you're deciding whether to buy multiples at secondary prices, or when a distillery describes a "limited" release without disclosing bottle count. If you track your collection in [Pour Picks](/bourbon-inventory-app), you can note batch proof and reference these conversions in the journal field to contextualize your cellar's composition, particularly useful when tracking barrel picks and store-select releases that often list dump proof on the label.
+This matters when you're deciding whether to buy multiples at secondary prices, or when a distillery describes a "limited" release without disclosing bottle count. If you track your collection in [Pour Picks](/bourbon-inventory-app), you can add written tasting notes and reference these conversions to contextualize your cellar's composition, particularly useful when tracking barrel picks and store-select releases that often list dump proof on the label.
 
 The annual production scale of U.S. bourbon is vast: Kentucky alone reported over 10 million barrels of aging bourbon in 2023, representing billions of proof gallons in inventory, which helps explain why collectors must distinguish between true limited production and marketing-driven "limited edition" language.
 
@@ -103,4 +103,4 @@ A single bourbon barrel, the standard 53-gallon new charred oak container, doesn
 
 Over years of aging, two forces reduce barrel volume: evaporation (the [angel's share](/articles/what-is-the-angels-share-bourbon)) and absorption into the oak staves (the [devil's cut](/articles/what-is-the-devils-cut-bourbon)). A barrel filled at 125 proof that exits the warehouse at, say, 110 proof after a decade may hold only 38-44 wine gallons instead of its original 53. Those 44 wine gallons at 110 proof equals 48.4 proof gallons, meaningfully less than what went in, and the starting point for calculating the final bottle count on your barrel-pick certificate.
 
-For collectors serious about logging this level of detail, the journal and batch-tracking features in [Pour Picks](/bourbon-inventory-app) are built exactly for this, storing dump proof, fill date, and barrel number alongside your tasting notes so the provenance travels with every pour.
+For collectors serious about logging this level of detail, [Pour Picks](/bourbon-inventory-app) lets you record written tasting notes alongside nose, palate and finish ratings for any bottle in your cellar, so your impressions stay tied to each bottle.

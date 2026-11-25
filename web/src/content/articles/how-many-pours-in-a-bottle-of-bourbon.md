@@ -56,7 +56,7 @@ A standard pour is 1.5 to 2 ounces for a neat serving, but that doesn't mean you
 
 If your tasting revolves around high-proof bourbons, you may go down to a half-ounce pour when there are several bottles to get through. Barrel-proof expressions, anything over 110 proof, reward smaller pours. A 3/4 oz to 1 oz pour of a 130-proof bottle gives you plenty to evaluate, and it stretches that precious single barrel across far more sessions.
 
-If you're running a structured home flight, one 750ml bottle yields enough 1 oz pours to cover a six-person flight four times over with a few ounces left to spare. That's a useful number when you're deciding whether to open a bottle for guests or hold it longer. Pour Picks lets you log each pour as you go, so you always know how far into a bottle you are without doing the math from memory.
+If you're running a structured home flight, one 750ml bottle yields enough 1 oz pours to cover a six-person flight four times over with a few ounces left to spare. That's a useful number when you're deciding whether to open a bottle for guests or hold it longer. Pour Picks lets you log reviews with a pour size for any bottle in your cellar, so you have a record of each session without doing the math from memory.
 
 ## How does bottle size change the equation?
 
@@ -96,7 +96,7 @@ Divide the bottle price by the number of pours you take:
 
 A premium allocated bourbon poured in thoughtful 1 oz tasting pours can be cheaper per experience than a mid-shelf bottle poured at 2+ oz. According to whiskey auction data tracked by secondary market indexes, many enthusiasts have shifted toward what they call "worth it" bottles: bourbons that balanced flavor, maturity, and value over hype, focusing on quality at a justifiable price rather than chasing scarcity alone.
 
-Tracking cost-per-pour is something you can do inside Pour Picks as you log each session. Over time, your tasting journal naturally shows which bottles delivered the most sessions and the most notes per dollar spent.
+You can enter what you paid for each bottle, and the cellar shows a total value from those prices. Over time, your tasting journal naturally shows which bottles delivered the most sessions and the most notes per dollar spent.
 
 ## What about sharing and trading sample bottles?
 

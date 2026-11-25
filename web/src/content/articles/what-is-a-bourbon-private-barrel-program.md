@@ -28,7 +28,7 @@ faqs:
   - q: "Do private barrel program bottles have more collector value than standard single barrels?"
     a: "Often yes, especially when the selector has a strong reputation or the barrel represents an unusual profile for that brand. Secondary auction data shows that well-regarded store picks from programs like Four Roses, Buffalo Trace, and Blanton's can trade at multiples of retail, sometimes significantly higher than the distillery's own standard single barrels."
   - q: "How do I track the private barrel picks in my collection and know what I paid versus what they're worth now?"
-    a: "A dedicated bourbon cellar app like Pour Picks lets you log each barrel-pick bottle individually, record the barrel number, selector, and purchase price, and track estimated current value, far more useful than a spreadsheet when you're managing a cellar with multiple private picks."
+    a: "A dedicated bourbon cellar app like Pour Picks lets you log each barrel-pick bottle individually, point your camera at the label so AI reads it into your cellar, and enter what you paid so the cellar shows a total value, far more useful than a spreadsheet when you're managing a cellar with multiple private picks."
 published: true
 ---
 
@@ -101,6 +101,6 @@ One tip for club organizers: clarify upfront whether members must commit before 
 
 Private barrel bottles carry more metadata than almost anything else in a collector's cellar. Barrel number, warehouse location, floor position, selector name, selection date, proof, mash bill recipe code, and purchase price are all worth recording. If you're managing a cellar with multiple picks from different programs and selectors, a spreadsheet gets unwieldy fast.
 
-A purpose-built tool like [Pour Picks](/bourbon-inventory-app) lets you log all of that per-bottle detail, attach photos of the custom label and barrel sticker, and track what your private picks are worth over time as secondary market prices shift. When you've got a Four Roses OBSV barrel-proof pick sitting next to a Blanton's private select and a Maker's Mark Private Select, knowing exactly what you own and what you paid matters more than it does with standard shelf bottles. See our guide to [how to value a bourbon collection](/articles/how-to-value-a-bourbon-collection) for more on building a defensible per-bottle estimate.
+A purpose-built tool like [Pour Picks](/bourbon-inventory-app) lets you log per-bottle detail, enter what you paid so the cellar shows a total value, and attach a photo to each bottle. When you've got a Four Roses OBSV barrel-proof pick sitting next to a Blanton's private select and a Maker's Mark Private Select, knowing exactly what you own and what you paid matters more than it does with standard shelf bottles. See our guide to [how to value a bourbon collection](/articles/how-to-value-a-bourbon-collection) for more on building a defensible per-bottle estimate.
 
 If you're specifically interested in the day-of experience at the distillery, our article on [how to do a bourbon barrel pick](/articles/how-to-do-a-bourbon-barrel-pick) covers tasting strategy, what to look for across candidate barrels, and how to negotiate proof and yield with the distillery team.

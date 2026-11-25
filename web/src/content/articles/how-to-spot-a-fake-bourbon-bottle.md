@@ -119,7 +119,7 @@ For Buffalo Trace family bottles specifically, check for laser-etched codes on t
 
 You can cross-reference the DSP (Distilled Spirits Plant) number printed on every label against the TTB's public COLA (Certificate of Label Approval) registry at ttb.gov. A mismatched or missing DSP number on a bottled-in-bond bottle is a red flag. This check takes about 90 seconds and costs nothing.
 
-If you're actively cataloging your collection, keep a photograph of each bottle's lot code in your records. The [Pour Picks bourbon inventory app](/bourbon-inventory-app) lets you attach photos directly to each bottle entry, so you always have a dated, timestamped reference on hand, useful both for insurance documentation and for comparing a bottle you're evaluating against one you already own.
+If you're actively cataloging your collection, keep a photograph of each bottle's lot code in your records. The [Pour Picks bourbon inventory app](/bourbon-inventory-app) lets you attach one photo to each bottle entry, so you always have a visual reference on hand, useful for comparing a bottle you're evaluating against one you already own.
 
 ---
 

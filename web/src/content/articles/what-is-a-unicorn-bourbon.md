@@ -28,7 +28,7 @@ faqs:
   - q: "Can a new bourbon become a unicorn?"
     a: "Yes. Bottles earn unicorn status over time through a mix of strong reviews, strict production limits, and growing word-of-mouth. Early Willett Family Estate and Blanton's are examples of bottles that gradually crossed from allocated into true unicorn territory."
   - q: "How do collectors track their unicorn bottles and collection value?"
-    a: "Serious collectors use dedicated apps to log bottles, note provenance and fill levels, and monitor secondary market values over time. Pour Picks lets you catalog your cellar, scan labels to identify bottles, and journal tasting notes, keeping your rarest bottles organized in one private reference."
+    a: "Serious collectors use dedicated apps to log bottles, note provenance and fill levels, and monitor secondary market values over time. Pour Picks lets you catalog your cellar, scan labels to identify bottles, and write tasting notes in a review, keeping your rarest bottles organized in one private reference."
 published: true
 ---
 
@@ -107,6 +107,6 @@ If auctions are on your radar, they've become the most reliable way to secure hi
 
 Once you have a rare bottle, whether you hunted it at retail, won a lottery, or bought it through an auction, documentation becomes as important as the bottle itself. Buyers will want proof of authenticity and proper storage, so the details need to live somewhere.
 
-That means logging fill level, bottle condition, purchase price, and storage location. Pour Picks was built exactly for this. You can scan a label to catalog the bottle, record where and when you acquired it, note the fill level over time if you open it, and track how comparable bottles move on the secondary market. When every detail lives in one place, you're not scrambling to remember what you paid or whether that Pappy 20 was a 2021 or 2022 release when someone asks.
+That means logging bottle condition and purchase price. Pour Picks was built exactly for this. You can scan a label to catalog the bottle, enter what you paid so your cellar shows a total value, and write tasting notes in a review when you open it. When every detail lives in one place, you're not scrambling to remember what you paid or whether that Pappy 20 was a 2021 or 2022 release when someone asks.
 
 Pair that habit with our guide to [grading bourbon bottle condition](/articles/how-to-grade-bourbon-bottle-condition) and you'll have the documentation a serious collector, or a future buyer, would actually want to see.

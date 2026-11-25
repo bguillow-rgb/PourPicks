@@ -86,7 +86,7 @@ The investment is real. Buffalo Trace started offering private barrel selections
 
 Closed-toe, comfortable shoes are non-negotiable. Distillery floors, barrel warehouses, and outdoor paths are uneven. Heels and sandals are not recommended. Dress in layers: Kentucky summer heat outside a rickhouse is intense, but step through those thick wooden doors and the temperature can drop 20 degrees. Fermentation rooms have a yeasty, fruity smell. Some people find it pleasant; others need a moment to adjust.
 
-Bring a small notebook or use your phone to capture pour impressions in real time. Flavors blur by stop three if you haven't written anything down. Pour Picks users can log tasting notes in the app at each stop, tagging the distillery and expression so the session becomes a permanent record in their [bourbon cellar tracker](/bourbon-inventory-app).
+Bring a small notebook or use your phone to capture pour impressions in real time. Flavors blur by stop three if you haven't written anything down. Pour Picks users can log tasting notes in the app at each stop, and each review includes separate nose, palate and finish ratings along with the overall score, so the session becomes a permanent record in their [bourbon cellar tracker](/bourbon-inventory-app).
 
 Eat a full meal before you start. Pace yourself.
 

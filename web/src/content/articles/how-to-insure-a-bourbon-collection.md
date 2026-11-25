@@ -117,7 +117,7 @@ A defensible inventory for insurance purposes includes:
 
 Experts also recommend [appraising collectibles every two to three years to ensure items are adequately covered](index="25-4"), since bourbon values move. A Pappy Van Winkle 23 Year that sold for one price three years ago may be worth more or less today depending on secondary market conditions.
 
-This is where a bourbon cellar app like Pour Picks earns its keep before a policy conversation ever happens. Every bottle catalogued, distillery, proof, bottling details, condition notes, and estimated value, gives you a camera-ready inventory you can export into a spreadsheet for an underwriter or reference when discussing replacement value with an adjuster. Keeping your collection current in the app means your insurance documentation stays current too.
+This is where a bourbon cellar app like Pour Picks earns its keep before a policy conversation ever happens. Every bottle catalogued, distillery, proof, and what you paid for it, gives you a camera-ready inventory you can reference when discussing replacement value with an adjuster. Keeping your collection current in the app means your insurance documentation stays current too.
 
 ## Are there risks that specialty insurance still won't cover?
 

@@ -82,7 +82,7 @@ Batch-to-batch proof variation is normal for barrel proof releases. Elijah Craig
 
 From a collecting standpoint, the distinction carries three practical implications.
 
-Value tracking. Bottle-to-bottle proof variation in barrel proof releases is real data. It helps you understand relative extraction and barrel aging conditions. When cataloging your cellar (Pour Picks lets you log the exact batch proof alongside your tasting notes), comparing proof points across batches of the same release is a legitimate way to track how a given distillery's warehouse conditions shift year to year.
+Value tracking. Bottle-to-bottle proof variation in barrel proof releases is real data. It helps you understand relative extraction and barrel aging conditions. When cataloging your cellar (Pour Picks lets you enter what you paid and write tasting notes in a review), comparing proof points across batches of the same release is a legitimate way to track how a given distillery's warehouse conditions shift year to year.
 
 Serving strategy. Barrel proof and cask strength whiskeys put control in your hands. Neat, with a splash of water, over a large cube, the higher proof gives you room to experiment. Full proof expressions work differently: because they've already been brought back to the entry number, you know the baseline you're working from, which is useful when comparing the same mash bill at entry proof versus aged-and-diluted expressions.
 

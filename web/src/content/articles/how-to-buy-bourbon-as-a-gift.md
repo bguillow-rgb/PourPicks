@@ -94,7 +94,7 @@ As a general gifting heuristic: collectors who favor Weller, Pappy, or Maker's M
 
 The best accessory gifts improve how they interact with their collection. A proper set of Glencairn glasses for blind tastings, a purpose-built tasting journal, or a quality bottle-condition reference guide all signal that you understand the hobby at a level deeper than "they drink bourbon." The type of glass used can shift the tasting experience noticeably, so even focused glassware can be a genuinely useful gift.
 
-For the collector who's actively cataloging their bottles digitally, a gifted subscription to a cellar-tracking app like Pour Picks is a practical choice that keeps paying off. It lets them scan bottles, track collection value, and journal every pour in one place, useful for someone who's serious enough to receive a thoughtful gift in the first place.
+For the collector who's actively cataloging their bottles digitally, a gifted subscription to a cellar-tracking app like Pour Picks is a practical choice that keeps paying off. It lets them scan bottles, enter what they paid so the cellar shows a total value, and write tasting notes for every pour in one place, useful for someone who's serious enough to receive a thoughtful gift in the first place.
 
 ## "How do I know if they already own the bottle I'm planning to buy?"
 

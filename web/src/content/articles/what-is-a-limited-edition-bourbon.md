@@ -81,7 +81,7 @@ Some do, some don't. The market in 2026 is more discerning than it was five year
 
 Bottles with verifiable single-barrel lineage and detailed provenance have shown stronger floor price stability over the past 18 months, even when larger labels dipped. Transparent production information, the kind printed right on the label or accompaniment card, is increasingly what separates bottles that hold value from ones that don't. Buyers are questioning inflated release prices and whether a bottle has genuine collector depth beyond a well-known name on the front.
 
-For collectors who want to track the current value of limited editions across multiple bottles, the [bourbon inventory app](/bourbon-inventory-app) Pour Picks lets you catalog each bottle, record what you paid, and watch how the collection's value shifts over time.
+For collectors who want to track the value of limited editions across multiple bottles, the [bourbon inventory app](/bourbon-inventory-app) Pour Picks lets you catalog each bottle, record what you paid, and see a total value for your cellar.
 
 ## How do I actually find legitimate limited edition releases?
 

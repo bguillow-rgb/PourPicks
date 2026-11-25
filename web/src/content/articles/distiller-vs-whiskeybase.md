@@ -29,7 +29,7 @@ faqs:
   - q: "Can I just use one app for everything?"
     a: "You can, but you will feel the seams. Distiller alone leaves you without deep catalog data on independents and without real cellar management; Whiskeybase alone gives you records but a clunky mobile experience and no curated reviews. Serious collectors commonly run two or three tools: one to research, one for catalog depth, and a dedicated cellar app to actually track what they own and pour."
   - q: "Where does a cellar app like Pour Picks fit alongside these two?"
-    a: "Distiller and Whiskeybase are both built around the catalog, the universe of bottles that exist. A cellar app is built around your shelf, the bottles you actually own. Pour Picks scans any label to add it, tracks purchase price and cellar value, logs every pour, and recommends what to drink tonight from what you own, which is the one job neither Distiller nor Whiskeybase is designed to do."
+    a: "Distiller and Whiskeybase are both built around the catalog, the universe of bottles that exist. A cellar app is built around your shelf, the bottles you actually own. Pour Picks scans any label to add it, lets you enter what you paid so the cellar shows a total value, lets you write reviews with tasting notes and ratings for every pour, and recommends what to open tonight from what you own, which is the one job neither Distiller nor Whiskeybase is designed to do."
 published: true
 ---
 

@@ -92,7 +92,7 @@ The 2026 tariff and oversupply environment points in one clear direction: buy fo
 
 A few things follow from that. This is a good moment to prioritize bottles with strong drinking merit over secondary-market hype. Some of the bourbons collectors search hardest for are no longer disappearing from shelves the second they arrive, so use that access to buy thoughtfully instead of reactively. The surplus is also visible for well-aged whiskey that takes longer to reach market, meaning some genuinely excellent, long-aged bourbon is more accessible now than it's been in years. Keep a close eye on the EU tariff situation as August 2026 approaches. If the suspension ends and full tariffs resume, export demand drops again, domestic supply stays elevated, and the buyer-favorable environment continues. If a deal is struck, the dynamic could tighten faster than expected.
 
-Pour Picks makes it easy to log purchase prices and track your collection's market value over time, useful context when you're deciding whether a bottle at secondary prices still makes sense relative to what you paid for similar bottles at retail.
+Pour Picks lets you enter what you paid for each bottle, and the cellar shows a total value from those prices, useful context when you're deciding whether a bottle at secondary prices still makes sense relative to what you paid for similar bottles at retail.
 
 ## Does any of this affect whether I should insure my collection differently?
 

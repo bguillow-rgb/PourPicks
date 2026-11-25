@@ -87,7 +87,7 @@ It matters more than the price tag suggests. Mid-range bourbon (four to eight ye
 
 Mash bill alignment matters too. Wheated bourbons, with their softer secondary grain, tend to stay in balance longer through extended aging than high-rye expressions, which can become astringent at 12-15 years if the barrel chemistry doesn't cooperate. Knowing which style you gravitate toward at everyday frequency tells you something real about where your palate lives, and helps you make smarter decisions when evaluating [single barrel vs. small batch options](/articles/single-barrel-vs-small-batch-bourbon) for cellar additions.
 
-Many collectors track their daily dram pours in a tasting journal because repetition generates useful data. A single tasting note from opening night tells you little. Notes across six weeks on the same bottle, as headspace grows and oxidation slowly changes the profile, tell you a great deal. The [Pour Picks](/bourbon-inventory-app) journal feature is useful here: logging the same bottle repeatedly across different sessions creates a time-stamped record of how a bourbon evolves over its life.
+Many collectors track their daily dram pours in a tasting journal because repetition generates useful data. A single tasting note from opening night tells you little. Notes across six weeks on the same bottle, as headspace grows and oxidation slowly changes the profile, tell you a great deal. The [Pour Picks](/bourbon-inventory-app) review feature is useful here: logging the same bottle repeatedly across different sessions creates a time-stamped record of how a bourbon evolves over its life.
 
 ## What if I want to upgrade my daily dram, how do I do that without overspending?
 

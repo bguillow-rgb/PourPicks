@@ -76,7 +76,7 @@ The DSP number is prefixed by state. A DSP beginning with "KY-" is a Kentucky fa
 
 You can cross-reference DSP numbers against the TTB's publicly searchable COLA (Certificate of Label Approval) registry online. A bonded label has to carry two plant numbers: the DSP where it was distilled, and the one where it was bottled. If they match, one house made that whiskey start to finish. If they don't, somebody bottled somebody else's work. Perfectly legal, and the label just told you. Even on non-bonded bottles, the DSP is a useful cross-reference tool.
 
-If you're logging bottles in an app like [Pour Picks](/bourbon-inventory-app), noting the DSP in your tasting notes is a low-effort habit that pays off when you're trying to trace why two differently branded bottles taste suspiciously similar.
+If you're logging bottles in an app like [Pour Picks](/bourbon-inventory-app), noting the DSP in your written tasting notes is a low-effort habit that pays off when you're trying to trace why two differently branded bottles taste suspiciously similar.
 
 ## What about "Kentucky Straight Bourbon Whiskey" -- does the state in the name lock in where it was distilled?
 

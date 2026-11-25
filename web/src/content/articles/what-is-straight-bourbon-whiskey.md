@@ -101,7 +101,7 @@ Every well-regarded Kentucky bourbon you've likely opened - Blanton's, Eagle Rar
 
 Where the designation earns its keep for collectors is in filtering out what isn't in the bottle. Knowing a bourbon is straight means you're not evaluating added caramel color, artificial flavoring, or neutral grain spirit blended in to bump sweetness or mouthfeel. You're tasting what came out of the barrel, diluted only to proof with water. That's a meaningful baseline for any serious tasting note, and the kind of provenance detail worth [logging in your tasting journal](/articles/how-to-write-bourbon-tasting-notes) alongside your sensory impressions.
 
-If you're building a catalogued collection and want a reliable way to track which bottles carry the straight designation versus non-straight expressions, [Pour Picks](/bourbon-inventory-app) lets you log label details, scan bottles, and reference production specs without maintaining a spreadsheet.
+If you're building a catalogued collection and want a reliable way to track which bottles carry the straight designation versus non-straight expressions, [Pour Picks](/bourbon-inventory-app) lets you scan labels with AI, log bottles to your cellar, and reference production specs like mash bills on each bottle's page without maintaining a spreadsheet.
 
 ## Can a straight bourbon be blended with other straight bourbons?
 

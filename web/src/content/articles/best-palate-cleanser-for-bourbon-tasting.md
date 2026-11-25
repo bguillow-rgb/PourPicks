@@ -101,7 +101,7 @@ A practical structure used by experienced collectors:
 2. Between flights (every 3-4 pours): a longer break of 5-10 minutes, more water, a small piece of plain bread, and ideally some fresh air or a change of room to give your olfactory system a broader reset.
 3. Cap your session intentionally. Most collectors find that palate fatigue becomes significant after 6-8 pours in a sitting, regardless of how diligently you cleanse. After that point, notes become compressed and distinguishing subtle mid-palate differences is harder. The productive answer is to stop, record what you have, and return to remaining samples another day.
 
-If you're using Pour Picks to journal each pour, this structure pairs naturally with the app's per-dram note entry. Log your impressions immediately after each sample before you cleanse and move on. That way your notes reflect the bourbon, not your compounding fatigue.
+If you're using Pour Picks to journal each pour, this structure pairs naturally with the app's per-bottle review entry. Log your impressions immediately after each sample before you cleanse and move on. That way your notes reflect the bourbon, not your compounding fatigue.
 
 ---
 

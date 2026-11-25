@@ -28,7 +28,7 @@ faqs:
   - q: "Can I store bourbon bottles on their side like wine?"
     a: "No. Unlike wine, bourbon should be stored upright. High-proof spirits can degrade cork from the inside when in contact for extended periods, and bourbon doesn't need the cork kept moist the way wine does. Always store bottles standing up."
   - q: "What's the best app for keeping track of a bourbon collection?"
-    a: "Pour Picks lets you catalog your cellar, scan bottles to identify them, track collection value, and log tasting notes, all in one private reference built specifically for bourbon and whiskey collectors. It turns your organizational system into a searchable, living record."
+    a: "Pour Picks lets you catalog your cellar, scan bottles to identify them, enter what you paid so the cellar shows a total value, and log tasting notes, all in one reference built specifically for bourbon and whiskey collectors."
 published: true
 ---
 
@@ -105,7 +105,7 @@ This is covered in depth in our guide to [tracking a bourbon collection](https:/
 
 A physical notebook captures notes well but can't tell you, at a glance, how many open bottles you have, which expressions you own multiples of, or what your collection is worth today. A spreadsheet solves the data problem but becomes a chore to maintain once you start adding photos, tasting notes, and secondary market values.
 
-A dedicated app like Pour Picks makes your organizational system queryable. You can filter by distillery, sort by proof, flag bottles as "hold" vs. "open soon," and log a pour the moment you crack a bottle. The catalog becomes a living record rather than a static list you update whenever you remember.
+A dedicated app like Pour Picks makes your organizational system more structured. You can scan a label with your camera and let AI read it, fix anything it got wrong, and add the bottle to your cellar. You can mark a bottle opened the moment you crack it and leave written tasting notes in a review. The catalog becomes a living record rather than a static list you update whenever you remember.
 
 What matters most is that your tracking system matches your organizational system. If your shelf is sorted by distillery, your digital catalog should be too. Otherwise you're maintaining two different mental models at once, which defeats the purpose.
 
@@ -126,4 +126,4 @@ Common sub-collection strategies include:
 
 Give sub-collections physical separation from the broader collection. A dedicated shelf, a specific section of your cabinet, or even a separate display. Visual separation keeps a sub-collection from getting absorbed into the general inventory, and it signals to anyone looking that these bottles belong together.
 
-When using Pour Picks, you can tag or group bottles to mirror this exactly, so your digital catalog preserves the logic your shelf displays.
+When using Pour Picks, your digital catalog has three shelves, Owned, Wishlist, and Finished, so your cellar preserves a clear structure for what you have, want, and have worked through.

@@ -87,7 +87,7 @@ Dickel expressions like the Barrel Select and the 17-Year Old tend to show a not
 
 From a [collection value](/articles/how-to-value-a-bourbon-collection) standpoint, premium Tennessee whiskey releases -- particularly Jack Daniel's Single Barrel Special Select and limited Dickel expressions -- have developed their own secondary-market following. According to whiskey auction data, select Dickel single-barrel bottlings from independent retailers have traded above retail in recent years, a trend that was rare a decade ago.
 
-If you're using an app like [Pour Picks](/bourbon-inventory-app) to catalog what you own, Tennessee whiskeys log naturally alongside bourbon -- same fields for distillery, proof, age, mash bill, and personal tasting notes -- making it easy to track these bottles as part of a broader American whiskey cellar.
+If you're using an app like [Pour Picks](/bourbon-inventory-app) to catalog what you own, Tennessee whiskeys log naturally alongside bourbon -- same fields for distillery, proof, age, mash bill, and written tasting notes -- making it easy to track these bottles as part of a broader American whiskey cellar.
 
 ## Does the Lincoln County Process affect how I should store or open these bottles?
 

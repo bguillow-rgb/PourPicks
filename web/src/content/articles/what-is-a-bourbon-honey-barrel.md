@@ -28,7 +28,7 @@ faqs:
   - q: "Can you buy a honey barrel at retail?"
     a: "Occasionally yes, some store picks are selected precisely because the tasting panel deemed the barrel exceptional enough to qualify. Some retailers even market their picks as honey barrels. However, because the term is unregulated, it's worth reading reviews or tasting notes before paying a premium for a bottle labeled this way."
   - q: "How do I track honey barrel picks in my collection?"
-    a: "The best approach is to log the barrel number, bottling date, and your tasting notes at the time of purchase. Apps like Pour Picks let you journal each pour and tag individual bottles, so you can build a personal record of which single-barrel picks performed like honey barrels, and which ones didn't live up to the hype."
+    a: "Apps like Pour Picks let you write tasting notes as part of a review for each bottle in your cellar, so you can build a personal record of which single-barrel picks performed like honey barrels, and which ones didn't live up to the hype."
 published: true
 ---
 
@@ -123,4 +123,4 @@ Cornerstone bottles like Pappy Van Winkle, William Larue Weller, and George T. S
 
 Look for three things. First, sourced tasting context: did the retailer or distillery publish notes explaining how many barrels were tasted and what made this one stand out? Reputable barrel-pick programs document their process. Second, barrel identification: a genuine single-barrel honey barrel should have a barrel number, warehouse location, and often a rick number on the label or accompanying materials. Third, community corroboration: whiskey communities are honest. Check auction results, collector forums, and review aggregators before paying a premium. A real honey barrel generates organic praise.
 
-If you're building a cellar around high-quality single-barrel picks, having a systematic way to document which bottles delivered and which disappointed is worth the effort. That's exactly the kind of [bourbon collection tracking](/bourbon-inventory-app) that separates a thoughtful cellar from a closet full of bottles. Pour Picks lets you journal every pour, tag individual single-barrel bottles with their barrel number, and build a personal record of which picks performed over time, useful when you're deciding whether to crack a bottle or hold it.
+If you're building a cellar around high-quality single-barrel picks, having a systematic way to document which bottles delivered and which disappointed is worth the effort. That's exactly the kind of [bourbon collection tracking](/bourbon-inventory-app) that separates a thoughtful cellar from a closet full of bottles. Pour Picks lets you write tasting notes and ratings for every pour, covering nose, palate and finish, and build a personal record of which picks performed, useful when you're deciding whether to crack a bottle or hold it.

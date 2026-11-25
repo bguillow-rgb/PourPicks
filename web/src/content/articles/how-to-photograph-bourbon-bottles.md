@@ -42,7 +42,7 @@ You know what you have right now. Three years from now, when you're pulling a bo
 
 Collectors should capture images from all angles, because there may be pertinent information on the rear label. For serious collectors, the seal is often the most significant detail, along with the fill level.
 
-Documentation photography and aesthetic photography are two different goals. This guide focuses on the first: clear, accurate, repeatable shots that serve your collection over the long haul. Apps like Pour Picks let you attach photos directly to each bottle entry in your cellar catalog, so every image is searchable and tied to your tasting notes and valuations, not buried in your camera roll.
+Documentation photography and aesthetic photography are two different goals. This guide focuses on the first: clear, accurate, repeatable shots that serve your collection over the long haul. Apps like Pour Picks let you attach a photo directly to each bottle entry in your cellar catalog, so every image stays tied to that bottle record and your written tasting notes, not buried in your camera roll.
 
 ---
 
@@ -131,4 +131,4 @@ Shoot in natural daylight whenever possible. Color accuracy under incandescent o
 
 Consistent file naming is the difference between a searchable archive and a folder of 400 images called IMG_3847 through IMG_4246. A simple convention that works: `[Distillery]-[Expression]-[Year-Bottled]-[Angle].jpg`. For example: `BuffaloTrace-EHTaylor-SmallBatch-BiB-2023-front.jpg`.
 
-If you're cataloging inside Pour Picks, photos attach directly to each bottle entry alongside your tasting notes, purchase price, and estimated current value, so the naming convention matters less since the app handles the metadata. For bottles stored in a general photo archive or a cloud folder as a backup, disciplined naming pays off quickly. Pair your photos with the [valuation data](/articles/how-to-value-a-bourbon-collection) you track so the record is complete: what you have, what it looks like, and what it's worth.
+If you're cataloging inside Pour Picks, a photo attaches directly to each bottle entry alongside your written tasting notes and purchase price, so the naming convention matters less since the app handles the metadata. For bottles stored in a general photo archive or a cloud folder as a backup, disciplined naming pays off quickly. Pair your photos with the [valuation data](/articles/how-to-value-a-bourbon-collection) you track so the record is complete: what you have, what it looks like, and what it's worth.

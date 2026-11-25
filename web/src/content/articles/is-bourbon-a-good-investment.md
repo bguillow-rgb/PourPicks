@@ -26,7 +26,7 @@ faqs:
   - q: "Is it legal to resell bourbon?"
     a: "Reselling sealed bottles of spirits is regulated at the state level and is illegal in most U.S. states without a liquor license. The secondary market operates in a legal gray area. Always check your local laws before buying or selling."
   - q: "How do I know what my bourbon collection is worth?"
-    a: "Track recent completed sales on bourbon auction platforms and secondary market tools, not asking prices. Apps like Pour Picks help you catalog your cellar and monitor collection value against real market data in one place."
+    a: "Track recent completed sales on bourbon auction platforms and secondary market tools, not asking prices. Apps like Pour Picks help you catalog your cellar and enter what you paid for each bottle so the cellar shows a total value in one place."
   - q: "Should I buy bourbon to drink or to hold?"
     a: "Buy bottles you'd be happy to open. If a bottle appreciates, great, but banking on appreciation from mid-tier allocated releases has proven unreliable since 2022. The best collections are built around taste preference, provenance, and quality, not hype."
 published: true
@@ -75,7 +75,7 @@ Whiskey auction data points to a few consistent characteristics that separate bo
 
 The collectors doing this well are building portfolios with intention: targeting rare bottles, tracking auction performance, and knowing when to buy, hold, or consign. That last part, the tracking, is where most people fall short. What you paid at retail has little to do with what the secondary market will actually bear.
 
-If you're cataloging a cellar you want to monitor over time, Pour Picks lets you log every bottle, scan labels, and track estimated collection value using current market data, so you're not guessing when it counts.
+If you're cataloging a cellar you want to monitor over time, Pour Picks lets you log every bottle, scan labels, and track collection value based on the prices you paid, so you're not guessing when it counts.
 
 ---
 
@@ -107,4 +107,4 @@ One legal note worth repeating: the bourbon secondary market operates in a gray 
 
 Scarcity means a bottle is hard to find at retail. Value means there is genuine, sustained secondary demand that outlasts the initial release hype. These overlap, but not always. Flipping allocated bourbon stopped being a reliable money-maker once fewer new collectors entered the market, supply caught up with pandemic-era demand, and buyers realized that paying $500 for a bottle the distillery sold for $80 is an expensive way to drink.
 
-The collectors who came through the 2022-2025 correction best were those who built cellars around flavor and provenance, buying bottles they'd be happy to open. Investment upside was a welcome bonus, not the premise. That's still the most durable approach in 2026: understand [what you're buying at a label level](https://pourpicks.app/articles/how-to-read-a-bourbon-label), track your collection's actual market value rather than guessing, and let quality, not allocation status, guide your acquisitions.
+The collectors who came through the 2022-2025 correction best were those who built cellars around flavor and provenance, buying bottles they'd be happy to open. Investment upside was a welcome bonus, not the premise. That's still the most durable approach in 2026: understand [what you're buying at a label level](https://pourpicks.app/articles/how-to-read-a-bourbon-label), track your collection by entering what you paid so your cellar shows a total, and let quality, not allocation status, guide your acquisitions.

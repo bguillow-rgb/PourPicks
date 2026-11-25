@@ -76,7 +76,7 @@ A wheated bourbon's gentle sweetness works well in a balanced Old Fashioned or W
 
 Drinkers working through wheated bottles often report aromas of vanilla cream, light caramel, biscuit, pie crust, and soft fruit. The palate impression is usually round and plush, with less bite at the same proof compared to a rye-driven bourbon. That plushness is also why many people first discover bourbon through a wheated label.
 
-Pour Picks lets you tag bottles by mash bill style in your cellar journal, which makes it easy to look back and see which side of this line your highest-rated pours consistently fall on. Often that's more revealing than any single review.
+Pour Picks shows the mash bill on each bottle's page, which makes it easy to look back and see which side of this line your highest-rated pours consistently fall on. Often that's more revealing than any single review.
 
 ## Does mash bill style actually drive secondary market prices?
 

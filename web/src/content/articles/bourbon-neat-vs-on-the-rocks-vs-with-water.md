@@ -96,7 +96,7 @@ For [single-barrel picks, store picks](/articles/what-is-a-bourbon-store-pick), 
 
 For [vertical tastings](/articles/what-is-a-bourbon-vertical-tasting) across multiple vintages of the same bottle, keep every pour in the same condition: always neat, always Glencairn, always the same pour size. The whole point of a vertical is isolating what changed year to year. Introducing different temperatures or dilution levels across samples invalidates the comparison.
 
-If you're using [Pour Picks](/bourbon-inventory-app) to log tasting notes against each bottle in your cellar, note your serving condition in the journal field. "Neat / no water" vs. "2 drops / ~15 min open" can explain flavor differences between sessions on the same bottle, especially after oxidation starts to work on an opened pour.
+If you're using [Pour Picks](/bourbon-inventory-app) to log tasting notes against each bottle in your cellar, note your serving condition using the how-you-took-it field in your review. "Neat / no water" vs. "2 drops / ~15 min open" can explain flavor differences between sessions on the same bottle, especially after oxidation starts to work on an opened pour.
 
 ## Does the "right" serving method change as a bottle gets older or more opened?
 

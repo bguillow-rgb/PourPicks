@@ -91,7 +91,7 @@ According to whiskey auction data, bottles from annual limited releases such as 
 
 When your cellar crosses roughly 30-40 bottles, a simple three-tier rotation starts to feel limiting. A fourth vault tier becomes useful: a designated section of sealed bottles that are cataloged but not yet in active rotation. Bottles move into the vault based on rarity or occasion, and they move out when a specific reason arises to elevate one to shelf-piece status.
 
-This is where a dedicated app pays real dividends. Pour Picks lets you log every bottle in your [bourbon inventory](/bourbon-inventory-app), open or sealed, tag it by tier, and add notes so you always know what's in active rotation and what's waiting in the vault. Your whole rotation lives in one place, and you can see at a glance which tier has a vacancy.
+This is where a dedicated app pays real dividends. Pour Picks lets you log every bottle in your [bourbon inventory](/bourbon-inventory-app), across shelves for bottles you own, bottles on your wishlist, and bottles you have finished, and write tasting notes in a review so you always know what's in active rotation and what's waiting in the vault. Your whole rotation lives in one place, and you can see at a glance which shelf has a vacancy.
 
 ## What's the biggest mistake collectors make with their rotation?
 

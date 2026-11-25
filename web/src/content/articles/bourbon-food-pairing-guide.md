@@ -124,7 +124,7 @@ A workable structure:
 
 Bourbon is one of the more versatile food-pairing spirits precisely because its shared flavor compounds create natural affinity across an unusually broad range of food categories. That versatility is a feature, not an accident. Plan the sequence rather than leaving it to chance.
 
-If you use Pour Picks to journal your pours, the tasting notes field is a natural place to log what you ate alongside a bottle. Over time, patterns emerge: you'll notice which bottles in your cellar consistently reward a fat-rich pairing, and which ones shine best with something light and sweet. That kind of personal data is more useful than any generic pairing chart.
+If you use Pour Picks to log your pours, the written notes in a review are a natural place to record what you ate alongside a bottle. Over time, patterns emerge: you'll notice which bottles in your cellar consistently reward a fat-rich pairing, and which ones shine best with something light and sweet. That kind of personal data is more useful than any generic pairing chart.
 
 ---
 

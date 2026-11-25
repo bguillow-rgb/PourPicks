@@ -72,7 +72,7 @@ A standard rye percentage in a mash bill lands somewhere between 10-15%. High ry
 
 The bottles with the most documented high-rye recipes include Bulleit at 68% corn and 28% rye, one of the highest rye percentages among widely distributed bottles, and Four Roses' B mash bill at 60% corn and 35% rye, used in their Single Barrel releases and one of the highest rye counts in Kentucky. The Jim Beam high-rye mash bill (63% corn, 27% rye, 10% malted barley) is the recipe behind Old Grand-Dad and Basil Hayden's.
 
-For collectors building a reference cellar, keeping at least one clear high-rye example and one wheated example side by side makes for an educational pour. If you're tracking your bottles and tasting notes digitally, [Pour Picks' bourbon cellar app](/bourbon-inventory-app) lets you tag bottles by mash bill style so you can filter your collection by flavor profile, useful when you're deciding what to open for guests with different palates.
+For collectors building a reference cellar, keeping at least one clear high-rye example and one wheated example side by side makes for an educational pour. If you're tracking your bottles and tasting notes digitally, [Pour Picks' bourbon cellar app](/bourbon-inventory-app) lets you see each bottle's mash bill on its bottle page and write tasting notes in your reviews, useful when you're deciding what to open for guests with different palates.
 
 ## "Does proof change how the mash bill expresses itself? Can I go high-rye at low proof?"
 
@@ -104,7 +104,7 @@ Once you identify a mash bill you enjoy at retail, it's worth looking for other 
 
 Wheated bourbons tend to be more forgiving of slow consumption. The softer grain character means the flavor doesn't shift as dramatically during oxidation as a high-rye profile might. High-rye bourbons can change more quickly in an open bottle: the volatile spice compounds that make them bright and assertive are also the first to fade. Many collectors report that a high-rye bourbon tastes noticeably different after sitting at 30-40% full for six months or more, slightly flatter, with the pepper notes receding and a woody quality coming forward.
 
-The practical rule: drink your high-rye bottles with more frequency once opened, and save wheated expressions for slower consumption. If you use [Pour Picks to journal your pours](/bourbon-inventory-app), noting the bottle's fill level alongside each tasting note gives you a record of how the whiskey changed, which is useful for understanding your own palate over time.
+The practical rule: drink your high-rye bottles with more frequency once opened, and save wheated expressions for slower consumption. If you use [Pour Picks to journal your pours](/bourbon-inventory-app), writing tasting notes with each review gives you a record of how the whiskey changed, which is useful for understanding your own palate over time.
 
 ## "How do I use mash bill knowledge to build a more intentional collection?"
 

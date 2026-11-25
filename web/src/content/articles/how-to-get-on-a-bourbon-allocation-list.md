@@ -88,7 +88,7 @@ The secondary market has cooled compared to peak years, but the legitimate ways 
 
 One underrated allocation tactic is clarity about what you want. Collectors who can tell a store manager exactly which expressions fit their cellar, rather than "anything allocated," come across as knowledgeable buyers, not speculators. That distinction matters to retailers who care about where their bottles end up.
 
-Keeping a well-organized cellar log makes this easier. When you can say "I'm focused on wheated bourbons and single-barrel picks in the 100-115 proof range," a good retailer will remember that and call you when the right bottle arrives rather than routing it to the general queue. Tools like [Pour Picks](/bourbon-inventory-app) let you catalog what you already own and track what you're looking for, so you can have that specific, informed conversation at the store counter with confidence.
+Keeping a well-organized cellar log makes this easier. When you can say "I'm focused on wheated bourbons and single-barrel picks in the 100-115 proof range," a good retailer will remember that and call you when the right bottle arrives rather than routing it to the general queue. Tools like [Pour Picks](/bourbon-inventory-app) let you catalog what you own and keep a wishlist, so you can have that specific, informed conversation at the store counter with confidence.
 
 ## Allocation list strategy at a glance
 

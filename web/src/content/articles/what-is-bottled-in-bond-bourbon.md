@@ -85,7 +85,7 @@ More than most people realize. A distilling season is a six-month window, either
 
 "Bonded whiskey is a mark of provenance and transparency," says Colin Spoelman, co-founder and head distiller of Kings County Distillery. "Because of that, bottled-in-bond is a unique expression of location. It's very terroir-oriented. It has a sense of place."
 
-For collectors building a vertical, say, multiple years of Old Fitzgerald BiB, the seasonal provenance is part of what makes each release distinct. When you log those bottles in a cellar app like [Pour Picks](https://pourpicks.app), noting the distilling season alongside the age statement helps you build a genuinely useful tasting record, not just a list of names and prices.
+For collectors building a vertical, say, multiple years of Old Fitzgerald BiB, the seasonal provenance is part of what makes each release distinct. When you log those bottles in a cellar app like [Pour Picks](https://pourpicks.app), adding written tasting notes alongside the age statement helps you build a genuinely useful tasting record, not just a list of names and prices.
 
 ---
 
@@ -136,7 +136,7 @@ Everyday BiB bottles like Evan Williams stay near retail because they are widely
 
 Often, yes, though the BiB designation is a production guarantee, not a flavor guarantee. The most consistent sensory signal is proof. Every BiB bourbon is bottled at exactly 100 proof, so you get a fuller mouthfeel and more pronounced finish than you would from an 80-proof expression of the same whiskey. That strength creates a richer flavor and a firmer presence in the glass, and gives the whiskey enough structure to hold up in cocktails without losing character.
 
-Beyond proof, the single-season requirement means the grain character and fermentation profile are tightly consistent within a given release. Side-by-side comparisons of BiB vintages from the same distillery are one of the most instructive tastings a collector can do. When you journal each pour, noting the season, age, and batch alongside your nose, palate, and finish observations, patterns emerge that are hard to spot any other way. [Pour Picks](https://pourpicks.app) lets you do exactly that: log tasting notes per bottle, tag the distillery and proof, and build a private record that grows more useful every pour.
+Beyond proof, the single-season requirement means the grain character and fermentation profile are tightly consistent within a given release. Side-by-side comparisons of BiB vintages from the same distillery are one of the most instructive tastings a collector can do. When you journal each pour, noting the season, age, and batch alongside your nose, palate, and finish observations, patterns emerge that are hard to spot any other way. [Pour Picks](https://pourpicks.app) lets you do exactly that: write tasting notes per bottle with separate nose, palate, and finish ratings, and build a private record that grows more useful every pour.
 
 ---
 

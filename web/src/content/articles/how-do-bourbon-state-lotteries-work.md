@@ -110,7 +110,7 @@ Entry windows are short, sometimes 48 hours, and stores rarely announce them far
 - Join text/SMS clubs. Many stores send winner notifications and entry-window alerts via text, and these lists tend to get information before Instagram posts go up.
 - Watch release calendars. Community sites and bourbon-focused newsletters publish expected release windows based on historical distillery patterns. Our guide to [how annual bourbon releases work](/articles/how-annual-bourbon-releases-work) covers the broader release calendar logic, which feeds directly into knowing when to expect lottery announcements.
 - Set up state portal alerts. If you're in a control state, enable email notifications through your state liquor authority's website for new product listings.
-- Log what you enter. A tool like [Pour Picks](/bourbon-inventory-app) lets you journal which lotteries you've entered alongside your cellar, so you don't forget a pending win or accidentally over-commit your budget across simultaneous drawings.
+- Log what you enter. A tool like [Pour Picks](/bourbon-inventory-app) lets you add bottles to your wishlist and enter what you paid so your cellar shows a running total, so you don't forget a pending win or accidentally over-commit your budget across simultaneous drawings.
 
 ## What should I do after I win?
 

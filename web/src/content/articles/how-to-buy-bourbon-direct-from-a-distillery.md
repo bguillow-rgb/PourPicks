@@ -92,7 +92,7 @@ Finding them requires research and some relationship-building. Most distilleries
 
 Distillery-exclusive bottles are among the trickiest to value because secondary market data is thinner than for widely distributed releases. Auction platforms like Bourbon Auctioneer, Skinner, and WhiskeyAuctioneer are your best reference points: search for the specific expression, filter by condition and fill level, and note the sale date.
 
-The same bourbon bottles can vary by 20-35% in price across different retailers, and distillery-only expressions never had a standard retail price to anchor against, so secondary sale comps matter even more. When you [catalog your cellar in Pour Picks](/bourbon-inventory-app), noting the purchase location (gift shop name, date, and any per-bottle documentation) gives you provenance detail that matters for insurance and eventual resale. For a full framework on collection valuation, see our guide on [how to value a bourbon collection](/articles/how-to-value-a-bourbon-collection).
+When you [catalog your cellar in Pour Picks](/bourbon-inventory-app), entering what you paid for each bottle lets the cellar show a total value across your collection, and you can add written tasting notes and a photo to each bottle for reference. For a full framework on collection valuation, see our guide on [how to value a bourbon collection](/articles/how-to-value-a-bourbon-collection).
 
 ## What's the smartest buying strategy when visiting a distillery?
 
