@@ -78,7 +78,7 @@ You can cross-reference DSP numbers against the TTB's publicly searchable COLA (
 
 If you're logging bottles in an app like [Pour Picks](/bourbon-inventory-app), noting the DSP in your written tasting notes is a low-effort habit that pays off when you're trying to trace why two differently branded bottles taste suspiciously similar.
 
-## What about "Kentucky Straight Bourbon Whiskey" -- does the state in the name lock in where it was distilled?
+## What about "Kentucky Straight Bourbon Whiskey", does the state in the name lock in where it was distilled?
 
 *Readers frequently ask:* does labeling a bourbon "Kentucky Straight" guarantee it was distilled in Kentucky?
 

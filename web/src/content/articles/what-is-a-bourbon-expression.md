@@ -36,7 +36,7 @@ published: true
 
 Expressions are variations of a particular bourbon or whiskey recipe, or they may come from completely different mash bills. Knowing what actually separates one expression from another is the foundation of building a collection with intention, rather than just buying whatever has an interesting label.
 
-## "What exactly does 'expression' mean -- is it just a fancy word for 'product'?"
+## "What exactly does 'expression' mean, is it just a fancy word for 'product'?"
 
 *A question we hear often:* roughly, yes, but with nuance a collector can use. An expression is a named variation within a brand's lineup. That variation can be driven by a single variable or several layered together: proof, age, barrel selection, rickhouse position, finishing in a secondary cask, or a completely different mash bill. A given distiller might have multiple expressions under one brand.
 

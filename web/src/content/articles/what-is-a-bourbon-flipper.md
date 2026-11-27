@@ -74,7 +74,7 @@ The line moves depending on who you ask, but the clearest marker is whether the 
 
 That cooldown has been partially good news for collectors. When hype-driven flipping slows, prices moderate and scarce bottles stand out from manufactured scarcity. The elaborate packaging and exclusive-sounding names that once spiked prices have tended to correct, often leaving collectors holding overpriced bottles. The secondary market has shifted toward actual auction results rather than social media hype, and toward bottles with real brand heritage, genuine rarity, and lasting enthusiast demand. The flipper economy peaked and it's contracting, but it hasn't disappeared.
 
-## "What's the difference between a flipper and a 'tater' -- people use both terms."
+## "What's the difference between a flipper and a 'tater', people use both terms."
 
 They overlap but aren't the same. A "tater" is a newer collector driven by hype and status anxiety, someone who overpays for Weller Special Reserve and displays Blanton's horse toppers on a shelf because the bottles look impressive, not because they plan to drink them. The tater wants the social currency that comes with owning a trophy bottle.
 

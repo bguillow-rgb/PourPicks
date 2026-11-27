@@ -34,7 +34,7 @@ published: true
 
 A bourbon dump date sounds self-explanatory until you try to explain it, and then there's more to it than two words suggest.
 
-## "Okay, but what actually IS a dump date -- like, what is being dumped?"
+## "Okay, but what actually IS a dump date, like, what is being dumped?"
 
 *A question we hear often:* the word "dump" sounds almost industrial, which is fitting. It describes a very physical act.
 
@@ -82,7 +82,7 @@ The rick number matters to some collectors because higher floors in a metal ware
 
 ---
 
-## Why do collectors hunt specific dump dates -- isn't any bottle just as good?
+## Why do collectors hunt specific dump dates, isn't any bottle just as good?
 
 *Readers frequently ask:* "Is this just sentimentality, or is there actually a flavor argument?"
 

@@ -36,13 +36,13 @@ Bottle size affects more than how long a bottle lasts. It touches pour counts, o
 
 ---
 
-## Why does everyone keep calling it a "fifth" -- what does that actually mean?
+## Why does everyone keep calling it a "fifth", what does that actually mean?
 
 *A question we hear often:* the word "fifth" gets tossed around constantly, but its origin almost never gets explained.
 
 A fifth refers to one-fifth of a US gallon, which works out to roughly 757 ml. For most of American spirits history, that was the standard retail size. When the US adopted metric standards for distilled spirits in 1980, the government rounded down to 750 ml, close enough that the slang never died. The TTB currently authorizes 25 standard fill sizes for distilled spirits, up to 3.75 L. The 750 ml bottle remains the dominant format because it balances pour count, shelf presence, and cost for both distilleries and retailers.
 
-For collectors, the practical upshot: when auction listings or secondary-market posts say "fifth," they mean 750 ml unless otherwise noted. Any deviation -- a 700 ml export bottle, a 1 L duty-free release -- is worth flagging in your records because it affects pour count estimates and, occasionally, resale comparisons.
+For collectors, the practical upshot: when auction listings or secondary-market posts say "fifth," they mean 750 ml unless otherwise noted. Any deviation, a 700 ml export bottle, a 1 L duty-free release, is worth flagging in your records because it affects pour count estimates and, occasionally, resale comparisons.
 
 ---
 
@@ -70,7 +70,7 @@ Premium and allocated releases most often start at 750 ml, but serious collector
 
 Yes, and the math is straightforward. Oxidation in an open bourbon bottle is driven by the ratio of liquid surface area to the volume of air in the headspace. A 375 ml bottle opened to the halfway point has proportionally more air per ounce of remaining spirit than a 750 ml bottle at the same fill level. Flavor degradation happens faster in smaller formats once they're significantly depleted.
 
-Larger bottles have less surface area relative to volume, so they hold up better to oxidation during slow in-bottle change over years and during active oxidation after opening. For collectors who buy 375 ml bottles to taste an expression before committing to a full bottle, the practical advice is: drink them within six to twelve months of opening, especially if the bottle is below the halfway mark. If you're logging tasting notes across multiple sessions -- something a [bourbon tasting journal](/articles/what-is-a-bourbon-tasting-journal) makes easier to organize -- note the fill level at each session so you can track whether the flavor is evolving or fading.
+Larger bottles have less surface area relative to volume, so they hold up better to oxidation during slow in-bottle change over years and during active oxidation after opening. For collectors who buy 375 ml bottles to taste an expression before committing to a full bottle, the practical advice is: drink them within six to twelve months of opening, especially if the bottle is below the halfway mark. If you're logging tasting notes across multiple sessions, something a [bourbon tasting journal](/articles/what-is-a-bourbon-tasting-journal) makes easier to organize, note the fill level at each session so you can track whether the flavor is evolving or fading.
 
 ---
 
@@ -78,13 +78,13 @@ Larger bottles have less surface area relative to volume, so they hold up better
 
 *Readers frequently ask:* half bottles feel like a compromise, but they've carved out a real niche in the collector world.
 
-The 375 ml format is useful in three scenarios. When a retailer or distillery releases a [store pick](/articles/what-is-a-bourbon-store-pick) in both 750 ml and 375 ml, the smaller bottle lets you try the specific barrel before deciding to hunt down a full-size version. For expressions that are hard to find and expensive at full size -- think allocated single barrels or [distillery exclusives](/articles/what-is-a-distillery-exclusive-bourbon) -- a 375 ml lowers the entry cost. And 375 ml bottles make strong gifts because they signal intention without demanding the recipient commit to a full bottle.
+The 375 ml format is useful in three scenarios. When a retailer or distillery releases a [store pick](/articles/what-is-a-bourbon-store-pick) in both 750 ml and 375 ml, the smaller bottle lets you try the specific barrel before deciding to hunt down a full-size version. For expressions that are hard to find and expensive at full size, think allocated single barrels or [distillery exclusives](/articles/what-is-a-distillery-exclusive-bourbon), a 375 ml lowers the entry cost. And 375 ml bottles make strong gifts because they signal intention without demanding the recipient commit to a full bottle.
 
 On the secondary market, 375 ml versions of highly allocated releases (Pappy 20 Year, William Larue Weller) do trade, though liquidity is thinner than for 750 ml. Expect discounts of roughly 30-45% relative to the per-ounce secondary price of the equivalent 750 ml, not a clean 50%, because scarcity of the small format sometimes offsets the smaller volume.
 
 ---
 
-## What about miniatures -- are 50 ml bottles serious collecting, or just novelty?
+## What about miniatures, are 50 ml bottles serious collecting, or just novelty?
 
 The miniature market sits at an intersection of accessibility and scarcity. Minis are convenient for tasting or travel, but sealed miniatures of allocated or discontinued releases carry genuine secondary value. A sealed 50 ml of Pappy Van Winkle 23 Year or a Buffalo Trace Antique Collection release in miniature format is a legitimate collectible.
 
@@ -94,11 +94,11 @@ The practical collecting consideration: miniatures have a small headspace-to-liq
 
 ## Do handles and liters ever appear in premium or limited releases?
 
-Occasionally, yes -- and when they do, it's worth paying attention.
+Occasionally, yes, and when they do, it's worth paying attention.
 
 The 1 L format has historically appeared in duty-free and export channels, and some heritage distilleries have used it for specific expressions. Collectors traveling internationally sometimes encounter expressions that aren't available in US retail 750 ml format, making the liter bottle the only way to bring home a particular release. These bottles can be harder to catalog accurately if your tracking tool defaults to 750 ml, so manually entering the volume matters.
 
-The 1.75 L handle almost never appears for premium or allocated releases -- it's an everyday-sipper format. For collection purposes, a handle of your [daily dram](/articles/what-is-a-daily-dram-bourbon) is a practical purchase, not a cellar anchor. Store it upright, cool, and dark, and treat it as a working bottle rather than a cataloged collectible.
+The 1.75 L handle almost never appears for premium or allocated releases, it's an everyday-sipper format. For collection purposes, a handle of your [daily dram](/articles/what-is-a-daily-dram-bourbon) is a practical purchase, not a cellar anchor. Store it upright, cool, and dark, and treat it as a working bottle rather than a cataloged collectible.
 
 Magnums (1.5 L) are the exception. Some distilleries release special editions or anniversary expressions in magnum format because the size signals occasion and commands shelf presence. These do appear on secondary markets and can carry meaningful premiums. According to whiskey auction data, magnum-format special editions of well-known expressions have sold at 1.5-2.5x the per-ounce price of their 750 ml equivalents, driven by format scarcity.
 
@@ -108,7 +108,7 @@ Magnums (1.5 L) are the exception. Some distilleries release special editions or
 
 *A question we hear often:* collectors who run a [bourbon inventory app](/bourbon-inventory-app) or even a spreadsheet sometimes default to treating every bottle as a 750 ml, which throws off pour-remaining calculations, collection value estimates, and insurance documentation.
 
-Record the actual volume in milliliters for every bottle. That single field cascades into accurate pour counts (critical if you're journaling sessions and want to know how much is left), precise replacement-cost calculations for insurance purposes, and correct size notation if you ever list a bottle for trade or sale. If you're using Pour Picks, you can enter what you paid for each bottle and the cellar shows a total value from those prices. For bottles where the label doesn't state the volume prominently -- some vintage and export bottles -- the volume is almost always embossed on the glass base, expressed in both ml and fl oz.
+Record the actual volume in milliliters for every bottle. That single field cascades into accurate pour counts (critical if you're journaling sessions and want to know how much is left), precise replacement-cost calculations for insurance purposes, and correct size notation if you ever list a bottle for trade or sale. If you're using Pour Picks, you can enter what you paid for each bottle and the cellar shows a total value from those prices. For bottles where the label doesn't state the volume prominently, some vintage and export bottles, the volume is almost always embossed on the glass base, expressed in both ml and fl oz.
 
 One more detail worth logging: some expressions are released in multiple sizes with slightly different batch or barrel selections. A 375 ml store pick and a 750 ml store pick from the same retailer on the same day may have come from different barrels. Treat them as separate catalog entries rather than the same bottle in different quantities.
 
@@ -118,6 +118,6 @@ One more detail worth logging: some expressions are released in multiple sizes w
 
 Size matters on the secondary market, but not always in the intuitive direction. Tracking data shows bourbon prices varying by 20-35% across retailers for the same bottles, and format variation adds another layer of complexity on top of that. The 750 ml dominates auction liquidity because it's the universal standard: buyers know exactly what they're getting, comparables are plentiful, and shipping calculations are straightforward.
 
-Smaller formats trade at a per-ounce premium when they're the *only* way to access a rare expression, and at a per-ounce discount when they're a smaller version of a widely available 750 ml. Larger formats (magnums, liters) trade thinly but can attract strong bids when the format itself is part of the story -- a distillery anniversary magnum or a duty-free-only liter of a sought-after single barrel, for example.
+Smaller formats trade at a per-ounce premium when they're the *only* way to access a rare expression, and at a per-ounce discount when they're a smaller version of a widely available 750 ml. Larger formats (magnums, liters) trade thinly but can attract strong bids when the format itself is part of the story, a distillery anniversary magnum or a duty-free-only liter of a sought-after single barrel, for example.
 
 If you're buying for the cellar and eventual enjoyment, buy the size that fits your pour habit and storage setup. If you're buying with one eye on future liquidity, the 750 ml is the most liquid format in every sense of the word.

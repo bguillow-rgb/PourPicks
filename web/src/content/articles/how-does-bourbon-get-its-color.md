@@ -82,7 +82,7 @@ Here's a practical reference for what you might expect across common bourbon cat
 | Finished bourbon (port/sherry) | Ranges from rose-tinged to deep burgundy | Secondary cask adds wine pigments |
 | Vintage dusty (pre-1980s) | Often darker than expected for stated age | Glass permeability, oxidation over decades |
 
-## What about finished bourbons -- can the secondary barrel change the color?
+## What about finished bourbons, can the secondary barrel change the color?
 
 *This one comes up a lot:* especially now that finished expressions are everywhere in the market.
 
@@ -100,4 +100,4 @@ Very old bourbon can become over-oaked and bitter if barrel chemistry does not h
 
 If you're tracking a collection and want to log color observations alongside pour notes, it's the kind of detail that reads as throwaway in a notebook but becomes useful over time, especially when you're comparing batch-to-batch variation in the same annual release. Pour Picks lets you write tasting notes alongside your cellar inventory in a review for each bottle.
 
-When assessing a new acquisition against your [existing collection's value](/articles/how-to-value-a-bourbon-collection), color is one of the fast visual signals worth capturing. It won't replace reading the label carefully -- see our guide on [how to read a bourbon label](/articles/how-to-read-a-bourbon-label) for the full picture -- but it's the first thing your eye lands on, and now you know what it's telling you.
+When assessing a new acquisition against your [existing collection's value](/articles/how-to-value-a-bourbon-collection), color is one of the fast visual signals worth capturing. It won't replace reading the label carefully, see our guide on [how to read a bourbon label](/articles/how-to-read-a-bourbon-label) for the full picture, but it's the first thing your eye lands on, and now you know what it's telling you.
